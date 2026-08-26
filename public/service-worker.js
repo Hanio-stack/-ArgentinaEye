@@ -1,9 +1,10 @@
-const CACHE="argentina-eye-v2";
+const CACHE="argentina-eye-v3";
 const DATA_KEY="data/latest.json";
 const CORE=["./","index.html","styles.css","app.js","manifest.webmanifest","icon.svg",DATA_KEY];
 
 self.addEventListener("install",event=>{
   event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)));
+  self.skipWaiting();
 });
 
 self.addEventListener("activate",event=>{
