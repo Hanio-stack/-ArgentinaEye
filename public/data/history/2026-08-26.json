@@ -1,7 +1,7 @@
 {
   "version": 2,
   "mode": "auto",
-  "generated_at": "2026-08-26T03:51:53.056045Z",
+  "generated_at": "2026-08-26T04:03:41.277404Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -19,33 +19,7 @@
       "confidence": 1.0
     }
   },
-  "today": [
-    {
-      "title": "Milei approval / 2027",
-      "detail": "Approval Tracker: Argentina's President Javier Milei - AS/COA",
-      "signal": "neutral"
-    },
-    {
-      "title": "Inflation",
-      "detail": "Official national monthly CPI variation.",
-      "signal": "neutral"
-    },
-    {
-      "title": "BCRA reserves",
-      "detail": "Official BCRA international reserves.",
-      "signal": "positive"
-    },
-    {
-      "title": "Primary fiscal balance",
-      "detail": "Argentina’s second test: can the Milei government deliver lasting growth? - Economics Observatory",
-      "signal": "positive"
-    },
-    {
-      "title": "Vaca Muerta oil",
-      "detail": "Continental Resources, Mercuria envision equal partnership JV to boost Vaca Muerta oil production - Oil & Gas Journal",
-      "signal": "positive"
-    }
-  ],
+  "today": [],
   "metrics": [
     {
       "id": "milei_approval",
