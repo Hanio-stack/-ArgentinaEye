@@ -14,30 +14,30 @@
   <main class="shell">
     <header class="hero">
       <div>
-        <p class="eyebrow">ARGENTINA INVESTMENT MONITOR</p>
+        <p class="eyebrow">アルゼンチン投資モニター</p>
         <h1>ArgentinaEye <span>🇦🇷</span></h1>
         <p id="generatedAt" class="muted">読み込み中…</p>
       </div>
-      <button id="refreshButton" class="refresh" type="button" aria-label="再読み込み">↻</button>
+      <button id="refreshButton" class="refresh" type="button" aria-label="最新情報を再読み込み">↻</button>
     </header>
     <section id="today" class="panel"></section>
     <section>
-      <div class="section-head"><h2>Thesis scores</h2><p>事業仮説の健康度。売買推奨ではありません。</p></div>
+      <div class="section-head"><h2>投資テーマ・スコア</h2><p>改革・事業環境の健康度。売買推奨ではありません。</p></div>
       <div id="scores" class="score-grid"></div>
     </section>
     <section>
-      <div class="section-head"><h2>Core signals</h2><p>7つの中核指標</p></div>
+      <div class="section-head"><h2>中核指標</h2><p>毎朝追う7つの重要指標</p></div>
       <div id="metrics" class="metric-grid"></div>
     </section>
     <section>
-      <div class="section-head"><h2>Big Money</h2><p>Thiel / Hamm / Chevron / Mercuria / Eni / XRG</p></div>
+      <div class="section-head"><h2>大口資本の動き</h2><p>Thiel / Hamm / Chevron / Mercuria / Eni / XRG</p></div>
       <div id="news" class="news-list"></div>
     </section>
-    <section><details class="panel source-panel"><summary>Source health</summary><div id="sourceHealth"></div></details></section>
-    <footer><p>一次情報優先・欠損は欠損のまま表示。ArgentinaEye v0.1</p></footer>
+    <section><details class="panel source-panel"><summary>データ取得状況</summary><div id="sourceHealth"></div></details></section>
+    <footer><p>一次情報優先・欠損は欠損のまま表示。ニュース見出しは原文を掲載。ArgentinaEye v0.1</p></footer>
   </main>
   <template id="scoreTemplate"><article class="score-card"><div class="score-card__top"><span class="score-card__name"></span><span class="badge"></span></div><div class="score-card__value"></div><div class="bar"><i></i></div><p class="score-card__meta muted"></p></article></template>
-  <template id="metricTemplate"><article class="metric-card"><div class="metric-card__head"><div><p class="metric-card__kicker"></p><h3 class="metric-card__label"></h3></div><span class="status-dot"></span></div><div class="metric-card__value"></div><p class="metric-card__change"></p><p class="metric-card__detail muted"></p><a class="metric-card__source" target="_blank" rel="noopener noreferrer">Source ↗</a></article></template>
+  <template id="metricTemplate"><article class="metric-card"><div class="metric-card__head"><div><p class="metric-card__kicker"></p><h3 class="metric-card__label"></h3></div><span class="status-dot"></span></div><div class="metric-card__value"></div><p class="metric-card__change"></p><p class="metric-card__detail muted"></p><a class="metric-card__source" target="_blank" rel="noopener noreferrer">出典 ↗</a></article></template>
   <script src="app.js" defer></script>
 </body>
 </html>
