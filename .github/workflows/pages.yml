@@ -4,6 +4,8 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    - cron: "45 21 * * *" # 06:45 JST, after the 06:15 data refresh
 
 permissions:
   contents: read
