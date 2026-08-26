@@ -10,45 +10,51 @@
 
 ## Phase 1 — MVP shell
 
-- [ ] Mobile-first static dashboard
-- [ ] PWA manifest / installability
-- [ ] Latest JSON loader
-- [ ] Score cards
-- [ ] Seven indicator cards
-- [ ] Big Money section
-- [ ] Source health section
+- [x] Mobile-first static dashboard
+- [x] PWA manifest / installability
+- [x] Latest JSON loader
+- [x] Score cards
+- [x] Seven indicator cards
+- [x] Big Money section
+- [x] Source health section
 
-Acceptance: opening `public/index.html` with the seeded data produces a useful iPhone-sized dashboard with no backend.
+Acceptance: `public/` is a useful iPhone-sized dashboard with no backend.
 
 ## Phase 2 — Automated official data
 
-- [ ] INDEC inflation adapter
-- [ ] BCRA reserves adapter
-- [ ] fiscal adapter
-- [ ] Vaca Muerta production adapter
-- [ ] RIGI adapter
-- [ ] CAMMESA demand adapter
-- [ ] polling/news monitor
-- [ ] capital-flow monitor
+- [x] INDEC inflation adapter
+- [x] BCRA reserves adapter
+- [ ] fiscal structured adapter
+- [ ] Vaca Muerta production structured adapter
+- [ ] RIGI structured adapter
+- [ ] CAMMESA demand structured adapter
+- [x] polling/policy news monitor
+- [x] capital-flow monitor
+
+Current limitation: fiscal, Vaca Muerta, RIGI and electricity cards still rely on seeded observations plus event/news monitoring until their structured official adapters are hardened.
 
 Acceptance: one failing source does not block the rest; each card exposes source/date/status.
 
 ## Phase 3 — Scheduled updates
 
-- [ ] GitHub Actions daily schedule
-- [ ] snapshot history
-- [ ] deduplicate news
-- [ ] commit only meaningful data changes
+- [x] GitHub Actions daily schedule
+- [x] snapshot history
+- [x] deduplicate news within each run
+- [ ] cross-run news identity / event ledger
+- [ ] commit only meaningful changes
 
-Target schedule: morning Japan time (GitHub Actions uses UTC).
+Target schedule: 06:15 JST (GitHub Actions cron may start later than the nominal time).
 
 ## Phase 4 — Quality
 
-- [ ] unit tests for parsing/scoring
-- [ ] schema validation
-- [ ] fixture-based parser tests
-- [ ] source health alerts in UI
-- [ ] documentation for manual run
+- [x] unit tests for scoring and BCRA parsing helpers
+- [x] offline generation smoke test
+- [x] generated JSON validation
+- [x] source health alerts in UI
+- [x] documentation for manual run
+- [ ] full data-contract schema validation
+- [ ] fixture-based tests for every external adapter
+- [ ] browser/UI smoke test
 
 ## Phase 5 — Optional upgrades
 
