@@ -4,10 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "15 21 * * *" # 06:15 JST
-  push:
-    branches: [main]
-    paths-ignore:
-      - "public/data/**"
 
 permissions:
   contents: write
@@ -21,6 +17,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -37,6 +35,5 @@ jobs:
             echo "No data changes"
           else
             git commit -m "data: refresh ArgentinaEye snapshot"
-            git pull --rebase origin main
-            git push
+            git push origin HEAD:main
           fi

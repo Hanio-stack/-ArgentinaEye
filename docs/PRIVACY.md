@@ -29,6 +29,10 @@ If ArgentinaEye later adds user-specific portfolio features, those values must b
 
 Public dashboard data and personal local data must remain separate by design.
 
+## Headline translation
+
+The optional Japanese-translation button may send only the already-public news headline text to an external machine-translation service. No portfolio data, account data, identifiers, private notes, or other user-specific information may be included in translation requests. Cached translations are stored only in the browser local storage and are not committed to GitHub.
+
 ## Data-collection rule
 
 Collectors must fetch public sources only. Missing data must remain missing/stale rather than being filled from private user context.
