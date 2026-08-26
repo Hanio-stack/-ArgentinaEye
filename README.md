@@ -25,16 +25,21 @@
 - Peter Thiel / Harold Hamm / Chevron / Mercuria / Eni / XRG 等の資本移動
 - VIST / CEPU の投資テーマへの影響
 
-## MVP
+## MVP v0.1
 
 - iPhone向け縦長1画面ダッシュボード
-- 毎朝自動更新
+- 毎朝06:15 JSTを目安にGitHub Actionsで自動更新
 - 指標カード + 前回差分 + 更新日 + ソース
 - Big Moneyニュース監視
 - Argentina / VIST / CEPU のルールベーススコア
 - データ取得失敗時のフォールバック
 - 履歴JSON蓄積
 - PWAとしてホーム画面追加可能
+- INDEC CPI / BCRA外貨準備の公式データ自動取得
+
+## Current limitations
+
+財政収支、Vaca Muerta生産量、RIGI、電力需要は、v0.1では初期観測値とニュース/イベント監視を併用しています。次のPhaseで各公式データを構造化して完全自動化します。ミレイ支持率も、安定した機械可読ソースを選定するまではニュース監視中心です。
 
 ## Architecture
 
@@ -46,7 +51,14 @@ DBも有料APIも不要です。
 - `docs/DATA_SOURCES.md`
 - `docs/SCORING.md`
 - `docs/ROADMAP.md`
+- `docs/RUNNING.md`
+
+## Local preview
+
+```bash
+python -m http.server 8080 -d public
+```
 
 ## Status
 
-Design complete → MVP implementation in progress.
+MVP v0.1 ready. Next: structured official adapters for fiscal / Vaca Muerta / RIGI / CAMMESA.
