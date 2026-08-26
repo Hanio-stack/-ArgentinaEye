@@ -20,6 +20,17 @@
       </div>
       <button id="refreshButton" class="refresh" type="button" aria-label="最新情報を再読み込み">↻</button>
     </header>
+
+    <details class="panel guide-panel">
+      <summary>この画面の見方</summary>
+      <div class="guide-body">
+        <p><strong>1. まず3つのスコア</strong><br>アルゼンチン / VIST / CEPU の投資仮説が今どれくらい健全かを見る。買い推奨スコアではありません。</p>
+        <p><strong>2. 次に7つの中核指標</strong><br>支持率、インフレ、外貨準備、財政、Vaca Muerta、RIGI、電力を確認。赤や悪化が増えた日だけ深掘り。</p>
+        <p><strong>3. 大口資本を見る</strong><br>Thiel / Hamm / Chevron / Mercuria / Eni / XRG の新しい動きがあれば読む。英語見出しは「日本語訳」で展開できます。</p>
+        <p class="muted small">日本語訳は機械翻訳です。翻訳時に外部サービスへ送るのは公開ニュースの見出しだけで、個人情報や保有情報は送信しません。</p>
+      </div>
+    </details>
+
     <section id="today" class="panel"></section>
     <section>
       <div class="section-head"><h2>投資テーマ・スコア</h2><p>改革・事業環境の健康度。売買推奨ではありません。</p></div>
@@ -34,7 +45,7 @@
       <div id="news" class="news-list"></div>
     </section>
     <section><details class="panel source-panel"><summary>データ取得状況</summary><div id="sourceHealth"></div></details></section>
-    <footer><p>一次情報優先・欠損は欠損のまま表示。ニュース見出しは原文を掲載。ArgentinaEye v0.1</p></footer>
+    <footer><p>一次情報優先・欠損は欠損のまま表示。ニュースは原文＋任意の機械翻訳。ArgentinaEye v0.2</p></footer>
   </main>
   <template id="scoreTemplate"><article class="score-card"><div class="score-card__top"><span class="score-card__name"></span><span class="badge"></span></div><div class="score-card__value"></div><div class="bar"><i></i></div><p class="score-card__meta muted"></p></article></template>
   <template id="metricTemplate"><article class="metric-card"><div class="metric-card__head"><div><p class="metric-card__kicker"></p><h3 class="metric-card__label"></h3></div><span class="status-dot"></span></div><div class="metric-card__value"></div><p class="metric-card__change"></p><p class="metric-card__detail muted"></p><a class="metric-card__source" target="_blank" rel="noopener noreferrer">出典 ↗</a></article></template>
