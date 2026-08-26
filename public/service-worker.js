@@ -1,4 +1,4 @@
-const CACHE="argentina-eye-v4";
+const CACHE="argentina-eye-v5";
 const DATA_KEY="data/latest.json";
 const CORE=["./","index.html","styles.css","app.js","manifest.webmanifest","icon.svg",DATA_KEY];
 
