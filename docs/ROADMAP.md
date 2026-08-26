@@ -18,22 +18,24 @@
 - [x] Big Money section
 - [x] Source health section
 
-Acceptance: `public/` is a useful iPhone-sized dashboard with no backend.
-
 ## Phase 2 — Automated official data
 
 - [x] INDEC inflation adapter
 - [x] BCRA reserves adapter
-- [ ] fiscal structured adapter
-- [ ] Vaca Muerta production structured adapter
-- [ ] RIGI structured adapter
-- [ ] CAMMESA demand structured adapter
+- [x] fiscal structured adapter
+- [x] Vaca Muerta production structured adapter
+- [x] RIGI official cumulative adapter
+- [x] CAMMESA demand/publication adapter with official fallback
 - [x] polling/policy news monitor
 - [x] capital-flow monitor
+- [x] live official-source smoke test on pull requests
 
-Current limitation: fiscal, Vaca Muerta, RIGI and electricity cards still rely on seeded observations plus event/news monitoring until their structured official adapters are hardened.
+Notes:
+- Milei approval is not an official government statistic and remains explicitly separated as polling/news data.
+- RIGI uses official cumulative snapshots and only advances when a newer official cumulative total can be parsed.
+- CAMMESA attempts the public demand API first. If the live MW endpoint is unavailable, it reports the latest official monthly publication period without inventing a number.
 
-Acceptance: one failing source does not block the rest; each card exposes source/date/status.
+Acceptance: one failing news source does not block the dashboard; official data cards expose source/date/status, and PRs verify the required official-source pipeline live.
 
 ## Phase 3 — Scheduled updates
 
@@ -45,16 +47,18 @@ Acceptance: one failing source does not block the rest; each card exposes source
 
 Target schedule: 06:15 JST (GitHub Actions cron may start later than the nominal time).
 
-## Phase 4 — Quality
+## Phase 4 — Web / Quality
 
-- [x] unit tests for scoring and BCRA parsing helpers
+- [x] unit tests for scoring and parsing helpers
+- [x] fixture tests for fiscal / Vaca Muerta / RIGI / CAMMESA JSON extraction
 - [x] offline generation smoke test
 - [x] generated JSON validation
 - [x] source health alerts in UI
 - [x] documentation for manual run
+- [x] GitHub Pages deployment workflow
+- [ ] confirm Pages is enabled for this private repository/account plan
+- [ ] browser/UI smoke test against the deployed URL
 - [ ] full data-contract schema validation
-- [ ] fixture-based tests for every external adapter
-- [ ] browser/UI smoke test
 
 ## Phase 5 — Optional upgrades
 

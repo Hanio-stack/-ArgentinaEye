@@ -25,26 +25,29 @@
 - Peter Thiel / Harold Hamm / Chevron / Mercuria / Eni / XRG 等の資本移動
 - VIST / CEPU の投資テーマへの影響
 
-## MVP v0.1
+## v0.2 — Phase 2 + Web
 
-- iPhone向け縦長1画面ダッシュボード
+- iPhone向け縦長1画面ダッシュボード / PWA
 - 毎朝06:15 JSTを目安にGitHub Actionsで自動更新
-- 指標カード + 前回差分 + 更新日 + ソース
-- Big Moneyニュース監視
 - Argentina / VIST / CEPU のルールベーススコア
-- データ取得失敗時のフォールバック
-- 履歴JSON蓄積
-- PWAとしてホーム画面追加可能
-- INDEC CPI / BCRA外貨準備の公式データ自動取得
+- Big Money / 政策ニュース監視
+- 履歴JSON・ソース健全性・部分障害フォールバック
+- **INDEC CPI** 公式データ自動取得
+- **BCRA外貨準備** 公式API自動取得
+- **財政収支** Ministerio de Economía 公式ページ自動取得
+- **Vaca Muerta原油生産** Secretaría de Energía 公式発表自動取得
+- **RIGI承認投資額** Ministerio de Economía 公式情報自動取得
+- **CAMMESA電力需要** 公開APIを優先し、取得できない場合は公式月次レポートへフォールバック
+- GitHub Pages向け自動デプロイワークフロー
+- PRごとの公式ソース・ライブスモークテスト
 
-## Current limitations
+## Data boundary
 
-財政収支、Vaca Muerta生産量、RIGI、電力需要は、v0.1では初期観測値とニュース/イベント監視を併用しています。次のPhaseで各公式データを構造化して完全自動化します。ミレイ支持率も、安定した機械可読ソースを選定するまではニュース監視中心です。
+ミレイ支持率は政府公式統計ではないため、公式経済データとは分離して世論調査・報道モニターとして扱います。RIGIは公式累計スナップショットを基準にし、新しい公式累計発表が見つかったときに更新します。CAMMESAのライブ需要APIが取得できない場合、数値を推測せず最新公式月次レポートの存在だけを表示します。
 
 ## Architecture
 
-MVPは **静的PWA + Pythonデータ収集 + GitHub Actions**。
-DBも有料APIも不要です。
+**静的PWA + Pythonデータ収集 + GitHub Actions**。DBも有料APIも不要です。
 
 詳細:
 - `docs/ARCHITECTURE.md`
@@ -61,4 +64,4 @@ python -m http.server 8080 -d public
 
 ## Status
 
-MVP v0.1 ready. Next: structured official adapters for fiscal / Vaca Muerta / RIGI / CAMMESA.
+v0.2: Phase 2 official-data automation + Web deployment pipeline.
