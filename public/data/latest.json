@@ -1,7 +1,7 @@
 {
   "version": 2,
   "mode": "auto",
-  "generated_at": "2026-08-29T03:10:20.526481Z",
+  "generated_at": "2026-08-29T23:18:46.624067Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -21,18 +21,13 @@
   },
   "today": [
     {
-      "title": "BCRA reserves",
-      "detail": "Official BCRA international reserves.",
-      "signal": "positive"
-    },
-    {
       "title": "Primary fiscal balance",
-      "detail": "Government relies on ‘chainsaw’ measures to maintain fiscal surplus - Buenos Aires Herald",
+      "detail": "Argentina’s second test: can the Milei government deliver lasting growth? - Economics Observatory",
       "signal": "positive"
     },
     {
       "title": "Vaca Muerta oil",
-      "detail": "Continental Resources Inks HOA With Mercuria Energy for Vaca Muerta Shale Joint Venture - JPT Homepage",
+      "detail": "Can ‘Argentina’s Texas’ Save the Country’s Economy? - The New York Times",
       "signal": "positive"
     },
     {
@@ -160,10 +155,10 @@
         "url": "https://www.argentina.gob.ar/economia/politicafiscal"
       },
       "latest_event": {
-        "title": "Government relies on ‘chainsaw’ measures to maintain fiscal surplus - Buenos Aires Herald",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMjVGcjZjbkM0NHBaTjI5MWEwdWxWV0dWeXNQaGFzaWI4Z0Y4cTBmRjVIcXhtRmYtUkFZTnpWaF9CcnJwdjlOeVhNd3ljdGMxaGlzSDBQbjNFTTFlejdJU00xd1NJMU5YX0tGLXJ0aDU2MkRyaUQ2Wm4wbUl2T2RHSmgwRzZJXzVWc2NrVklfR3g1UzRaWDktaE9ia04?oc=5",
-        "published": "2026-08-18",
-        "source": "Buenos Aires Herald",
+        "title": "Argentina’s second test: can the Milei government deliver lasting growth? - Economics Observatory",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU1lGdVktVnpFMmZocm54dVlLakpYRkdfRXFNczBnbjRfTFFsb19ZcDVXSVZxRHRSY0pIVGg4T0N3bzNOVnFsc1FnRk5yek8yc2RNRkFOQjRkc2Nha3JYQ3lUS0ctaWFTODQwN3dFelN4VkF5dzhHQ0FsM3BVNlpMWWI0c2dBcG5pc2ZudFVEMlh5SmFsWXgtTXV5X1lZbEdjMWVVa1g0c1lNX2M?oc=5",
+        "published": "2026-07-30",
+        "source": "Economics Observatory",
         "topic": "fiscal_balance",
         "entities": []
       }
@@ -186,15 +181,12 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "Continental Resources Inks HOA With Mercuria Energy for Vaca Muerta Shale Joint Venture - JPT Homepage",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX3FaUS1KZl8wNC0tNnVGeTFaWVI5V2x0VTdYb1dmSVU5Q2s2UFRpazhZS2ZWTjVCWFNiWDdfQV9ZOHlnaTVDUjhTNjVBeThDdWFIb3FLd1hMUkhwQjdTTE9zM1Z0dEtlUnpRSDdHV0poQ1hfelozVWtoY0RDcE1Xc3dVRnNIX1hYN2NZQWlEbWtUVXZqTEVPZEdHVkF4eXVrVHVLWUMtX1ZTSTg?oc=5",
-        "published": "2026-08-28",
-        "source": "JPT Homepage",
+        "title": "Can ‘Argentina’s Texas’ Save the Country’s Economy? - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmJnZHpaVTVQRnNjSTFrdEdoNGh1dU5VeENIQnRTdWxaWEY4bVRHOWwyaFU4UENCSGhtanZDY25yZzlCcTdrUHgyRWR0ZTdkZ3FrX3pfLUVNcVpUclR0Y0NmZndyRU1fWUZ4MmJqSmp2dC1ocFlQNU1PSHJYRk5LX2lwRWc4Y243Y0hYMg?oc=5",
+        "published": "2026-08-26",
+        "source": "The New York Times",
         "topic": "vaca_muerta_oil",
-        "entities": [
-          "Hamm",
-          "Mercuria"
-        ]
+        "entities": []
       }
     },
     {
@@ -309,16 +301,6 @@
       ]
     },
     {
-      "title": "Harold Hamm launches multibillion-dollar plan to drill Argentine shale - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3M3blVUenNmcURyRHhiaC1rN3M0a0c2TER1NzN0MkhqTENXX3F6Nmx3ZG1LeDd5dEFDX3hXeGhEcnRydlZpbDhkMU5ndzhwbVl1eWJKUHdEd3daUmhHVlRkb0tLeHViTXlqbjNfTWlqWG50MlYySVZURmwzVDBYcF9aSU0?oc=5",
-      "published": "2026-08-20",
-      "source": "Financial Times",
-      "topic": "big_money",
-      "entities": [
-        "Hamm"
-      ]
-    },
-    {
       "title": "Continental buys 50% stake in Argentina-focused shale producer - Upstream Online",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGNZanFQakpTR0dIZGhWMnVCTkVCeGxMNDJySGlCRHdsenYycUdBWTk3ZEdhX3FUckpDazA4YlEzUFFFRlpCNmgxWUxNaGxLM2tjTURuM1lWNDZCZU1EenhObEFBUkJENGhoQ294M18tdVRuRXhydG5US2gwdnV4N3BDVEhyamZMLVk1NWc5WTRTcTdrRXloMXdqVzVCTFdnMGk1ZWp1TmNRQjNCczRN?oc=5",
       "published": "2026-08-20",
@@ -327,13 +309,13 @@
       "entities": []
     },
     {
-      "title": "Tech Titan Peter Thiel Bets on Argentina’s Vaca Muerta Shale - Natural Gas Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0NmZGxwc2twN2UxcE1pdUpJMTZqYTV2WEJ1TDAxMjg0NXpna01HbzlTbU5xeFgxaFBEUHcybjBsTkxxS2YyR3pTLWFoR2hKWXYyY2NpRExaN294Z0Q1RW5NTDhZSDB5MVFvaUhlZVQ2Q0J5QzV6UWVPYUZRanl2UXNDWE5lSjA0Z0FOS28xZkEtNFJjcGZLdw?oc=5",
-      "published": "2026-08-18",
-      "source": "Natural Gas Intelligence",
-      "topic": "vaca_muerta_oil",
+      "title": "Harold Hamm launches multibillion-dollar plan to drill Argentine shale - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3M3blVUenNmcURyRHhiaC1rN3M0a0c2TER1NzN0MkhqTENXX3F6Nmx3ZG1LeDd5dEFDX3hXeGhEcnRydlZpbDhkMU5ndzhwbVl1eWJKUHdEd3daUmhHVlRkb0tLeHViTXlqbjNfTWlqWG50MlYySVZURmwzVDBYcF9aSU0?oc=5",
+      "published": "2026-08-20",
+      "source": "Financial Times",
+      "topic": "big_money",
       "entities": [
-        "Thiel"
+        "Hamm"
       ]
     }
   ],
