@@ -1,7 +1,7 @@
 {
   "version": 2,
   "mode": "auto",
-  "generated_at": "2026-09-01T00:37:49.861612Z",
+  "generated_at": "2026-09-01T23:17:52.750723Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -26,8 +26,13 @@
       "signal": "positive"
     },
     {
+      "title": "Vaca Muerta oil",
+      "detail": "Vaca Muerta oil production drives Argentina to new crude record - DatamarNews",
+      "signal": "positive"
+    },
+    {
       "title": "RIGI approved investment",
-      "detail": "Argentina LNG seeks RIGI approval for $51-billion investment - Oil & Gas Journal",
+      "detail": "Argentina LNG applies for RIGI approval - LNG Industry",
       "signal": "positive"
     },
     {
@@ -92,11 +97,11 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 50.86,
+      "value": 49.79,
       "unit": "USD bn",
-      "period": "2026-08-27",
-      "previous": 48.62,
-      "change": 4.62,
+      "period": "2026-08-28",
+      "previous": 48.53,
+      "change": 2.6,
       "change_unit": "% ~30d",
       "thesis_signal": "positive",
       "status": "fresh",
@@ -106,7 +111,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        48.53,
         48.79,
         48.81,
         48.92,
@@ -135,7 +139,8 @@
         50.78,
         50.91,
         50.78,
-        50.86
+        50.86,
+        49.79
       ]
     },
     {
@@ -181,15 +186,12 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "Continental Resources Inks HOA With Mercuria Energy for Vaca Muerta Shale Joint Venture - JPT Homepage",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX3FaUS1KZl8wNC0tNnVGeTFaWVI5V2x0VTdYb1dmSVU5Q2s2UFRpazhZS2ZWTjVCWFNiWDdfQV9ZOHlnaTVDUjhTNjVBeThDdWFIb3FLd1hMUkhwQjdTTE9zM1Z0dEtlUnpRSDdHV0poQ1hfelozVWtoY0RDcE1Xc3dVRnNIX1hYN2NZQWlEbWtUVXZqTEVPZEdHVkF4eXVrVHVLWUMtX1ZTSTg?oc=5",
-        "published": "2026-08-28",
-        "source": "JPT Homepage",
+        "title": "Vaca Muerta oil production drives Argentina to new crude record - DatamarNews",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeU1SaWNFdjNWMHI1cExNZTZZRGRtckhURkpVX0NUdk12ekpFNkwtRFVHV3VGVTI0UEFTcmIwbk1Xbi1fNmJpVVhmY3pmRDNORVBPbUtIVGJFZWx5YUkyUkUtTkRDX1lXSXRtTWFPNGVWNG5heWdCUWtGcnhKRF9wZ243QXg3UGpCOVJXbEdGZ0VUMnRaekhfSXlVMWU4dw?oc=5",
+        "published": "2026-09-01",
+        "source": "DatamarNews",
         "topic": "vaca_muerta_oil",
-        "entities": [
-          "Hamm",
-          "Mercuria"
-        ]
+        "entities": []
       }
     },
     {
@@ -210,10 +212,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "Argentina LNG seeks RIGI approval for $51-billion investment - Oil & Gas Journal",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa2wtYUZhZi1PUFg2OE5qT1NzWVlFZG5ZRndkMDlFZWlhZ3c5a2pES1BWUWVUdTQ1eGdPTVdZOXNxTTZvcUItaGppQXdlMDFfOEtLajlJTVp4eHBZS0N5MHZnN1BQOVV1ZFdDVVFDRUw0VkpmRTA2eE01NGNiTmJUVTI4VXNrZUk2Ykl1bTU3azVUY2hIV3VBSEdwNWdodGJycEhrQVhxYWtBZGR3RlRYVE9xWTRJa3N0NWNYS2w5WQ?oc=5",
-        "published": "2026-08-18",
-        "source": "Oil & Gas Journal",
+        "title": "Argentina LNG applies for RIGI approval - LNG Industry",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRWpiMEk3VGVyVzR3X2ZxRV9fXzhTRG0yWTZNeUJ6TzVzRm94NzJaUG1UWm1lekFhb1Vtb0p3TUE0WGZVdlNIZnEyTF9wd3Z4RUhrUHUzVzVfREQySllRX1N1R2lhblVLOWkxQ3NOX19vSUFmcHFTcEdvaHZGcGM0ZmpDMW9pMUxHc3V6NnhkS1pZR1A10gGaAUFVX3lxTE03TWdXd3UwZjlGb2wyNGJiNmtFcW92OW5VaXVQZ1daZkRPS0VzYXZscWhRSm1Ec1BycFp6aWJfMFJPdWUyRGpQUWlsN04wOW05OW5pOEp1SERZNHJQM1ZFVnhicnZSODNhMFVDNkx6NlZBUmZDa19RS2x4YzdEME1ERWVZSWxBWnNQVjc1WTQtWFo4S2E0WnREd1E?oc=5",
+        "published": "2026-08-14",
+        "source": "LNG Industry",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -257,10 +259,10 @@
       ]
     },
     {
-      "title": "Continental Resources Inks HOA With Mercuria Energy for Vaca Muerta Shale Joint Venture - JPT Homepage",
+      "title": "Continental Resources Inks HOA With Mercuria Energy for Vaca Muerta Shale Joint Venture - jpt.spe.org",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX3FaUS1KZl8wNC0tNnVGeTFaWVI5V2x0VTdYb1dmSVU5Q2s2UFRpazhZS2ZWTjVCWFNiWDdfQV9ZOHlnaTVDUjhTNjVBeThDdWFIb3FLd1hMUkhwQjdTTE9zM1Z0dEtlUnpRSDdHV0poQ1hfelozVWtoY0RDcE1Xc3dVRnNIX1hYN2NZQWlEbWtUVXZqTEVPZEdHVkF4eXVrVHVLWUMtX1ZTSTg?oc=5",
       "published": "2026-08-28",
-      "source": "JPT Homepage",
+      "source": "jpt.spe.org",
       "topic": "vaca_muerta_oil",
       "entities": [
         "Hamm",
@@ -286,14 +288,6 @@
       ]
     },
     {
-      "title": "U.S. Billionaires Are Piling Into Argentina’s Vaca Muerta Shale - finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUDZreFF5Nm5GNjNSV1puQ3VwY3pNWFlLNEQ1NFdZQlpTTVB4elVlY3k0ei1LZ1FSVnN6RTRGcEYwb2xKSHNzdFZGVjBFbzltbjlyUWdNeFFRZWt1NmMtT1p6ODZWMHQzVE9VR3RTZnAzMUYyeHYzTU5pYi10UjB1RkUxaTM1YjFFU1cwbjJNb1UwR3JWR0NVYw?oc=5",
-      "published": "2026-08-21",
-      "source": "finance.yahoo.com",
-      "topic": "big_money",
-      "entities": []
-    },
-    {
       "title": "Continental Resources, Mercuria envision equal partnership JV to boost Vaca Muerta oil production - Oil & Gas Journal",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZklST29qRmx1ekpyYUV3UFRtSHFKbWlZS2ZqbUljY1JpUkNzLURRS25MS0tTNV9rbDJmOVFPN0c4N1dmUWNOV0hUTU5qSVl5dmE0U2dhR2NDRTg4YW5yYVRWekZlLWxtbF9pXzB0RzFqdl8tMWdQYW52WFpNTjZwX2lDOGtyd1kxY2c0STZWc2NGbWxydndycjlFaDdSd1pzbzdkTnI3RjNneTF1ejI4R2lnTE9YUVB4eUJUYm1zYzM0M0dQSkp0QnBJNzJPUlJ6OExVNmE0ZUlTS052ZS1tMg?oc=5",
       "published": "2026-08-20",
@@ -302,6 +296,16 @@
       "entities": [
         "Hamm",
         "Mercuria"
+      ]
+    },
+    {
+      "title": "Harold Hamm launches multibillion-dollar plan to drill Argentine shale - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3M3blVUenNmcURyRHhiaC1rN3M0a0c2TER1NzN0MkhqTENXX3F6Nmx3ZG1LeDd5dEFDX3hXeGhEcnRydlZpbDhkMU5ndzhwbVl1eWJKUHdEd3daUmhHVlRkb0tLeHViTXlqbjNfTWlqWG50MlYySVZURmwzVDBYcF9aSU0?oc=5",
+      "published": "2026-08-20",
+      "source": "Financial Times",
+      "topic": "big_money",
+      "entities": [
+        "Hamm"
       ]
     },
     {
