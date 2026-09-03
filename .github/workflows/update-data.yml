@@ -9,8 +9,10 @@ on:
     paths:
       - "scripts/**"
       - "public/app.js"
+      - "public/compare.js"
       - "public/index.html"
       - "public/styles.css"
+      - "public/valuation.css"
       - ".github/workflows/update-data.yml"
 
 permissions:
@@ -36,6 +38,7 @@ jobs:
         run: |
           python scripts/update.py
           python scripts/augment_stocks.py
+          python scripts/update_valuation.py
       - name: Commit changed snapshots
         run: |
           git config user.name "ArgentinaEye Bot"

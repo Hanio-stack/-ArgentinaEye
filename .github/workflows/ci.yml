@@ -13,12 +13,18 @@ jobs:
         with:
           python-version: "3.12"
       - name: JavaScript syntax check
-        run: node --check public/app.js
+        run: |
+          node --check public/app.js
+          node --check public/compare.js
       - name: Python tests
         run: python -m unittest discover -s tests -v
       - name: Offline generation smoke test
         run: |
           python scripts/update.py --offline
           python scripts/augment_stocks.py --offline
+      - name: Valuation collector smoke test
+        run: python scripts/update_valuation.py
       - name: Validate generated JSON
-        run: python -m json.tool public/data/latest.json > /dev/null
+        run: |
+          python -m json.tool public/data/latest.json > /dev/null
+          python -m json.tool public/data/valuation.json > /dev/null

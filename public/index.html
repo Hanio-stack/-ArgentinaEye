@@ -9,6 +9,7 @@
   <title>ArgentinaEye</title>
   <link rel="manifest" href="manifest.webmanifest" />
   <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="valuation.css" />
 </head>
 <body>
   <main class="shell">
@@ -23,18 +24,17 @@
 
     <section class="panel intro-panel">
       <strong>このサイトについて</strong>
-      <p class="muted" style="margin-bottom:0;line-height:1.65">ミレイ政権の改革、Vaca Muerta、RIGI、電力市場、海外資本と企業ニュースを追い、VIST / PAM / CEPU / TGS を題材に<strong>企業分析を勉強する</strong>ためのダッシュボードです。売買を急ぐためではなく、「なぜ上がる・下がるのか」を自分で説明できるようになることを目的にしています。</p>
+      <p class="muted" style="margin-bottom:0;line-height:1.65">ミレイ政権の改革、Vaca Muerta、RIGI、電力市場、海外資本と企業ニュースを追い、VIST / PAM / CEPU / TGS を題材に<strong>企業分析を勉強する</strong>ためのダッシュボードです。「良い会社か」と「今の値段で買いやすいか」を分けて考えます。</p>
     </section>
 
     <details class="panel guide-panel" open>
       <summary>この画面の見方（初心者向け）</summary>
       <div class="guide-body">
-        <p><strong>1. まずスコアを見る</strong><br>アルゼンチン全体と4銘柄の「事業テーマが順調か」を0〜100で表示します。<strong>株価が安い・買い時という意味ではありません。</strong></p>
-        <p><strong>2. 4社の役割を覚える</strong><br>VIST＝掘る、PAM＝総合エネルギー、CEPU＝電気を作る、TGS＝ガスを運ぶ。下のカードで追い風と逆風を確認します。</p>
-        <p><strong>3. 中核指標を見る</strong><br>支持率、インフレ、外貨準備、財政、Vaca Muerta、RIGI、電力を確認。「会社のニュース」と「国全体の変化」をつなげます。</p>
-        <p><strong>4. 次に株価の値段を見る</strong><br>良い会社でも高すぎれば買いにくいので、PER / EV・EBITDA / FCF / 借金を別に考えます。下の「企業分析を学ぶ」で練習できます。</p>
-        <p><strong>5. 最後に買う・買わないを考える</strong><br>Bear / Base / Bull の3シナリオを作り、失敗した時の下落と成功した時の上昇を比べます。</p>
-        <p class="muted small">日本語訳は機械翻訳です。翻訳時に外部サービスへ送るのは公開ニュースの見出しだけで、個人情報や保有情報は送信しません。</p>
+        <p><strong>1. 事業テーマを見る</strong><br>アルゼンチン全体と4銘柄の「事業環境が順調か」を0〜100で確認。<strong>高得点＝買い時ではありません。</strong></p>
+        <p><strong>2. 会社の役割を見る</strong><br>VIST＝掘る、PAM＝総合エネルギー、CEPU＝電気を作る、TGS＝ガスを運ぶ。</p>
+        <p><strong>3. まず4社比較、次に詳細</strong><br>比較表で違いをつかみ、気になった銘柄だけ詳細カードでPER・FCF・借金を確認します。</p>
+        <p><strong>4. Bear / Base / Bullを見る</strong><br>弱気・標準・強気の前提を並べ、どの条件なら損益がどう変わるかを練習します。</p>
+        <p><strong>5. 国の変化とニュースへ戻る</strong><br>インフレ、外貨準備、財政、Vaca Muerta、RIGI、電力、企業ニュースを見て、シナリオの前提が崩れていないか確認します。</p>
       </div>
     </details>
 
@@ -43,12 +43,28 @@
     <section>
       <div class="section-head"><h2>投資テーマ・スコア</h2><p>事業環境の健康度。株価の割安・割高は含みません。</p></div>
       <div id="scores" class="score-grid"></div>
-      <p class="hint">目安：80以上＝かなり追い風 / 65〜79＝良好 / 50〜64＝中立 / 35〜49＝弱い / 34以下＝警戒。高得点でも「株価が高すぎる」可能性はあります。</p>
+      <p class="hint">80以上＝かなり追い風 / 65〜79＝良好 / 50〜64＝中立 / 35〜49＝弱い / 34以下＝警戒。高得点でも株価が高すぎることはあります。</p>
     </section>
 
     <section>
-      <div class="section-head"><h2>4社の違い</h2><p>まず「何で儲かる会社か」をざっくり把握</p></div>
+      <div class="section-head"><h2>4社の違い</h2><p>まず「何で儲かる会社か」を把握</p></div>
       <div id="stockWatch" class="stock-watch-grid"></div>
+    </section>
+
+    <section>
+      <div class="section-head"><h2>4社を一気に比較</h2><p>まず差だけ見る。詳しくは次のカードへ</p></div>
+      <div id="compareTable" class="compare-panel panel"><p class="muted small">比較データ読み込み中…</p></div>
+    </section>
+
+    <section class="valuation-section">
+      <div class="section-head"><h2>今の値段を読む</h2><p>テーマの強さとは別に、株価の値札を確認</p></div>
+      <p id="valuationGeneratedAt" class="hint">値段データ読み込み中…</p>
+      <div class="panel valuation-intro">
+        <strong>上から順番に読むだけでOK</strong>
+        <p><b>株価</b> → <b>PER</b>（利益の何倍）→ <b>EV/EBITDA</b>（本業の稼ぐ力の何倍）→ <b>P/FCF</b>（実際に残る現金の何倍）→ <b>Debt/EBITDA</b>（借金の重さ）→ 3シナリオ、の順です。</p>
+        <p class="muted small">倍率は低いほど自動的に「割安」ではありません。アルゼンチン政治、規制、原油価格、成長率などのリスクが低い倍率の理由になっている場合があります。</p>
+      </div>
+      <div id="valuationGrid" class="valuation-grid"></div>
     </section>
 
     <section>
@@ -68,22 +84,22 @@
         </article>
       </div>
       <div class="panel beginner-note">
-        <strong>初心者メモ：NISAなら何でも少額で買えるわけではない</strong>
-        <p>この4社は<strong>つみたて投資枠ではなく「成長投資枠」</strong>で買います。米国株は基本1株単位です。たとえば1株が1万円を超えている銘柄は、月1万円の予算ではその月に買えないことがあります。SBIの「金額指定積立」も端株を買う仕組みではなく、設定額以内で買える整数株を発注する方式です。</p>
+        <strong>初心者メモ：NISAでも米国株は基本1株単位</strong>
+        <p>この4社は<strong>つみたて投資枠ではなく成長投資枠</strong>で買います。1株が月1万円の予算を超える場合は、その月は買わず資金を貯める選択も普通です。SBIの金額指定積立も端株を買う仕組みではありません。</p>
       </div>
     </section>
 
     <section>
-      <div class="section-head"><h2>企業分析を学ぶ</h2><p>「良い会社」と「良い値段」を分けて考える</p></div>
+      <div class="section-head"><h2>企業分析を学ぶ</h2><p>上の数字が何を意味するか復習</p></div>
       <div class="learn-grid">
-        <article class="learn-card"><span class="learn-step">STEP 1</span><h3>本業は強い？</h3><strong>EBITDA</strong><p>利息・税金・減価償却などを引く前の、本業の稼ぐ力を見る目安。「この事業自体はどれくらい稼げる？」を見る。</p></article>
-        <article class="learn-card"><span class="learn-step">STEP 2</span><h3>値札は高い？</h3><strong>PER / EV・EBITDA</strong><p>利益やEBITDAに対して、市場が何倍の値段を付けているか。同じ成長率なら、倍率が高いほど期待を先に織り込んでいる可能性があります。</p></article>
-        <article class="learn-card"><span class="learn-step">STEP 3</span><h3>現金は残る？</h3><strong>FCF</strong><p>事業を動かし、必要な設備投資もした後に会社へ残る自由なお金。利益が出ていてもFCFが弱い会社は、大きな投資負担を抱えていることがあります。</p></article>
-        <article class="learn-card"><span class="learn-step">STEP 4</span><h3>借金は重い？</h3><strong>純有利子負債</strong><p>ざっくり「借金 − 現金」。会社全体の価値が大きくても、借金が多いほど株主に残る価値は小さくなります。</p></article>
-        <article class="learn-card"><span class="learn-step">STEP 5</span><h3>未来を3つ作る</h3><strong>Bear / Base / Bull</strong><p>弱気・標準・強気の3シナリオ。「当たる予言」を作るのではなく、どの前提が崩れると損するかを見える化します。</p></article>
-        <article class="learn-card"><span class="learn-step">STEP 6</span><h3>最後に株価へ</h3><strong>企業価値 → 株主価値</strong><p>例：EBITDA × 評価倍率 ＝ 企業価値。そこから純負債を引き、株数で割ると1株の価値をざっくり考えられます。</p></article>
+        <article class="learn-card"><span class="learn-step">STEP 1</span><h3>本業は強い？</h3><strong>EBITDA</strong><p>利息・税金・減価償却などを引く前の、本業の稼ぐ力を見る目安。</p></article>
+        <article class="learn-card"><span class="learn-step">STEP 2</span><h3>値札は高い？</h3><strong>PER / EV・EBITDA</strong><p>利益やEBITDAに対して、市場が何倍の値段を付けているか。</p></article>
+        <article class="learn-card"><span class="learn-step">STEP 3</span><h3>現金は残る？</h3><strong>FCF</strong><p>事業と必要な設備投資の後に残る自由なお金。利益とFCFが大きく違う会社もあります。</p></article>
+        <article class="learn-card"><span class="learn-step">STEP 4</span><h3>借金は重い？</h3><strong>純有利子負債 / Debt・EBITDA</strong><p>借金が本業の稼ぐ力に対してどれくらい重いかを確認します。</p></article>
+        <article class="learn-card"><span class="learn-step">STEP 5</span><h3>未来を3つ作る</h3><strong>Bear / Base / Bull</strong><p>予言ではなく、どの前提が崩れると損するのかを見える化する方法。</p></article>
+        <article class="learn-card"><span class="learn-step">STEP 6</span><h3>株価へ変換</h3><strong>企業価値 → 株主価値</strong><p>EBITDA × 評価倍率から企業価値を作り、純負債を引いて1株価値へ変換します。</p></article>
       </div>
-      <div class="formula-box"><strong>超ざっくり式</strong><code>EBITDA × EV/EBITDA倍率 − 純負債 → 株主価値 → 株数で割る → 1株価値</code><p>ArgentinaEyeの次の段階では、この「バリュエーション（値段の評価）」を事業テーマ・スコアと分離して表示していきます。</p></div>
+      <div class="formula-box"><strong>この画面のシナリオで使っている式</strong><code>EBITDA × EV/EBITDA倍率 − 純負債 → 株主価値 → ADR相当株数で割る → 1株価値</code><p>数値を当てることより、「何を変えると株価が変わるのか」を理解するための模型です。</p></div>
     </section>
 
     <section>
@@ -92,8 +108,8 @@
         <li><strong>この会社は何で儲けている？</strong><span>VISTなら原油、TGSなら輸送など、一文で言えるか。</span></li>
         <li><strong>何が起きれば利益が伸びる？</strong><span>生産量、油価、電力料金、輸送量など、主なドライバーを言えるか。</span></li>
         <li><strong>何が起きたら仮説が壊れる？</strong><span>政権交代、原油安、借金増、規制復活などを具体化できるか。</span></li>
-        <li><strong>その期待は株価にもう入っていない？</strong><span>PER / EV・EBITDA / FCF と過去の倍率を確認する。</span></li>
-        <li><strong>半値になっても理由を説明して持てる？</strong><span>「下がったから怖い」ではなく、仮説が壊れたのか単なる値動きなのかを分ける。</span></li>
+        <li><strong>その期待は株価にもう入っていない？</strong><span>PER / EV・EBITDA / FCF と52週の値動きを確認する。</span></li>
+        <li><strong>半値になっても理由を説明して持てる？</strong><span>仮説が壊れたのか、単なる値動きなのかを分ける。</span></li>
       </ol>
     </section>
 
@@ -106,31 +122,32 @@
       <summary>用語ミニ辞典</summary>
       <div class="glossary-grid">
         <div><strong>Vaca Muerta</strong><p>アルゼンチンの巨大シェール油・ガス地域。VIST・PAM・TGSの成長テーマの中心。</p></div>
-        <div><strong>RIGI</strong><p>大型投資を呼び込むための優遇制度。承認額が増えても「もう稼働した」という意味ではない点に注意。</p></div>
-        <div><strong>ADR</strong><p>外国企業の株を米国市場で売買しやすくした「預託証券」。VIST / PAM / CEPU / TGS は米国市場でADRとして取引できます。</p></div>
-        <div><strong>NISA成長投資枠</strong><p>年間240万円まで使えるNISAの枠。米国個別株は主にこちら。つみたて投資枠とは別物です。</p></div>
-        <div><strong>PER</strong><p>株価が利益の何倍まで買われているか。低い＝必ず割安ではなく、成長期待やリスクとセットで見ます。</p></div>
-        <div><strong>EBITDA</strong><p>本業の稼ぐ力を見るための代表的な指標。設備の大きいエネルギー会社の比較でよく使われます。</p></div>
-        <div><strong>EV / EBITDA</strong><p>会社全体の値段（EV）がEBITDAの何倍か。企業同士の値段を比べる物差しのひとつ。</p></div>
-        <div><strong>FCF</strong><p>Free Cash Flow。設備投資などをした後に残る現金。将来の借金返済・配当・自社株買いなどの原資になります。</p></div>
-        <div><strong>純有利子負債</strong><p>ざっくり借金から現金を引いた額。増えすぎると、事業が伸びても株主価値を圧迫することがあります。</p></div>
-        <div><strong>Bear / Base / Bull</strong><p>弱気 / 標準 / 強気シナリオ。予言ではなく「どの前提ならどの株価になり得るか」を整理する方法。</p></div>
-        <div><strong>外貨準備</strong><p>中央銀行が持つドルなどの外貨。通貨危機への「貯金」に近く、増える方が基本的に安心材料。</p></div>
-        <div><strong>一次財政収支</strong><p>国の収入−支出を、借金の利払いを除いて見た数字。黒字維持は財政改善のサイン。</p></div>
-        <div><strong>bpd</strong><p>barrels per day。1日に何バレルの原油を生産するか。k bpdなら「千バレル/日」。</p></div>
-        <div><strong>信頼度</strong><p>スコア計算に必要なデータがどれだけ揃っているか。高いほど「材料不足が少ない」という意味。</p></div>
+        <div><strong>RIGI</strong><p>大型投資を呼び込む優遇制度。承認額が増えても「もう稼働した」という意味ではありません。</p></div>
+        <div><strong>ADR</strong><p>外国企業の株を米国市場で売買しやすくした預託証券。4社は米国市場でADRとして取引できます。</p></div>
+        <div><strong>NISA成長投資枠</strong><p>年間240万円まで使えるNISAの枠。米国個別株は主にこちら。</p></div>
+        <div><strong>PER</strong><p>株価が利益の何倍まで買われているか。低い＝必ず割安ではありません。</p></div>
+        <div><strong>EBITDA</strong><p>本業の稼ぐ力を見る代表的な指標。設備の大きいエネルギー会社の比較でよく使います。</p></div>
+        <div><strong>EV / EBITDA</strong><p>会社全体の値段（EV）がEBITDAの何倍か。</p></div>
+        <div><strong>P / FCF</strong><p>株主が持つ会社価値がFCFの何倍か。逆数はFCF利回りの目安になります。</p></div>
+        <div><strong>Debt / EBITDA</strong><p>借金がEBITDAの何年分くらいかを見る簡易指標。低いほど借金負担は軽い傾向。</p></div>
+        <div><strong>Bear / Base / Bull</strong><p>弱気 / 標準 / 強気シナリオ。予言ではなく前提の整理方法。</p></div>
+        <div><strong>外貨準備</strong><p>中央銀行が持つドルなどの外貨。通貨危機への「貯金」に近い数字。</p></div>
+        <div><strong>一次財政収支</strong><p>国の収入−支出を、借金の利払いを除いて見た数字。</p></div>
+        <div><strong>bpd</strong><p>barrels per day。k bpdなら「千バレル/日」。</p></div>
+        <div><strong>信頼度</strong><p>スコア計算に必要なデータがどれだけ揃っているか。</p></div>
       </div>
     </details>
 
     <section>
-      <div class="section-head"><h2>企業・大口資本ニュース</h2><p>VIST / PAM / CEPU / TGS ＋ 海外資本の動き</p></div>
+      <div class="section-head"><h2>企業・大口資本ニュース</h2><p>4社 ＋ 海外資本の動き</p></div>
       <div id="news" class="news-list"></div>
     </section>
     <section><details class="panel source-panel"><summary>データ取得状況</summary><div id="sourceHealth"></div></details></section>
-    <footer><p>一次情報優先・欠損は欠損のまま表示。スコアは事業テーマの健康度であり売買推奨・割安度ではありません。NISA可否は2026-09-03確認、発注時は各証券会社画面で最終確認してください。ArgentinaEye v0.4</p></footer>
+    <footer><p>一次情報優先・欠損は欠損のまま表示。テーマスコアとバリュエーションは別物です。Bear/Base/Bullは学習用モデルで売買推奨ではありません。NISA可否は2026-09-03確認。ArgentinaEye v0.5</p></footer>
   </main>
   <template id="scoreTemplate"><article class="score-card"><div class="score-card__top"><span class="score-card__name"></span><span class="badge"></span></div><div class="score-card__value"></div><div class="bar"><i></i></div><p class="score-card__meta muted"></p></article></template>
   <template id="metricTemplate"><article class="metric-card"><div class="metric-card__head"><div><p class="metric-card__kicker"></p><h3 class="metric-card__label"></h3></div><span class="status-dot"></span></div><div class="metric-card__value"></div><p class="metric-card__change"></p><p class="metric-card__detail muted"></p><a class="metric-card__source" target="_blank" rel="noopener noreferrer">出典 ↗</a></article></template>
   <script src="app.js" defer></script>
+  <script src="compare.js" defer></script>
 </body>
 </html>

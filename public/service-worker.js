@@ -1,6 +1,6 @@
-const CACHE="argentina-eye-v8";
-const DATA_KEY="data/latest.json";
-const CORE=["./","index.html","styles.css","app.js","manifest.webmanifest","icon.svg",DATA_KEY];
+const CACHE="argentina-eye-v10";
+const DATA_KEYS=["data/latest.json","data/valuation.json"];
+const CORE=["./","index.html","styles.css","valuation.css","app.js","compare.js","manifest.webmanifest","icon.svg",...DATA_KEYS];
 
 self.addEventListener("install",event=>{
   event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)));
@@ -16,17 +16,15 @@ self.addEventListener("activate",event=>{
 });
 
 self.addEventListener("fetch",event=>{
-  if(event.request.url.includes("/data/latest.json")){
+  const key=DATA_KEYS.find(k=>event.request.url.includes(`/${k}`));
+  if(key){
     event.respondWith(
       fetch(event.request)
         .then(response=>{
-          if(response.ok){
-            const copy=response.clone();
-            caches.open(CACHE).then(cache=>cache.put(DATA_KEY,copy));
-          }
+          if(response.ok){const copy=response.clone();caches.open(CACHE).then(cache=>cache.put(key,copy));}
           return response;
         })
-        .catch(()=>caches.match(DATA_KEY))
+        .catch(()=>caches.match(key))
     );
     return;
   }
