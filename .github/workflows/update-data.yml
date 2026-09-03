@@ -25,7 +25,9 @@ jobs:
       - name: Run tests
         run: python -m unittest discover -s tests -v
       - name: Collect data
-        run: python scripts/update.py
+        run: |
+          python scripts/update.py
+          python scripts/augment_stocks.py
       - name: Commit changed snapshots
         run: |
           git config user.name "ArgentinaEye Bot"
