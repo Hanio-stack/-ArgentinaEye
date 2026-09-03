@@ -1,33 +1,48 @@
 {
   "version": 2,
   "mode": "auto",
-  "generated_at": "2026-09-03T11:42:02.122376Z",
+  "generated_at": "2026-09-03T23:16:35.257619Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
-      "score": 66.8,
+      "score": 72.0,
       "confidence": 1.0
     },
     "vist": {
       "label": "VIST",
-      "score": 75.2,
+      "score": 76.5,
       "confidence": 1.0
     },
     "cepu": {
       "label": "CEPU",
-      "score": 62.6,
+      "score": 63.6,
       "confidence": 1.0
     }
   },
   "today": [
     {
-      "title": "Primary fiscal balance",
-      "detail": "Conference Summary and Videos: Argentina’s Economic and Political Outlook - AS/COA",
+      "title": "Milei approval / 2027",
+      "detail": "Argentina’s Milei Battles Falling Ratings by Reviving Claim to the Falklands - WSJ",
+      "signal": "neutral"
+    },
+    {
+      "title": "BCRA reserves",
+      "detail": "Official BCRA international reserves.",
       "signal": "positive"
     },
     {
-      "title": "Big Money",
-      "detail": "Continental Resources acquires 50% stake in Mercuria's Argentine shale oil firm Phoenix Global Resources in $4 billion-plus deal - Energies Media",
+      "title": "Primary fiscal balance",
+      "detail": "Argentina’s second test: can the Milei government deliver lasting growth? - Economics Observatory",
+      "signal": "positive"
+    },
+    {
+      "title": "Vaca Muerta oil",
+      "detail": "Vaca Muerta oil production drives Argentina to new crude record - datamarnews.com",
+      "signal": "positive"
+    },
+    {
+      "title": "RIGI approved investment",
+      "detail": "Argentina LNG applies for RIGI approval - LNG Industry",
       "signal": "positive"
     }
   ],
@@ -49,10 +64,10 @@
         "url": "https://news.google.com/"
       },
       "latest_event": {
-        "title": "Argentina Has Milei Malaise - Foreign Policy",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSDhKVmQxazZ2bHY4LUNVOGJxQVpWakxDNWVsZjFuS2wxSWtuU3ZDOHgyTUdVNDJ4dGNFcU9oNHotcks5azdoUTh4SmZPTXFwZmdwN2IyVXJsV1VJZTI2X19XSlNUZ0ZnSmFEVElodDBqX1ItamNNeGZsd0xiUGlfdnVianJQekpwSVZXeXg2Wng3T01zeDVscg?oc=5",
-        "published": "2026-05-15",
-        "source": "Foreign Policy",
+        "title": "Argentina’s Milei Battles Falling Ratings by Reviving Claim to the Falklands - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOFJ2clhpUjQzS05zaFNGeXQ1NERPSFBXdjMwVzhNTGlYbnRsTEdHblc5Ql8tQzJHRXFPX0pNNXBoVTNJemNva1RsbXZHZUVCQnBJRm5yeDNPcmJnc2hlMnVub2FTN2dCV1NiVlpvTExNMDdlSzFjS3dWZjk0TXpzQlNBdmRPM3JwWXZpMk40T3lHVndIVW1vQmN2endaZUFNQ0NHajVQdTB0VWlFMGotbHg5QmFBM2VUX2pV?oc=5",
+        "published": "2026-09-03",
+        "source": "WSJ",
         "topic": "politics",
         "entities": []
       }
@@ -87,13 +102,13 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 48.26,
+      "value": 50.2,
       "unit": "USD bn",
-      "period": "2026-08-31",
-      "previous": 48.79,
-      "change": -1.09,
+      "period": "2026-09-01",
+      "previous": 48.81,
+      "change": 2.86,
       "change_unit": "% ~30d",
-      "thesis_signal": "negative",
+      "thesis_signal": "positive",
       "status": "fresh",
       "detail": "Official BCRA international reserves.",
       "source": {
@@ -101,7 +116,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        48.81,
         48.92,
         49.04,
         48.69,
@@ -130,7 +144,8 @@
         50.78,
         50.86,
         49.79,
-        48.26
+        48.26,
+        50.2
       ]
     },
     {
@@ -150,10 +165,10 @@
         "url": "https://www.argentina.gob.ar/economia/politicafiscal"
       },
       "latest_event": {
-        "title": "Conference Summary and Videos: Argentina’s Economic and Political Outlook - AS/COA",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNEhfT21SRUVzNVRzZy1ZUEpJSm82amsxRk5wZklhcUdlb1NxRzltRmxGMGl0QkY0WEY0YmpqcUsyX2VJU1ktN2dyRFFXQWpJSGJvNVBXVmlpNV8yZnhaSGt4N2FtNE55UU85NnpwOGxLNnhVUHIzUnVpc0JaY3hQM1dNWWRlcC1LZVZaOWhtUVZRWkhGejM5RjJMR1QtMVJnRjBjYnRn?oc=5",
-        "published": "2026-08-20",
-        "source": "AS/COA",
+        "title": "Argentina’s second test: can the Milei government deliver lasting growth? - Economics Observatory",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU1lGdVktVnpFMmZocm54dVlLakpYRkdfRXFNczBnbjRfTFFsb19ZcDVXSVZxRHRSY0pIVGg4T0N3bzNOVnFsc1FnRk5yek8yc2RNRkFOQjRkc2Nha3JYQ3lUS0ctaWFTODQwN3dFelN4VkF5dzhHQ0FsM3BVNlpMWWI0c2dBcG5pc2ZudFVEMlh5SmFsWXgtTXV5X1lZbEdjMWVVa1g0c1lNX2M?oc=5",
+        "published": "2026-07-30",
+        "source": "Economics Observatory",
         "topic": "fiscal_balance",
         "entities": []
       }
@@ -176,10 +191,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "Vaca Muerta oil production drives Argentina to new crude record - DatamarNews",
+        "title": "Vaca Muerta oil production drives Argentina to new crude record - datamarnews.com",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeU1SaWNFdjNWMHI1cExNZTZZRGRtckhURkpVX0NUdk12ekpFNkwtRFVHV3VGVTI0UEFTcmIwbk1Xbi1fNmJpVVhmY3pmRDNORVBPbUtIVGJFZWx5YUkyUkUtTkRDX1lXSXRtTWFPNGVWNG5heWdCUWtGcnhKRF9wZ243QXg3UGpCOVJXbEdGZ0VUMnRaekhfSXlVMWU4dw?oc=5",
         "published": "2026-09-01",
-        "source": "DatamarNews",
+        "source": "datamarnews.com",
         "topic": "vaca_muerta_oil",
         "entities": []
       }
@@ -202,10 +217,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "Argentina LNG seeks RIGI approval for $51-billion investment - Oil & Gas Journal",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa2wtYUZhZi1PUFg2OE5qT1NzWVlFZG5ZRndkMDlFZWlhZ3c5a2pES1BWUWVUdTQ1eGdPTVdZOXNxTTZvcUItaGppQXdlMDFfOEtLajlJTVp4eHBZS0N5MHZnN1BQOVV1ZFdDVVFDRUw0VkpmRTA2eE01NGNiTmJUVTI4VXNrZUk2Ykl1bTU3azVUY2hIV3VBSEdwNWdodGJycEhrQVhxYWtBZGR3RlRYVE9xWTRJa3N0NWNYS2w5WQ?oc=5",
-        "published": "2026-08-18",
-        "source": "Oil & Gas Journal",
+        "title": "Argentina LNG applies for RIGI approval - LNG Industry",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRWpiMEk3VGVyVzR3X2ZxRV9fXzhTRG0yWTZNeUJ6TzVzRm94NzJaUG1UWm1lekFhb1Vtb0p3TUE0WGZVdlNIZnEyTF9wd3Z4RUhrUHUzVzVfREQySllRX1N1R2lhblVLOWkxQ3NOX19vSUFmcHFTcEdvaHZGcGM0ZmpDMW9pMUxHc3V6NnhkS1pZR1A10gGaAUFVX3lxTE03TWdXd3UwZjlGb2wyNGJiNmtFcW92OW5VaXVQZ1daZkRPS0VzYXZscWhRSm1Ec1BycFp6aWJfMFJPdWUyRGpQUWlsN04wOW05OW5pOEp1SERZNHJQM1ZFVnhicnZSODNhMFVDNkx6NlZBUmZDa19RS2x4YzdEME1ERWVZSWxBWnNQVjc1WTQtWFo4S2E0WnREd1E?oc=5",
+        "published": "2026-08-14",
+        "source": "LNG Industry",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -227,10 +242,10 @@
         "url": "https://cammesaweb.cammesa.com/informe-sintesis-mensual/"
       },
       "latest_event": {
-        "title": "How Argentina Cut Battery Costs Through Transparency - Energy for Growth Hub",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVmNnRXp6d3BBQWg2UXhkUzZxTzRCMkVUbERxc1JqcnRjVjF1VldKS0xtZzhJN2hMaGJ3YUFvR0F6MUs3UHZqWFN1MWQ4bTFGX09NcUx3TXFhZzFGRm1oVXZ0NTQzZ25UbFRSNkktNVhRSDVweV9aeTdQaGhjVC1sZWw2dUVWeGhyM3FFRHN3S1RjTUE?oc=5",
-        "published": "2025-09-23",
-        "source": "Energy for Growth Hub",
+        "title": "Argentina's latest power market rule changes – key pillars and what happens now - BNamericas",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLUZhb0tpd1JTTDZzMWVzME1YTllNb3ExbTlDcDJJcHNpMWI4dFVVaDVkRHJqOTB1RUpnblJWUGRULTRnRnd2NkpmSi1fc2VyaTdwZks3NlBaMThqV3lkdXlORFFENW1HWW9mbjgxdmNMSlc1ekNWdFgwamo1Qkl6MmxBakVuaEZJOEtobWk2V2Zad0NUXzVMZlJDSlVvdnZIeWhyQ1ZBdm1NQ3Jla3NuMzE3VkYxLUZDX0E?oc=5",
+        "published": "2025-07-17",
+        "source": "BNamericas",
         "topic": "electricity",
         "entities": []
       }
@@ -260,22 +275,12 @@
       ]
     },
     {
-      "title": "Latin America Crude Supply Growth: Venezuela, Guyana, Argentina | 2026 - News and Statistics - IndexBox",
+      "title": "Latin America Crude Supply Growth: Venezuela, Guyana, Argentina | 2026 - News and Statistics - indexbox.io",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSW1icFlBaklDTHM1U0M0QkY1UFdUNUx2NXlXX0E0SWVNT0tBUUxRZW02bmZQMG00ZmdHcUxHV1dCQU1xSlowaFFjVjVzVVBXc0VETzBSMmdMYjVaeDZJbC1VS2EzNEF2RFJTbnI2cWF4c1Y2cmdQSHpTVEl6TDktZW5pTlYwQUJWUDJmcHZJOXRCS1BkWEI4NUplM0trNzQ?oc=5",
       "published": "2026-08-26",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "topic": "big_money",
       "entities": []
-    },
-    {
-      "title": "Harold Hamm makes strong commitment of expanded drilling in South America - Oklahoma Energy Today",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd0xJdDlvZzd2by1DbGJWQ2R2eWhQU09FTnZWcEkzVnNrZHFSQVZLNzhKc2piUURfRWtBUFVWLS1TcW1MQndTZHVDd0ZoY0ZReFZOVmdGdTBzX255VlhTTXJxN1R3T1pvT0JhWjd3TGxhOWtJVHJZNWEyREtNR2NCeVA4SGdyMFhBQXBWeEkzY1M3UDlyaVI0ekI1Tk5zTlZNbWdkNTcteXF6QmJ5?oc=5",
-      "published": "2026-08-23",
-      "source": "Oklahoma Energy Today",
-      "topic": "big_money",
-      "entities": [
-        "Hamm"
-      ]
     },
     {
       "title": "U.S. Billionaires Are Piling Into Argentina’s Vaca Muerta Shale - Yahoo Finance",
@@ -286,10 +291,10 @@
       "entities": []
     },
     {
-      "title": "Billionaire Harold Hamm targets Argentina's shale basin - billionaires.africa",
+      "title": "Billionaire Harold Hamm targets Argentina's shale basin - Billionaires.Africa",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFZGSWZNZlFnT3hUV1ZOSDNTVjJTaEZFVTZPY0ZuYy16amVTakE2YzltZ3lJcnZZZmNvMFluVFFJY1llYVVGRTdFdVBUbk5WLUR2MW85eFRvR3JoUFJZdHliVzBlSlp5ZjJLMks1OE5aam96YUNxaS0zZllINk5xcjZSZTZKcko4WmNSRXBhOS11Q0IyRl9BMWhnV05BLVlONndYWHdPbUlkSjFBQllpTXg3bXk1ZzBqSXhLZ2pSeldqcU02SVBV?oc=5",
       "published": "2026-08-21",
-      "source": "billionaires.africa",
+      "source": "Billionaires.Africa",
       "topic": "big_money",
       "entities": [
         "Hamm"
@@ -313,6 +318,16 @@
       "source": "Upstream Online",
       "topic": "big_money",
       "entities": []
+    },
+    {
+      "title": "Phoenix Global Resources — Continental buys half of Mercuria's Argentina shale play - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNjNRS3h3SlJDZWNLUTNQOEp6N0tETFVhSll0MkxvUnhWQ1ZhckpUWTMzREM4N3lfNGFaUTA3M0kzdmNYMXJQVW1ma0JMNFpybzM3YWdFSXNIS3pYYkRYUWZuVjE4cXlCWnNWOWpKRkJYMlBwUF92N3dfeWZHWS1MN3kyVUVqajdpSjJ6Q25ZdERKd095VkZkRzF0aElLemwtOVQyUmllOXpYSkJYaG5Uc2t0cmw4UQ?oc=5",
+      "published": "2026-08-20",
+      "source": "Dealroom",
+      "topic": "big_money",
+      "entities": [
+        "Mercuria"
+      ]
     }
   ],
   "source_health": [
@@ -369,7 +384,7 @@
     {
       "name": "News: electricity",
       "ok": true,
-      "note": "5 items"
+      "note": "6 items"
     },
     {
       "name": "News: big_money",
