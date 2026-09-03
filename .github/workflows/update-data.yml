@@ -9,8 +9,10 @@ on:
     paths:
       - "scripts/**"
       - "public/app.js"
+      - "public/compare.js"
       - "public/index.html"
       - "public/styles.css"
+      - "public/valuation.css"
       - ".github/workflows/update-data.yml"
 
 permissions:
