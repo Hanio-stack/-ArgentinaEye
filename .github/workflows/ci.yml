@@ -20,5 +20,9 @@ jobs:
         run: |
           python scripts/update.py --offline
           python scripts/augment_stocks.py --offline
+      - name: Valuation collector smoke test
+        run: python scripts/update_valuation.py
       - name: Validate generated JSON
-        run: python -m json.tool public/data/latest.json > /dev/null
+        run: |
+          python -m json.tool public/data/latest.json > /dev/null
+          python -m json.tool public/data/valuation.json > /dev/null
