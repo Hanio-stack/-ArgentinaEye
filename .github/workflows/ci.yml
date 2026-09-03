@@ -13,7 +13,9 @@ jobs:
         with:
           python-version: "3.12"
       - name: JavaScript syntax check
-        run: node --check public/app.js
+        run: |
+          node --check public/app.js
+          node --check public/compare.js
       - name: Python tests
         run: python -m unittest discover -s tests -v
       - name: Offline generation smoke test
