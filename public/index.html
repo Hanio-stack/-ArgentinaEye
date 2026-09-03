@@ -23,34 +23,56 @@
 
     <section class="panel">
       <strong>このサイトについて</strong>
-      <p class="muted" style="margin-bottom:0;line-height:1.65">ミレイ政権の改革、Vaca Muerta、RIGI、電力市場、海外大口資本の動きを追い、アルゼンチン投資テーマの変化を毎朝確認するための公開ダッシュボードです。</p>
+      <p class="muted" style="margin-bottom:0;line-height:1.65">ミレイ政権の改革、Vaca Muerta、RIGI、電力市場、海外資本と企業ニュースを追い、VIST / PAM / CEPU / TGS の投資テーマが前進しているかを毎朝確認するための公開ダッシュボードです。</p>
     </section>
 
-    <details class="panel guide-panel">
-      <summary>この画面の見方</summary>
+    <details class="panel guide-panel" open>
+      <summary>この画面の見方（初心者向け）</summary>
       <div class="guide-body">
-        <p><strong>1. まず3つのスコア</strong><br>アルゼンチン / VIST / CEPU の投資仮説が今どれくらい健全かを見る。買い推奨スコアではありません。</p>
-        <p><strong>2. 次に7つの中核指標</strong><br>支持率、インフレ、外貨準備、財政、Vaca Muerta、RIGI、電力を確認。赤や悪化が増えた日だけ深掘り。</p>
-        <p><strong>3. 大口資本を見る</strong><br>Thiel / Hamm / Chevron / Mercuria / Eni / XRG の新しい動きがあれば読む。英語見出しは「日本語訳」で展開できます。</p>
+        <p><strong>1. まずスコアを見る</strong><br>アルゼンチン全体と4銘柄の「事業テーマが順調か」を0〜100で表示します。<strong>株価が安い・買い時という意味ではありません。</strong></p>
+        <p><strong>2. 4社の役割を覚える</strong><br>VIST＝掘る、PAM＝総合エネルギー、CEPU＝電気を作る、TGS＝ガスを運ぶ。下のカードで追い風と逆風を確認できます。</p>
+        <p><strong>3. 7つの中核指標を見る</strong><br>支持率、インフレ、外貨準備、財政、Vaca Muerta、RIGI、電力を確認。赤や悪化が増えた日だけ深掘りします。</p>
+        <p><strong>4. 企業・大口資本ニュースを見る</strong><br>4社のニュースに加え、Thiel / Hamm / Chevron / Mercuria / Eni / XRG などの資本移動を監視します。</p>
         <p class="muted small">日本語訳は機械翻訳です。翻訳時に外部サービスへ送るのは公開ニュースの見出しだけで、個人情報や保有情報は送信しません。</p>
       </div>
     </details>
 
     <section id="today" class="panel"></section>
+
     <section>
-      <div class="section-head"><h2>投資テーマ・スコア</h2><p>改革・事業環境の健康度。売買推奨ではありません。</p></div>
+      <div class="section-head"><h2>投資テーマ・スコア</h2><p>事業環境の健康度。株価の割安・割高は含みません。</p></div>
       <div id="scores" class="score-grid"></div>
+      <p class="hint">目安：80以上＝かなり追い風 / 65〜79＝良好 / 50〜64＝中立 / 35〜49＝弱い / 34以下＝警戒。価格評価は別途必要です。</p>
     </section>
+
+    <section>
+      <div class="section-head"><h2>4社の違い</h2><p>まず「何で儲かる会社か」をざっくり把握</p></div>
+      <div id="stockWatch" class="stock-watch-grid"></div>
+    </section>
+
     <section>
       <div class="section-head"><h2>中核指標</h2><p>毎朝追う7つの重要指標</p></div>
       <div id="metrics" class="metric-grid"></div>
     </section>
+
+    <details class="panel glossary-panel">
+      <summary>用語ミニ辞典</summary>
+      <div class="glossary-grid">
+        <div><strong>Vaca Muerta</strong><p>アルゼンチンの巨大シェール油・ガス地域。VIST・PAM・TGSの成長テーマの中心。</p></div>
+        <div><strong>RIGI</strong><p>大型投資を呼び込むための優遇制度。承認額が増えても「もう稼働した」という意味ではない点に注意。</p></div>
+        <div><strong>外貨準備</strong><p>中央銀行が持つドルなどの外貨。通貨危機への「貯金」に近く、増える方が基本的に安心材料。</p></div>
+        <div><strong>一次財政収支</strong><p>国の収入−支出を、借金の利払いを除いて見た数字。黒字維持は財政改善のサイン。</p></div>
+        <div><strong>bpd</strong><p>barrels per day。1日に何バレルの原油を生産するか。k bpdなら「千バレル/日」。</p></div>
+        <div><strong>信頼度</strong><p>スコア計算に必要なデータがどれだけ揃っているか。高いほど「材料不足が少ない」という意味。</p></div>
+      </div>
+    </details>
+
     <section>
-      <div class="section-head"><h2>大口資本の動き</h2><p>Thiel / Hamm / Chevron / Mercuria / Eni / XRG</p></div>
+      <div class="section-head"><h2>企業・大口資本ニュース</h2><p>VIST / PAM / CEPU / TGS ＋ 海外資本の動き</p></div>
       <div id="news" class="news-list"></div>
     </section>
     <section><details class="panel source-panel"><summary>データ取得状況</summary><div id="sourceHealth"></div></details></section>
-    <footer><p>一次情報優先・欠損は欠損のまま表示。ニュースは原文＋任意の機械翻訳。ArgentinaEye v0.2</p></footer>
+    <footer><p>一次情報優先・欠損は欠損のまま表示。スコアは事業テーマの健康度であり売買推奨・割安度ではありません。ArgentinaEye v0.3</p></footer>
   </main>
   <template id="scoreTemplate"><article class="score-card"><div class="score-card__top"><span class="score-card__name"></span><span class="badge"></span></div><div class="score-card__value"></div><div class="bar"><i></i></div><p class="score-card__meta muted"></p></article></template>
   <template id="metricTemplate"><article class="metric-card"><div class="metric-card__head"><div><p class="metric-card__kicker"></p><h3 class="metric-card__label"></h3></div><span class="status-dot"></span></div><div class="metric-card__value"></div><p class="metric-card__change"></p><p class="metric-card__detail muted"></p><a class="metric-card__source" target="_blank" rel="noopener noreferrer">出典 ↗</a></article></template>
