@@ -32,7 +32,7 @@
       <div class="guide-body">
         <p><strong>1. 事業テーマを見る</strong><br>アルゼンチン全体と4銘柄の「事業環境が順調か」を0〜100で確認。<strong>高得点＝買い時ではありません。</strong></p>
         <p><strong>2. 会社の役割を見る</strong><br>VIST＝掘る、PAM＝総合エネルギー、CEPU＝電気を作る、TGS＝ガスを運ぶ。</p>
-        <p><strong>3. 値段を見る</strong><br>株価、PER、EV/EBITDA、FCF、借金を確認。「良い会社だけど高い」「安く見えるけど現金が弱い」を区別します。</p>
+        <p><strong>3. まず4社比較、次に詳細</strong><br>比較表で違いをつかみ、気になった銘柄だけ詳細カードでPER・FCF・借金を確認します。</p>
         <p><strong>4. Bear / Base / Bullを見る</strong><br>弱気・標準・強気の前提を並べ、どの条件なら損益がどう変わるかを練習します。</p>
         <p><strong>5. 国の変化とニュースへ戻る</strong><br>インフレ、外貨準備、財政、Vaca Muerta、RIGI、電力、企業ニュースを見て、シナリオの前提が崩れていないか確認します。</p>
       </div>
@@ -49,6 +49,11 @@
     <section>
       <div class="section-head"><h2>4社の違い</h2><p>まず「何で儲かる会社か」を把握</p></div>
       <div id="stockWatch" class="stock-watch-grid"></div>
+    </section>
+
+    <section>
+      <div class="section-head"><h2>4社を一気に比較</h2><p>まず差だけ見る。詳しくは次のカードへ</p></div>
+      <div id="compareTable" class="compare-panel panel"><p class="muted small">比較データ読み込み中…</p></div>
     </section>
 
     <section class="valuation-section">
@@ -143,5 +148,6 @@
   <template id="scoreTemplate"><article class="score-card"><div class="score-card__top"><span class="score-card__name"></span><span class="badge"></span></div><div class="score-card__value"></div><div class="bar"><i></i></div><p class="score-card__meta muted"></p></article></template>
   <template id="metricTemplate"><article class="metric-card"><div class="metric-card__head"><div><p class="metric-card__kicker"></p><h3 class="metric-card__label"></h3></div><span class="status-dot"></span></div><div class="metric-card__value"></div><p class="metric-card__change"></p><p class="metric-card__detail muted"></p><a class="metric-card__source" target="_blank" rel="noopener noreferrer">出典 ↗</a></article></template>
   <script src="app.js" defer></script>
+  <script src="compare.js" defer></script>
 </body>
 </html>
