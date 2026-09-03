@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-09-03T11:03:55.616057Z",
+  "generated_at": "2026-09-03T11:23:16.821446Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -30,26 +30,6 @@
     }
   },
   "today": [
-    {
-      "title": "Milei approval / 2027",
-      "detail": "Argentina Has Milei Malaise - Foreign Policy",
-      "signal": "neutral"
-    },
-    {
-      "title": "Primary fiscal balance",
-      "detail": "Conference Summary and Videos: Argentina’s Economic and Political Outlook - as-coa.org",
-      "signal": "positive"
-    },
-    {
-      "title": "Vaca Muerta oil",
-      "detail": "Vaca Muerta oil production drives Argentina to new crude record - DatamarNews",
-      "signal": "positive"
-    },
-    {
-      "title": "Power demand / reform",
-      "detail": "How Argentina Cut Battery Costs Through Transparency - Energy for Growth Hub",
-      "signal": "neutral"
-    },
     {
       "title": "Big Money",
       "detail": "Continental Resources acquires 50% stake in Mercuria's Argentine shale oil firm Phoenix Global Resources in $4 billion-plus deal - Energies Media",
@@ -314,6 +294,14 @@
       ]
     },
     {
+      "title": "Latin America Crude Supply Growth: Venezuela, Guyana, Argentina | 2026 - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSW1icFlBaklDTHM1U0M0QkY1UFdUNUx2NXlXX0E0SWVNT0tBUUxRZW02bmZQMG00ZmdHcUxHV1dCQU1xSlowaFFjVjVzVVBXc0VETzBSMmdMYjVaeDZJbC1VS2EzNEF2RFJTbnI2cWF4c1Y2cmdQSHpTVEl6TDktZW5pTlYwQUJWUDJmcHZJOXRCS1BkWEI4NUplM0trNzQ?oc=5",
+      "published": "2026-08-26",
+      "source": "IndexBox",
+      "topic": "big_money",
+      "entities": []
+    },
+    {
       "title": "Citi maintains buy ratings on Argentina power firms amid sector shifts - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdi0yWjMwLV9UbVdkYkt2bk5FZ0YxRnZTM3lvZm1ReUhBOHpwRl8zSTJVNVRkUmptcm1jV2RqalJtU3hJdVgxSG1salZVWWJ2dF9IQjMyQUxQaVhna0ZFVWszb1BLa0s0Q0RBRXliZ19iZzFTMlVEMVJWZ2wwMFVUX2JlSkQzYlFmdlpvVGR4RTJpdWE3NVoyRWM2UVpiSjd0YVhsV016U1JCdFdDampMU3MyUW0tM05IbDFTQ1cycWs4SVE0RlM0dGRDakw?oc=5",
       "published": "2026-08-24",
@@ -391,16 +379,6 @@
       ]
     },
     {
-      "title": "Peter Thiel reports stake in Argentine shale oil exporter Vista - Buenos Aires Times",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmJqOUVWNmZDS0VWQzRoOUVXZjlqQmdJaU1RUHpWdk9JME1jWWVCNk9lc1VFcjBvN0taMlFQVVlZY1FPUHVEVmxBMXlUT0t3MVpkWDEwZzdZWFRXbXpKaUZHMVI4MFhrOVRGYjNjVzdSZmVia1UwaU5VQzVxUWhlNV9aQTFXT1VQUDRDT0o0N0J1cERiRDNrbVltZlE1NjBkWW12YWllTDVuR2NwcGfSAbMBQVVfeXFMTlRyUjg1Wkx3VkotQi1YZHlkWWFKQnJuU1hOcXV6YjM0akl5dV95dnFlcVU0Y08zNVpzeDFXVkF2a00xeGlKVU5RcHBISm1XdUYteDlxbk44Z2FoSGhkbHROa2ZFRFNwd1o0dk1kNTZUc3Z4U0NOV0FkWENUMzhGRHl1YzBMYWVTNWJNM2RvbnNYN2M2N0hTbnFHQUlOeTY5RHV6UG1GQ3RidHBhVGFiZFdLWTQ?oc=5",
-      "published": "2026-08-16",
-      "source": "Buenos Aires Times",
-      "topic": "big_money",
-      "entities": [
-        "Thiel"
-      ]
-    },
-    {
       "title": "Transportadora de Gas del Sur Posts Higher H1 2026 Revenue Amid Transport Tariff Pressure and Strong Capacity Demand - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNTEM5TnV5QW5ieHdfTVh0cFFyU0daXzhXdE55RU9rOXFycUJDYjlNVzRiOHVZNU4ycngwTzJHOENPWGpjSWlFdGU2OFlMV3NoMzQ5T3JHR1JXZ1JOSEQyS1J6QXF0MjhSeVBIRWN6NnpVWldfeWcxRVI1UWZCY3B4Nnh6d1Y1UWU5TWk2MURJWGVYWE5OV3dvM2hzbm5WejJJOU1La3NqVWlqYUMzbHE2Y1l6ckNVZ0NMWk83MUpPZVNqcE92SEZHT1ZkZFRCTWNVcHg0SGx6ZXVDMzd0d0YxRFduVmhCLXlpRXlYdDllOXpveFNyUGZ2RGd5bjFMY0Rmdld2aXNCZGNuRXVyLWo4eDRMOEZPbVlnemtOV09IX0hsUE0yeEM0?oc=5",
       "published": "2026-08-14",
@@ -411,10 +389,10 @@
       ]
     },
     {
-      "title": "Pampa Energia: Rincon De Aranda And Fertilizers Add New Legs To The Bull Case (NYSE:PAM) - seekingalpha.com",
+      "title": "Pampa Energia: Rincon De Aranda And Fertilizers Add New Legs To The Bull Case (NYSE:PAM) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUTQyNzlwbEtldk5YMExqUWd0YkhVT0FiYnhmZVVqc2NmeHE1MWZBX19sLThKTDgxQ0ZYd1JsQ1JUYXpCckRCRWNPcFF3MVBydGU4REhrOXk3TlFoNmxXQlhFMkdCZWpBMlNnQTRFaHhOWi01ZGdkZlJpaWZmX25xc0M2d1NuZmptcE5kVUFYejdfZ0RLdVlWdTVIVkMyZGdQMExlekVlM0VSMGhnd0xwZQ?oc=5",
       "published": "2026-08-11",
-      "source": "seekingalpha.com",
+      "source": "Seeking Alpha",
       "topic": "company_news",
       "entities": [
         "PAM"

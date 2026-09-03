@@ -1,7 +1,7 @@
 {
   "version": 2,
   "mode": "auto",
-  "generated_at": "2026-09-03T11:03:55.616057Z",
+  "generated_at": "2026-09-03T11:23:16.821446Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -20,26 +20,6 @@
     }
   },
   "today": [
-    {
-      "title": "Milei approval / 2027",
-      "detail": "Argentina Has Milei Malaise - Foreign Policy",
-      "signal": "neutral"
-    },
-    {
-      "title": "Primary fiscal balance",
-      "detail": "Conference Summary and Videos: Argentina’s Economic and Political Outlook - as-coa.org",
-      "signal": "positive"
-    },
-    {
-      "title": "Vaca Muerta oil",
-      "detail": "Vaca Muerta oil production drives Argentina to new crude record - DatamarNews",
-      "signal": "positive"
-    },
-    {
-      "title": "Power demand / reform",
-      "detail": "How Argentina Cut Battery Costs Through Transparency - Energy for Growth Hub",
-      "signal": "neutral"
-    },
     {
       "title": "Big Money",
       "detail": "Continental Resources acquires 50% stake in Mercuria's Argentine shale oil firm Phoenix Global Resources in $4 billion-plus deal - Energies Media",
@@ -275,6 +255,14 @@
       ]
     },
     {
+      "title": "Latin America Crude Supply Growth: Venezuela, Guyana, Argentina | 2026 - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSW1icFlBaklDTHM1U0M0QkY1UFdUNUx2NXlXX0E0SWVNT0tBUUxRZW02bmZQMG00ZmdHcUxHV1dCQU1xSlowaFFjVjVzVVBXc0VETzBSMmdMYjVaeDZJbC1VS2EzNEF2RFJTbnI2cWF4c1Y2cmdQSHpTVEl6TDktZW5pTlYwQUJWUDJmcHZJOXRCS1BkWEI4NUplM0trNzQ?oc=5",
+      "published": "2026-08-26",
+      "source": "IndexBox",
+      "topic": "big_money",
+      "entities": []
+    },
+    {
       "title": "Harold Hamm makes strong commitment of expanded drilling in South America - Oklahoma Energy Today",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd0xJdDlvZzd2by1DbGJWQ2R2eWhQU09FTnZWcEkzVnNrZHFSQVZLNzhKc2piUURfRWtBUFVWLS1TcW1MQndTZHVDd0ZoY0ZReFZOVmdGdTBzX255VlhTTXJxN1R3T1pvT0JhWjd3TGxhOWtJVHJZNWEyREtNR2NCeVA4SGdyMFhBQXBWeEkzY1M3UDlyaVI0ekI1Tk5zTlZNbWdkNTcteXF6QmJ5?oc=5",
       "published": "2026-08-23",
@@ -320,16 +308,6 @@
       "source": "Upstream Online",
       "topic": "big_money",
       "entities": []
-    },
-    {
-      "title": "Peter Thiel reports stake in Argentine shale oil exporter Vista - Buenos Aires Times",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmJqOUVWNmZDS0VWQzRoOUVXZjlqQmdJaU1RUHpWdk9JME1jWWVCNk9lc1VFcjBvN0taMlFQVVlZY1FPUHVEVmxBMXlUT0t3MVpkWDEwZzdZWFRXbXpKaUZHMVI4MFhrOVRGYjNjVzdSZmVia1UwaU5VQzVxUWhlNV9aQTFXT1VQUDRDT0o0N0J1cERiRDNrbVltZlE1NjBkWW12YWllTDVuR2NwcGfSAbMBQVVfeXFMTlRyUjg1Wkx3VkotQi1YZHlkWWFKQnJuU1hOcXV6YjM0akl5dV95dnFlcVU0Y08zNVpzeDFXVkF2a00xeGlKVU5RcHBISm1XdUYteDlxbk44Z2FoSGhkbHROa2ZFRFNwd1o0dk1kNTZUc3Z4U0NOV0FkWENUMzhGRHl1YzBMYWVTNWJNM2RvbnNYN2M2N0hTbnFHQUlOeTY5RHV6UG1GQ3RidHBhVGFiZFdLWTQ?oc=5",
-      "published": "2026-08-16",
-      "source": "Buenos Aires Times",
-      "topic": "big_money",
-      "entities": [
-        "Thiel"
-      ]
     }
   ],
   "source_health": [
@@ -392,6 +370,36 @@
       "name": "News: big_money",
       "ok": true,
       "note": "6 items"
+    }
+  ],
+  "stock_watch": [
+    {
+      "label": "VIST",
+      "role": "掘る｜Vaca Muertaの原油・ガス生産",
+      "beginner": "Vaca Muertaから石油・ガスを低コストで生産して売る会社。4社の中では『資源を掘る』成長に最も直接的に賭ける銘柄です。",
+      "helps": "生産量の増加、輸出インフラ整備、原油価格の上昇、RIGI投資の進展",
+      "hurts": "原油安、生産計画の未達、設備投資や借金の増えすぎ、政策の逆戻り"
+    },
+    {
+      "label": "PAM",
+      "role": "総合｜掘る＋発電＋インフラ",
+      "beginner": "Pampa Energía。石油・ガス生産、発電、送電・ガス輸送会社への出資などを持つ総合エネルギー企業。『アルゼンチンのエネルギー成長を広く持つ』イメージです。",
+      "helps": "Vaca Muerta増産、RIGI大型投資、電力需要増、エネルギー市場の正常化",
+      "hurts": "大型投資の失敗、借金増加、電力・ガス規制の逆戻り、国内景気悪化"
+    },
+    {
+      "label": "CEPU",
+      "role": "作る｜発電・電力市場",
+      "beginner": "Central Puerto。主に電気を作って売る会社。アルゼンチンの電力料金・市場制度が正常化するほど事業環境が改善しやすい銘柄です。",
+      "helps": "電力料金の正常化、需要増、発電設備の稼働改善、産業投資の増加",
+      "hurts": "価格統制、CAMMESAの支払い問題、規制変更、電力需要の低迷"
+    },
+    {
+      "label": "TGS",
+      "role": "運ぶ｜ガス輸送・処理インフラ",
+      "beginner": "Transportadora de Gas del Sur。天然ガスをパイプラインで運び、処理する会社。『誰が掘って勝つか』より、Vaca Muerta全体の流通量が増えることに賭ける銘柄です。",
+      "helps": "Vaca Muertaのガス増産、パイプライン増強、NGL・輸出設備の稼働",
+      "hurts": "輸送料金規制、インフラ計画の遅延、ガス生産停滞、政策の逆戻り"
     }
   ]
 }
