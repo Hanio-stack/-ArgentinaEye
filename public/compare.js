@@ -1,0 +1,11 @@
+(()=>{
+const fmt=new Intl.NumberFormat("ja-JP",{maximumFractionDigits:1});
+const ORDER=["vist","pam","cepu","tgs"];
+const esc=v=>String(v??"").replace(/[&<>'\"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'\"':"&quot;"}[c]));
+const ratio=v=>v===null||v===undefined?"—":`${Number(v).toFixed(1)}x`;
+const pct=v=>v===null||v===undefined?"—":`${v>0?"+":""}${fmt.format(v)}%`;
+function scenario(stock,raw){if(!stock?.price||!stock?.market_cap_b||!raw?.base)return null;const adr=stock.market_cap_b*1000/stock.price;const b=raw.base;const target=(b.ebitda_b*b.multiple-b.net_debt_b)*1000/adr;return{target,upside:(target/stock.price-1)*100}}
+async function get(url){const r=await fetch(`${url}?t=${Date.now()}`,{cache:"no-store"});if(!r.ok)throw new Error(`HTTP ${r.status}`);return r.json()}
+async function render(){const root=document.querySelector("#compareTable");if(!root)return;try{const [d,v]=await Promise.all([get("data/latest.json"),get("data/valuation.json")]);const rows=ORDER.map(k=>{const s=v.stocks?.[k];if(!s)return"";const base=v.computed_scenarios?.[k]?.base||scenario(s,v.scenarios?.[k]);const fcf=s.p_fcf?100/s.p_fcf:null;const score=d.scores?.[k]?.score;return`<tr><th><span>${esc(s.label)}</span><small>${s.status==="fresh"?"最新":"更新遅延"}</small></th><td class="theme-cell">${score===null||score===undefined?"—":Math.round(score)}<small>/100</small></td><td>$${Number(s.price).toFixed(2)}</td><td>${ratio(s.pe)}</td><td>${ratio(s.ev_ebitda)}</td><td>${fcf===null?"—":`${fcf.toFixed(1)}%`}</td><td>${ratio(s.debt_ebitda)}</td><td class="base-cell">${base?`$${Number(base.target_price??base.target).toFixed(0)}<small>${pct(base.upside_pct??base.upside)}</small>`:"—"}</td></tr>`}).join("");root.innerHTML=`<div class="compare-scroll"><table><thead><tr><th>銘柄</th><th>テーマ</th><th>株価</th><th>PER</th><th>EV/EBITDA</th><th>FCF利回り</th><th>借金倍率</th><th>Base</th></tr></thead><tbody>${rows}</tbody></table></div><p class="compare-note">テーマ＝事業環境の健康度。Base＝2028年の学習用標準シナリオ。<strong>一番数字が高い銘柄を買う表ではありません。</strong> 気になった列を下の詳細カードで確認します。</p>`}catch(e){root.innerHTML=`<p class="muted small">比較表を読み込めませんでした。詳細カードは下で確認できます。</p>`}}
+render();
+})();
