@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-09-03T11:23:16.821446Z",
+  "generated_at": "2026-09-03T11:42:02.122376Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -30,6 +30,11 @@
     }
   },
   "today": [
+    {
+      "title": "Primary fiscal balance",
+      "detail": "Conference Summary and Videos: Argentina’s Economic and Political Outlook - AS/COA",
+      "signal": "positive"
+    },
     {
       "title": "Big Money",
       "detail": "Continental Resources acquires 50% stake in Mercuria's Argentine shale oil firm Phoenix Global Resources in $4 billion-plus deal - Energies Media",
@@ -155,10 +160,10 @@
         "url": "https://www.argentina.gob.ar/economia/politicafiscal"
       },
       "latest_event": {
-        "title": "Conference Summary and Videos: Argentina’s Economic and Political Outlook - as-coa.org",
+        "title": "Conference Summary and Videos: Argentina’s Economic and Political Outlook - AS/COA",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNEhfT21SRUVzNVRzZy1ZUEpJSm82amsxRk5wZklhcUdlb1NxRzltRmxGMGl0QkY0WEY0YmpqcUsyX2VJU1ktN2dyRFFXQWpJSGJvNVBXVmlpNV8yZnhaSGt4N2FtNE55UU85NnpwOGxLNnhVUHIzUnVpc0JaY3hQM1dNWWRlcC1LZVZaOWhtUVZRWkhGejM5RjJMR1QtMVJnRjBjYnRn?oc=5",
         "published": "2026-08-20",
-        "source": "as-coa.org",
+        "source": "AS/COA",
         "topic": "fiscal_balance",
         "entities": []
       }
@@ -243,10 +248,10 @@
   ],
   "news": [
     {
-      "title": "How Could Energy Assets Shape Central Puerto (NYSE:CEPU) on NYSE? - Kalkine Media",
+      "title": "How Could Energy Assets Shape Central Puerto (NYSE:CEPU) on NYSE? - kalkinemedia.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdlNyQ2VrRVBYMTlpZUlReThaWUp0YUZ6YmlPWjhSLUNBRXZPNmZhUzM3UElDWDdXbHlzQkJjTWZpa0hJWXp2SHpSUTFxUjJpSWtXLW9TVC13WW1EalBTSjFrSHptREtmcUR4SXFBTnJ5MUw1cUhSMzFORkZGX0hyenZjZGlRb0JsbnUxaDJhNmtncjVub1IzRDhRdXFVTDFicHF5TFloZw?oc=5",
       "published": "2026-09-03",
-      "source": "Kalkine Media",
+      "source": "kalkinemedia.com",
       "topic": "company_news",
       "entities": [
         "CEPU"
@@ -330,10 +335,10 @@
       "entities": []
     },
     {
-      "title": "Billionaire Harold Hamm targets Argentina's shale basin - Billionaires.Africa",
+      "title": "Billionaire Harold Hamm targets Argentina's shale basin - billionaires.africa",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFZGSWZNZlFnT3hUV1ZOSDNTVjJTaEZFVTZPY0ZuYy16amVTakE2YzltZ3lJcnZZZmNvMFluVFFJY1llYVVGRTdFdVBUbk5WLUR2MW85eFRvR3JoUFJZdHliVzBlSlp5ZjJLMks1OE5aam96YUNxaS0zZllINk5xcjZSZTZKcko4WmNSRXBhOS11Q0IyRl9BMWhnV05BLVlONndYWHdPbUlkSjFBQllpTXg3bXk1ZzBqSXhLZ2pSeldqcU02SVBV?oc=5",
       "published": "2026-08-21",
-      "source": "Billionaires.Africa",
+      "source": "billionaires.africa",
       "topic": "big_money",
       "entities": [
         "Hamm"
@@ -369,10 +374,10 @@
       "entities": []
     },
     {
-      "title": "Central Puerto (NYSE: CEPU) higher H1 profit, $245M hydro deal - stocktitan.net",
+      "title": "Central Puerto (NYSE: CEPU) higher H1 profit, $245M hydro deal - Stock Titan",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZmVCNjcxSXZDYU5uVXhUSFZsQU1KSER3QzFGbmt1WmVnSDVxT09tVXpUTXBYbmRpRUp5LXRNMFN1ckhQbmY4eXV2bE1QZEQ2WUdYLVhNc25PWDNFWk00d00xVXFKZlQ3TG9zdEpQakticHg1cXViUDlBVEw4UmRKYW1aRlhHOV9mTTBCS083QVlzekFmNzM5SVRMdUZqcGRKXzZFSnlfM3d0blE3N2ZmSFJNYm0?oc=5",
       "published": "2026-08-19",
-      "source": "stocktitan.net",
+      "source": "Stock Titan",
       "topic": "company_news",
       "entities": [
         "CEPU"
