@@ -17,6 +17,8 @@ jobs:
       - name: Python tests
         run: python -m unittest discover -s tests -v
       - name: Offline generation smoke test
-        run: python scripts/update.py --offline
+        run: |
+          python scripts/update.py --offline
+          python scripts/augment_stocks.py --offline
       - name: Validate generated JSON
         run: python -m json.tool public/data/latest.json > /dev/null
