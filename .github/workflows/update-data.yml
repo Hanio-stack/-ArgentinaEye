@@ -4,6 +4,14 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "15 21 * * *" # 06:15 JST
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "public/app.js"
+      - "public/index.html"
+      - "public/styles.css"
+      - ".github/workflows/update-data.yml"
 
 permissions:
   contents: write
