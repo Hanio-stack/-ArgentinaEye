@@ -14,25 +14,26 @@
   <main class="shell">
     <header class="hero">
       <div>
-        <p class="eyebrow">アルゼンチン投資モニター</p>
+        <p class="eyebrow">アルゼンチン投資・学習モニター</p>
         <h1>ArgentinaEye <span>🇦🇷</span></h1>
         <p id="generatedAt" class="muted">読み込み中…</p>
       </div>
       <button id="refreshButton" class="refresh" type="button" aria-label="最新情報を再読み込み">↻</button>
     </header>
 
-    <section class="panel">
+    <section class="panel intro-panel">
       <strong>このサイトについて</strong>
-      <p class="muted" style="margin-bottom:0;line-height:1.65">ミレイ政権の改革、Vaca Muerta、RIGI、電力市場、海外資本と企業ニュースを追い、VIST / PAM / CEPU / TGS の投資テーマが前進しているかを毎朝確認するための公開ダッシュボードです。</p>
+      <p class="muted" style="margin-bottom:0;line-height:1.65">ミレイ政権の改革、Vaca Muerta、RIGI、電力市場、海外資本と企業ニュースを追い、VIST / PAM / CEPU / TGS を題材に<strong>企業分析を勉強する</strong>ためのダッシュボードです。売買を急ぐためではなく、「なぜ上がる・下がるのか」を自分で説明できるようになることを目的にしています。</p>
     </section>
 
     <details class="panel guide-panel" open>
       <summary>この画面の見方（初心者向け）</summary>
       <div class="guide-body">
         <p><strong>1. まずスコアを見る</strong><br>アルゼンチン全体と4銘柄の「事業テーマが順調か」を0〜100で表示します。<strong>株価が安い・買い時という意味ではありません。</strong></p>
-        <p><strong>2. 4社の役割を覚える</strong><br>VIST＝掘る、PAM＝総合エネルギー、CEPU＝電気を作る、TGS＝ガスを運ぶ。下のカードで追い風と逆風を確認できます。</p>
-        <p><strong>3. 7つの中核指標を見る</strong><br>支持率、インフレ、外貨準備、財政、Vaca Muerta、RIGI、電力を確認。赤や悪化が増えた日だけ深掘りします。</p>
-        <p><strong>4. 企業・大口資本ニュースを見る</strong><br>4社のニュースに加え、Thiel / Hamm / Chevron / Mercuria / Eni / XRG などの資本移動を監視します。</p>
+        <p><strong>2. 4社の役割を覚える</strong><br>VIST＝掘る、PAM＝総合エネルギー、CEPU＝電気を作る、TGS＝ガスを運ぶ。下のカードで追い風と逆風を確認します。</p>
+        <p><strong>3. 中核指標を見る</strong><br>支持率、インフレ、外貨準備、財政、Vaca Muerta、RIGI、電力を確認。「会社のニュース」と「国全体の変化」をつなげます。</p>
+        <p><strong>4. 次に株価の値段を見る</strong><br>良い会社でも高すぎれば買いにくいので、PER / EV・EBITDA / FCF / 借金を別に考えます。下の「企業分析を学ぶ」で練習できます。</p>
+        <p><strong>5. 最後に買う・買わないを考える</strong><br>Bear / Base / Bull の3シナリオを作り、失敗した時の下落と成功した時の上昇を比べます。</p>
         <p class="muted small">日本語訳は機械翻訳です。翻訳時に外部サービスへ送るのは公開ニュースの見出しだけで、個人情報や保有情報は送信しません。</p>
       </div>
     </details>
@@ -42,12 +43,58 @@
     <section>
       <div class="section-head"><h2>投資テーマ・スコア</h2><p>事業環境の健康度。株価の割安・割高は含みません。</p></div>
       <div id="scores" class="score-grid"></div>
-      <p class="hint">目安：80以上＝かなり追い風 / 65〜79＝良好 / 50〜64＝中立 / 35〜49＝弱い / 34以下＝警戒。価格評価は別途必要です。</p>
+      <p class="hint">目安：80以上＝かなり追い風 / 65〜79＝良好 / 50〜64＝中立 / 35〜49＝弱い / 34以下＝警戒。高得点でも「株価が高すぎる」可能性はあります。</p>
     </section>
 
     <section>
       <div class="section-head"><h2>4社の違い</h2><p>まず「何で儲かる会社か」をざっくり把握</p></div>
       <div id="stockWatch" class="stock-watch-grid"></div>
+    </section>
+
+    <section>
+      <div class="section-head"><h2>NISAで買える？</h2><p>2026年9月3日確認 · 成長投資枠</p></div>
+      <div class="broker-grid">
+        <article class="broker-card">
+          <div class="broker-card__head"><strong>SBI証券</strong><span class="ok-pill">4社とも ○</span></div>
+          <p>VIST / PAM / CEPU / TGS はすべてSBI証券の現行米国株取扱一覧に掲載。米国個別株は<strong>ADRを含めNISA成長投資枠</strong>の対象です。</p>
+          <div class="ticker-row"><span>VIST ○</span><span>PAM ○</span><span>CEPU ○</span><span>TGS ○</span></div>
+          <div class="broker-links"><a href="https://search.sbisec.co.jp/v2/popwin/info/stock/pop6040_usequity_list.html" target="_blank" rel="noopener noreferrer">取扱銘柄一覧 ↗</a><a href="https://www.sbisec.co.jp/ETGate/?OutSide=on&_ActionID=DefaultAID&_ControlID=WPLETmgR001Control&_DataStoreID=DSWPLETmgR001Control&_PageID=WPLETmgR001Mdtl20&burl=search_nisa&cat1=nisa&cat2=growth&dir=growth&file=nisa_growth_top.html&getFlg=on" target="_blank" rel="noopener noreferrer">NISA成長投資枠 ↗</a></div>
+        </article>
+        <article class="broker-card">
+          <div class="broker-card__head"><strong>松井証券</strong><span class="ok-pill">4社とも ○</span></div>
+          <p>松井証券は「取扱いのある米国個別株・ADRはすべてNISA成長投資枠で投資可能」と明記。4社の取扱いも確認済みです。</p>
+          <div class="ticker-row"><span>VIST ○</span><span>PAM ○</span><span>CEPU ○</span><span>TGS ○</span></div>
+          <div class="broker-links"><a href="https://www.matsui.co.jp/us-stock/domestic/list/symbollist/" target="_blank" rel="noopener noreferrer">取扱銘柄一覧 ↗</a><a href="https://www.matsui.co.jp/nisa/list/" target="_blank" rel="noopener noreferrer">NISA対象ルール ↗</a></div>
+        </article>
+      </div>
+      <div class="panel beginner-note">
+        <strong>初心者メモ：NISAなら何でも少額で買えるわけではない</strong>
+        <p>この4社は<strong>つみたて投資枠ではなく「成長投資枠」</strong>で買います。米国株は基本1株単位です。たとえば1株が1万円を超えている銘柄は、月1万円の予算ではその月に買えないことがあります。SBIの「金額指定積立」も端株を買う仕組みではなく、設定額以内で買える整数株を発注する方式です。</p>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-head"><h2>企業分析を学ぶ</h2><p>「良い会社」と「良い値段」を分けて考える</p></div>
+      <div class="learn-grid">
+        <article class="learn-card"><span class="learn-step">STEP 1</span><h3>本業は強い？</h3><strong>EBITDA</strong><p>利息・税金・減価償却などを引く前の、本業の稼ぐ力を見る目安。「この事業自体はどれくらい稼げる？」を見る。</p></article>
+        <article class="learn-card"><span class="learn-step">STEP 2</span><h3>値札は高い？</h3><strong>PER / EV・EBITDA</strong><p>利益やEBITDAに対して、市場が何倍の値段を付けているか。同じ成長率なら、倍率が高いほど期待を先に織り込んでいる可能性があります。</p></article>
+        <article class="learn-card"><span class="learn-step">STEP 3</span><h3>現金は残る？</h3><strong>FCF</strong><p>事業を動かし、必要な設備投資もした後に会社へ残る自由なお金。利益が出ていてもFCFが弱い会社は、大きな投資負担を抱えていることがあります。</p></article>
+        <article class="learn-card"><span class="learn-step">STEP 4</span><h3>借金は重い？</h3><strong>純有利子負債</strong><p>ざっくり「借金 − 現金」。会社全体の価値が大きくても、借金が多いほど株主に残る価値は小さくなります。</p></article>
+        <article class="learn-card"><span class="learn-step">STEP 5</span><h3>未来を3つ作る</h3><strong>Bear / Base / Bull</strong><p>弱気・標準・強気の3シナリオ。「当たる予言」を作るのではなく、どの前提が崩れると損するかを見える化します。</p></article>
+        <article class="learn-card"><span class="learn-step">STEP 6</span><h3>最後に株価へ</h3><strong>企業価値 → 株主価値</strong><p>例：EBITDA × 評価倍率 ＝ 企業価値。そこから純負債を引き、株数で割ると1株の価値をざっくり考えられます。</p></article>
+      </div>
+      <div class="formula-box"><strong>超ざっくり式</strong><code>EBITDA × EV/EBITDA倍率 − 純負債 → 株主価値 → 株数で割る → 1株価値</code><p>ArgentinaEyeの次の段階では、この「バリュエーション（値段の評価）」を事業テーマ・スコアと分離して表示していきます。</p></div>
+    </section>
+
+    <section>
+      <div class="section-head"><h2>買う前の5問</h2><p>答えられなければ、まだ調べる余地あり</p></div>
+      <ol class="study-checklist panel">
+        <li><strong>この会社は何で儲けている？</strong><span>VISTなら原油、TGSなら輸送など、一文で言えるか。</span></li>
+        <li><strong>何が起きれば利益が伸びる？</strong><span>生産量、油価、電力料金、輸送量など、主なドライバーを言えるか。</span></li>
+        <li><strong>何が起きたら仮説が壊れる？</strong><span>政権交代、原油安、借金増、規制復活などを具体化できるか。</span></li>
+        <li><strong>その期待は株価にもう入っていない？</strong><span>PER / EV・EBITDA / FCF と過去の倍率を確認する。</span></li>
+        <li><strong>半値になっても理由を説明して持てる？</strong><span>「下がったから怖い」ではなく、仮説が壊れたのか単なる値動きなのかを分ける。</span></li>
+      </ol>
     </section>
 
     <section>
@@ -60,6 +107,14 @@
       <div class="glossary-grid">
         <div><strong>Vaca Muerta</strong><p>アルゼンチンの巨大シェール油・ガス地域。VIST・PAM・TGSの成長テーマの中心。</p></div>
         <div><strong>RIGI</strong><p>大型投資を呼び込むための優遇制度。承認額が増えても「もう稼働した」という意味ではない点に注意。</p></div>
+        <div><strong>ADR</strong><p>外国企業の株を米国市場で売買しやすくした「預託証券」。VIST / PAM / CEPU / TGS は米国市場でADRとして取引できます。</p></div>
+        <div><strong>NISA成長投資枠</strong><p>年間240万円まで使えるNISAの枠。米国個別株は主にこちら。つみたて投資枠とは別物です。</p></div>
+        <div><strong>PER</strong><p>株価が利益の何倍まで買われているか。低い＝必ず割安ではなく、成長期待やリスクとセットで見ます。</p></div>
+        <div><strong>EBITDA</strong><p>本業の稼ぐ力を見るための代表的な指標。設備の大きいエネルギー会社の比較でよく使われます。</p></div>
+        <div><strong>EV / EBITDA</strong><p>会社全体の値段（EV）がEBITDAの何倍か。企業同士の値段を比べる物差しのひとつ。</p></div>
+        <div><strong>FCF</strong><p>Free Cash Flow。設備投資などをした後に残る現金。将来の借金返済・配当・自社株買いなどの原資になります。</p></div>
+        <div><strong>純有利子負債</strong><p>ざっくり借金から現金を引いた額。増えすぎると、事業が伸びても株主価値を圧迫することがあります。</p></div>
+        <div><strong>Bear / Base / Bull</strong><p>弱気 / 標準 / 強気シナリオ。予言ではなく「どの前提ならどの株価になり得るか」を整理する方法。</p></div>
         <div><strong>外貨準備</strong><p>中央銀行が持つドルなどの外貨。通貨危機への「貯金」に近く、増える方が基本的に安心材料。</p></div>
         <div><strong>一次財政収支</strong><p>国の収入−支出を、借金の利払いを除いて見た数字。黒字維持は財政改善のサイン。</p></div>
         <div><strong>bpd</strong><p>barrels per day。1日に何バレルの原油を生産するか。k bpdなら「千バレル/日」。</p></div>
@@ -72,7 +127,7 @@
       <div id="news" class="news-list"></div>
     </section>
     <section><details class="panel source-panel"><summary>データ取得状況</summary><div id="sourceHealth"></div></details></section>
-    <footer><p>一次情報優先・欠損は欠損のまま表示。スコアは事業テーマの健康度であり売買推奨・割安度ではありません。ArgentinaEye v0.3</p></footer>
+    <footer><p>一次情報優先・欠損は欠損のまま表示。スコアは事業テーマの健康度であり売買推奨・割安度ではありません。NISA可否は2026-09-03確認、発注時は各証券会社画面で最終確認してください。ArgentinaEye v0.4</p></footer>
   </main>
   <template id="scoreTemplate"><article class="score-card"><div class="score-card__top"><span class="score-card__name"></span><span class="badge"></span></div><div class="score-card__value"></div><div class="bar"><i></i></div><p class="score-card__meta muted"></p></article></template>
   <template id="metricTemplate"><article class="metric-card"><div class="metric-card__head"><div><p class="metric-card__kicker"></p><h3 class="metric-card__label"></h3></div><span class="status-dot"></span></div><div class="metric-card__value"></div><p class="metric-card__change"></p><p class="metric-card__detail muted"></p><a class="metric-card__source" target="_blank" rel="noopener noreferrer">出典 ↗</a></article></template>
