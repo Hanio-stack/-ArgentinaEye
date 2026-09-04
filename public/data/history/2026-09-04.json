@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "mode": "auto",
   "generated_at": "2026-09-04T23:03:06.417880Z",
   "scores": {
@@ -16,16 +16,6 @@
     "cepu": {
       "label": "CEPU",
       "score": 63.6,
-      "confidence": 1.0
-    },
-    "pam": {
-      "label": "PAM",
-      "score": 73.8,
-      "confidence": 1.0
-    },
-    "tgs": {
-      "label": "TGS",
-      "score": 79.7,
       "confidence": 1.0
     }
   },
@@ -263,16 +253,6 @@
   ],
   "news": [
     {
-      "title": "How Could Energy Assets Shape Central Puerto (NYSE:CEPU) on NYSE? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdlNyQ2VrRVBYMTlpZUlReThaWUp0YUZ6YmlPWjhSLUNBRXZPNmZhUzM3UElDWDdXbHlzQkJjTWZpa0hJWXp2SHpSUTFxUjJpSWtXLW9TVC13WW1EalBTSjFrSHptREtmcUR4SXFBTnJ5MUw1cUhSMzFORkZGX0hyenZjZGlRb0JsbnUxaDJhNmtncjVub1IzRDhRdXFVTDFicHF5TFloZw?oc=5",
-      "published": "2026-09-03",
-      "source": "Kalkine Media",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
       "title": "Continental Resources acquires 50% stake in Mercuria's Argentine shale oil firm Phoenix Global Resources in $4 billion-plus deal - Energies Media",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vSW1tZy1rYWw5Z3N1RUlXUWVFeXhFcm43X3R6a1Bveld6NGxDeVk0ZlR1SVZJTjVSNVpVRlQtWDFtNUZHbmJ4ZzdKLVd1T0tOaFVWMWp3UThjVk43SlE5LWVSU2plNlV2Q3ZCU1FRdzNLN04ydVRsUUJZUQ?oc=5",
       "published": "2026-08-30",
@@ -284,16 +264,6 @@
       ]
     },
     {
-      "title": "San Matías Pipeline secures $900 million for Vaca Muerta-to-LNG gas pipeline - Oil & Gas Journal",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX2NqeWxQYTB6RGNaWno1bkNGWWtwNFlkQVR5WUh2UXR3SzNPN0JTMDRHRWVpUi1kVkxmRm5selJkb2tKWXdYUy1NUkVtVzc5a1pCMEVsMUdqV0VxNGFHWTVmWkpOVUV0T09UWGtMcTI0Q2ZBUkJMSzdoZW0zWkZlYy16WUpRUkhmay0xZVNEbkZVcExUX19TbHdsR19oSG1pMnJ1dVN4cHZHV25DelJ1XzJoMXBSN0xDY1U3Ulg3eGJKaTFURzB6b1gtV1VpNzBIajRGSHUtVU9sWFdt?oc=5",
-      "published": "2026-08-28",
-      "source": "Oil & Gas Journal",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
       "title": "Continental Resources Inks HOA With Mercuria Energy for Vaca Muerta Shale Joint Venture - JPT Homepage",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX3FaUS1KZl8wNC0tNnVGeTFaWVI5V2x0VTdYb1dmSVU5Q2s2UFRpazhZS2ZWTjVCWFNiWDdfQV9ZOHlnaTVDUjhTNjVBeThDdWFIb3FLd1hMUkhwQjdTTE9zM1Z0dEtlUnpRSDdHV0poQ1hfelozVWtoY0RDcE1Xc3dVRnNIX1hYN2NZQWlEbWtUVXZqTEVPZEdHVkF4eXVrVHVLWUMtX1ZTSTg?oc=5",
       "published": "2026-08-28",
@@ -302,56 +272,6 @@
       "entities": [
         "Hamm",
         "Mercuria"
-      ]
-    },
-    {
-      "title": "Can ‘Argentina’s Texas’ Save the Country’s Economy? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmJnZHpaVTVQRnNjSTFrdEdoNGh1dU5VeENIQnRTdWxaWEY4bVRHOWwyaFU4UENCSGhtanZDY25yZzlCcTdrUHgyRWR0ZTdkZ3FrX3pfLUVNcVpUclR0Y0NmZndyRU1fWUZ4MmJqSmp2dC1ocFlQNU1PSHJYRk5LX2lwRWc4Y243Y0hYMg?oc=5",
-      "published": "2026-08-26",
-      "source": "The New York Times",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "Continental Eyes Venture to Drill in Argentina's Vaca Muerta - Industrial Info Resources",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY0NNM2NnX3M2cC1FdUtCNS1IcDJobDdfVHZtUTdseW9iMjJ5TFMxbXlMSGFxUGFORHQtaGYtNUVqVVBsaVhUazJUbG43VnVqSmVYc0NydWphMmdkN0FITzZaeDRBRXNIMkQyRHlSWUJ6aFBOZzVzNTlPdFdtdmpnMkQ0Z0V1a2haaW1RSzU0M0NYWEI3MVB0eGtJNnpsYXhOVy1iTDlRT1IzX1l0YVJRSmlhbkhTcGZ4eUFGUzhtaTZLSGV5bjRRVm93?oc=5",
-      "published": "2026-08-26",
-      "source": "Industrial Info Resources",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "YPF, Pampa, TGS, TGN, and more: Argentina's big-ticket energy projects mapped out - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ2h0UHFQTGVBeXcyc2JBUEhaMHFPZ2U5MXRKTF9yeVNqTkpOeHptLVZqMjVobnlkbHU4bE93YXNRN242Q0N4T1JCaVZ0cnhTbGlBdmFZa0ZuRlVRbE5ESEhzeGVCc0RWUWFMYi1xeW1JN18tR185OXU1U1RUTEZLMHpZRDQ0bnFIbTdTS2RoZjNabmtjRVNnbk10c21DV0FiNlFWLXdjVTRXdXE2WmdXSTVqWnI?oc=5",
-      "published": "2026-08-26",
-      "source": "BNamericas",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
-      "title": "Transportadora de Gas del Sur: Vaca Muerta Infrastructure Creates A New Growth Platform - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdXNHWEo3WXVLUzBWMmRfTmpIb2Y2Q0VIbHc3SzJuZzRpTVZ4TUROMGI0clBfeVZQc0VLcEF6RmVQa3Y2blFUWmhFc29uZ3Rqdk84SjEwSkVzbi01NEJIb0JTVHhudXFtblo4a1Ixa2ZKdmd3Sk12NEdfYnpWLXBHZUZWODhzdlFBZGtzRUtPVDM2ZEhWdHNLcm5oQ05JWHprUlgzb05lUEtZSXoxQkJiRkVvaG5TV3dhV2Y4aEJrUXhzZXhDM0E?oc=5",
-      "published": "2026-08-25",
-      "source": "Seeking Alpha",
-      "topic": "company_news",
-      "entities": [
-        "TGS"
-      ]
-    },
-    {
-      "title": "Citi maintains buy ratings on Argentina power firms amid sector shifts - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdi0yWjMwLV9UbVdkYkt2bk5FZ0YxRnZTM3lvZm1ReUhBOHpwRl8zSTJVNVRkUmptcm1jV2RqalJtU3hJdVgxSG1salZVWWJ2dF9IQjMyQUxQaVhna0ZFVWszb1BLa0s0Q0RBRXliZ19iZzFTMlVEMVJWZ2wwMFVUX2JlSkQzYlFmdlpvVGR4RTJpdWE3NVoyRWM2UVpiSjd0YVhsV016U1JCdFdDampMU3MyUW0tM05IbDFTQ1cycWs4SVE0RlM0dGRDakw?oc=5",
-      "published": "2026-08-24",
-      "source": "Investing.com",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
       ]
     },
     {
@@ -378,16 +298,6 @@
       "topic": "big_money",
       "entities": [
         "Hamm"
-      ]
-    },
-    {
-      "title": "Pampa Energia raises $138M in local-market bonds - app.dealroom.co",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVhtalp6SWRydGJrWlRCblZ4VzZ6aWNtM09GVi1HSVJEZDhINnBFRHpCVlFxeUt4eXd5UU9VUWcwWXNQMkRsaC1HbXJsbHV3T2IwUkNqd0RlY1doYjN6LWpHRzN1RG0ya1A0eGhaX2VRSUMtRnhlUlFmemUtbVFXOVlrdFNRakFQ?oc=5",
-      "published": "2026-08-20",
-      "source": "app.dealroom.co",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
       ]
     },
     {
@@ -429,36 +339,6 @@
       "topic": "vaca_muerta_oil",
       "entities": [
         "Thiel"
-      ]
-    },
-    {
-      "title": "Vista Energy up 4% after billionaire Peter Thiel buys stake in the Argentine shale oil producer - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbUs3V2FwQUg5N1ZLeUE0eG9kMnR0bE9CRElUUGl2LVdpOHVzaV85ZDhsQ2FlbkdYanNpMWFOcVdUM2U0RndRWkNZTElJVlBWdWRMT1JubGxHRHlxRDQ3cUw1SGVFczFxX3JwY3BJMUllMVllMlJJaUt2QWpWakQwUF9oWmNON3JGNlVndW8xRldkd9IBlwFBVV95cUxNMVdfVkVXM1JRQk9Vbm93ZldLLXdxVExJY0RGMEU2VTZNbTEya0VzQUFRc2pPMGIwUkQxTHA2Y0EwTUxNMGNPcFJrVHlvc0pDRWVKUzkxSE90WEZKV2ZSeWxGdkpDVkl6dUJZdUtaVHdFV1hIcmNSdDNVRVJvZG90MS12Z056ZVB4bktNS25TeVNZTUZDZ1BV?oc=5",
-      "published": "2026-08-17",
-      "source": "CNBC",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "Transportadora de Gas del Sur Posts Higher H1 2026 Revenue Amid Transport Tariff Pressure and Strong Capacity Demand - theglobeandmail.com",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNTEM5TnV5QW5ieHdfTVh0cFFyU0daXzhXdE55RU9rOXFycUJDYjlNVzRiOHVZNU4ycngwTzJHOENPWGpjSWlFdGU2OFlMV3NoMzQ5T3JHR1JXZ1JOSEQyS1J6QXF0MjhSeVBIRWN6NnpVWldfeWcxRVI1UWZCY3B4Nnh6d1Y1UWU5TWk2MURJWGVYWE5OV3dvM2hzbm5WejJJOU1La3NqVWlqYUMzbHE2Y1l6ckNVZ0NMWk83MUpPZVNqcE92SEZHT1ZkZFRCTWNVcHg0SGx6ZXVDMzd0d0YxRFduVmhCLXlpRXlYdDllOXpveFNyUGZ2RGd5bjFMY0Rmdld2aXNCZGNuRXVyLWo4eDRMOEZPbVlnemtOV09IX0hsUE0yeEM0?oc=5",
-      "published": "2026-08-14",
-      "source": "theglobeandmail.com",
-      "topic": "company_news",
-      "entities": [
-        "TGS"
-      ]
-    },
-    {
-      "title": "TGS Stock Advances 1.81% as Argentine Energy Infrastructure Demand Holds Steady - Monthly Profile - vinanet.vn",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOHhHRFZCR1R3ZnB5Rzg3MXQ3ZVNvTFc5YzZpWi16azFVTkJXOWVjNU9sM3JiM1NYbkpiUVBlVjdGYTJ5dXRQd1kzSFJfRFlqU19lcVhPZ05ieERnNjJVaHhqUFFIVmxfZVZEV3dBUTlQS2dKTS1NZkpjb1dHeGNhSUkySnNpdlFFNW5WMWFsSmhwLUdEeDVtQWw2VUVPbjdId2k2ellWUTRkX0RUTnVGdkZpTVlhdlpNV1E?oc=5",
-      "published": "2026-08-10",
-      "source": "vinanet.vn",
-      "topic": "company_news",
-      "entities": [
-        "TGS"
       ]
     }
   ],
@@ -522,26 +402,6 @@
       "name": "News: big_money",
       "ok": true,
       "note": "6 items"
-    },
-    {
-      "name": "Stock news: VIST",
-      "ok": true,
-      "note": "3 items"
-    },
-    {
-      "name": "Stock news: PAM",
-      "ok": true,
-      "note": "3 items"
-    },
-    {
-      "name": "Stock news: CEPU",
-      "ok": true,
-      "note": "3 items"
-    },
-    {
-      "name": "Stock news: TGS",
-      "ok": true,
-      "note": "3 items"
     }
   ],
   "stock_watch": [
