@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-04T23:03:08.204642Z",
+  "generated_at": "2026-09-05T22:55:09.587459Z",
   "source": "StockAnalysis / S&P Global Market Intelligence",
   "source_note": "価格・倍率は市場や決算で変わります。取得失敗時は直前の値を残し、stale表示にします。",
   "stocks": {
     "vist": {
       "label": "VIST",
       "price": 77.03,
-      "market_cap_b": 8.28,
-      "enterprise_value_b": 11.72,
-      "pe": 9.97,
-      "forward_pe": 8.08,
-      "ev_ebitda": 5.46,
-      "p_fcf": 27.49,
+      "market_cap_b": 8.23,
+      "enterprise_value_b": 11.68,
+      "pe": 9.91,
+      "forward_pe": 8.03,
+      "ev_ebitda": 5.44,
+      "p_fcf": 27.32,
       "debt_ebitda": 1.74,
       "change_52w": 93.06,
       "status": "fresh",
@@ -28,7 +28,7 @@
       "ev_ebitda": 6.53,
       "p_fcf": null,
       "debt_ebitda": 2.72,
-      "change_52w": 28.37,
+      "change_52w": 28.64,
       "status": "fresh",
       "as_of": "2026-09-04",
       "source_url": "https://stockanalysis.com/stocks/pam/statistics/"
@@ -36,12 +36,12 @@
     "cepu": {
       "label": "CEPU",
       "price": 14.32,
-      "market_cap_b": 2.22,
-      "enterprise_value_b": 2.79,
-      "pe": 6.71,
-      "forward_pe": 7.77,
-      "ev_ebitda": 5.95,
-      "p_fcf": 54.56,
+      "market_cap_b": 2.21,
+      "enterprise_value_b": 2.78,
+      "pe": 6.69,
+      "forward_pe": 7.75,
+      "ev_ebitda": 5.93,
+      "p_fcf": 54.44,
       "debt_ebitda": 1.48,
       "change_52w": 39.56,
       "status": "fresh",
@@ -51,14 +51,14 @@
     "tgs": {
       "label": "TGS",
       "price": 29.67,
-      "market_cap_b": 4.57,
-      "enterprise_value_b": 4.24,
-      "pe": 13.05,
+      "market_cap_b": 4.58,
+      "enterprise_value_b": 4.25,
+      "pe": 13.06,
       "forward_pe": 11.54,
       "ev_ebitda": 6.16,
       "p_fcf": 20.42,
       "debt_ebitda": 1.66,
-      "change_52w": 13.86,
+      "change_52w": 14.06,
       "status": "fresh",
       "as_of": "2026-09-04",
       "source_url": "https://stockanalysis.com/stocks/tgs/statistics/"
@@ -145,22 +145,22 @@
         "ebitda_b": 2.4,
         "multiple": 4.0,
         "net_debt_b": 2.0,
-        "target_price": 70.7,
-        "upside_pct": -8.2
+        "target_price": 71.13,
+        "upside_pct": -7.7
       },
       "base": {
         "ebitda_b": 2.8,
         "multiple": 5.0,
         "net_debt_b": 1.5,
-        "target_price": 116.29,
-        "upside_pct": 51.0
+        "target_price": 117.0,
+        "upside_pct": 51.9
       },
       "bull": {
         "ebitda_b": 3.2,
         "multiple": 6.0,
         "net_debt_b": 1.0,
-        "target_price": 169.32,
-        "upside_pct": 119.8
+        "target_price": 170.35,
+        "upside_pct": 121.1
       }
     },
     "pam": {
@@ -193,22 +193,22 @@
         "ebitda_b": 0.45,
         "multiple": 4.5,
         "net_debt_b": 0.7,
-        "target_price": 8.55,
-        "upside_pct": -40.3
+        "target_price": 8.59,
+        "upside_pct": -40.0
       },
       "base": {
         "ebitda_b": 0.6,
         "multiple": 5.5,
         "net_debt_b": 0.5,
-        "target_price": 18.06,
-        "upside_pct": 26.1
+        "target_price": 18.14,
+        "upside_pct": 26.7
       },
       "bull": {
         "ebitda_b": 0.75,
         "multiple": 6.5,
         "net_debt_b": 0.3,
-        "target_price": 29.51,
-        "upside_pct": 106.1
+        "target_price": 29.64,
+        "upside_pct": 107.0
       }
     },
     "tgs": {
@@ -217,22 +217,22 @@
         "ebitda_b": 0.65,
         "multiple": 5.0,
         "net_debt_b": 0.3,
-        "target_price": 19.15,
-        "upside_pct": -35.4
+        "target_price": 19.11,
+        "upside_pct": -35.6
       },
       "base": {
         "ebitda_b": 0.85,
         "multiple": 6.0,
         "net_debt_b": 0.0,
-        "target_price": 33.11,
-        "upside_pct": 11.6
+        "target_price": 33.04,
+        "upside_pct": 11.4
       },
       "bull": {
         "ebitda_b": 1.05,
         "multiple": 7.0,
         "net_debt_b": 0.0,
-        "target_price": 47.72,
-        "upside_pct": 60.8
+        "target_price": 47.61,
+        "upside_pct": 60.5
       }
     }
   },
