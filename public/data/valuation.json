@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-06T22:53:40.160099Z",
+  "generated_at": "2026-09-07T23:29:25.129365Z",
   "source": "StockAnalysis / S&P Global Market Intelligence",
   "source_note": "価格・倍率は市場や決算で変わります。取得失敗時は直前の値を残し、stale表示にします。",
   "stocks": {
     "vist": {
       "label": "VIST",
       "price": 77.03,
-      "market_cap_b": 8.23,
-      "enterprise_value_b": 11.68,
-      "pe": 9.91,
-      "forward_pe": 8.03,
-      "ev_ebitda": 5.44,
-      "p_fcf": 27.32,
+      "market_cap_b": 8.17,
+      "enterprise_value_b": 11.62,
+      "pe": 9.84,
+      "forward_pe": 7.98,
+      "ev_ebitda": 5.41,
+      "p_fcf": 27.12,
       "debt_ebitda": 1.74,
       "change_52w": 93.06,
       "status": "fresh",
@@ -24,7 +24,7 @@
       "market_cap_b": 4.78,
       "enterprise_value_b": 6.12,
       "pe": 8.39,
-      "forward_pe": 8.28,
+      "forward_pe": 8.3,
       "ev_ebitda": 6.53,
       "p_fcf": null,
       "debt_ebitda": 2.72,
@@ -39,7 +39,7 @@
       "market_cap_b": 2.21,
       "enterprise_value_b": 2.78,
       "pe": 6.69,
-      "forward_pe": 7.75,
+      "forward_pe": 7.76,
       "ev_ebitda": 5.93,
       "p_fcf": 54.44,
       "debt_ebitda": 1.48,
@@ -54,7 +54,7 @@
       "market_cap_b": 4.58,
       "enterprise_value_b": 4.25,
       "pe": 13.06,
-      "forward_pe": 11.54,
+      "forward_pe": 11.57,
       "ev_ebitda": 6.16,
       "p_fcf": 20.42,
       "debt_ebitda": 1.66,
@@ -145,22 +145,22 @@
         "ebitda_b": 2.4,
         "multiple": 4.0,
         "net_debt_b": 2.0,
-        "target_price": 71.13,
-        "upside_pct": -7.7
+        "target_price": 71.66,
+        "upside_pct": -7.0
       },
       "base": {
         "ebitda_b": 2.8,
         "multiple": 5.0,
         "net_debt_b": 1.5,
-        "target_price": 117.0,
-        "upside_pct": 51.9
+        "target_price": 117.85,
+        "upside_pct": 53.0
       },
       "bull": {
         "ebitda_b": 3.2,
         "multiple": 6.0,
         "net_debt_b": 1.0,
-        "target_price": 170.35,
-        "upside_pct": 121.1
+        "target_price": 171.6,
+        "upside_pct": 122.8
       }
     },
     "pam": {
