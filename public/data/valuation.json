@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T23:03:29.828474Z",
+  "generated_at": "2026-09-13T23:09:49.129003Z",
   "source": "StockAnalysis / S&P Global Market Intelligence",
   "source_note": "価格・倍率は市場や決算で変わります。取得失敗時は直前の値を残し、stale表示にします。",
   "stocks": {
