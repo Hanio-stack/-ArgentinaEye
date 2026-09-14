@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T23:09:49.129003Z",
+  "generated_at": "2026-09-14T23:52:43.209743Z",
   "source": "StockAnalysis / S&P Global Market Intelligence",
   "source_note": "価格・倍率は市場や決算で変わります。取得失敗時は直前の値を残し、stale表示にします。",
   "stocks": {
@@ -13,9 +13,9 @@
       "ev_ebitda": 5.56,
       "p_fcf": 28.24,
       "debt_ebitda": 1.74,
-      "change_52w": 99.82,
+      "change_52w": 113.97,
       "status": "fresh",
-      "as_of": "2026-09-11",
+      "as_of": "2026-09-14",
       "source_url": "https://stockanalysis.com/stocks/vist/statistics/"
     },
     "pam": {
@@ -28,24 +28,24 @@
       "ev_ebitda": 6.67,
       "p_fcf": null,
       "debt_ebitda": 2.72,
-      "change_52w": 40.53,
+      "change_52w": 45.68,
       "status": "fresh",
-      "as_of": "2026-09-11",
+      "as_of": "2026-09-14",
       "source_url": "https://stockanalysis.com/stocks/pam/statistics/"
     },
     "cepu": {
       "label": "CEPU",
       "price": 14.32,
-      "market_cap_b": 2.24,
-      "enterprise_value_b": 2.8,
-      "pe": 6.77,
-      "forward_pe": 7.86,
-      "ev_ebitda": 5.99,
-      "p_fcf": 55.14,
+      "market_cap_b": 2.21,
+      "enterprise_value_b": 2.77,
+      "pe": 6.68,
+      "forward_pe": 7.75,
+      "ev_ebitda": 5.92,
+      "p_fcf": 54.33,
       "debt_ebitda": 1.48,
-      "change_52w": 60.25,
+      "change_52w": 63.55,
       "status": "fresh",
-      "as_of": "2026-09-11",
+      "as_of": "2026-09-14",
       "source_url": "https://stockanalysis.com/stocks/cepu/statistics/"
     },
     "tgs": {
@@ -56,11 +56,11 @@
       "pe": 13.52,
       "forward_pe": 11.99,
       "ev_ebitda": 6.4,
-      "p_fcf": 21.17,
+      "p_fcf": 21.15,
       "debt_ebitda": 1.66,
-      "change_52w": 29.92,
+      "change_52w": 40.35,
       "status": "fresh",
-      "as_of": "2026-09-11",
+      "as_of": "2026-09-14",
       "source_url": "https://stockanalysis.com/stocks/tgs/statistics/"
     }
   },
@@ -193,22 +193,22 @@
         "ebitda_b": 0.45,
         "multiple": 4.5,
         "net_debt_b": 0.7,
-        "target_price": 8.47,
-        "upside_pct": -40.8
+        "target_price": 8.59,
+        "upside_pct": -40.0
       },
       "base": {
         "ebitda_b": 0.6,
         "multiple": 5.5,
         "net_debt_b": 0.5,
-        "target_price": 17.9,
-        "upside_pct": 25.0
+        "target_price": 18.14,
+        "upside_pct": 26.7
       },
       "bull": {
         "ebitda_b": 0.75,
         "multiple": 6.5,
         "net_debt_b": 0.3,
-        "target_price": 29.25,
-        "upside_pct": 104.2
+        "target_price": 29.64,
+        "upside_pct": 107.0
       }
     },
     "tgs": {
