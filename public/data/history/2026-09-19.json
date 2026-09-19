@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "mode": "auto",
   "generated_at": "2026-09-19T23:03:44.068021Z",
   "scores": {
@@ -16,16 +16,6 @@
     "cepu": {
       "label": "CEPU",
       "score": 63.2,
-      "confidence": 1.0
-    },
-    "pam": {
-      "label": "PAM",
-      "score": 73.2,
-      "confidence": 1.0
-    },
-    "tgs": {
-      "label": "TGS",
-      "score": 79.2,
       "confidence": 1.0
     }
   },
@@ -243,72 +233,12 @@
   ],
   "news": [
     {
-      "title": "CEPU Looks 11.1% Undervalued on GF Value™ - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2o4X3NwUFFiNVFjU3MzaV9lNUtKRXNsOXBxc2JFSjhyTEVFMl9TTjJQT0lhVWpCYkVJLVZhNTBpNGlEUm9BemZKX3BsYnk2SzZDWHpzbUxjanZIclZ5ZkxVM1FqZ05JQVpFbkhtTXkwbjdXSmc5Yk9yMG14akZBdEt5dw?oc=5",
-      "published": "2026-09-17",
-      "source": "GuruFocus",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
       "title": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows - Crude Oil Prices Today | OilPrice.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeHNkUWx4eWdMREluckh4d0JZRnVJNmxNR1lDY3VLYTE2UEd1T1VaNTd6NUJHMW9qVU1kWlR3ZEJ1bkNhUHZDOE9fem9RZ294ZjRtSzhNeDlvVEh2QkZIOFBRS3dIWkpDbUtaOVZsUmctOEhWUUJOOEtFbUM2VDR1S2UzZGk2SS1sblJTanFxbWFzWnhSRmRkVUtlREg2ZDVLNUc4WHBEenJoRlBFSENN0gGvAUFVX3lxTE94c2RRbHh5Z0xESW5ySHh3QllGdUk2bE1HWUNjdUthMTZQR3VPVVo1N3o1Qkcxb2pVTWRaVHdkQnVuQ2FQdkM4T196b1Fnb3hmNG1LOE14OW9USHZCRkg4UFFLd0haSkNtS1o5VmxSZy04SFZRQk44S0VtQzZUNHVLZTNkaTZJLWxuUlNqcXFtYXNaeFJGZGRVS2VESDZkNUs1RzhYcER6cmhGUEVIQ00?oc=5",
       "published": "2026-09-16",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "topic": "big_money",
       "entities": []
-    },
-    {
-      "title": "Argentina forces oil companies to choose between Vaca Muerta and the Falklands - EL PAÍS English",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ3NibEt2czBxeE90VldPcEhBcGpNaGpxRzg2NG93bVllbm8tWUlqbGpqR0ZNRjVYMFBlTzZ6SDViWEg4dGxJVnc1clZtSXBxdnJ2WTkycW9hRW8yWmtJRl9HY0VKcWk5SFlYTGNySXFUMFpab1AxOV8xNTBjc055Y1lFUFZXb0tUZTJtakplY0VRelh5cHBHRTd4TV84VGtWWjhqQjlnbGg1YTVGQkdwSHJKVmhXZDIyQlNUWWwybVFRNUZHTlg1XzZBU2oycnJ40gHkAUFVX3lxTE5GaXpyMXdJVE9CTFlYRi1lV0t2TGEwVm5FTGw3clNYaU10NVp1NTBaZDVSSDJvWGZPbmxDbWYya1RMUUw2US1DY1ZaVmJtSXZ0ZjJEam8zZEV3dXZfYmNodklpM0g1TFpkd1I2a0lsaEs5R3lzM2cyWFZ4dHdSLUVrMWw5YjFlOEl3WmVIeWtxRlZnQTJKNkU3NTBfeGRfWjdDMExMMW5uYy1PNUIyZTRLWW9VT094MU5USTduNTAwSlJYY1FKT2phQ09nS1lrR3kxVEFrLXFnVmxQOE9UcmV4S3MzQQ?oc=5",
-      "published": "2026-09-09",
-      "source": "EL PAÍS English",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "Tech explores Argentina's Patagonia for mega data centers - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRkVISjNZRzJIQ2xhRks4c21WN0ZvNE1LSHBjMDhldFdwN0ExVjcxem9JLVJkSUk1ODdYQ0RhT1hrMDctX19HSXFXUW40c1hINDh0VDh6cjdMNHMyWFFsYmFIU0NrRzFSNzBPekRGX3lHYkNKMDRCRHE2MkEyalBoekw1cXU3aWxuZTY3Q2dudWFKc0trTnJVOTFSd2hKZVFOLVZwWnRSOUFXRHlfaHRObExwN3Z6dDNyME9RekRnZFhYMFAyOTVveA?oc=5",
-      "published": "2026-09-07",
-      "source": "Reuters",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
-      "title": "Central Puerto (NYSE: CEPU) spends ARS 269M on local share buyback - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZkNoc0Q3RHZKYkV3Q1ZnZWEzTkdpaHpaaDQ2aWVRX2NrNjMzVEhKS1JrbVZBbVY1b0ktOWgzNW1fd0sxUmpPWXN1cDlhZ3lUOEQ5VHpOQnA4RnFQOW9ZMnU1dmRfdGNNUko1ZENGRndCTW5Kb0pQOWdBQnRkMnk1TDRpQm90c1RKXzRHWDBLcXhHdm9yVWxlcm5qUUFHRHRTSFRsZ09EVmdVWlJiNWpFa1JPU2c?oc=5",
-      "published": "2026-09-03",
-      "source": "Stock Titan",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
-      "title": "How Could Energy Assets Shape Central Puerto (NYSE:CEPU) on NYSE? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdlNyQ2VrRVBYMTlpZUlReThaWUp0YUZ6YmlPWjhSLUNBRXZPNmZhUzM3UElDWDdXbHlzQkJjTWZpa0hJWXp2SHpSUTFxUjJpSWtXLW9TVC13WW1EalBTSjFrSHptREtmcUR4SXFBTnJ5MUw1cUhSMzFORkZGX0hyenZjZGlRb0JsbnUxaDJhNmtncjVub1IzRDhRdXFVTDFicHF5TFloZw?oc=5",
-      "published": "2026-09-02",
-      "source": "Kalkine Media",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
-      "title": "Vista Energy (VIST) Surges 4.8% to $74.89 as Momentum Builds in Vaca Muerta Shale Play - CTA Positioning - CarePlus VietNam",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT3J2RGJtVXFJeU45U0tYUzVWTFBTWkFnRG9QQ2RCVHJOYmVuQUpQOEVLSU9rVFlVWjM4ampMUWlLcVVxWnRWRUNidlUyUjRNZm14dzZYa1V0TjdDcVJvczBuV2dnU1lpWTNUU19PVFMzQk8za3hCS2tJR3Q3bjBCMHNCY0MwNldwN3B0SkQyU2xkYUtnMk90Y25QZmIxSUQ0WUVNNk4yVElacWRkMkZVMENLU25fVWdfRE11OU1sUEdLZ1BBSHc?oc=5",
-      "published": "2026-09-01",
-      "source": "CarePlus VietNam",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
     },
     {
       "title": "Continental Resources acquires 50% stake in Mercuria's Argentine shale oil firm Phoenix Global Resources in $4 billion-plus deal - Energies Media",
@@ -322,26 +252,6 @@
       ]
     },
     {
-      "title": "Vaca Muerta LNG project secures US$900-million international loan - Buenos Aires Times",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzFRVW1ZT1VvMnd6QzJydGlsdEhZLU1LUUtWWmJCV2x1bGhQRFdzcTFBWUszZHBJVFdQS0pnaTA4WkMwVGRMbkc4bHVNTzVoZEplYVRnTHhzVFZ0dG15aUlkQ0pQWkFtU01IQk1BTE42dy1xNEFzZ212LVQ0R1RHMDZPVUoxUlE0bWpBUDQ5YnJLcEdDSFhnWEEtNmFJWjFnN2R0M1ZET0N1UUdLRmpj0gG0AUFVX3lxTE85R0tUaXpveGktNWJzcHQtQnc2RThEdGsxZ1dDVUVTVXRqb1pCMmpnMzlZcjZaV1VjRXUtYVVDdlRkWF9QdGJCVFpEN013WnNMU2RDNTM4Wkk0ZDdIYkZZMGJkenpfeURRYW9yeFctMmxvei1fcmlvbUhLLW9Rd1RnWjlYYXhjTVBMdjk4eDFURmVQam02aXpCZjVvUVlhampCblMxR1MyMFd4UVR2d0syNFd3dA?oc=5",
-      "published": "2026-08-29",
-      "source": "Buenos Aires Times",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
-      "title": "San Matías Pipeline secures $900 million for Vaca Muerta-to-LNG gas pipeline - Oil & Gas Journal",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX2NqeWxQYTB6RGNaWno1bkNGWWtwNFlkQVR5WUh2UXR3SzNPN0JTMDRHRWVpUi1kVkxmRm5selJkb2tKWXdYUy1NUkVtVzc5a1pCMEVsMUdqV0VxNGFHWTVmWkpOVUV0T09UWGtMcTI0Q2ZBUkJMSzdoZW0zWkZlYy16WUpRUkhmay0xZVNEbkZVcExUX19TbHdsR19oSG1pMnJ1dVN4cHZHV25DelJ1XzJoMXBSN0xDY1U3Ulg3eGJKaTFURzB6b1gtV1VpNzBIajRGSHUtVU9sWFdt?oc=5",
-      "published": "2026-08-28",
-      "source": "Oil & Gas Journal",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
       "title": "Continental Resources Inks HOA With Mercuria Energy for Vaca Muerta Shale Joint Venture - JPT Homepage",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX3FaUS1KZl8wNC0tNnVGeTFaWVI5V2x0VTdYb1dmSVU5Q2s2UFRpazhZS2ZWTjVCWFNiWDdfQV9ZOHlnaTVDUjhTNjVBeThDdWFIb3FLd1hMUkhwQjdTTE9zM1Z0dEtlUnpRSDdHV0poQ1hfelozVWtoY0RDcE1Xc3dVRnNIX1hYN2NZQWlEbWtUVXZqTEVPZEdHVkF4eXVrVHVLWUMtX1ZTSTg?oc=5",
       "published": "2026-08-28",
@@ -350,16 +260,6 @@
       "entities": [
         "Hamm",
         "Mercuria"
-      ]
-    },
-    {
-      "title": "Transportadora de Gas del Sur: Vaca Muerta Infrastructure Creates A New Growth Platform - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdXNHWEo3WXVLUzBWMmRfTmpIb2Y2Q0VIbHc3SzJuZzRpTVZ4TUROMGI0clBfeVZQc0VLcEF6RmVQa3Y2blFUWmhFc29uZ3Rqdk84SjEwSkVzbi01NEJIb0JTVHhudXFtblo4a1Ixa2ZKdmd3Sk12NEdfYnpWLXBHZUZWODhzdlFBZGtzRUtPVDM2ZEhWdHNLcm5oQ05JWHprUlgzb05lUEtZSXoxQkJiRkVvaG5TV3dhV2Y4aEJrUXhzZXhDM0E?oc=5",
-      "published": "2026-08-25",
-      "source": "Seeking Alpha",
-      "topic": "company_news",
-      "entities": [
-        "TGS"
       ]
     },
     {
@@ -375,10 +275,8 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUDZreFF5Nm5GNjNSV1puQ3VwY3pNWFlLNEQ1NFdZQlpTTVB4elVlY3k0ei1LZ1FSVnN6RTRGcEYwb2xKSHNzdFZGVjBFbzltbjlyUWdNeFFRZWt1NmMtT1p6ODZWMHQzVE9VR3RTZnAzMUYyeHYzTU5pYi10UjB1RkUxaTM1YjFFU1cwbjJNb1UwR3JWR0NVYw?oc=5",
       "published": "2026-08-21",
       "source": "finance.yahoo.com",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
+      "topic": "big_money",
+      "entities": []
     },
     {
       "title": "Harold Hamm launches multibillion-dollar plan to drill Argentine shale - Financial Times",
@@ -461,26 +359,6 @@
       "name": "News: big_money",
       "ok": true,
       "note": "6 items"
-    },
-    {
-      "name": "Stock news: VIST",
-      "ok": true,
-      "note": "3 items"
-    },
-    {
-      "name": "Stock news: PAM",
-      "ok": true,
-      "note": "3 items"
-    },
-    {
-      "name": "Stock news: CEPU",
-      "ok": true,
-      "note": "3 items"
-    },
-    {
-      "name": "Stock news: TGS",
-      "ok": true,
-      "note": "1 items"
     }
   ],
   "stock_watch": [
