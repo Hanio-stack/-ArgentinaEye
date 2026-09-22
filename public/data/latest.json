@@ -1,31 +1,31 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-09-22T00:06:59.882789Z",
+  "generated_at": "2026-09-22T23:36:12.346919Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
-      "score": 69.8,
+      "score": 72.0,
       "confidence": 1.0
     },
     "vist": {
       "label": "VIST",
-      "score": 76.0,
+      "score": 76.5,
       "confidence": 1.0
     },
     "cepu": {
       "label": "CEPU",
-      "score": 63.2,
+      "score": 63.6,
       "confidence": 1.0
     },
     "pam": {
       "label": "PAM",
-      "score": 73.2,
+      "score": 73.8,
       "confidence": 1.0
     },
     "tgs": {
       "label": "TGS",
-      "score": 79.2,
+      "score": 79.7,
       "confidence": 1.0
     }
   },
@@ -33,17 +33,12 @@
     {
       "title": "BCRA reserves",
       "detail": "Official BCRA international reserves.",
-      "signal": "neutral"
-    },
-    {
-      "title": "RIGI approved investment",
-      "detail": "Super RIGI: Argentina’s New Investment Incentive - latinvex.com",
       "signal": "positive"
     },
     {
       "title": "Big Money",
-      "detail": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows - Crude Oil Prices Today | OilPrice.com",
-      "signal": "neutral"
+      "detail": "Continental Resources acquires 50% stake in Mercuria's Argentine shale oil firm Phoenix Global Resources in $4 billion-plus deal - Energies Media",
+      "signal": "positive"
     }
   ],
   "metrics": [
@@ -102,13 +97,13 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 49.79,
+      "value": 49.8,
       "unit": "USD bn",
-      "period": "2026-09-17",
-      "previous": 50.06,
-      "change": -0.54,
+      "period": "2026-09-18",
+      "previous": 48.83,
+      "change": 1.98,
       "change_unit": "% ~30d",
-      "thesis_signal": "neutral",
+      "thesis_signal": "positive",
       "status": "fresh",
       "detail": "Official BCRA international reserves.",
       "source": {
@@ -116,7 +111,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        48.83,
         49.46,
         49.56,
         49.59,
@@ -145,7 +139,8 @@
         50.4,
         49.95,
         50.0,
-        49.79
+        49.79,
+        49.8
       ]
     },
     {
@@ -253,6 +248,26 @@
   ],
   "news": [
     {
+      "title": "Full Transcript: Pampa Energia Q2 2026 Earnings Call - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMXZFaHBlUWpCOVgyNzJBQ2VPX2l3dFNDNzh0c0dmbERUMHF1TlBQQXgweUVCX3pMSFd4U2syaFNBM0xURVYxRjBST0RNZVI3UVgtQXg4Z1lKX3lyWHFYN2NIOFJ2ZDczVHd4S0N6Y19iUDBhd19kU0o5LWh0NXR3Vk5SOXpmUWNDajdTZHBTNE9TRWljS1lyNWVoYUQ?oc=5",
+      "published": "2026-09-18",
+      "source": "Benzinga",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
+      ]
+    },
+    {
+      "title": "CEPU - Finviz",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lbUFmMF9QRFZhTjJ2MS1DREs0akZ5MlFJUDNuOHY1WVpYSzZpeFA1SF9PZVBIQ0pHekVQcGpXZWRybUJCeGtzQXVUc1dnZWdMOS1v?oc=5",
+      "published": "2026-09-18",
+      "source": "Finviz",
+      "topic": "company_news",
+      "entities": [
+        "CEPU"
+      ]
+    },
+    {
       "title": "CEPU Maintains Buy Rating by B of A Securities -- Price Target L - GuruFocus",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHpDNDJzMk5GRVdNMkNRY21OMVBFdllSRWpWQ3Vnd0hVZnRHNnZCb0REZHEwM0diYk5peVJDV1FvV0Z6RGRHMHJubkx0bHNScGhDQkV0emlMdlZDZkEyN0FqeU1TejR0Ynd2dVpnNzlJTEd0cUg4MEotNXFBLU5abXhIV1RDRTRkd2JCUjZfeXh3cGprRi1aaTNqWm5BYkItVFhTeGZtX3JXOFVOcndTNlo5QjU?oc=5",
       "published": "2026-09-17",
@@ -260,24 +275,6 @@
       "topic": "company_news",
       "entities": [
         "CEPU"
-      ]
-    },
-    {
-      "title": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows - Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeHNkUWx4eWdMREluckh4d0JZRnVJNmxNR1lDY3VLYTE2UEd1T1VaNTd6NUJHMW9qVU1kWlR3ZEJ1bkNhUHZDOE9fem9RZ294ZjRtSzhNeDlvVEh2QkZIOFBRS3dIWkpDbUtaOVZsUmctOEhWUUJOOEtFbUM2VDR1S2UzZGk2SS1sblJTanFxbWFzWnhSRmRkVUtlREg2ZDVLNUc4WHBEenJoRlBFSENN0gGvAUFVX3lxTE94c2RRbHh5Z0xESW5ySHh3QllGdUk2bE1HWUNjdUthMTZQR3VPVVo1N3o1Qkcxb2pVTWRaVHdkQnVuQ2FQdkM4T196b1Fnb3hmNG1LOE14OW9USHZCRkg4UFFLd0haSkNtS1o5VmxSZy04SFZRQk44S0VtQzZUNHVLZTNkaTZJLWxuUlNqcXFtYXNaeFJGZGRVS2VESDZkNUs1RzhYcER6cmhGUEVIQ00?oc=5",
-      "published": "2026-09-16",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "topic": "big_money",
-      "entities": []
-    },
-    {
-      "title": "Can Vaca Muerta solve a historic problem of Argentine agriculture? - Buenos Aires Herald",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb192S2hENkdpYmp6SzZNaFZRa25ZdF91b3FTT0xvRHJva3ZHRUp3NDY4Z0k3RXhZNnRrMzVmUHM1VFNZTTBTVUhEWGZJYzlqSzBHTzJtV19KclNoQzFNS2pfdlZnMEs0Ry1EOXdjRVo2MDlIZktZTHdfVDd5d0hOQ1NzVngyeEQtSVJpUkpYMnVseFQ3cThiMjFhdUo3dFNFMVpVSmg0YVlua09EdXc?oc=5",
-      "published": "2026-09-14",
-      "source": "Buenos Aires Herald",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
       ]
     },
     {
@@ -305,16 +302,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZkNoc0Q3RHZKYkV3Q1ZnZWEzTkdpaHpaaDQ2aWVRX2NrNjMzVEhKS1JrbVZBbVY1b0ktOWgzNW1fd0sxUmpPWXN1cDlhZ3lUOEQ5VHpOQnA4RnFQOW9ZMnU1dmRfdGNNUko1ZENGRndCTW5Kb0pQOWdBQnRkMnk1TDRpQm90c1RKXzRHWDBLcXhHdm9yVWxlcm5qUUFHRHRTSFRsZ09EVmdVWlJiNWpFa1JPU2c?oc=5",
       "published": "2026-09-03",
       "source": "Stock Titan",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
-      "title": "How Could Energy Assets Shape Central Puerto (NYSE:CEPU) on NYSE? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdlNyQ2VrRVBYMTlpZUlReThaWUp0YUZ6YmlPWjhSLUNBRXZPNmZhUzM3UElDWDdXbHlzQkJjTWZpa0hJWXp2SHpSUTFxUjJpSWtXLW9TVC13WW1EalBTSjFrSHptREtmcUR4SXFBTnJ5MUw1cUhSMzFORkZGX0hyenZjZGlRb0JsbnUxaDJhNmtncjVub1IzRDhRdXFVTDFicHF5TFloZw?oc=5",
-      "published": "2026-09-02",
-      "source": "Kalkine Media",
       "topic": "company_news",
       "entities": [
         "CEPU"
@@ -352,10 +339,10 @@
       ]
     },
     {
-      "title": "Continental Resources Inks HOA With Mercuria Energy for Vaca Muerta Shale Joint Venture - JPT Homepage",
+      "title": "Continental Resources Inks HOA With Mercuria Energy for Vaca Muerta Shale Joint Venture - jpt.spe.org",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX3FaUS1KZl8wNC0tNnVGeTFaWVI5V2x0VTdYb1dmSVU5Q2s2UFRpazhZS2ZWTjVCWFNiWDdfQV9ZOHlnaTVDUjhTNjVBeThDdWFIb3FLd1hMUkhwQjdTTE9zM1Z0dEtlUnpRSDdHV0poQ1hfelozVWtoY0RDcE1Xc3dVRnNIX1hYN2NZQWlEbWtUVXZqTEVPZEdHVkF4eXVrVHVLWUMtX1ZTSTg?oc=5",
       "published": "2026-08-28",
-      "source": "JPT Homepage",
+      "source": "jpt.spe.org",
       "topic": "vaca_muerta_oil",
       "entities": [
         "Hamm",
@@ -397,6 +384,27 @@
       "source": "Yahoo Finance",
       "topic": "big_money",
       "entities": []
+    },
+    {
+      "title": "Billionaire Harold Hamm targets Argentina's shale basin - Billionaires.Africa",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFZGSWZNZlFnT3hUV1ZOSDNTVjJTaEZFVTZPY0ZuYy16amVTakE2YzltZ3lJcnZZZmNvMFluVFFJY1llYVVGRTdFdVBUbk5WLUR2MW85eFRvR3JoUFJZdHliVzBlSlp5ZjJLMks1OE5aam96YUNxaS0zZllINk5xcjZSZTZKcko4WmNSRXBhOS11Q0IyRl9BMWhnV05BLVlONndYWHdPbUlkSjFBQllpTXg3bXk1ZzBqSXhLZ2pSeldqcU02SVBV?oc=5",
+      "published": "2026-08-21",
+      "source": "Billionaires.Africa",
+      "topic": "big_money",
+      "entities": [
+        "Hamm"
+      ]
+    },
+    {
+      "title": "Continental Resources, Mercuria envision equal partnership JV to boost Vaca Muerta oil production - Oil & Gas Journal",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZklST29qRmx1ekpyYUV3UFRtSHFKbWlZS2ZqbUljY1JpUkNzLURRS25MS0tTNV9rbDJmOVFPN0c4N1dmUWNOV0hUTU5qSVl5dmE0U2dhR2NDRTg4YW5yYVRWekZlLWxtbF9pXzB0RzFqdl8tMWdQYW52WFpNTjZwX2lDOGtyd1kxY2c0STZWc2NGbWxydndycjlFaDdSd1pzbzdkTnI3RjNneTF1ejI4R2lnTE9YUVB4eUJUYm1zYzM0M0dQSkp0QnBJNzJPUlJ6OExVNmE0ZUlTS052ZS1tMg?oc=5",
+      "published": "2026-08-20",
+      "source": "Oil & Gas Journal",
+      "topic": "vaca_muerta_oil",
+      "entities": [
+        "Hamm",
+        "Mercuria"
+      ]
     },
     {
       "title": "Hamm’s Continental to buy 50% of Mercuria Argentina oil firm - Buenos Aires Times",
