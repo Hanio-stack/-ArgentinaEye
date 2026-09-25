@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "mode": "auto",
   "generated_at": "2026-09-25T23:57:21.105722Z",
   "scores": {
@@ -16,16 +16,6 @@
     "cepu": {
       "label": "CEPU",
       "score": 62.6,
-      "confidence": 1.0
-    },
-    "pam": {
-      "label": "PAM",
-      "score": 72.5,
-      "confidence": 1.0
-    },
-    "tgs": {
-      "label": "TGS",
-      "score": 78.6,
       "confidence": 1.0
     }
   },
@@ -263,86 +253,6 @@
   ],
   "news": [
     {
-      "title": "Central Puerto (NYSE:CEPU) Cut to Hold at Wall Street Zen - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1RNUXhqZEJQQ014OHZuSVZsZTZqZlVsSzB0UEU3ZEFzREtTS2VicVh5YmtObUpqNXVWZV9nS1Q0dGtUdnhGSWVFZ0I2bUZVTHpYbk9rTTBCb3ZLSWlyNlpoTFZaQ25lTEwxUGJXenNIa2Y4Z0xtRXJIdFFQVkpLaU1ybm1lYno1Vy1RcTRobmgyUFU0YUVQMW45Z0d0c2J4dUI3c2w1YmN3LUt3cUxMblMtVElIOTBm?oc=5",
-      "published": "2026-09-19",
-      "source": "MarketBeat",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
-      "title": "Full Transcript: Pampa Energia Q2 2026 Earnings Call - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMXZFaHBlUWpCOVgyNzJBQ2VPX2l3dFNDNzh0c0dmbERUMHF1TlBQQXgweUVCX3pMSFd4U2syaFNBM0xURVYxRjBST0RNZVI3UVgtQXg4Z1lKX3lyWHFYN2NIOFJ2ZDczVHd4S0N6Y19iUDBhd19kU0o5LWh0NXR3Vk5SOXpmUWNDajdTZHBTNE9TRWljS1lyNWVoYUQ?oc=5",
-      "published": "2026-09-18",
-      "source": "Benzinga",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
-      "title": "CEPU Maintains Buy Rating by B of A Securities -- Price Target L - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHpDNDJzMk5GRVdNMkNRY21OMVBFdllSRWpWQ3Vnd0hVZnRHNnZCb0REZHEwM0diYk5peVJDV1FvV0Z6RGRHMHJubkx0bHNScGhDQkV0emlMdlZDZkEyN0FqeU1TejR0Ynd2dVpnNzlJTEd0cUg4MEotNXFBLU5abXhIV1RDRTRkd2JCUjZfeXh3cGprRi1aaTNqWm5BYkItVFhTeGZtX3JXOFVOcndTNlo5QjU?oc=5",
-      "published": "2026-09-17",
-      "source": "GuruFocus",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
-      "title": "Central Puerto (NYSE: CEPU) okays cash payout with option for foreign holders to take it in dollars - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWlZZZkdaYk05aUpRbVdpTm40bnM2bXlaT0hzN3dJVnRSOGdqd3Y3VkpUNTdoUjFBb3I0QnJPU2FPM1hxbzQtN0M4MUswUGN3Z1hldnBiaXRQckdyeEx1UEtRN2VJbldfVEdoblRoRjUwd2tybEhLbHVoUEVmY3B6SEd3ZzhfUjlKTTdRZkY5UE9ZbEt1eDZCWTJEaXdTXzBaSTBEekdFeW5hSVdiX1RwZ3ltV3k?oc=5",
-      "published": "2026-09-16",
-      "source": "Stock Titan",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
-      "title": "Argentina forces oil companies to choose between Vaca Muerta and the Falklands - EL PAÍS English",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ3NibEt2czBxeE90VldPcEhBcGpNaGpxRzg2NG93bVllbm8tWUlqbGpqR0ZNRjVYMFBlTzZ6SDViWEg4dGxJVnc1clZtSXBxdnJ2WTkycW9hRW8yWmtJRl9HY0VKcWk5SFlYTGNySXFUMFpab1AxOV8xNTBjc055Y1lFUFZXb0tUZTJtakplY0VRelh5cHBHRTd4TV84VGtWWjhqQjlnbGg1YTVGQkdwSHJKVmhXZDIyQlNUWWwybVFRNUZHTlg1XzZBU2oycnJ40gHkAUFVX3lxTE5GaXpyMXdJVE9CTFlYRi1lV0t2TGEwVm5FTGw3clNYaU10NVp1NTBaZDVSSDJvWGZPbmxDbWYya1RMUUw2US1DY1ZaVmJtSXZ0ZjJEam8zZEV3dXZfYmNodklpM0g1TFpkd1I2a0lsaEs5R3lzM2cyWFZ4dHdSLUVrMWw5YjFlOEl3WmVIeWtxRlZnQTJKNkU3NTBfeGRfWjdDMExMMW5uYy1PNUIyZTRLWW9VT094MU5USTduNTAwSlJYY1FKT2phQ09nS1lrR3kxVEFrLXFnVmxQOE9UcmV4S3MzQQ?oc=5",
-      "published": "2026-09-09",
-      "source": "EL PAÍS English",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "Tech explores Argentina's Patagonia for mega data centers - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRkVISjNZRzJIQ2xhRks4c21WN0ZvNE1LSHBjMDhldFdwN0ExVjcxem9JLVJkSUk1ODdYQ0RhT1hrMDctX19HSXFXUW40c1hINDh0VDh6cjdMNHMyWFFsYmFIU0NrRzFSNzBPekRGX3lHYkNKMDRCRHE2MkEyalBoekw1cXU3aWxuZTY3Q2dudWFKc0trTnJVOTFSd2hKZVFOLVZwWnRSOUFXRHlfaHRObExwN3Z6dDNyME9RekRnZFhYMFAyOTVveA?oc=5",
-      "published": "2026-09-07",
-      "source": "Reuters",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
-      "title": "Eni Expands Upstream Gas Portfolio With Argentina's Vaca Muerta Stake - Eastern Progress",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZWxNdEJVRlhVczRsaWU4MTZQT3pIZWdCWXdiN0d6bnRRMnd3dXhLWDdjVy1SdVFjZ3ZsOGtxdk4xaHcyMHlLSDRQN3JKOXpMQklaaFRMaElfRlFfX0JFQ3d1TkJfdVVGSlF0LVRXUWVZZDk4ZFNmNmxEVzlZZFVHM0JBbDR2S0o5NjFIbEpGR3ZvLWVRbENKcUVHMnVOY2JxYzJhU2xkVjVHSnNyNzFPQ3RpZGstRVhaUy1pclZ0b2o3dmxjLTJHdnI1UEt2SXlEc0JDbFhHMVBFVUM1ZE5HWmlFdno?oc=5",
-      "published": "2026-09-04",
-      "source": "Eastern Progress",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "Asia Now Buys One in Five Dollars of Argentina's Energy Exports - Shale24",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0FlOXBmbnRrUGZ5OVdOc0dfMUh4eWJlX0pOQ3pkYWNmdDI2b2praDA3QVpLZFd4QXlNSEFGaDZ5ZWNBQm83dlJQVUlUWVV3aXBkYXp2eUMtN3czNkM5ZDY1RkFET1EtMjlXZmxQNVVFcEp4MFYtYm4wOURVSXA3X0JUY2sxUldUVEFoc1lrNEhoS01kaVNUVnhHSEFaZmxMVjVJbzZqdnN3S1XSAbABQVVfeXFMUFF0cEhva1ZBLWtfNGNpOGV5UjI0eXZKMEN3T05oMVUzSVVpTjg0TkRoREhGclNNWkJDY1pzanFpVkV5aTlrd3dHRUVkanljaFhvS2dQLWNweG1iaUo3bWNxcTVCaGJRcnktSG4wTUNhRG5hcm5SWnlWQUxBc0R3b1N3LVRPZkVsblo0eEYzTVd3Vm1UY3plMjdOSFVKOUZmUkIwR3ZidkdYblRTQlg0VmM?oc=5",
-      "published": "2026-09-03",
-      "source": "Shale24",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
       "title": "Continental Resources acquires 50% stake in Mercuria's Argentine shale oil firm Phoenix Global Resources in $4 billion-plus deal - Energies Media",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vSW1tZy1rYWw5Z3N1RUlXUWVFeXhFcm43X3R6a1Bveld6NGxDeVk0ZlR1SVZJTjVSNVpVRlQtWDFtNUZHbmJ4ZzdKLVd1T0tOaFVWMWp3UThjVk43SlE5LWVSU2plNlV2Q3ZCU1FRdzNLN04ydVRsUUJZUQ?oc=5",
       "published": "2026-08-30",
@@ -351,16 +261,6 @@
       "entities": [
         "Hamm",
         "Mercuria"
-      ]
-    },
-    {
-      "title": "San Matías Pipeline secures $900 million for Vaca Muerta-to-LNG gas pipeline - Oil & Gas Journal",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX2NqeWxQYTB6RGNaWno1bkNGWWtwNFlkQVR5WUh2UXR3SzNPN0JTMDRHRWVpUi1kVkxmRm5selJkb2tKWXdYUy1NUkVtVzc5a1pCMEVsMUdqV0VxNGFHWTVmWkpOVUV0T09UWGtMcTI0Q2ZBUkJMSzdoZW0zWkZlYy16WUpRUkhmay0xZVNEbkZVcExUX19TbHdsR19oSG1pMnJ1dVN4cHZHV25DelJ1XzJoMXBSN0xDY1U3Ulg3eGJKaTFURzB6b1gtV1VpNzBIajRGSHUtVU9sWFdt?oc=5",
-      "published": "2026-08-28",
-      "source": "Oil & Gas Journal",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
       ]
     },
     {
@@ -470,26 +370,6 @@
       "name": "News: big_money",
       "ok": true,
       "note": "6 items"
-    },
-    {
-      "name": "Stock news: VIST",
-      "ok": true,
-      "note": "3 items"
-    },
-    {
-      "name": "Stock news: PAM",
-      "ok": true,
-      "note": "3 items"
-    },
-    {
-      "name": "Stock news: CEPU",
-      "ok": true,
-      "note": "3 items"
-    },
-    {
-      "name": "Stock news: TGS",
-      "ok": true,
-      "note": "0 items"
     }
   ],
   "stock_watch": [
