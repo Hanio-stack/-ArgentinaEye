@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "mode": "auto",
   "generated_at": "2026-10-02T00:46:59.562242Z",
   "scores": {
@@ -16,16 +16,6 @@
     "cepu": {
       "label": "CEPU",
       "score": 62.6,
-      "confidence": 1.0
-    },
-    "pam": {
-      "label": "PAM",
-      "score": 72.5,
-      "confidence": 1.0
-    },
-    "tgs": {
-      "label": "TGS",
-      "score": 78.6,
       "confidence": 1.0
     }
   },
@@ -258,26 +248,6 @@
   ],
   "news": [
     {
-      "title": "Energía Argentina to offload stakes in 1.7GW of thermal assets - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGU4aXNIVDdxV0dtbURqV1daT0UyQlk5aGtBZVhfcUM5aExaUC1EcHFGanZkT0FXUm5JOVdWSDlNU1ZkWUxnaTNETkJYclFGd05sV3dhbXBTeVQ4V0RiRUVQZ2JmSFhRbUE1clZyZ096RHRnbkYzM0JfVHBvUlJKLTZMSmpyMVBoVlZGanpGaGkzY0hmU2o3NFhUeXI?oc=5",
-      "published": "2026-09-29",
-      "source": "BNamericas",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
-      "title": "Central Puerto (NYSE:CEPU) Shares Gap Down - Here's What Happened - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbEtfbkZhelc3aGV5SVc2QkZqWmIwYVMzeG5PWENYUkZaemQ1VjBiMFdZUEJXWXZiNGFWSkg2X19JS0VvSGdDd0ZGVHp4VHhueW5JOG83Z1RPUm9WZzhiUVA4SmVFcGhPNlYtd0I5aHh5ZkRKaWdoQmFuNGgyM195anBCbnpjZUJlODdBVDhvUENoYlkzNHBfM0tNU0luOVZIS2N2NUFmWUlKMmlUVUVVYWwyZnNBLTliMi00bA?oc=5",
-      "published": "2026-09-28",
-      "source": "MarketBeat",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
       "title": "Harold Hamm’s Argentina Shale Push Tests Vaca Muerta’s Global Ambitions - ceoworld.biz",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORTl0YlpQT2VDS0xVN19TNUYxZlI4bjBob25TaGZHUW90Z25IWXYzR1RaR2lfQTlERk9xYTVJU3hIZTlMUzFIeGtEaWhFbEZYY0NNSnRuVXMtZEh3amx2dVhCVmVZTExWV3VQVUlnRGVaSVJZV0REM1VTZ0xlWGJYVXB6YnVtQUx6RElYcVpkbFZ0SnBmN0dFSWtzOXdIXzlCbjZXSA?oc=5",
       "published": "2026-09-27",
@@ -285,76 +255,6 @@
       "topic": "vaca_muerta_oil",
       "entities": [
         "Hamm"
-      ]
-    },
-    {
-      "title": "Vista raises $400M in debt to accelerate Vaca Muerta expansion - Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1kydXBocGIxYlpVTlZ1eVg3WE00M1VsRkRmeHRvRUFwWlBROFZGd1Utd0JMTjR6MGhQaDlNSzFKNm55MHBSOG5TUXdDc2ViOVFhOTlXazQ2UkNzYlNpd2xLeS12WUlBbEE2LXY0YnBseEpqSm84YThDOEk3THdpc3h6dk9ZTDlNWUJzV24zM0hVOUtNNHE4azNNbw?oc=5",
-      "published": "2026-09-22",
-      "source": "Dealroom",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "Vista Energy's 2026 Outlook: Shale Expansion Drives 70% Adjusted EBITDA Margins - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaFVYLTcxc05zVkxkSnZ5XzdKMjZvV3hreXNpYTFpTVJJNG14TGNrVHlIb1ZpS1J2ODY1cGF6d2F6NE1vbHYwenViN0xtdlV0TmhCNUxGYmxjWFZIQ1J6TzA2UkMyYy1XOGh1bVYzbTZ1djlESGtrRzh1THFwX3ZfUG1kYlByUkl0aW9SODUtLVYtSDFzVFdyQjRnbE04NVlnX25ER3lHTXpvYnpXdnhaQU43cXBNYmhRUEVIZFBCQWFFek43eTEw?oc=5",
-      "published": "2026-09-18",
-      "source": "The Motley Fool",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "Central Puerto (NYSE: CEPU) okays cash payout with option for foreign holders to take it in dollars - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWlZZZkdaYk05aUpRbVdpTm40bnM2bXlaT0hzN3dJVnRSOGdqd3Y3VkpUNTdoUjFBb3I0QnJPU2FPM1hxbzQtN0M4MUswUGN3Z1hldnBiaXRQckdyeEx1UEtRN2VJbldfVEdoblRoRjUwd2tybEhLbHVoUEVmY3B6SEd3ZzhfUjlKTTdRZkY5UE9ZbEt1eDZCWTJEaXdTXzBaSTBEekdFeW5hSVdiX1RwZ3ltV3k?oc=5",
-      "published": "2026-09-16",
-      "source": "Stock Titan",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
-      "title": "Can Vaca Muerta solve a historic problem of Argentine agriculture? - Buenos Aires Herald",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb192S2hENkdpYmp6SzZNaFZRa25ZdF91b3FTT0xvRHJva3ZHRUp3NDY4Z0k3RXhZNnRrMzVmUHM1VFNZTTBTVUhEWGZJYzlqSzBHTzJtV19KclNoQzFNS2pfdlZnMEs0Ry1EOXdjRVo2MDlIZktZTHdfVDd5d0hOQ1NzVngyeEQtSVJpUkpYMnVseFQ3cThiMjFhdUo3dFNFMVpVSmg0YVlua09EdXc?oc=5",
-      "published": "2026-09-14",
-      "source": "Buenos Aires Herald",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
-      "title": "Argentina forces oil companies to choose between Vaca Muerta and the Falklands - EL PAÍS English",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ3NibEt2czBxeE90VldPcEhBcGpNaGpxRzg2NG93bVllbm8tWUlqbGpqR0ZNRjVYMFBlTzZ6SDViWEg4dGxJVnc1clZtSXBxdnJ2WTkycW9hRW8yWmtJRl9HY0VKcWk5SFlYTGNySXFUMFpab1AxOV8xNTBjc055Y1lFUFZXb0tUZTJtakplY0VRelh5cHBHRTd4TV84VGtWWjhqQjlnbGg1YTVGQkdwSHJKVmhXZDIyQlNUWWwybVFRNUZHTlg1XzZBU2oycnJ40gHkAUFVX3lxTE5GaXpyMXdJVE9CTFlYRi1lV0t2TGEwVm5FTGw3clNYaU10NVp1NTBaZDVSSDJvWGZPbmxDbWYya1RMUUw2US1DY1ZaVmJtSXZ0ZjJEam8zZEV3dXZfYmNodklpM0g1TFpkd1I2a0lsaEs5R3lzM2cyWFZ4dHdSLUVrMWw5YjFlOEl3WmVIeWtxRlZnQTJKNkU3NTBfeGRfWjdDMExMMW5uYy1PNUIyZTRLWW9VT094MU5USTduNTAwSlJYY1FKT2phQ09nS1lrR3kxVEFrLXFnVmxQOE9UcmV4S3MzQQ?oc=5",
-      "published": "2026-09-09",
-      "source": "EL PAÍS English",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "Neuquén accelerates Vaca Muerta routes with pre-financing from oil companies - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcldVd245RzlPYkFqUkgwdV9zM0RQMzNuM25BMk43djNKZ04tOGltTDdSYTYtZEkwQzJraWZONEw4X29aRVZoajdOakUtSVZjM1VfcHFndDRBQlBaUjZjQ1BMeVphV2RLb3lXdHM5MldrUFB6ZWxhQks1M2pOTzJkTnNSWWdadjBOMmN0TkIwUUc4RmpDaEc4eVFraVRpYTVjRWxlRzNPZjlQN1BEU1FTdQ?oc=5",
-      "published": "2026-09-09",
-      "source": "BNamericas",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
-      "title": "Tech explores Argentina's Patagonia for mega data centers - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRkVISjNZRzJIQ2xhRks4c21WN0ZvNE1LSHBjMDhldFdwN0ExVjcxem9JLVJkSUk1ODdYQ0RhT1hrMDctX19HSXFXUW40c1hINDh0VDh6cjdMNHMyWFFsYmFIU0NrRzFSNzBPekRGX3lHYkNKMDRCRHE2MkEyalBoekw1cXU3aWxuZTY3Q2dudWFKc0trTnJVOTFSd2hKZVFOLVZwWnRSOUFXRHlfaHRObExwN3Z6dDNyME9RekRnZFhYMFAyOTVveA?oc=5",
-      "published": "2026-09-07",
-      "source": "Reuters",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
       ]
     },
     {
@@ -474,26 +374,6 @@
       "name": "News: big_money",
       "ok": true,
       "note": "6 items"
-    },
-    {
-      "name": "Stock news: VIST",
-      "ok": true,
-      "note": "3 items"
-    },
-    {
-      "name": "Stock news: PAM",
-      "ok": true,
-      "note": "3 items"
-    },
-    {
-      "name": "Stock news: CEPU",
-      "ok": true,
-      "note": "3 items"
-    },
-    {
-      "name": "Stock news: TGS",
-      "ok": true,
-      "note": "0 items"
     }
   ],
   "stock_watch": [
