@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "mode": "auto",
   "generated_at": "2026-10-03T00:29:29.549397Z",
   "scores": {
@@ -16,16 +16,6 @@
     "cepu": {
       "label": "CEPU",
       "score": 62.0,
-      "confidence": 1.0
-    },
-    "pam": {
-      "label": "PAM",
-      "score": 71.7,
-      "confidence": 1.0
-    },
-    "tgs": {
-      "label": "TGS",
-      "score": 78.0,
       "confidence": 1.0
     }
   },
@@ -268,106 +258,6 @@
       ]
     },
     {
-      "title": "Energía Argentina to offload stakes in 1.7GW of thermal assets - bnamericas.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGU4aXNIVDdxV0dtbURqV1daT0UyQlk5aGtBZVhfcUM5aExaUC1EcHFGanZkT0FXUm5JOVdWSDlNU1ZkWUxnaTNETkJYclFGd05sV3dhbXBTeVQ4V0RiRUVQZ2JmSFhRbUE1clZyZ096RHRnbkYzM0JfVHBvUlJKLTZMSmpyMVBoVlZGanpGaGkzY0hmU2o3NFhUeXI?oc=5",
-      "published": "2026-09-29",
-      "source": "bnamericas.com",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
-      "title": "A $241K U.S. buyback accompanies share purchases in Argentina by Central Puerto (NYSE: CEPU). - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGJMWERGcVZzNkJSY0M5V1BGTEo0UG9qVnVla3hWUGZ6aVlSTXJCYjJWTHE0SzZNVUVaMGdXYW9wMW03WFVGcnlpaHB3aVhyMUUyWktRR21DYnRjeHhIRFNsOFhEZ3JtTWF6aWpCOEx6Q0hhc1BSdXFFaXVlNlZ4WDJ4OVpYdGQ3djA3ZnhEaE9IbjdWcmkwSFB4U1EyZWtnUUtKa3JXR0c5QlNRVFBxbVJianc?oc=5",
-      "published": "2026-09-29",
-      "source": "Stock Titan",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
-      "title": "Central Puerto (NYSE:CEPU) Shares Gap Down - Here's What Happened - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbEtfbkZhelc3aGV5SVc2QkZqWmIwYVMzeG5PWENYUkZaemQ1VjBiMFdZUEJXWXZiNGFWSkg2X19JS0VvSGdDd0ZGVHp4VHhueW5JOG83Z1RPUm9WZzhiUVA4SmVFcGhPNlYtd0I5aHh5ZkRKaWdoQmFuNGgyM195anBCbnpjZUJlODdBVDhvUENoYlkzNHBfM0tNU0luOVZIS2N2NUFmWUlKMmlUVUVVYWwyZnNBLTliMi00bA?oc=5",
-      "published": "2026-09-28",
-      "source": "MarketBeat",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
-      "title": "Vista raises $400M in debt to accelerate Vaca Muerta expansion - Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1kydXBocGIxYlpVTlZ1eVg3WE00M1VsRkRmeHRvRUFwWlBROFZGd1Utd0JMTjR6MGhQaDlNSzFKNm55MHBSOG5TUXdDc2ViOVFhOTlXazQ2UkNzYlNpd2xLeS12WUlBbEE2LXY0YnBseEpqSm84YThDOEk3THdpc3h6dk9ZTDlNWUJzV24zM0hVOUtNNHE4azNNbw?oc=5",
-      "published": "2026-09-22",
-      "source": "Dealroom",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "Vista Energy's 2026 Outlook: Shale Expansion Drives 70% Adjusted EBITDA Margins - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaFVYLTcxc05zVkxkSnZ5XzdKMjZvV3hreXNpYTFpTVJJNG14TGNrVHlIb1ZpS1J2ODY1cGF6d2F6NE1vbHYwenViN0xtdlV0TmhCNUxGYmxjWFZIQ1J6TzA2UkMyYy1XOGh1bVYzbTZ1djlESGtrRzh1THFwX3ZfUG1kYlByUkl0aW9SODUtLVYtSDFzVFdyQjRnbE04NVlnX25ER3lHTXpvYnpXdnhaQU43cXBNYmhRUEVIZFBCQWFFek43eTEw?oc=5",
-      "published": "2026-09-18",
-      "source": "The Motley Fool",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "Can Vaca Muerta solve a historic problem of Argentine agriculture? - Buenos Aires Herald",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb192S2hENkdpYmp6SzZNaFZRa25ZdF91b3FTT0xvRHJva3ZHRUp3NDY4Z0k3RXhZNnRrMzVmUHM1VFNZTTBTVUhEWGZJYzlqSzBHTzJtV19KclNoQzFNS2pfdlZnMEs0Ry1EOXdjRVo2MDlIZktZTHdfVDd5d0hOQ1NzVngyeEQtSVJpUkpYMnVseFQ3cThiMjFhdUo3dFNFMVpVSmg0YVlua09EdXc?oc=5",
-      "published": "2026-09-14",
-      "source": "Buenos Aires Herald",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
-      "title": "Argentina forces oil companies to choose between Vaca Muerta and the Falklands - EL PAÍS English",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ3NibEt2czBxeE90VldPcEhBcGpNaGpxRzg2NG93bVllbm8tWUlqbGpqR0ZNRjVYMFBlTzZ6SDViWEg4dGxJVnc1clZtSXBxdnJ2WTkycW9hRW8yWmtJRl9HY0VKcWk5SFlYTGNySXFUMFpab1AxOV8xNTBjc055Y1lFUFZXb0tUZTJtakplY0VRelh5cHBHRTd4TV84VGtWWjhqQjlnbGg1YTVGQkdwSHJKVmhXZDIyQlNUWWwybVFRNUZHTlg1XzZBU2oycnJ40gHkAUFVX3lxTE5GaXpyMXdJVE9CTFlYRi1lV0t2TGEwVm5FTGw3clNYaU10NVp1NTBaZDVSSDJvWGZPbmxDbWYya1RMUUw2US1DY1ZaVmJtSXZ0ZjJEam8zZEV3dXZfYmNodklpM0g1TFpkd1I2a0lsaEs5R3lzM2cyWFZ4dHdSLUVrMWw5YjFlOEl3WmVIeWtxRlZnQTJKNkU3NTBfeGRfWjdDMExMMW5uYy1PNUIyZTRLWW9VT094MU5USTduNTAwSlJYY1FKT2phQ09nS1lrR3kxVEFrLXFnVmxQOE9UcmV4S3MzQQ?oc=5",
-      "published": "2026-09-09",
-      "source": "EL PAÍS English",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "Neuquén accelerates Vaca Muerta routes with pre-financing from oil companies - bnamericas.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcldVd245RzlPYkFqUkgwdV9zM0RQMzNuM25BMk43djNKZ04tOGltTDdSYTYtZEkwQzJraWZONEw4X29aRVZoajdOakUtSVZjM1VfcHFndDRBQlBaUjZjQ1BMeVphV2RLb3lXdHM5MldrUFB6ZWxhQks1M2pOTzJkTnNSWWdadjBOMmN0TkIwUUc4RmpDaEc4eVFraVRpYTVjRWxlRzNPZjlQN1BEU1FTdQ?oc=5",
-      "published": "2026-09-09",
-      "source": "bnamericas.com",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
-      "title": "Tech explores Argentina's Patagonia for mega data centers - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRkVISjNZRzJIQ2xhRks4c21WN0ZvNE1LSHBjMDhldFdwN0ExVjcxem9JLVJkSUk1ODdYQ0RhT1hrMDctX19HSXFXUW40c1hINDh0VDh6cjdMNHMyWFFsYmFIU0NrRzFSNzBPekRGX3lHYkNKMDRCRHE2MkEyalBoekw1cXU3aWxuZTY3Q2dudWFKc0trTnJVOTFSd2hKZVFOLVZwWnRSOUFXRHlfaHRObExwN3Z6dDNyME9RekRnZFhYMFAyOTVveA?oc=5",
-      "published": "2026-09-07",
-      "source": "Reuters",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
-      "title": "Argentina's shale powerhouse province plans second licensing round of 2026 - bnamericas.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1QwOF9BM2lRZzEwTFRWUWhsZ3B2OTRFOFUzLUI5ajA5ZkdCQUtIaGxpcEhvZXBWNk1vcEJjZzFoTjRJeFlCeFU2cVRBTGVWQmI5ZXIyQThya2JjZkdWV1cwaGlpWFJIRlhrc0pNZDFoYnp3UGpIUVFvNUgtWXFDUV9WV2toaEtabS00ZVVmd1ZhQjZBOXZwM2NKOG1oU0JXZ1NwWVV0bkJiOWljRWc?oc=5",
-      "published": "2026-09-03",
-      "source": "bnamericas.com",
-      "topic": "company_news",
-      "entities": [
-        "TGS"
-      ]
-    },
-    {
       "title": "US billionaires are piling millions into Argentina's Shale boom, here’s what is driving it - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbTBCWVczZ2htWi1UNXhzdndESkdnVU9RMlJVaHAwVkhIZnhDem9obmU3U0p5NlI0WTVkMXU4akRjQ2MxWTFSbEN2eVdnVlF6QVR1TGtTaE1yZGpSZ0lqOTVaZzBabUtWd1h4bmlYRVlkS0Yzc0Y0Vm1rRDlfem5pZ29uUzJsZGRoa2R2U3pOSjRUM0JwM0hCLVFmR0NxYll1R0FpdWpkNk5fNzR3ZXFnMGNKT2FKT3lSMFhHSWFNN0s0UVdLMmxOR0dhekFMZ1hEQi1pb1kyLW5BdHByUWRzRFNsVWxmZkt2NUMxY2pJdWowWjlLSDlKZ0hycXJLUFZ6eHFYQtIBigJBVV95cUxQUFdTcUZsRzRWaDFYeU83UE43NzhmcjJhVjlmSFQ4djIxRDQ1WkRIanhNMzRnanhpUUZHWXJueTlfR1paVGFKeml0WTBqZW01eFRXY1VnTktMemFySGhLZDQ1RDBWNmxvRloxbEdyR25RU3hIXzgwbzV0d3lrSi1MWjBmY3VGZWdjSEVQRDZfbTJsRlNmQVFRZHpUYTQ0YnlKOUE5cFB0UDQyUmJvNEZJZHc1NDk2NGxqcm9VSU5wZklPYXRnNE1iOThKNTZ0azVzaDZUanBOZGlYanY0Sml4VjBVc0F1aGRITlV4ZG9vSzBoVzZ0TUNRbjY5RS0xUk4tNjdIcDZRYUhzdw?oc=5",
       "published": "2026-08-24",
@@ -474,26 +364,6 @@
       "name": "News: big_money",
       "ok": true,
       "note": "6 items"
-    },
-    {
-      "name": "Stock news: VIST",
-      "ok": true,
-      "note": "3 items"
-    },
-    {
-      "name": "Stock news: PAM",
-      "ok": true,
-      "note": "3 items"
-    },
-    {
-      "name": "Stock news: CEPU",
-      "ok": true,
-      "note": "3 items"
-    },
-    {
-      "name": "Stock news: TGS",
-      "ok": true,
-      "note": "1 items"
     }
   ],
   "stock_watch": [
