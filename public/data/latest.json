@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-10-03T00:29:29.549397Z",
+  "generated_at": "2026-10-03T23:46:53.454214Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,24 +31,24 @@
   },
   "today": [
     {
-      "title": "BCRA reserves",
-      "detail": "Official BCRA international reserves.",
-      "signal": "negative"
+      "title": "Primary fiscal balance",
+      "detail": "Argentina’s poverty rate rises above 30% under President Milei, reversing recent decline - abcnews.com",
+      "signal": "positive"
     },
     {
       "title": "Vaca Muerta oil",
-      "detail": "Pluspetrol Wins RIGI Approval for $12.4 Billion Vaca Muerta Development - Shale24",
+      "detail": "U.S. Eyes Argentina's Vaca Muerta, Mineral Resources - Industrial Info",
       "signal": "positive"
     },
     {
       "title": "Power demand / reform",
-      "detail": "How Argentina's power market reform is progressing - bnamericas.com",
+      "detail": "How Argentina's power market reform is progressing - BNamericas",
       "signal": "neutral"
     },
     {
       "title": "Big Money",
-      "detail": "Hamm’s Continental to Buy 50% of Mercuria Argentina Oil Firm - EnergyNow.com",
-      "signal": "positive"
+      "detail": "US billionaires are piling millions into Argentina's Shale boom, here’s what is driving it - The Economic Times",
+      "signal": "neutral"
     }
   ],
   "metrics": [
@@ -170,10 +170,10 @@
         "url": "https://www.argentina.gob.ar/economia/politicafiscal"
       },
       "latest_event": {
-        "title": "Argentina’s poverty rate rises above 30% under President Milei, reversing recent decline - ABC News - Breaking News, Latest News and Videos",
+        "title": "Argentina’s poverty rate rises above 30% under President Milei, reversing recent decline - abcnews.com",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWldVc1I4cmdhS3VHdTh3ZkszeW1zRjJEUmowVVJfRnBYQXJiY2txZ3VVU3FIdEdGZDlOZklTUmp5Mk5ydUtILXQ4U1BRWWhQcS1fTUhkemd1VlVzS3dhbTdmeVROazFpLVY4WDVrWHVzd0xSejluRnpRTWdDNjE5TE9RT1VBU3djdWVkZlY0UDRCTlVyMW54U2NBWHViOF9LSnl4TklINHozMk3SAbABQVVfeXFMTkxFd2ZIR1pncGhPNTIxMUpvUmdnXzFHMWxzUG8tTkJnYjFJM2FPbUdUaFItOU1hanZqRWhKeUJxU1Jmc2hGdW13TFFPZ3FwdlhTOS1tc3VTbmFvcnhjWlZzZEZuQU9rTjNUemFrdS1naFZlaUFmTXpEYVZYY19keHBoTzI4SlhtMDJkS2VZWS12YklXQzA0bk9wMkZyeVZQbnAyNjJRRkZvV3JjcUlsTnI?oc=5",
         "published": "2026-09-24",
-        "source": "ABC News - Breaking News, Latest News and Videos",
+        "source": "abcnews.com",
         "topic": "fiscal_balance",
         "entities": []
       }
@@ -196,10 +196,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "Pluspetrol Wins RIGI Approval for $12.4 Billion Vaca Muerta Development - Shale24",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYld0MnVpNG8wZHlUY214VDBZUVVYTzhEVXc3NXVhcHVvSF9IMXJXWnZjMEZLcVZVOGlnWU9ScnlBb0lBTU5OekJURDctTDRVa0xXNjZJb3hzcDFya042eEh2TmlTY2NWbTV3cUFjN0xuZUdlZldrUHkzZ3RQR2ZkMlRSNG5KcmZxbklkbG1mb3JvU0pHS2RlckxMS1plRUs5Zk9BbzJJMjljeXlZcVZKLUZBQ3pmdVJMOWfSAboBQVVfeXFMT2JXdDJ1aTRvMGR5VGNteFQwWVFVWE84RFV3NzV1YXB1b0hfSDFyV1p2YzBGS3FWVThpZ1lPUnJ5QW9JQU1OTnpCVEQ3LUw0VWtMVzY2SW94c3AxcmtONnhIdk5pU2NjVm01d3FBYzdMbmVHZWZXa1B5M2d0UEdmZDJUUjRuSnJmcW5JZGxtZm9yb1NKR0tkZXJMTEtaZUVLOWZPQW8ySTI5Y3l5WXFWSi1GQUN6ZnVSTDln?oc=5",
-        "published": "2026-10-02",
-        "source": "Shale24",
+        "title": "U.S. Eyes Argentina's Vaca Muerta, Mineral Resources - Industrial Info",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcFJxMnc2WkxoWmZUOVYxTTRzdmFOSnRsOXp3VzFWVk5LZjBtd3VpZVJOX0ZKQWlxbDdFdjJUM2duMV9vdHIyZGtieE1CQjRQTEowLVdDV1NtaTNXQmNQMEdWVmluV0plRVlCbHplcVYySUZESkRCTFN4THlIdy03TzJPOW52U2ktVmo5aU9MU2F2b2dQR3NqbmpXUEpnblY0dUE?oc=5",
+        "published": "2026-09-29",
+        "source": "Industrial Info",
         "topic": "vaca_muerta_oil",
         "entities": []
       }
@@ -247,10 +247,10 @@
         "url": "https://cammesaweb.cammesa.com/informe-sintesis-mensual/"
       },
       "latest_event": {
-        "title": "How Argentina's power market reform is progressing - bnamericas.com",
+        "title": "How Argentina's power market reform is progressing - BNamericas",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWVFfQzNpYUktTXNmQTFweTRtbDlFSVE2d0hreFRhWl9jT1k1TjNXY3FTWm8zRVhWWWREQ0RHTFlwLTdZRmwydE15SVRETjJHeVVlc3puZDQxSHhLV3hLLWN0Ynh2TlZwQ2FYSHpNRUxMZ3lqWXhTamhJbHc0eWtTY3M2LUEyQm1pRVpzRHh5RUlscnJG?oc=5",
         "published": "2026-05-11",
-        "source": "bnamericas.com",
+        "source": "BNamericas",
         "topic": "electricity",
         "entities": []
       }
@@ -258,30 +258,20 @@
   ],
   "news": [
     {
-      "title": "Hamm’s Continental to Buy 50% of Mercuria Argentina Oil Firm - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHZsTmtUc0RFWmtWN25iX1M5MU5yWjRMa2N3QThQdWFQLVZ5dXBpemZFYVFrcFAySnNNZGJ3Nk0wZm5RbHJiQUN3dmNHOHRMUHBmZ045dzFZaTJLcUdrU3lGQmdFUWVFaHVyeWpqZjQwVlhRQzhMRkJEc21iSGNtSVFMS0JoY3BFakdnUWJpSFRkUlU?oc=5",
-      "published": "2026-10-01",
-      "source": "EnergyNow.com",
-      "topic": "big_money",
-      "entities": [
-        "Mercuria"
-      ]
-    },
-    {
-      "title": "Energía Argentina to offload stakes in 1.7GW of thermal assets - bnamericas.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGU4aXNIVDdxV0dtbURqV1daT0UyQlk5aGtBZVhfcUM5aExaUC1EcHFGanZkT0FXUm5JOVdWSDlNU1ZkWUxnaTNETkJYclFGd05sV3dhbXBTeVQ4V0RiRUVQZ2JmSFhRbUE1clZyZ096RHRnbkYzM0JfVHBvUlJKLTZMSmpyMVBoVlZGanpGaGkzY0hmU2o3NFhUeXI?oc=5",
-      "published": "2026-09-29",
-      "source": "bnamericas.com",
+      "title": "Pampa Energía Offers 800 MW to Power a Vaca Muerta Data Center - Shale24",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVTMtRENodEdpUWNxU1RGTDczQkE3aFV1LU5YLU8tdDFQZU5aOEItS1dMWWRGamVPOW5oOFRjcDlsckxaTGV1NmMwVFJMVHFneUpQUl9LbzFLR25EamYtbDltc3AzSXN6NHI3cGZranFjWkc0NTVuWDlRWEZjS0VFTXpHbXVMelgxaHY0QjNwRHhvOWtpQXJRSWpzMWtKQ2lvT2hYdFdYUDXSAa4BQVVfeXFMTXZ2Y0RlSWszdG8ySWNqak5rWWZINUozUkI3NjJYdVFOM2xtQzQtbWhkdkU5Y1V2SmtXdjVEdXBUcEEzZm1MRFBKUlM5LXR6MlBOOVg4LU9CZTROQ2ttdHFnbmgwSXBMZzJzdjZoc3ZRQTJwWkx4YlZaMzFKaWZ2eTVwYzVlVVBtSzI1czItc29sMVhKckMyRk9CLUpYTF93Q1VkZjFxNFVJeFF1bjFn?oc=5",
+      "published": "2026-10-02",
+      "source": "Shale24",
       "topic": "company_news",
       "entities": [
-        "CEPU"
+        "PAM"
       ]
     },
     {
-      "title": "A $241K U.S. buyback accompanies share purchases in Argentina by Central Puerto (NYSE: CEPU). - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGJMWERGcVZzNkJSY0M5V1BGTEo0UG9qVnVla3hWUGZ6aVlSTXJCYjJWTHE0SzZNVUVaMGdXYW9wMW03WFVGcnlpaHB3aVhyMUUyWktRR21DYnRjeHhIRFNsOFhEZ3JtTWF6aWpCOEx6Q0hhc1BSdXFFaXVlNlZ4WDJ4OVpYdGQ3djA3ZnhEaE9IbjdWcmkwSFB4U1EyZWtnUUtKa3JXR0c5QlNRVFBxbVJianc?oc=5",
+      "title": "Energía Argentina to offload stakes in 1.7GW of thermal assets - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGU4aXNIVDdxV0dtbURqV1daT0UyQlk5aGtBZVhfcUM5aExaUC1EcHFGanZkT0FXUm5JOVdWSDlNU1ZkWUxnaTNETkJYclFGd05sV3dhbXBTeVQ4V0RiRUVQZ2JmSFhRbUE1clZyZ096RHRnbkYzM0JfVHBvUlJKLTZMSmpyMVBoVlZGanpGaGkzY0hmU2o3NFhUeXI?oc=5",
       "published": "2026-09-29",
-      "source": "Stock Titan",
+      "source": "BNamericas",
       "topic": "company_news",
       "entities": [
         "CEPU"
@@ -300,7 +290,7 @@
     {
       "title": "Vista raises $400M in debt to accelerate Vaca Muerta expansion - Dealroom",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1kydXBocGIxYlpVTlZ1eVg3WE00M1VsRkRmeHRvRUFwWlBROFZGd1Utd0JMTjR6MGhQaDlNSzFKNm55MHBSOG5TUXdDc2ViOVFhOTlXazQ2UkNzYlNpd2xLeS12WUlBbEE2LXY0YnBseEpqSm84YThDOEk3THdpc3h6dk9ZTDlNWUJzV24zM0hVOUtNNHE4azNNbw?oc=5",
-      "published": "2026-09-22",
+      "published": "2026-09-23",
       "source": "Dealroom",
       "topic": "company_news",
       "entities": [
@@ -318,13 +308,13 @@
       ]
     },
     {
-      "title": "Can Vaca Muerta solve a historic problem of Argentine agriculture? - Buenos Aires Herald",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb192S2hENkdpYmp6SzZNaFZRa25ZdF91b3FTT0xvRHJva3ZHRUp3NDY4Z0k3RXhZNnRrMzVmUHM1VFNZTTBTVUhEWGZJYzlqSzBHTzJtV19KclNoQzFNS2pfdlZnMEs0Ry1EOXdjRVo2MDlIZktZTHdfVDd5d0hOQ1NzVngyeEQtSVJpUkpYMnVseFQ3cThiMjFhdUo3dFNFMVpVSmg0YVlua09EdXc?oc=5",
-      "published": "2026-09-14",
-      "source": "Buenos Aires Herald",
+      "title": "Central Puerto (NYSE:CEPU) Shares Down 5.7% on Analyst Downgrade - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdDg0QmlqNmZnei1zQ040ZnlyRUhMT3kwNW5DWGdXTDF1X3JMNW5GTzBTSndyRlpjLXd0WlRPZ0p3VE1HSWhHZ1o5OFp0YlN4cGxrcG5wWDU2WEZUNGJrYUUyMVkwdkpqejQ3cmh2WTVYc3E2X3FvajNDRVJiUG9HMTNiQ25xblpXb0dHTW9kTzA4OXptT1FoYzRSU2xjOEpDZFVCU0FfTzJtb3dCS3hUX0JGekdPUnJKdlE3ZQ?oc=5",
+      "published": "2026-09-18",
+      "source": "MarketBeat",
       "topic": "company_news",
       "entities": [
-        "PAM"
+        "CEPU"
       ]
     },
     {
@@ -338,10 +328,10 @@
       ]
     },
     {
-      "title": "Neuquén accelerates Vaca Muerta routes with pre-financing from oil companies - bnamericas.com",
+      "title": "Neuquén accelerates Vaca Muerta routes with pre-financing from oil companies - BNamericas",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcldVd245RzlPYkFqUkgwdV9zM0RQMzNuM25BMk43djNKZ04tOGltTDdSYTYtZEkwQzJraWZONEw4X29aRVZoajdOakUtSVZjM1VfcHFndDRBQlBaUjZjQ1BMeVphV2RLb3lXdHM5MldrUFB6ZWxhQks1M2pOTzJkTnNSWWdadjBOMmN0TkIwUUc4RmpDaEc4eVFraVRpYTVjRWxlRzNPZjlQN1BEU1FTdQ?oc=5",
       "published": "2026-09-09",
-      "source": "bnamericas.com",
+      "source": "BNamericas",
       "topic": "company_news",
       "entities": [
         "PAM"
@@ -355,16 +345,6 @@
       "topic": "company_news",
       "entities": [
         "PAM"
-      ]
-    },
-    {
-      "title": "Argentina's shale powerhouse province plans second licensing round of 2026 - bnamericas.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1QwOF9BM2lRZzEwTFRWUWhsZ3B2OTRFOFUzLUI5ajA5ZkdCQUtIaGxpcEhvZXBWNk1vcEJjZzFoTjRJeFlCeFU2cVRBTGVWQmI5ZXIyQThya2JjZkdWV1cwaGlpWFJIRlhrc0pNZDFoYnp3UGpIUVFvNUgtWXFDUV9WV2toaEtabS00ZVVmd1ZhQjZBOXZwM2NKOG1oU0JXZ1NwWVV0bkJiOWljRWc?oc=5",
-      "published": "2026-09-03",
-      "source": "bnamericas.com",
-      "topic": "company_news",
-      "entities": [
-        "TGS"
       ]
     },
     {
@@ -384,20 +364,20 @@
       "entities": []
     },
     {
-      "title": "Billionaire Harold Hamm targets Argentina's shale basin - Billionaires.Africa",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFZGSWZNZlFnT3hUV1ZOSDNTVjJTaEZFVTZPY0ZuYy16amVTakE2YzltZ3lJcnZZZmNvMFluVFFJY1llYVVGRTdFdVBUbk5WLUR2MW85eFRvR3JoUFJZdHliVzBlSlp5ZjJLMks1OE5aam96YUNxaS0zZllINk5xcjZSZTZKcko4WmNSRXBhOS11Q0IyRl9BMWhnV05BLVlONndYWHdPbUlkSjFBQllpTXg3bXk1ZzBqSXhLZ2pSeldqcU02SVBV?oc=5",
-      "published": "2026-08-21",
-      "source": "Billionaires.Africa",
+      "title": "Continental to Buy 50 Pct of Mercuria Argentina Oil Firm - Rigzone",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzVsSlhGNEJBZ2ZSanlxbHIwVDR6dEJqdEhJam1zMDBSdWRIQ2xQWGNqcV90VWszTFlSbF9udHVlUWxXWnFvZVdnSlpwYVFRVm1yVnRnTWFRSm1KaTliNk05WndVQVA2WWVuZk1TMTVpb3k0TnpMRDd2UGVqLXJYLXdmQlVmY0xuVEZjMkNjU2JBVnRsQk5EaktDNzRKbGcwR1QyZkQxSGlwUVJqM3k0blRCWEhVWmNlakE?oc=5",
+      "published": "2026-08-20",
+      "source": "Rigzone",
       "topic": "big_money",
       "entities": [
-        "Hamm"
+        "Mercuria"
       ]
     },
     {
-      "title": "Harold Hamm launches multibillion-dollar plan to drill Argentine shale - Financial Times",
+      "title": "Harold Hamm launches multibillion-dollar plan to drill Argentine shale - ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3M3blVUenNmcURyRHhiaC1rN3M0a0c2TER1NzN0MkhqTENXX3F6Nmx3ZG1LeDd5dEFDX3hXeGhEcnRydlZpbDhkMU5ndzhwbVl1eWJKUHdEd3daUmhHVlRkb0tLeHViTXlqbjNfTWlqWG50MlYySVZURmwzVDBYcF9aSU0?oc=5",
       "published": "2026-08-20",
-      "source": "Financial Times",
+      "source": "ft.com",
       "topic": "big_money",
       "entities": [
         "Hamm"
@@ -408,6 +388,16 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0NmZGxwc2twN2UxcE1pdUpJMTZqYTV2WEJ1TDAxMjg0NXpna01HbzlTbU5xeFgxaFBEUHcybjBsTkxxS2YyR3pTLWFoR2hKWXYyY2NpRExaN294Z0Q1RW5NTDhZSDB5MVFvaUhlZVQ2Q0J5QzV6UWVPYUZRanl2UXNDWE5lSjA0Z0FOS28xZkEtNFJjcGZLdw?oc=5",
       "published": "2026-08-18",
       "source": "Natural Gas Intelligence",
+      "topic": "big_money",
+      "entities": [
+        "Thiel"
+      ]
+    },
+    {
+      "title": "Peter Thiel buys 1% stake in Argentina’s Vista Energy - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2F3dEI2S0IxMlphc0pZaDl5Z0V2ckJqUm01d2JQb1dITC1tbG9aZC1QZExURlpRa3Z2OWhjU0thUHRXck9BQzk0dTV4bnJxQkV1UU83dWI2QWZnZ0h6RXA1cGhCbXJERjljajhGeWtXNlNaY24wYng5QXVxLWd1czhraXducmFB?oc=5",
+      "published": "2026-08-15",
+      "source": "Yahoo Finance",
       "topic": "big_money",
       "entities": [
         "Thiel"

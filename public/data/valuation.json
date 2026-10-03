@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T00:29:31.405896Z",
+  "generated_at": "2026-10-03T23:46:56.058684Z",
   "source": "StockAnalysis / S&P Global Market Intelligence",
   "source_note": "価格・倍率は市場や決算で変わります。取得失敗時は直前の値を残し、stale表示にします。",
   "stocks": {
@@ -58,7 +58,7 @@
       "ev_ebitda": 5.33,
       "p_fcf": 18.06,
       "debt_ebitda": 1.66,
-      "change_52w": 22.86,
+      "change_52w": 22.96,
       "status": "fresh",
       "as_of": "2026-10-02",
       "source_url": "https://stockanalysis.com/stocks/tgs/statistics/"
