@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "mode": "auto",
   "generated_at": "2026-10-08T00:59:53.183491Z",
   "scores": {
@@ -16,16 +16,6 @@
     "cepu": {
       "label": "CEPU",
       "score": 62.6,
-      "confidence": 1.0
-    },
-    "pam": {
-      "label": "PAM",
-      "score": 72.5,
-      "confidence": 1.0
-    },
-    "tgs": {
-      "label": "TGS",
-      "score": 78.6,
       "confidence": 1.0
     }
   },
@@ -253,116 +243,6 @@
   ],
   "news": [
     {
-      "title": "Central Puerto S.A: 'Powering Up' The NAV/SOTP (NYSE:CEPU) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdllyQlljS2hWTVBhUnM1OHNueVlsTGRNSXZsS3M5cDd0ZkZiY2dzZ0Y0S2V6bmdJYWp0dERPc2wzZlRKUlVxVzZocWFmUExZUEgzWWk0VWl5cWJnYzJPVjBhVUw1R1ZXWWo5VXJ6U2VoTEd1cmFvbktsOHdWVExzRkVRTnp5dkNpclE?oc=5",
-      "published": "2026-10-06",
-      "source": "Seeking Alpha",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
-      "title": "Central Puerto (NYSE:CEPU) Shares Gap Up - Still a Buy? - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRExfTENFN0VEM2lpVmNQdHpoMExVYzJTNnVYWUdOM1NxV2Y1eFFIZ05WMzdGWlAtdzAwd2VYT01ReVZBYUtQZzV3VU54NEZ6aG1SS1EtVDlxYllZampRTU85S1czR3AxODFzY2szVU9qMzFKUnJ2blBZWWN0WEtJc0JmU2dtMHJYbmZTNkFvS1Y1bU5IZkNYM0V5WVhvSFlfeDkyaW5PUzEtRkpHU2lF?oc=5",
-      "published": "2026-10-06",
-      "source": "MarketBeat",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
-      "title": "Argentine power generators gear up for hyperscale data center demand - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjVjWWphZlRUOHRrNG1vS3ZZRWpLeEJ2RkE4ZFBaWnZYSF9USlZXSnYyeS1URGs5RlZhTkhGaWZSelJDX3dWbDJiUlU1WV9rc1Bld0hFVzNhS3NFaUpMZ1VuOWFwVGJEc043UXZHVW5XMmE0dUVwSzUxeEx5ZnVaRTNpVkp3cVM2VS1nNS14VVkzWDBGWWtIREhfbTQtZmdhQTVfUEhmcE14dmc?oc=5",
-      "published": "2026-10-06",
-      "source": "BNamericas",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
-      "title": "Massive Energy Cash Inflows Ignite Transportadora De Gas - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFk3SEczUjQxU2JyQ0tKa2Z0WDZjZGptMzM0ajdGZGFuSlJJRWxZRFRhRDVYSmpMZ2czS3ZhZXRPUlM2VkxyYm1oMVJLRHBpVnAta2ZMWE5FRDMtQzNPMVBib3ZHbHJzRkN6elRZVkNDVTFEaFJDb2swVXQ0LXhJS3R2dUF0X1ZqQU43R2F1R19ESWlBMW5TQXBQcw?oc=5",
-      "published": "2026-10-05",
-      "source": "TipRanks",
-      "topic": "company_news",
-      "entities": [
-        "TGS"
-      ]
-    },
-    {
-      "title": "Pampa Energía Offers 800 MW to Power a Vaca Muerta Data Center - Shale24",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVTMtRENodEdpUWNxU1RGTDczQkE3aFV1LU5YLU8tdDFQZU5aOEItS1dMWWRGamVPOW5oOFRjcDlsckxaTGV1NmMwVFJMVHFneUpQUl9LbzFLR25EamYtbDltc3AzSXN6NHI3cGZranFjWkc0NTVuWDlRWEZjS0VFTXpHbXVMelgxaHY0QjNwRHhvOWtpQXJRSWpzMWtKQ2lvT2hYdFdYUDXSAa4BQVVfeXFMTXZ2Y0RlSWszdG8ySWNqak5rWWZINUozUkI3NjJYdVFOM2xtQzQtbWhkdkU5Y1V2SmtXdjVEdXBUcEEzZm1MRFBKUlM5LXR6MlBOOVg4LU9CZTROQ2ttdHFnbmgwSXBMZzJzdjZoc3ZRQTJwWkx4YlZaMzFKaWZ2eTVwYzVlVVBtSzI1czItc29sMVhKckMyRk9CLUpYTF93Q1VkZjFxNFVJeFF1bjFn?oc=5",
-      "published": "2026-10-02",
-      "source": "Shale24",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
-      "title": "Two Blocks Drive 40% of Vaca Muerta's Annual Oil Growth as Pluspetrol and YPF Ramp Up - Shale24",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWDFTb0FOOFpqaEZkblBNZGU0eEFxS3JZVl9ITm5oMFVKOFJyLXRIaklJMjdWRE1zekFLVUVybWN4aFcxVnJIWTlhRlVjeVYySzhXZ1p4NVB3c25UXzRwZDA1S1p0QW9ZLUFhUDkyZDdydTJsdWQ3SXQtbnhvM3lMV1M5YlJZYkE3Sy02dWk2V2ZJSkFUVlRXX1h0RlRtZjFfN255UVJoR08wUGx4ZTI1cl9LTmhHX2dXNGZoNUNHVmY4czBvVlEw0gHMAUFVX3lxTFBDci1naWxwbElkYjgxcTRzRGtvQWw3dnRSYkxYekxZb3c2ZnFjRTR4OWZXOXV1UkF1aGMtX3BPdXRWTFpObVo1eWxIbGVpSDhxN1d2b3YtNFp3RWRURWlXU3ZqSDJMcVdWOExUeHRQbDk0bUtpQlVHZURRb1pSa1ROeUloS3Y1UnFBd3dZSlp2dHBFaFViXzByQ2g0R2JPY245a0UzRFUwSVdCaTQzdVd2NGExTGEwNXR3dVRBYUtZYktqc1FYS3E3ZmVMVg?oc=5",
-      "published": "2026-09-29",
-      "source": "Shale24",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "Vista Energy's 2026 Outlook: Shale Expansion Drives 70% Adjusted EBITDA Margins - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaFVYLTcxc05zVkxkSnZ5XzdKMjZvV3hreXNpYTFpTVJJNG14TGNrVHlIb1ZpS1J2ODY1cGF6d2F6NE1vbHYwenViN0xtdlV0TmhCNUxGYmxjWFZIQ1J6TzA2UkMyYy1XOGh1bVYzbTZ1djlESGtrRzh1THFwX3ZfUG1kYlByUkl0aW9SODUtLVYtSDFzVFdyQjRnbE04NVlnX25ER3lHTXpvYnpXdnhaQU43cXBNYmhRUEVIZFBCQWFFek43eTEw?oc=5",
-      "published": "2026-09-18",
-      "source": "The Motley Fool",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "Transportadora de Gas del Sur (BASE:TGSU2) Stock Price - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01QnY0RHVmU3NrMXJDU0N6VG95YlRoZGpsUWpVWkh3YkJpZXpoMUh2dzYxZHVvcEYtRTJKdDExMEg5LVlURzg3em5iYjVTUU0?oc=5",
-      "published": "2026-09-15",
-      "source": "Simply Wall Street",
-      "topic": "company_news",
-      "entities": [
-        "TGS"
-      ]
-    },
-    {
-      "title": "Argentina forces oil companies to choose between Vaca Muerta and the Falklands - EL PAÍS English",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ3NibEt2czBxeE90VldPcEhBcGpNaGpxRzg2NG93bVllbm8tWUlqbGpqR0ZNRjVYMFBlTzZ6SDViWEg4dGxJVnc1clZtSXBxdnJ2WTkycW9hRW8yWmtJRl9HY0VKcWk5SFlYTGNySXFUMFpab1AxOV8xNTBjc055Y1lFUFZXb0tUZTJtakplY0VRelh5cHBHRTd4TV84VGtWWjhqQjlnbGg1YTVGQkdwSHJKVmhXZDIyQlNUWWwybVFRNUZHTlg1XzZBU2oycnJ40gHkAUFVX3lxTE5GaXpyMXdJVE9CTFlYRi1lV0t2TGEwVm5FTGw3clNYaU10NVp1NTBaZDVSSDJvWGZPbmxDbWYya1RMUUw2US1DY1ZaVmJtSXZ0ZjJEam8zZEV3dXZfYmNodklpM0g1TFpkd1I2a0lsaEs5R3lzM2cyWFZ4dHdSLUVrMWw5YjFlOEl3WmVIeWtxRlZnQTJKNkU3NTBfeGRfWjdDMExMMW5uYy1PNUIyZTRLWW9VT094MU5USTduNTAwSlJYY1FKT2phQ09nS1lrR3kxVEFrLXFnVmxQOE9UcmV4S3MzQQ?oc=5",
-      "published": "2026-09-09",
-      "source": "EL PAÍS English",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "Neuquén accelerates Vaca Muerta routes with pre-financing from oil companies - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcldVd245RzlPYkFqUkgwdV9zM0RQMzNuM25BMk43djNKZ04tOGltTDdSYTYtZEkwQzJraWZONEw4X29aRVZoajdOakUtSVZjM1VfcHFndDRBQlBaUjZjQ1BMeVphV2RLb3lXdHM5MldrUFB6ZWxhQks1M2pOTzJkTnNSWWdadjBOMmN0TkIwUUc4RmpDaEc4eVFraVRpYTVjRWxlRzNPZjlQN1BEU1FTdQ?oc=5",
-      "published": "2026-09-09",
-      "source": "BNamericas",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
-      "title": "Tech companies look to Argentina’s windswept Patagonia to build massive data centers - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR3Fjc2E0emFBNnFZSXNRd012VFBQV21ISWppS191Q3F5STFubkFjbmpRWUdRWC1zUUNVSzZLVTg4OHJ2ZV81U1dfQ2FGaUdBODRDdGRrMXRFNVhHQTd1cTdieEJXVmttcWRLRGN2aUxlOW4yRjlzQ0xYRWstTG5zT0ZhWlBVZWo4SFZoRG5FVWJFTzYtVVp3?oc=5",
-      "published": "2026-09-08",
-      "source": "The Japan Times",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
       "title": "US billionaires are piling millions into Argentina's Shale boom, here’s what is driving it - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbTBCWVczZ2htWi1UNXhzdndESkdnVU9RMlJVaHAwVkhIZnhDem9obmU3U0p5NlI0WTVkMXU4akRjQ2MxWTFSbEN2eVdnVlF6QVR1TGtTaE1yZGpSZ0lqOTVaZzBabUtWd1h4bmlYRVlkS0Yzc0Y0Vm1rRDlfem5pZ29uUzJsZGRoa2R2U3pOSjRUM0JwM0hCLVFmR0NxYll1R0FpdWpkNk5fNzR3ZXFnMGNKT2FKT3lSMFhHSWFNN0s0UVdLMmxOR0dhekFMZ1hEQi1pb1kyLW5BdHByUWRzRFNsVWxmZkt2NUMxY2pJdWowWjlLSDlKZ0hycXJLUFZ6eHFYQtIBigJBVV95cUxQUFdTcUZsRzRWaDFYeU83UE43NzhmcjJhVjlmSFQ4djIxRDQ1WkRIanhNMzRnanhpUUZHWXJueTlfR1paVGFKeml0WTBqZW01eFRXY1VnTktMemFySGhLZDQ1RDBWNmxvRloxbEdyR25RU3hIXzgwbzV0d3lrSi1MWjBmY3VGZWdjSEVQRDZfbTJsRlNmQVFRZHpUYTQ0YnlKOUE5cFB0UDQyUmJvNEZJZHc1NDk2NGxqcm9VSU5wZklPYXRnNE1iOThKNTZ0azVzaDZUanBOZGlYanY0Sml4VjBVc0F1aGRITlV4ZG9vSzBoVzZ0TUNRbjY5RS0xUk4tNjdIcDZRYUhzdw?oc=5",
       "published": "2026-08-24",
@@ -481,26 +361,6 @@
       "name": "News: big_money",
       "ok": true,
       "note": "6 items"
-    },
-    {
-      "name": "Stock news: VIST",
-      "ok": true,
-      "note": "3 items"
-    },
-    {
-      "name": "Stock news: PAM",
-      "ok": true,
-      "note": "3 items"
-    },
-    {
-      "name": "Stock news: CEPU",
-      "ok": true,
-      "note": "3 items"
-    },
-    {
-      "name": "Stock news: TGS",
-      "ok": true,
-      "note": "3 items"
     }
   ],
   "stock_watch": [
