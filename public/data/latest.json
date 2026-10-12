@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-10-11T00:14:13.472594Z",
+  "generated_at": "2026-10-12T00:32:01.580989Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -30,6 +30,16 @@
     }
   },
   "today": [
+    {
+      "title": "Vaca Muerta oil",
+      "detail": "Argentina's Oil Production Soars as Vaca Muerta Breaks New Records - Crude Oil Prices Today | OilPrice.com",
+      "signal": "positive"
+    },
+    {
+      "title": "RIGI approved investment",
+      "detail": "Toyota to invest $1.34 billion in Argentina EV plant - Reuters",
+      "signal": "positive"
+    },
     {
       "title": "Big Money",
       "detail": "Continental Resources acquires 50% stake in Mercuria's Argentine shale oil firm Phoenix Global Resources in $4 billion-plus deal - Energies Media",
@@ -181,10 +191,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "YPF Targets Late-November FID for 12 Mt/y Argentina LNG Project - Natural Gas Intelligence",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWnA4UEkzVDdleWRjeUVaeFZkbHNpTWhRN0oxcDBldTUzN3ZJUkxFa3U0Vm5XLTBtVEszZ2ZtWGJRSHhvdVAtWUR0Z0tnT3lDMkdROWxtVG5XX1huTE5MQjN2LV8xNkdIRDFlQW5oU09mZWhKVlJwd0Mtd2RwUjFSZ2QzdV80RE1lRUx2QzIwV2RGNTNZdlQ4ZEZwRE8?oc=5",
-        "published": "2026-10-05",
-        "source": "Natural Gas Intelligence",
+        "title": "Argentina's Oil Production Soars as Vaca Muerta Breaks New Records - Crude Oil Prices Today | OilPrice.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0docWpQVUw2ajU2MTJ5eXhKVnJwcU94SGJUOWJHWGQycGxwZVVZOW5Rc1MzWUYycUh3Yk82UkpTdTM3SE80ZzZjUlo1RlUzTGxmWVZNZlBDMnFJU1pRdU5KQmp6Y2V1Wm41eXpoNXF6UWY1V3o1cFB1OGJMNUNtVkNiclYtOXc5UXR5d3VQZl8xSTNtV2RIWU0xRy1Yb2JFN1JEUTJ4NXFYMk1CRkNudmlfRdIBuAFBVV95cUxOV19oeGNJQUVTSEpna1ZfeGp0NGhrTG1ldW9uSlFfZmZwS1pzNVJ2SlFvNnV1dTRpVVlLNldiU1VicVpGSFJUalp3aVg0cFdRVzhzMl9DbTNneVhkX191RGRCbklod0pVMFdZcEpxMHpDNUZlRXk3aEY4US1GdmdQN3plRWlzYjVhNUU3MWJmVkw0M2gtc1NlV3FyRVJ4OFBUQV9ybkx0R0I2VmNONFZtNkRUbW9HQmN4?oc=5",
+        "published": "2026-07-26",
+        "source": "Crude Oil Prices Today | OilPrice.com",
         "topic": "vaca_muerta_oil",
         "entities": []
       }
@@ -207,10 +217,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "POSCO Commissions Sal de Oro Plant II, Marking the Start of RIGI Investments in Argentine Mining - Panorama Minero",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ3FQaTRYZVl4QzJUbmRlOXlRYUlvOG90SHFFc1liTVJyeFlJaC1oMW5sWTktMTRIVjNjSXg0ci1EX2FiallCMi1IbF9XSE9nbEVNdFNBcUZNS3FFdHhLNW9WcmVUUGF4Rk1BUjZUeEhQUkNYZnVnS2RtYnZDNlZXMnpqSkExcDdaRU1NMlIyOURxQTVqd1hZRXNxRjRaUktzNWl3U0xKYTVBcjFNVTdPdnVaUTFJbGozYkdLcHJHWUMyYm0yR01FVmdCajFrRkVu?oc=5",
-        "published": "2026-10-07",
-        "source": "Panorama Minero",
+        "title": "Toyota to invest $1.34 billion in Argentina EV plant - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGlWUWRKdzU5TWZ3ZGQwb2VzTjdQejRGdlZFV0h2N1lXUEhRNnVBV0VhYW1CVEJTZXZ5ZUZNX3VoMHlqaHprc0VPS3ZHRnBWM2JIeFdWZzRvcmNGUk9ERGFnNjVsQWh1WUh4S0xzQ1h0dGlqbTRPSnZvUGFUMmpGY1U3M0V0S2VpbXJobHppQm43QzBWNEM3VWI1a3drbThTZHN1RVFlTm9fYmc?oc=5",
+        "published": "2026-09-30",
+        "source": "Reuters",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -242,6 +252,16 @@
     }
   ],
   "news": [
+    {
+      "title": "Central Puerto raises $50M in debt at 6% to fund Vaca Muerta push - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUs0NTU1dTJ3NFVYa3Z4dXN5WjY1czBxa0syNGpfNTA4NU9CQ2JkTS1USUlQQTVTdEpBZlJudWFrSUtuNl9DbkI0QTNxUVJXQVh4N0ZNRk1Fd3BhX3oxS3EyUGZ3NFZMU1l0dFhuUUs0ODl0cDRpVHhGMTFIT21nc25WLXVoanVKZTVqWGlaZERiVVI0Q0lfWkNObTV6QQ?oc=5",
+      "published": "2026-10-11",
+      "source": "Dealroom",
+      "topic": "company_news",
+      "entities": [
+        "CEPU"
+      ]
+    },
     {
       "title": "Hamm’s Continental to Buy 50% of Mercuria Argentina Oil Firm - EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHZsTmtUc0RFWmtWN25iX1M5MU5yWjRMa2N3QThQdWFQLVZ5dXBpemZFYVFrcFAySnNNZGJ3Nk0wZm5RbHJiQUN3dmNHOHRMUHBmZ045dzFZaTJLcUdrU3lGQmdFUWVFaHVyeWpqZjQwVlhRQzhMRkJEc21iSGNtSVFMS0JoY3BFakdnUWJpSFRkUlU?oc=5",
@@ -405,8 +425,8 @@
   "source_health": [
     {
       "name": "INDEC inflation",
-      "ok": true,
-      "note": ""
+      "ok": false,
+      "note": "The read operation timed out"
     },
     {
       "name": "BCRA reserves",
