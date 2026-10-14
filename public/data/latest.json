@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-10-13T02:34:24.887593Z",
+  "generated_at": "2026-10-14T00:17:20.894868Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,14 +31,14 @@
   },
   "today": [
     {
-      "title": "Primary fiscal balance",
-      "detail": "Radical economic policies in Argentina offer lessons – but not a blueprint – for South Africa - The Conversation",
-      "signal": "positive"
+      "title": "BCRA reserves",
+      "detail": "Official BCRA international reserves.",
+      "signal": "negative"
     },
     {
-      "title": "Power demand / reform",
-      "detail": "Argentina's energy storage growth engines - BNamericas",
-      "signal": "neutral"
+      "title": "Vaca Muerta oil",
+      "detail": "Neuquen Ratifies $177.6 Million Road Deal With 15 Vaca Muerta Operators - Shale24",
+      "signal": "positive"
     },
     {
       "title": "Big Money",
@@ -102,11 +102,11 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 49.13,
+      "value": 49.32,
       "unit": "USD bn",
-      "period": "2026-10-07",
-      "previous": 50.78,
-      "change": -3.25,
+      "period": "2026-10-08",
+      "previous": 50.86,
+      "change": -3.02,
       "change_unit": "% ~30d",
       "thesis_signal": "negative",
       "status": "fresh",
@@ -116,7 +116,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        50.86,
         49.79,
         48.26,
         50.2,
@@ -145,7 +144,8 @@
         48.66,
         48.8,
         49.12,
-        49.13
+        49.13,
+        49.32
       ]
     },
     {
@@ -191,10 +191,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "Argentina's Oil Production Soars as Vaca Muerta Breaks New Records - Crude Oil Prices Today | OilPrice.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0docWpQVUw2ajU2MTJ5eXhKVnJwcU94SGJUOWJHWGQycGxwZVVZOW5Rc1MzWUYycUh3Yk82UkpTdTM3SE80ZzZjUlo1RlUzTGxmWVZNZlBDMnFJU1pRdU5KQmp6Y2V1Wm41eXpoNXF6UWY1V3o1cFB1OGJMNUNtVkNiclYtOXc5UXR5d3VQZl8xSTNtV2RIWU0xRy1Yb2JFN1JEUTJ4NXFYMk1CRkNudmlfRdIBuAFBVV95cUxOV19oeGNJQUVTSEpna1ZfeGp0NGhrTG1ldW9uSlFfZmZwS1pzNVJ2SlFvNnV1dTRpVVlLNldiU1VicVpGSFJUalp3aVg0cFdRVzhzMl9DbTNneVhkX191RGRCbklod0pVMFdZcEpxMHpDNUZlRXk3aEY4US1GdmdQN3plRWlzYjVhNUU3MWJmVkw0M2gtc1NlV3FyRVJ4OFBUQV9ybkx0R0I2VmNONFZtNkRUbW9HQmN4?oc=5",
-        "published": "2026-07-26",
-        "source": "Crude Oil Prices Today | OilPrice.com",
+        "title": "Neuquen Ratifies $177.6 Million Road Deal With 15 Vaca Muerta Operators - Shale24",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnMtcDBSTXJ3SUowNkpxcTBGUmtOSkhMOEppLWhBMlpqdzVUbWFhZVZqa3htZDMzQ0w2M2ROOGdNZWlMUG8tMjNIRDZTYm9SM1BLOG5KZGJ0dGE3X0gyMHdCUlZYV1VWdDlCUG5oVm5tOWtZbno0MENfYnpOZEMta1Y4TkVQYkhYM2hQSEVKbGhTdmQ5eHF6UmhiaFhGNXpfTmpNc0E5X2dCRFpxWTZ0cDNYdVLSAboBQVVfeXFMUHJDanIzX25JcXdpLUFIMVc4c2RwbmJUT3h1VC1qT0FtRUhoZ2pqZTZKQmpMQl9OdTZqLXJtMElLWWc1dzloMGg1UExJekRYR1VZRVlqeUszSHhRcUpBbkZ6OU9yQmc3OXc1MGVGaVFKWGZ0aVNhUldpN3dGSk5fakZfSFFKWEc2Mk02Q1JtVDlRLXFaeE9hNE1HR1RkOWxqVHNHUm1Hc0pFcVJmWjkzNTJuaEN0WUdtcjhB?oc=5",
+        "published": "2026-10-09",
+        "source": "Shale24",
         "topic": "vaca_muerta_oil",
         "entities": []
       }
@@ -283,16 +283,6 @@
       ]
     },
     {
-      "title": "Neuquen Ratifies $177.6 Million Road Deal With 15 Vaca Muerta Operators - Shale24",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnMtcDBSTXJ3SUowNkpxcTBGUmtOSkhMOEppLWhBMlpqdzVUbWFhZVZqa3htZDMzQ0w2M2ROOGdNZWlMUG8tMjNIRDZTYm9SM1BLOG5KZGJ0dGE3X0gyMHdCUlZYV1VWdDlCUG5oVm5tOWtZbno0MENfYnpOZEMta1Y4TkVQYkhYM2hQSEVKbGhTdmQ5eHF6UmhiaFhGNXpfTmpNc0E5X2dCRFpxWTZ0cDNYdVLSAboBQVVfeXFMUHJDanIzX25JcXdpLUFIMVc4c2RwbmJUT3h1VC1qT0FtRUhoZ2pqZTZKQmpMQl9OdTZqLXJtMElLWWc1dzloMGg1UExJekRYR1VZRVlqeUszSHhRcUpBbkZ6OU9yQmc3OXc1MGVGaVFKWGZ0aVNhUldpN3dGSk5fakZfSFFKWEc2Mk02Q1JtVDlRLXFaeE9hNE1HR1RkOWxqVHNHUm1Hc0pFcVJmWjkzNTJuaEN0WUdtcjhB?oc=5",
-      "published": "2026-10-09",
-      "source": "Shale24",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
       "title": "Transportadora De Gas Sa Ord B Q3 2026 Earnings Date and Estimates - MarketBeat",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdEZyTkFlQkFFcnNBSnVId0dPY21zR0syb004MW1ENFlUWnd1d2k2RTdOWUpGbGN3WjdZYU1US2VQbW9KQmctZjNaWC1MRUJfeF9ocXd0aTBvczdpNWF0d1EyOTFnZGJvZXp4cTc3NG95bFJLX3I3RmpLMTFDaUVneUJFLXJSWHBzWWdnWnFOcjQ3cUZyS1p2Zw?oc=5",
       "published": "2026-10-09",
@@ -333,10 +323,10 @@
       ]
     },
     {
-      "title": "Vista raises $400M in debt to accelerate Vaca Muerta expansion - Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1kydXBocGIxYlpVTlZ1eVg3WE00M1VsRkRmeHRvRUFwWlBROFZGd1Utd0JMTjR6MGhQaDlNSzFKNm55MHBSOG5TUXdDc2ViOVFhOTlXazQ2UkNzYlNpd2xLeS12WUlBbEE2LXY0YnBseEpqSm84YThDOEk3THdpc3h6dk9ZTDlNWUJzV24zM0hVOUtNNHE4azNNbw?oc=5",
-      "published": "2026-09-23",
-      "source": "Dealroom",
+      "title": "Vista Energy: The Cash Engine Is On - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHVHQ2k4QUZwTGNFeEVPUVAza1dYQXRNMi01Yy0zdmdDbkRPcWlMczNiWnZPT25iM3M1dTZpOVNYMWFLZFB6QjZqXzlMYjNCeGJhUU9tZW4xMWhydmRDUnlYa2d3WTVDMlNmQ3ZTaUNYRkNDR0RiRnNwQkhMbmdxRA?oc=5",
+      "published": "2026-09-25",
+      "source": "Seeking Alpha",
       "topic": "company_news",
       "entities": [
         "VIST"
@@ -360,6 +350,16 @@
       "topic": "company_news",
       "entities": [
         "TGS"
+      ]
+    },
+    {
+      "title": "Pampa Energía's fertilizer project: Capex climbs to US$3.2bn - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaGY1QW1VX0VDb1JBLUV5VXdHN3R0ajNTQXJkOHBlX3lWVm5UTzVkZVlsN3FXZVZleVM5Q1l4SFNVemVoZ0twZkNySTBJeTU2WVZza2Zxb2Z0X0V6bGpfcEZMdGtTbjZDVjdoVUNMU3NlejJpQVF6UExHNEJ4bkNVVEZOYUlWcGljZXd0V0ZpTWUzQ1ZFcEE?oc=5",
+      "published": "2026-09-14",
+      "source": "BNamericas",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
       ]
     },
     {
@@ -425,8 +425,8 @@
   "source_health": [
     {
       "name": "INDEC inflation",
-      "ok": true,
-      "note": ""
+      "ok": false,
+      "note": "INDEC series returned no observations"
     },
     {
       "name": "BCRA reserves",
