@@ -1,31 +1,31 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-10-14T00:17:20.894868Z",
+  "generated_at": "2026-10-14T23:54:54.157526Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
-      "score": 66.8,
+      "score": 69.8,
       "confidence": 1.0
     },
     "vist": {
       "label": "VIST",
-      "score": 75.2,
+      "score": 76.0,
       "confidence": 1.0
     },
     "cepu": {
       "label": "CEPU",
-      "score": 62.6,
+      "score": 63.2,
       "confidence": 1.0
     },
     "pam": {
       "label": "PAM",
-      "score": 72.5,
+      "score": 73.2,
       "confidence": 1.0
     },
     "tgs": {
       "label": "TGS",
-      "score": 78.6,
+      "score": 79.2,
       "confidence": 1.0
     }
   },
@@ -33,11 +33,11 @@
     {
       "title": "BCRA reserves",
       "detail": "Official BCRA international reserves.",
-      "signal": "negative"
+      "signal": "neutral"
     },
     {
       "title": "Vaca Muerta oil",
-      "detail": "Neuquen Ratifies $177.6 Million Road Deal With 15 Vaca Muerta Operators - Shale24",
+      "detail": "TotalEnergies to invest $10 billion in Argentina, CEO Pouyanne says - Reuters",
       "signal": "positive"
     },
     {
@@ -102,13 +102,13 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 49.32,
+      "value": 49.71,
       "unit": "USD bn",
-      "period": "2026-10-08",
-      "previous": 50.86,
-      "change": -3.02,
+      "period": "2026-10-09",
+      "previous": 49.79,
+      "change": -0.17,
       "change_unit": "% ~30d",
-      "thesis_signal": "negative",
+      "thesis_signal": "neutral",
       "status": "fresh",
       "detail": "Official BCRA international reserves.",
       "source": {
@@ -116,7 +116,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        49.79,
         48.26,
         50.2,
         50.49,
@@ -145,7 +144,8 @@
         48.8,
         49.12,
         49.13,
-        49.32
+        49.32,
+        49.71
       ]
     },
     {
@@ -191,10 +191,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "Neuquen Ratifies $177.6 Million Road Deal With 15 Vaca Muerta Operators - Shale24",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnMtcDBSTXJ3SUowNkpxcTBGUmtOSkhMOEppLWhBMlpqdzVUbWFhZVZqa3htZDMzQ0w2M2ROOGdNZWlMUG8tMjNIRDZTYm9SM1BLOG5KZGJ0dGE3X0gyMHdCUlZYV1VWdDlCUG5oVm5tOWtZbno0MENfYnpOZEMta1Y4TkVQYkhYM2hQSEVKbGhTdmQ5eHF6UmhiaFhGNXpfTmpNc0E5X2dCRFpxWTZ0cDNYdVLSAboBQVVfeXFMUHJDanIzX25JcXdpLUFIMVc4c2RwbmJUT3h1VC1qT0FtRUhoZ2pqZTZKQmpMQl9OdTZqLXJtMElLWWc1dzloMGg1UExJekRYR1VZRVlqeUszSHhRcUpBbkZ6OU9yQmc3OXc1MGVGaVFKWGZ0aVNhUldpN3dGSk5fakZfSFFKWEc2Mk02Q1JtVDlRLXFaeE9hNE1HR1RkOWxqVHNHUm1Hc0pFcVJmWjkzNTJuaEN0WUdtcjhB?oc=5",
-        "published": "2026-10-09",
-        "source": "Shale24",
+        "title": "TotalEnergies to invest $10 billion in Argentina, CEO Pouyanne says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGpydzFTNG1WYXl3OWNFMEwyU0EzQ3F2ZmNGV1ZieHRwWFYxN08wWjMybjBhaHdRSlNyc3JiMHlUb25acFdRNG53aUdGQkp2QmdkbGpyaUJPOVFTakNyWXdRdGdQcmJYYzBRUTFOU2lQcUt5aWFqekFOc2dhVVdwS0djdVJ5RzdmVGIyREVMWHlybmJsN1dNbHB3NndEdFdia3Y4TjdoelUzNkNsWm9mQg?oc=5",
+        "published": "2026-10-01",
+        "source": "Reuters",
         "topic": "vaca_muerta_oil",
         "entities": []
       }
@@ -283,13 +283,13 @@
       ]
     },
     {
-      "title": "Transportadora De Gas Sa Ord B Q3 2026 Earnings Date and Estimates - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdEZyTkFlQkFFcnNBSnVId0dPY21zR0syb004MW1ENFlUWnd1d2k2RTdOWUpGbGN3WjdZYU1US2VQbW9KQmctZjNaWC1MRUJfeF9ocXd0aTBvczdpNWF0d1EyOTFnZGJvZXp4cTc3NG95bFJLX3I3RmpLMTFDaUVneUJFLXJSWHBzWWdnWnFOcjQ3cUZyS1p2Zw?oc=5",
+      "title": "Neuquen Ratifies $177.6 Million Road Deal With 15 Vaca Muerta Operators - Shale24",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnMtcDBSTXJ3SUowNkpxcTBGUmtOSkhMOEppLWhBMlpqdzVUbWFhZVZqa3htZDMzQ0w2M2ROOGdNZWlMUG8tMjNIRDZTYm9SM1BLOG5KZGJ0dGE3X0gyMHdCUlZYV1VWdDlCUG5oVm5tOWtZbno0MENfYnpOZEMta1Y4TkVQYkhYM2hQSEVKbGhTdmQ5eHF6UmhiaFhGNXpfTmpNc0E5X2dCRFpxWTZ0cDNYdVLSAboBQVVfeXFMUHJDanIzX25JcXdpLUFIMVc4c2RwbmJUT3h1VC1qT0FtRUhoZ2pqZTZKQmpMQl9OdTZqLXJtMElLWWc1dzloMGg1UExJekRYR1VZRVlqeUszSHhRcUpBbkZ6OU9yQmc3OXc1MGVGaVFKWGZ0aVNhUldpN3dGSk5fakZfSFFKWEc2Mk02Q1JtVDlRLXFaeE9hNE1HR1RkOWxqVHNHUm1Hc0pFcVJmWjkzNTJuaEN0WUdtcjhB?oc=5",
       "published": "2026-10-09",
-      "source": "MarketBeat",
+      "source": "Shale24",
       "topic": "company_news",
       "entities": [
-        "TGS"
+        "PAM"
       ]
     },
     {
@@ -323,10 +323,10 @@
       ]
     },
     {
-      "title": "Vista Energy: The Cash Engine Is On - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHVHQ2k4QUZwTGNFeEVPUVAza1dYQXRNMi01Yy0zdmdDbkRPcWlMczNiWnZPT25iM3M1dTZpOVNYMWFLZFB6QjZqXzlMYjNCeGJhUU9tZW4xMWhydmRDUnlYa2d3WTVDMlNmQ3ZTaUNYRkNDR0RiRnNwQkhMbmdxRA?oc=5",
-      "published": "2026-09-25",
-      "source": "Seeking Alpha",
+      "title": "Vista raises $400M in debt to accelerate Vaca Muerta expansion - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1kydXBocGIxYlpVTlZ1eVg3WE00M1VsRkRmeHRvRUFwWlBROFZGd1Utd0JMTjR6MGhQaDlNSzFKNm55MHBSOG5TUXdDc2ViOVFhOTlXazQ2UkNzYlNpd2xLeS12WUlBbEE2LXY0YnBseEpqSm84YThDOEk3THdpc3h6dk9ZTDlNWUJzV24zM0hVOUtNNHE4azNNbw?oc=5",
+      "published": "2026-09-23",
+      "source": "Dealroom",
       "topic": "company_news",
       "entities": [
         "VIST"
@@ -353,16 +353,6 @@
       ]
     },
     {
-      "title": "Pampa Energía's fertilizer project: Capex climbs to US$3.2bn - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaGY1QW1VX0VDb1JBLUV5VXdHN3R0ajNTQXJkOHBlX3lWVm5UTzVkZVlsN3FXZVZleVM5Q1l4SFNVemVoZ0twZkNySTBJeTU2WVZza2Zxb2Z0X0V6bGpfcEZMdGtTbjZDVjdoVUNMU3NlejJpQVF6UExHNEJ4bkNVVEZOYUlWcGljZXd0V0ZpTWUzQ1ZFcEE?oc=5",
-      "published": "2026-09-14",
-      "source": "BNamericas",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
       "title": "Continental Resources acquires 50% stake in Mercuria's Argentine shale oil firm Phoenix Global Resources in $4 billion-plus deal - Energies Media",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vSW1tZy1rYWw5Z3N1RUlXUWVFeXhFcm43X3R6a1Bveld6NGxDeVk0ZlR1SVZJTjVSNVpVRlQtWDFtNUZHbmJ4ZzdKLVd1T0tOaFVWMWp3UThjVk43SlE5LWVSU2plNlV2Q3ZCU1FRdzNLN04ydVRsUUJZUQ?oc=5",
       "published": "2026-08-30",
@@ -372,14 +362,6 @@
         "Hamm",
         "Mercuria"
       ]
-    },
-    {
-      "title": "U.S. Billionaires Are Piling Into Argentina’s Vaca Muerta Shale - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUDZreFF5Nm5GNjNSV1puQ3VwY3pNWFlLNEQ1NFdZQlpTTVB4elVlY3k0ei1LZ1FSVnN6RTRGcEYwb2xKSHNzdFZGVjBFbzltbjlyUWdNeFFRZWt1NmMtT1p6ODZWMHQzVE9VR3RTZnAzMUYyeHYzTU5pYi10UjB1RkUxaTM1YjFFU1cwbjJNb1UwR3JWR0NVYw?oc=5",
-      "published": "2026-08-21",
-      "source": "Yahoo Finance",
-      "topic": "big_money",
-      "entities": []
     },
     {
       "title": "Continental to Buy 50 Pct of Mercuria Argentina Oil Firm - Rigzone",
@@ -420,13 +402,23 @@
       "entities": [
         "Thiel"
       ]
+    },
+    {
+      "title": "Harold Hamm Bets Bigger on Argentina’s Vaca Muerta Shale Boom - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNnZZN0ZjQWF1OXhPUFlLRUxqcEFPeENLWjk1ZmVTY0lXUXdrZXVsS1ptdFR1WV9HX1J0RC1GRzlvZVdXUXpMRmRhQlZmMERRUjY5eFRKRk5Oa0c4VENxSWFTNWFZeVNVY00tVmFIa2RkeEVhLWtQekdBSkVxN1JwZWIwaEVxSTdoZFJaRHM4a0txc184?oc=5",
+      "published": "2026-08-03",
+      "source": "Yahoo Finance",
+      "topic": "big_money",
+      "entities": [
+        "Hamm"
+      ]
     }
   ],
   "source_health": [
     {
       "name": "INDEC inflation",
-      "ok": false,
-      "note": "INDEC series returned no observations"
+      "ok": true,
+      "note": ""
     },
     {
       "name": "BCRA reserves",
