@@ -1,31 +1,31 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-10-14T23:54:54.157526Z",
+  "generated_at": "2026-10-15T23:41:12.984035Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
-      "score": 69.8,
+      "score": 72.0,
       "confidence": 1.0
     },
     "vist": {
       "label": "VIST",
-      "score": 76.0,
+      "score": 76.5,
       "confidence": 1.0
     },
     "cepu": {
       "label": "CEPU",
-      "score": 63.2,
+      "score": 63.6,
       "confidence": 1.0
     },
     "pam": {
       "label": "PAM",
-      "score": 73.2,
+      "score": 73.8,
       "confidence": 1.0
     },
     "tgs": {
       "label": "TGS",
-      "score": 79.2,
+      "score": 79.7,
       "confidence": 1.0
     }
   },
@@ -33,11 +33,11 @@
     {
       "title": "BCRA reserves",
       "detail": "Official BCRA international reserves.",
-      "signal": "neutral"
+      "signal": "positive"
     },
     {
       "title": "Vaca Muerta oil",
-      "detail": "TotalEnergies to invest $10 billion in Argentina, CEO Pouyanne says - Reuters",
+      "detail": "Vaca Muerta Outperforms US Shale But Faces Cost Hurdles - Hart Energy",
       "signal": "positive"
     },
     {
@@ -102,13 +102,13 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 49.71,
+      "value": 49.84,
       "unit": "USD bn",
-      "period": "2026-10-09",
-      "previous": 49.79,
-      "change": -0.17,
+      "period": "2026-10-13",
+      "previous": 48.26,
+      "change": 3.29,
       "change_unit": "% ~30d",
-      "thesis_signal": "neutral",
+      "thesis_signal": "positive",
       "status": "fresh",
       "detail": "Official BCRA international reserves.",
       "source": {
@@ -116,7 +116,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        48.26,
         50.2,
         50.49,
         50.79,
@@ -145,7 +144,8 @@
         49.12,
         49.13,
         49.32,
-        49.71
+        49.71,
+        49.84
       ]
     },
     {
@@ -191,10 +191,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "TotalEnergies to invest $10 billion in Argentina, CEO Pouyanne says - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGpydzFTNG1WYXl3OWNFMEwyU0EzQ3F2ZmNGV1ZieHRwWFYxN08wWjMybjBhaHdRSlNyc3JiMHlUb25acFdRNG53aUdGQkp2QmdkbGpyaUJPOVFTakNyWXdRdGdQcmJYYzBRUTFOU2lQcUt5aWFqekFOc2dhVVdwS0djdVJ5RzdmVGIyREVMWHlybmJsN1dNbHB3NndEdFdia3Y4TjdoelUzNkNsWm9mQg?oc=5",
-        "published": "2026-10-01",
-        "source": "Reuters",
+        "title": "Vaca Muerta Outperforms US Shale But Faces Cost Hurdles - Hart Energy",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbmdkMUEwYXVEaTZtS01BZGJfV1hTbVNrNlpzaThGNlc3dHR4d29KVEhLMFE4WEtaUVUxNm5CemFZd0xHRUdYb0ZtdUhyMXZWdGk3MW0wM3JKU1lkR3RFcWVwVHJ0SzNoZmZtVElnZXF3Snpiem5fUnVMOEh6bWF6THJva0g4dVJEbVA4UjZYNlhtdzJ1dUxPajN3NGd4UUFYWG9pd1dXTFFmVTN1?oc=5",
+        "published": "2026-10-15",
+        "source": "Hart Energy",
         "topic": "vaca_muerta_oil",
         "entities": []
       }
@@ -252,6 +252,16 @@
     }
   ],
   "news": [
+    {
+      "title": "U.S. Signals Argentina Financing Could Exceed EXIM's $7 Billion Ceiling - Shale24",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYlctNVFrWklVTzhiWTdGQmIwbjhrZGdndWRNcXY2eC1GNjlreWRNV2htWG9CY2J3LWc1Y3U4MWJXREdwZnlzLTRuMVk5dC1TZmZpQmhyLS1PR2N6S3ItM0Q5TGZBY0QzOVhnOGVLaGlwZ2VDYUJNelI5c3V5cG9WWlg3dlpNblVXSVBkMUkyQWNKd1dQLXB6MWFGclNia0VyTXBlUzV2ZS1qbTlqa3RhWGtzdGxYemfSAbcBQVVfeXFMT2JXLTVRa1pJVU84Ylk3RkJiMG44a2RnZ3VkTXF2NngtRjY5a3lkTVdobVhvQmNidy1nNWN1ODFiV0RHcGZ5cy00bjFZOXQtU2ZmaUJoci0tT0djektyLTNEOUxmQWNEMzlYZzhlS2hpcGdlQ2FCTXpSOXN1eXBvVlpYN3ZaTW5VV0lQZDFJMkFjSndXUC1wejFhRnJTYmtFck1wZVM1dmUtam05amt0YVhrc3RsWHpn?oc=5",
+      "published": "2026-10-13",
+      "source": "Shale24",
+      "topic": "company_news",
+      "entities": [
+        "TGS"
+      ]
+    },
     {
       "title": "Central Puerto (NYSE:CEPU) Shares Up 4.1% - Still a Buy? - MarketBeat",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSk5uek5lODY2eXJ1azU4N2QwUXRTck00UkVIWm1ZVlgwWDlZT1BXZnV0SThueDE0NFJRUmtuVWdLek5YOThodk16V2g4cjc4V1pTMVJNRGNFVy1EMDRrSDRXM1JoYllqR1lTdnlxdGp4UWh2SzB6LUlpSUhPeXNsQXA1bzJtUGoyd3RaQlJsZDd5aVFURHJBcC1saDZuRXAzLUtQaVk0UWNYdV9zQWc?oc=5",
@@ -323,10 +333,10 @@
       ]
     },
     {
-      "title": "Vista raises $400M in debt to accelerate Vaca Muerta expansion - Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1kydXBocGIxYlpVTlZ1eVg3WE00M1VsRkRmeHRvRUFwWlBROFZGd1Utd0JMTjR6MGhQaDlNSzFKNm55MHBSOG5TUXdDc2ViOVFhOTlXazQ2UkNzYlNpd2xLeS12WUlBbEE2LXY0YnBseEpqSm84YThDOEk3THdpc3h6dk9ZTDlNWUJzV24zM0hVOUtNNHE4azNNbw?oc=5",
-      "published": "2026-09-23",
-      "source": "Dealroom",
+      "title": "Vista Energy: The Cash Engine Is On - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHVHQ2k4QUZwTGNFeEVPUVAza1dYQXRNMi01Yy0zdmdDbkRPcWlMczNiWnZPT25iM3M1dTZpOVNYMWFLZFB6QjZqXzlMYjNCeGJhUU9tZW4xMWhydmRDUnlYa2d3WTVDMlNmQ3ZTaUNYRkNDR0RiRnNwQkhMbmdxRA?oc=5",
+      "published": "2026-09-25",
+      "source": "Seeking Alpha",
       "topic": "company_news",
       "entities": [
         "VIST"
@@ -340,16 +350,6 @@
       "topic": "company_news",
       "entities": [
         "VIST"
-      ]
-    },
-    {
-      "title": "Transportadora de Gas del Sur (BASE:TGSU2) Stock Price - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01QnY0RHVmU3NrMXJDU0N6VG95YlRoZGpsUWpVWkh3YkJpZXpoMUh2dzYxZHVvcEYtRTJKdDExMEg5LVlURzg3em5iYjVTUU0?oc=5",
-      "published": "2026-09-15",
-      "source": "Simply Wall Street",
-      "topic": "company_news",
-      "entities": [
-        "TGS"
       ]
     },
     {
@@ -417,8 +417,8 @@
   "source_health": [
     {
       "name": "INDEC inflation",
-      "ok": true,
-      "note": ""
+      "ok": false,
+      "note": "INDEC series returned no observations"
     },
     {
       "name": "BCRA reserves",
