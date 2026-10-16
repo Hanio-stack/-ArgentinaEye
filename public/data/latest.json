@@ -1,31 +1,31 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-10-15T23:41:12.984035Z",
+  "generated_at": "2026-10-16T23:35:06.460246Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
-      "score": 72.0,
+      "score": 69.8,
       "confidence": 1.0
     },
     "vist": {
       "label": "VIST",
-      "score": 76.5,
+      "score": 76.0,
       "confidence": 1.0
     },
     "cepu": {
       "label": "CEPU",
-      "score": 63.6,
+      "score": 63.2,
       "confidence": 1.0
     },
     "pam": {
       "label": "PAM",
-      "score": 73.8,
+      "score": 73.2,
       "confidence": 1.0
     },
     "tgs": {
       "label": "TGS",
-      "score": 79.7,
+      "score": 79.2,
       "confidence": 1.0
     }
   },
@@ -33,11 +33,16 @@
     {
       "title": "BCRA reserves",
       "detail": "Official BCRA international reserves.",
+      "signal": "neutral"
+    },
+    {
+      "title": "Primary fiscal balance",
+      "detail": "Radical economic policies in Argentina offer lessons – but not a blueprint – for South Africa - The Conversation",
       "signal": "positive"
     },
     {
       "title": "Vaca Muerta oil",
-      "detail": "Vaca Muerta Outperforms US Shale But Faces Cost Hurdles - Hart Energy",
+      "detail": "YPF lets additional rig contracts for work in Argentina - Oil & Gas Journal",
       "signal": "positive"
     },
     {
@@ -102,13 +107,13 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 49.84,
+      "value": 49.72,
       "unit": "USD bn",
-      "period": "2026-10-13",
-      "previous": 48.26,
-      "change": 3.29,
+      "period": "2026-10-14",
+      "previous": 50.2,
+      "change": -0.96,
       "change_unit": "% ~30d",
-      "thesis_signal": "positive",
+      "thesis_signal": "neutral",
       "status": "fresh",
       "detail": "Official BCRA international reserves.",
       "source": {
@@ -116,7 +121,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        50.2,
         50.49,
         50.79,
         50.76,
@@ -145,21 +149,22 @@
         49.13,
         49.32,
         49.71,
-        49.84
+        49.84,
+        49.72
       ]
     },
     {
       "id": "fiscal_balance",
       "theme": "MACRO · 15%",
       "label": "Primary fiscal balance",
-      "value": 1.99,
+      "value": 1.428,
       "unit": "ARS tn",
-      "period": "2026-08",
+      "period": "2026-09",
       "previous": null,
       "change": null,
       "thesis_signal": "positive",
       "status": "fresh",
-      "detail": "Official SPN primary balance: ARS 1,990,322 million.",
+      "detail": "Official SPN primary balance: ARS 1,427,640 million.",
       "source": {
         "name": "Ministerio de Economía · Política Fiscal",
         "url": "https://www.argentina.gob.ar/economia/politicafiscal"
@@ -191,10 +196,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "Vaca Muerta Outperforms US Shale But Faces Cost Hurdles - Hart Energy",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbmdkMUEwYXVEaTZtS01BZGJfV1hTbVNrNlpzaThGNlc3dHR4d29KVEhLMFE4WEtaUVUxNm5CemFZd0xHRUdYb0ZtdUhyMXZWdGk3MW0wM3JKU1lkR3RFcWVwVHJ0SzNoZmZtVElnZXF3Snpiem5fUnVMOEh6bWF6THJva0g4dVJEbVA4UjZYNlhtdzJ1dUxPajN3NGd4UUFYWG9pd1dXTFFmVTN1?oc=5",
-        "published": "2026-10-15",
-        "source": "Hart Energy",
+        "title": "YPF lets additional rig contracts for work in Argentina - Oil & Gas Journal",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnlRX3VKNFZaUm15NUhJY1ZLQWtaWk5DQ09WcjM3UUFYRTdHbEo2Z0tGbFJ0T0czUFNSd2hqQTNSUlFNQTlyYW5pRjJkdHpwODI3Vi1fRjBBc3ExM3NKZDFlYllMalFYczA4THlTREtDRmk2NzZ2aG4xemtVVmxnQXVDVU1FVnJCZjFqNHI3eU1iUTRMTkVERmpoTXBOaVhKWWFJ?oc=5",
+        "published": "2026-10-16",
+        "source": "Oil & Gas Journal",
         "topic": "vaca_muerta_oil",
         "entities": []
       }
@@ -253,10 +258,10 @@
   ],
   "news": [
     {
-      "title": "U.S. Signals Argentina Financing Could Exceed EXIM's $7 Billion Ceiling - Shale24",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYlctNVFrWklVTzhiWTdGQmIwbjhrZGdndWRNcXY2eC1GNjlreWRNV2htWG9CY2J3LWc1Y3U4MWJXREdwZnlzLTRuMVk5dC1TZmZpQmhyLS1PR2N6S3ItM0Q5TGZBY0QzOVhnOGVLaGlwZ2VDYUJNelI5c3V5cG9WWlg3dlpNblVXSVBkMUkyQWNKd1dQLXB6MWFGclNia0VyTXBlUzV2ZS1qbTlqa3RhWGtzdGxYemfSAbcBQVVfeXFMT2JXLTVRa1pJVU84Ylk3RkJiMG44a2RnZ3VkTXF2NngtRjY5a3lkTVdobVhvQmNidy1nNWN1ODFiV0RHcGZ5cy00bjFZOXQtU2ZmaUJoci0tT0djektyLTNEOUxmQWNEMzlYZzhlS2hpcGdlQ2FCTXpSOXN1eXBvVlpYN3ZaTW5VV0lQZDFJMkFjSndXUC1wejFhRnJTYmtFck1wZVM1dmUtam05amt0YVhrc3RsWHpn?oc=5",
+      "title": "Río Negro awards Phoenix unconventionals concession, outlines US$500mn work plan - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnRPb191cXFRekVocXMyMkhoOFZRLTlpTFphN2dBdW1UVlJzdjZKNEZZbHJsRnVuOHVFSldMQjFQMVozajdfRkFpWklPNXROOVV1RVJwUnlHRDUzNEFwWVJfcEJYNjRZUnVUWGlOaC05Sm5STFpReGJuSFZZSWtHdjdlR1V3Yjl6Q21oVUE0RUotZnpvLThXUTZyS0hFXy1jV1NnMG1KZFlhNTJPTzB0clhtcw?oc=5",
       "published": "2026-10-13",
-      "source": "Shale24",
+      "source": "BNamericas",
       "topic": "company_news",
       "entities": [
         "TGS"
@@ -293,16 +298,6 @@
       ]
     },
     {
-      "title": "Neuquen Ratifies $177.6 Million Road Deal With 15 Vaca Muerta Operators - Shale24",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnMtcDBSTXJ3SUowNkpxcTBGUmtOSkhMOEppLWhBMlpqdzVUbWFhZVZqa3htZDMzQ0w2M2ROOGdNZWlMUG8tMjNIRDZTYm9SM1BLOG5KZGJ0dGE3X0gyMHdCUlZYV1VWdDlCUG5oVm5tOWtZbno0MENfYnpOZEMta1Y4TkVQYkhYM2hQSEVKbGhTdmQ5eHF6UmhiaFhGNXpfTmpNc0E5X2dCRFpxWTZ0cDNYdVLSAboBQVVfeXFMUHJDanIzX25JcXdpLUFIMVc4c2RwbmJUT3h1VC1qT0FtRUhoZ2pqZTZKQmpMQl9OdTZqLXJtMElLWWc1dzloMGg1UExJekRYR1VZRVlqeUszSHhRcUpBbkZ6OU9yQmc3OXc1MGVGaVFKWGZ0aVNhUldpN3dGSk5fakZfSFFKWEc2Mk02Q1JtVDlRLXFaeE9hNE1HR1RkOWxqVHNHUm1Hc0pFcVJmWjkzNTJuaEN0WUdtcjhB?oc=5",
-      "published": "2026-10-09",
-      "source": "Shale24",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
       "title": "Central Puerto S.A: 'Powering Up' The NAV/SOTP (NYSE:CEPU) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdllyQlljS2hWTVBhUnM1OHNueVlsTGRNSXZsS3M5cDd0ZkZiY2dzZ0Y0S2V6bmdJYWp0dERPc2wzZlRKUlVxVzZocWFmUExZUEgzWWk0VWl5cWJnYzJPVjBhVUw1R1ZXWWo5VXJ6U2VoTEd1cmFvbktsOHdWVExzRkVRTnp5dkNpclE?oc=5",
       "published": "2026-10-06",
@@ -333,10 +328,20 @@
       ]
     },
     {
-      "title": "Vista Energy: The Cash Engine Is On - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHVHQ2k4QUZwTGNFeEVPUVAza1dYQXRNMi01Yy0zdmdDbkRPcWlMczNiWnZPT25iM3M1dTZpOVNYMWFLZFB6QjZqXzlMYjNCeGJhUU9tZW4xMWhydmRDUnlYa2d3WTVDMlNmQ3ZTaUNYRkNDR0RiRnNwQkhMbmdxRA?oc=5",
-      "published": "2026-09-25",
-      "source": "Seeking Alpha",
+      "title": "Pampa Energia President in Brazil for urea supply talks: report - Quantum Commodity Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMGlSbFpKYmJSVHVyTmh6dmY0bWMtcVFNeTAwX3pobjNPaW1Tb0VGWGw1UC1sRXh1UFJDcGZjNzNSb3ppS1p5eXB6cGhPNUlKWmJtYXI0c1ExdDF0YUtXa3R0N25lNzQzUTlYVy03U2ZZWHVEWGJIOTJ4dlBMODdnZzlNM0V3V3dBaFhsQ2ZLYVVxa2tOaTVBTVEyRHpKUTlFTFRSNzExTFVSekRqTXNJWi1Kdw?oc=5",
+      "published": "2026-09-24",
+      "source": "Quantum Commodity Intelligence",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
+      ]
+    },
+    {
+      "title": "Vista raises $400M in debt to accelerate Vaca Muerta expansion - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1kydXBocGIxYlpVTlZ1eVg3WE00M1VsRkRmeHRvRUFwWlBROFZGd1Utd0JMTjR6MGhQaDlNSzFKNm55MHBSOG5TUXdDc2ViOVFhOTlXazQ2UkNzYlNpd2xLeS12WUlBbEE2LXY0YnBseEpqSm84YThDOEk3THdpc3h6dk9ZTDlNWUJzV24zM0hVOUtNNHE4azNNbw?oc=5",
+      "published": "2026-09-23",
+      "source": "Dealroom",
       "topic": "company_news",
       "entities": [
         "VIST"
@@ -418,7 +423,7 @@
     {
       "name": "INDEC inflation",
       "ok": false,
-      "note": "INDEC series returned no observations"
+      "note": "The read operation timed out"
     },
     {
       "name": "BCRA reserves",
