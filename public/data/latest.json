@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-10-16T23:35:06.460246Z",
+  "generated_at": "2026-10-17T23:07:19.438437Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,18 +31,8 @@
   },
   "today": [
     {
-      "title": "BCRA reserves",
-      "detail": "Official BCRA international reserves.",
-      "signal": "neutral"
-    },
-    {
-      "title": "Primary fiscal balance",
-      "detail": "Radical economic policies in Argentina offer lessons – but not a blueprint – for South Africa - The Conversation",
-      "signal": "positive"
-    },
-    {
       "title": "Vaca Muerta oil",
-      "detail": "YPF lets additional rig contracts for work in Argentina - Oil & Gas Journal",
+      "detail": "Vaca Muerta Outperforms US Shale But Faces Cost Hurdles - Hart Energy",
       "signal": "positive"
     },
     {
@@ -196,10 +186,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "YPF lets additional rig contracts for work in Argentina - Oil & Gas Journal",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnlRX3VKNFZaUm15NUhJY1ZLQWtaWk5DQ09WcjM3UUFYRTdHbEo2Z0tGbFJ0T0czUFNSd2hqQTNSUlFNQTlyYW5pRjJkdHpwODI3Vi1fRjBBc3ExM3NKZDFlYllMalFYczA4THlTREtDRmk2NzZ2aG4xemtVVmxnQXVDVU1FVnJCZjFqNHI3eU1iUTRMTkVERmpoTXBOaVhKWWFJ?oc=5",
-        "published": "2026-10-16",
-        "source": "Oil & Gas Journal",
+        "title": "Vaca Muerta Outperforms US Shale But Faces Cost Hurdles - Hart Energy",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbmdkMUEwYXVEaTZtS01BZGJfV1hTbVNrNlpzaThGNlc3dHR4d29KVEhLMFE4WEtaUVUxNm5CemFZd0xHRUdYb0ZtdUhyMXZWdGk3MW0wM3JKU1lkR3RFcWVwVHJ0SzNoZmZtVElnZXF3Snpiem5fUnVMOEh6bWF6THJva0g4dVJEbVA4UjZYNlhtdzJ1dUxPajN3NGd4UUFYWG9pd1dXTFFmVTN1?oc=5",
+        "published": "2026-10-15",
+        "source": "Hart Energy",
         "topic": "vaca_muerta_oil",
         "entities": []
       }
@@ -258,10 +248,10 @@
   ],
   "news": [
     {
-      "title": "Río Negro awards Phoenix unconventionals concession, outlines US$500mn work plan - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnRPb191cXFRekVocXMyMkhoOFZRLTlpTFphN2dBdW1UVlJzdjZKNEZZbHJsRnVuOHVFSldMQjFQMVozajdfRkFpWklPNXROOVV1RVJwUnlHRDUzNEFwWVJfcEJYNjRZUnVUWGlOaC05Sm5STFpReGJuSFZZSWtHdjdlR1V3Yjl6Q21oVUE0RUotZnpvLThXUTZyS0hFXy1jV1NnMG1KZFlhNTJPTzB0clhtcw?oc=5",
+      "title": "U.S. Signals Argentina Financing Could Exceed EXIM's $7 Billion Ceiling - Shale24",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3FrVTUwTzVPdTVJcUFsNFZkNUFmNFUtR2JCQkh0ZTdlYTJVLUwwaE90QUxDRVpBQ3RuNTZhTUd1OHJFbDRDeEEzMHFjaEx5N2Rsa3BIdW1mUHBqeVVqN2NHaVdNa2N1N2U1ZFZzbUZ2U29jVWUyVnVoemllSi1VajFwSXBrb2tndjVKM0VNa1UyNHEwVHR4Q0F0TF80T0VuRWdCcGZXb2xzTVVwa1B0NE9R0gG3AUFVX3lxTE9iVy01UWtaSVVPOGJZN0ZCYjBuOGtkZ2d1ZE1xdjZ4LUY2OWt5ZE1XaG1Yb0JjYnctZzVjdTgxYldER3BmeXMtNG4xWTl0LVNmZmlCaHItLU9HY3pLci0zRDlMZkFjRDM5WGc4ZUtoaXBnZUNhQk16UjlzdXlwb1ZaWDd2Wk1uVVdJUGQxSTJBY0p3V1AtcHoxYUZyU2JrRXJNcGVTNXZlLWptOWprdGFYa3N0bFh6Zw?oc=5",
       "published": "2026-10-13",
-      "source": "BNamericas",
+      "source": "Shale24",
       "topic": "company_news",
       "entities": [
         "TGS"
@@ -422,8 +412,8 @@
   "source_health": [
     {
       "name": "INDEC inflation",
-      "ok": false,
-      "note": "The read operation timed out"
+      "ok": true,
+      "note": ""
     },
     {
       "name": "BCRA reserves",
