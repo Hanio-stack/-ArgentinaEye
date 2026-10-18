@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-10-17T23:07:19.438437Z",
+  "generated_at": "2026-10-18T23:11:02.921077Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -30,11 +30,6 @@
     }
   },
   "today": [
-    {
-      "title": "Vaca Muerta oil",
-      "detail": "Vaca Muerta Outperforms US Shale But Faces Cost Hurdles - Hart Energy",
-      "signal": "positive"
-    },
     {
       "title": "Big Money",
       "detail": "Continental Resources acquires 50% stake in Mercuria's Argentine shale oil firm Phoenix Global Resources in $4 billion-plus deal - Energies Media",
@@ -248,10 +243,10 @@
   ],
   "news": [
     {
-      "title": "U.S. Signals Argentina Financing Could Exceed EXIM's $7 Billion Ceiling - Shale24",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3FrVTUwTzVPdTVJcUFsNFZkNUFmNFUtR2JCQkh0ZTdlYTJVLUwwaE90QUxDRVpBQ3RuNTZhTUd1OHJFbDRDeEEzMHFjaEx5N2Rsa3BIdW1mUHBqeVVqN2NHaVdNa2N1N2U1ZFZzbUZ2U29jVWUyVnVoemllSi1VajFwSXBrb2tndjVKM0VNa1UyNHEwVHR4Q0F0TF80T0VuRWdCcGZXb2xzTVVwa1B0NE9R0gG3AUFVX3lxTE9iVy01UWtaSVVPOGJZN0ZCYjBuOGtkZ2d1ZE1xdjZ4LUY2OWt5ZE1XaG1Yb0JjYnctZzVjdTgxYldER3BmeXMtNG4xWTl0LVNmZmlCaHItLU9HY3pLci0zRDlMZkFjRDM5WGc4ZUtoaXBnZUNhQk16UjlzdXlwb1ZaWDd2Wk1uVVdJUGQxSTJBY0p3V1AtcHoxYUZyU2JrRXJNcGVTNXZlLWptOWprdGFYa3N0bFh6Zw?oc=5",
+      "title": "Río Negro awards Phoenix unconventionals concession, outlines US$500mn work plan - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnRPb191cXFRekVocXMyMkhoOFZRLTlpTFphN2dBdW1UVlJzdjZKNEZZbHJsRnVuOHVFSldMQjFQMVozajdfRkFpWklPNXROOVV1RVJwUnlHRDUzNEFwWVJfcEJYNjRZUnVUWGlOaC05Sm5STFpReGJuSFZZSWtHdjdlR1V3Yjl6Q21oVUE0RUotZnpvLThXUTZyS0hFXy1jV1NnMG1KZFlhNTJPTzB0clhtcw?oc=5",
       "published": "2026-10-13",
-      "source": "Shale24",
+      "source": "BNamericas",
       "topic": "company_news",
       "entities": [
         "TGS"
@@ -318,6 +313,16 @@
       ]
     },
     {
+      "title": "Vista Energy: The Cash Engine Is On - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHVHQ2k4QUZwTGNFeEVPUVAza1dYQXRNMi01Yy0zdmdDbkRPcWlMczNiWnZPT25iM3M1dTZpOVNYMWFLZFB6QjZqXzlMYjNCeGJhUU9tZW4xMWhydmRDUnlYa2d3WTVDMlNmQ3ZTaUNYRkNDR0RiRnNwQkhMbmdxRA?oc=5",
+      "published": "2026-09-25",
+      "source": "Seeking Alpha",
+      "topic": "company_news",
+      "entities": [
+        "VIST"
+      ]
+    },
+    {
       "title": "Pampa Energia President in Brazil for urea supply talks: report - Quantum Commodity Intelligence",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMGlSbFpKYmJSVHVyTmh6dmY0bWMtcVFNeTAwX3pobjNPaW1Tb0VGWGw1UC1sRXh1UFJDcGZjNzNSb3ppS1p5eXB6cGhPNUlKWmJtYXI0c1ExdDF0YUtXa3R0N25lNzQzUTlYVy03U2ZZWHVEWGJIOTJ4dlBMODdnZzlNM0V3V3dBaFhsQ2ZLYVVxa2tOaTVBTVEyRHpKUTlFTFRSNzExTFVSekRqTXNJWi1Kdw?oc=5",
       "published": "2026-09-24",
@@ -332,16 +337,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1kydXBocGIxYlpVTlZ1eVg3WE00M1VsRkRmeHRvRUFwWlBROFZGd1Utd0JMTjR6MGhQaDlNSzFKNm55MHBSOG5TUXdDc2ViOVFhOTlXazQ2UkNzYlNpd2xLeS12WUlBbEE2LXY0YnBseEpqSm84YThDOEk3THdpc3h6dk9ZTDlNWUJzV24zM0hVOUtNNHE4azNNbw?oc=5",
       "published": "2026-09-23",
       "source": "Dealroom",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "Vista Energy's 2026 Outlook: Shale Expansion Drives 70% Adjusted EBITDA Margins - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaFVYLTcxc05zVkxkSnZ5XzdKMjZvV3hreXNpYTFpTVJJNG14TGNrVHlIb1ZpS1J2ODY1cGF6d2F6NE1vbHYwenViN0xtdlV0TmhCNUxGYmxjWFZIQ1J6TzA2UkMyYy1XOGh1bVYzbTZ1djlESGtrRzh1THFwX3ZfUG1kYlByUkl0aW9SODUtLVYtSDFzVFdyQjRnbE04NVlnX25ER3lHTXpvYnpXdnhaQU43cXBNYmhRUEVIZFBCQWFFek43eTEw?oc=5",
-      "published": "2026-09-18",
-      "source": "The Motley Fool",
       "topic": "company_news",
       "entities": [
         "VIST"
