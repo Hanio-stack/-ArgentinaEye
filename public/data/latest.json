@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-10-18T23:11:02.921077Z",
+  "generated_at": "2026-10-20T00:19:26.337012Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,9 +31,29 @@
   },
   "today": [
     {
-      "title": "Big Money",
-      "detail": "Continental Resources acquires 50% stake in Mercuria's Argentine shale oil firm Phoenix Global Resources in $4 billion-plus deal - Energies Media",
+      "title": "BCRA reserves",
+      "detail": "Official BCRA international reserves.",
+      "signal": "neutral"
+    },
+    {
+      "title": "Primary fiscal balance",
+      "detail": "The Milei experiment and Latin America’s free-market future - GIS Reports",
       "signal": "positive"
+    },
+    {
+      "title": "Vaca Muerta oil",
+      "detail": "TotalEnergies To Invest $10 Billion in Argentina's Energy Sector - JPT Homepage",
+      "signal": "positive"
+    },
+    {
+      "title": "RIGI approved investment",
+      "detail": "Eramet plans to apply under Argentina’s Large Investment Incentive Regime (RIGI) for a first expansion of Centenario-Ratones - Yahoo Finance",
+      "signal": "positive"
+    },
+    {
+      "title": "Power demand / reform",
+      "detail": "Argentina's energy storage growth engines - BNamericas",
+      "signal": "neutral"
     }
   ],
   "metrics": [
@@ -92,11 +112,11 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 49.72,
+      "value": 50.04,
       "unit": "USD bn",
-      "period": "2026-10-14",
-      "previous": 50.2,
-      "change": -0.96,
+      "period": "2026-10-15",
+      "previous": 50.49,
+      "change": -0.89,
       "change_unit": "% ~30d",
       "thesis_signal": "neutral",
       "status": "fresh",
@@ -106,7 +126,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        50.49,
         50.79,
         50.76,
         50.74,
@@ -135,7 +154,8 @@
         49.32,
         49.71,
         49.84,
-        49.72
+        49.72,
+        50.04
       ]
     },
     {
@@ -155,10 +175,10 @@
         "url": "https://www.argentina.gob.ar/economia/politicafiscal"
       },
       "latest_event": {
-        "title": "Radical economic policies in Argentina offer lessons – but not a blueprint – for South Africa - The Conversation",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGstTVlsSDJqenN4VEJwQ2V1REdKaUp5aXlaVzJMTTE3TXN0TGc0d0pkbE9CM3JUV3gyU2F4V2xaVWFKVTlJcDBLWGdFaTRWeVhjTXE3WVJKMzJwLUhjbW14VjlkUG9BY1UwSTJGN1MwNi1iSjhfSEZtMUhReU8tNjZVTHlkU2ZNWmVQd0EzaF9fMWxhMHNtbHdDZkRVUG5HWkRpMm9QQUd6c3JQT2VWekphM3d5OU5CNy1UekJWNldTdw?oc=5",
-        "published": "2026-10-12",
-        "source": "The Conversation",
+        "title": "The Milei experiment and Latin America’s free-market future - GIS Reports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVUpmdEZKWWNZaW9BMXYtOUhldndkVFNTcE9RaEp0T01QaDd4OU1qQTZhdW1YX2VsQ1FZUVBpYmNzZUVKRFVtZEVoa20zai1Qc2NydTloQWlIZHZWTnJNUFpPVUVHUWRhM1l6MEZDV2xhZmZ2elNtQjNIa3hkSE5lOUVn?oc=5",
+        "published": "2026-09-04",
+        "source": "GIS Reports",
         "topic": "fiscal_balance",
         "entities": []
       }
@@ -181,10 +201,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "Vaca Muerta Outperforms US Shale But Faces Cost Hurdles - Hart Energy",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbmdkMUEwYXVEaTZtS01BZGJfV1hTbVNrNlpzaThGNlc3dHR4d29KVEhLMFE4WEtaUVUxNm5CemFZd0xHRUdYb0ZtdUhyMXZWdGk3MW0wM3JKU1lkR3RFcWVwVHJ0SzNoZmZtVElnZXF3Snpiem5fUnVMOEh6bWF6THJva0g4dVJEbVA4UjZYNlhtdzJ1dUxPajN3NGd4UUFYWG9pd1dXTFFmVTN1?oc=5",
-        "published": "2026-10-15",
-        "source": "Hart Energy",
+        "title": "TotalEnergies To Invest $10 Billion in Argentina's Energy Sector - JPT Homepage",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXFsSlNnY0hZUXI5UkNvT3NkNGJ0QXYwbnNqNmdtcmtyWThXamU0VFJsWHlpWVFwNzcyakEyNUEwMHFZcDhpeGFiZGxmck1rdXIySnQwSF9wa3FvdzdYUDFxbmFsbnpvSXcwQlZQMFdudkFLWHUxM1dpMUhIdHMwcExhN0VMbjNmUGc?oc=5",
+        "published": "2026-10-19",
+        "source": "JPT Homepage",
         "topic": "vaca_muerta_oil",
         "entities": []
       }
@@ -207,10 +227,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "Toyota to invest $1.34 billion in Argentina EV plant - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGlWUWRKdzU5TWZ3ZGQwb2VzTjdQejRGdlZFV0h2N1lXUEhRNnVBV0VhYW1CVEJTZXZ5ZUZNX3VoMHlqaHprc0VPS3ZHRnBWM2JIeFdWZzRvcmNGUk9ERGFnNjVsQWh1WUh4S0xzQ1h0dGlqbTRPSnZvUGFUMmpGY1U3M0V0S2VpbXJobHppQm43QzBWNEM3VWI1a3drbThTZHN1RVFlTm9fYmc?oc=5",
-        "published": "2026-09-30",
-        "source": "Reuters",
+        "title": "Eramet plans to apply under Argentina’s Large Investment Incentive Regime (RIGI) for a first expansion of Centenario-Ratones - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcVRNVHhfUEI0eU5MQl9BWFFybjFRNFZ5MU5qMTBLNThsekhlVHpxQV9ZWnVmZkpEMVl4aU9fcVVNNDdfMlJmeGdHQlFtQzVBQmJuOXJ2ZUsxZDhqbExQamZ3eUg3NURzZUN3YVRReDhDNTdmVjFpaTNRWTJxM2JacDhTM1pTT29qWm1QdnNsNkVhSHhESEE?oc=5",
+        "published": "2026-10-01",
+        "source": "Yahoo Finance",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -221,12 +241,12 @@
       "label": "Power demand / reform",
       "value": null,
       "unit": null,
-      "period": "2026-08",
+      "period": "2026-09",
       "previous": null,
       "change": null,
       "thesis_signal": "neutral",
       "status": "fresh",
-      "detail": "CAMMESA monthly system report published for 2026-08; live MW endpoint unavailable this run.",
+      "detail": "CAMMESA monthly system report published for 2026-09; live MW endpoint unavailable this run.",
       "source": {
         "name": "CAMMESA monthly report",
         "url": "https://cammesaweb.cammesa.com/informe-sintesis-mensual/"
@@ -243,10 +263,10 @@
   ],
   "news": [
     {
-      "title": "Río Negro awards Phoenix unconventionals concession, outlines US$500mn work plan - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnRPb191cXFRekVocXMyMkhoOFZRLTlpTFphN2dBdW1UVlJzdjZKNEZZbHJsRnVuOHVFSldMQjFQMVozajdfRkFpWklPNXROOVV1RVJwUnlHRDUzNEFwWVJfcEJYNjRZUnVUWGlOaC05Sm5STFpReGJuSFZZSWtHdjdlR1V3Yjl6Q21oVUE0RUotZnpvLThXUTZyS0hFXy1jV1NnMG1KZFlhNTJPTzB0clhtcw?oc=5",
-      "published": "2026-10-13",
-      "source": "BNamericas",
+      "title": "Transportadora De Gas Sa Ord B Q3 2026 Earnings Date and Estimates - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObnJHR2NTN2MyTzU4ZGszME1SZW51M3F6WUVZMFZObmUydjRITERSdkllQVI5eEF3QVlIaGMwcTkwQ09CMFhfRkdKa0hhcUs0TnZGcERVenZFM3dKNExPMWhQRXhVa2oybU1peFJnc3V1VFFTQ2xoeFY4alBDVzVGbkVzS2JwUGtqS0JDQlBDUmNrRTRNeXFmXzF3?oc=5",
+      "published": "2026-10-19",
+      "source": "MarketBeat",
       "topic": "company_news",
       "entities": [
         "TGS"
@@ -354,6 +374,14 @@
       ]
     },
     {
+      "title": "U.S. Billionaires Are Piling Into Argentina’s Vaca Muerta Shale - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUDZreFF5Nm5GNjNSV1puQ3VwY3pNWFlLNEQ1NFdZQlpTTVB4elVlY3k0ei1LZ1FSVnN6RTRGcEYwb2xKSHNzdFZGVjBFbzltbjlyUWdNeFFRZWt1NmMtT1p6ODZWMHQzVE9VR3RTZnAzMUYyeHYzTU5pYi10UjB1RkUxaTM1YjFFU1cwbjJNb1UwR3JWR0NVYw?oc=5",
+      "published": "2026-08-21",
+      "source": "Yahoo Finance",
+      "topic": "big_money",
+      "entities": []
+    },
+    {
       "title": "Continental to Buy 50 Pct of Mercuria Argentina Oil Firm - Rigzone",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzVsSlhGNEJBZ2ZSanlxbHIwVDR6dEJqdEhJam1zMDBSdWRIQ2xQWGNqcV90VWszTFlSbF9udHVlUWxXWnFvZVdnSlpwYVFRVm1yVnRnTWFRSm1KaTliNk05WndVQVA2WWVuZk1TMTVpb3k0TnpMRDd2UGVqLXJYLXdmQlVmY0xuVEZjMkNjU2JBVnRsQk5EaktDNzRKbGcwR1QyZkQxSGlwUVJqM3k0blRCWEhVWmNlakE?oc=5",
       "published": "2026-08-20",
@@ -391,16 +419,6 @@
       "topic": "big_money",
       "entities": [
         "Thiel"
-      ]
-    },
-    {
-      "title": "Harold Hamm Bets Bigger on Argentina’s Vaca Muerta Shale Boom - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNnZZN0ZjQWF1OXhPUFlLRUxqcEFPeENLWjk1ZmVTY0lXUXdrZXVsS1ptdFR1WV9HX1J0RC1GRzlvZVdXUXpMRmRhQlZmMERRUjY5eFRKRk5Oa0c4VENxSWFTNWFZeVNVY00tVmFIa2RkeEVhLWtQekdBSkVxN1JwZWIwaEVxSTdoZFJaRHM4a0txc184?oc=5",
-      "published": "2026-08-03",
-      "source": "Yahoo Finance",
-      "topic": "big_money",
-      "entities": [
-        "Hamm"
       ]
     }
   ],
