@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-10-20T23:52:10.685086Z",
+  "generated_at": "2026-10-22T00:00:08.056103Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,29 +31,29 @@
   },
   "today": [
     {
+      "title": "Milei approval / 2027",
+      "detail": "Approval Tracker: Argentina's President Javier Milei - AS/COA",
+      "signal": "neutral"
+    },
+    {
       "title": "BCRA reserves",
       "detail": "Official BCRA international reserves.",
       "signal": "negative"
     },
     {
-      "title": "Primary fiscal balance",
-      "detail": "Radical economic policies in Argentina offer lessons – but not a blueprint – for South Africa - The Conversation",
-      "signal": "positive"
-    },
-    {
       "title": "Vaca Muerta oil",
-      "detail": "RIGI: Argentina's Mendoza province gives US$4.5bn Vaca Muerta update - BNamericas",
+      "detail": "TotalEnergies plans to invest US$10 billion in Argentina - Inspenet",
       "signal": "positive"
     },
     {
       "title": "RIGI approved investment",
-      "detail": "Toyota to invest $1.34 billion in Argentina EV plant - Reuters",
+      "detail": "Super RIGI: Argentina’s New Investment Incentive - Latinvex",
       "signal": "positive"
     },
     {
       "title": "Big Money",
-      "detail": "Continental Resources acquires 50% stake in Mercuria's Argentine shale oil firm Phoenix Global Resources in $4 billion-plus deal - Energies Media",
-      "signal": "positive"
+      "detail": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows - Crude Oil Prices Today | OilPrice.com",
+      "signal": "neutral"
     }
   ],
   "metrics": [
@@ -74,10 +74,10 @@
         "url": "https://news.google.com/"
       },
       "latest_event": {
-        "title": "Poverty rate tests Argentina's Milei ahead of election - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3NPbWZrci1yeGFldXMtZ2hocmpYdXBtbDBOMXl3ckl1dmtJUkR3b2Z5eUxyZnVLX0hvelAzRy1WOTZ3QWFEcmJ1TENmTkhySjdTRlJIX1QyM2RxWEpkNmw3RXBkSkFOUDZ5M1dUdmZ3TU5fbmt2a3Vjc1ZJbTJsbVpSc254QUc5eDdfc3B1RXhjaVA4M0NOSDNCY2dIVWNNSnpv?oc=5",
-        "published": "2026-09-24",
-        "source": "Reuters",
+        "title": "Approval Tracker: Argentina's President Javier Milei - AS/COA",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHlOVVVsRGtXU3R4YnhOSnFFblBrZkg4MlNYVHpLTkRrZ0ZlWHdRRnFEZ1hpeGlBemN4VnREMDJMMXE4a1lRNmxGN3lpME5vNnBuYnc5SG1pRFB2SHJXMEJJVFFUSDQwbjl3QmRtWmZWOVFJQUlCby1tVG5FRnFEMjBJbEJEQzN5M3c?oc=5",
+        "published": "2026-07-16",
+        "source": "AS/COA",
         "topic": "politics",
         "entities": []
       }
@@ -112,11 +112,11 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 50.24,
+      "value": 50.15,
       "unit": "USD bn",
-      "period": "2026-10-16",
-      "previous": 50.79,
-      "change": -1.07,
+      "period": "2026-10-19",
+      "previous": 50.76,
+      "change": -1.2,
       "change_unit": "% ~30d",
       "thesis_signal": "negative",
       "status": "fresh",
@@ -126,7 +126,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        50.76,
         50.74,
         50.73,
         50.62,
@@ -155,7 +154,8 @@
         49.84,
         49.72,
         50.04,
-        50.24
+        50.24,
+        50.15
       ]
     },
     {
@@ -201,10 +201,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "RIGI: Argentina's Mendoza province gives US$4.5bn Vaca Muerta update - BNamericas",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORkNlZzRORUVVYTJ3S2pNZG1yY2FJVmM4OUVzSWNlT1JXTktwcG5YMXVZMUJabG9VaEZ5M2l5SGVQSENpM3RkSG85R1NWTGNFSDgzUm1Za19wWS0zaDU0c01weGtmaGd1amJkeXdWRnFQNVBfNlVoYVNwdTlGdTNSbFhLdGU0cXhacWszUlRwQWVsYVBqeUJPVkM2YUd3YVZp?oc=5",
-        "published": "2026-10-20",
-        "source": "BNamericas",
+        "title": "TotalEnergies plans to invest US$10 billion in Argentina - Inspenet",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoRC1sdlRaeGlPekltZFRFcVNmYWROTDRzRnZadV9CSEROOFpRRHhBRFF1NXVLSjY0YVBINDNiXzBPTzlvR1VvSzM5QzhueUJFWm8wOHVRenphWi1HQ0FXN1M0bmdjQnRfTnRwd1d1bVZxaDg?oc=5",
+        "published": "2026-10-19",
+        "source": "Inspenet",
         "topic": "vaca_muerta_oil",
         "entities": []
       }
@@ -227,10 +227,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "Toyota to invest $1.34 billion in Argentina EV plant - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGlWUWRKdzU5TWZ3ZGQwb2VzTjdQejRGdlZFV0h2N1lXUEhRNnVBV0VhYW1CVEJTZXZ5ZUZNX3VoMHlqaHprc0VPS3ZHRnBWM2JIeFdWZzRvcmNGUk9ERGFnNjVsQWh1WUh4S0xzQ1h0dGlqbTRPSnZvUGFUMmpGY1U3M0V0S2VpbXJobHppQm43QzBWNEM3VWI1a3drbThTZHN1RVFlTm9fYmc?oc=5",
-        "published": "2026-09-30",
-        "source": "Reuters",
+        "title": "Super RIGI: Argentina’s New Investment Incentive - Latinvex",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pc19jNTVYZnZ6bE9VcnpyZDBOdTJweUtJQlkycHRCSzFzSVNQV01lbVcxWGY5SkYyd24wM3RaZDZKbjRzTjg4dW9SNmpxdThhdTdzWE9GM0thMWt0VTJDWVZfdEZUMEdTVk5tcWFscWRMZnZFc0VB?oc=5",
+        "published": "2026-07-01",
+        "source": "Latinvex",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -263,19 +263,9 @@
   ],
   "news": [
     {
-      "title": "RIGI: Argentina's Mendoza province gives US$4.5bn Vaca Muerta update - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORkNlZzRORUVVYTJ3S2pNZG1yY2FJVmM4OUVzSWNlT1JXTktwcG5YMXVZMUJabG9VaEZ5M2l5SGVQSENpM3RkSG85R1NWTGNFSDgzUm1Za19wWS0zaDU0c01weGtmaGd1amJkeXdWRnFQNVBfNlVoYVNwdTlGdTNSbFhLdGU0cXhacWszUlRwQWVsYVBqeUJPVkM2YUd3YVZp?oc=5",
-      "published": "2026-10-20",
-      "source": "BNamericas",
-      "topic": "company_news",
-      "entities": [
-        "TGS"
-      ]
-    },
-    {
       "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
-      "published": "2026-10-19",
+      "published": "2026-10-21",
       "source": "EnergyNow.com",
       "topic": "company_news",
       "entities": [
@@ -363,25 +353,12 @@
       ]
     },
     {
-      "title": "Pampa Energia President in Brazil for urea supply talks: report - Quantum Commodity Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMGlSbFpKYmJSVHVyTmh6dmY0bWMtcVFNeTAwX3pobjNPaW1Tb0VGWGw1UC1sRXh1UFJDcGZjNzNSb3ppS1p5eXB6cGhPNUlKWmJtYXI0c1ExdDF0YUtXa3R0N25lNzQzUTlYVy03U2ZZWHVEWGJIOTJ4dlBMODdnZzlNM0V3V3dBaFhsQ2ZLYVVxa2tOaTVBTVEyRHpKUTlFTFRSNzExTFVSekRqTXNJWi1Kdw?oc=5",
-      "published": "2026-09-24",
-      "source": "Quantum Commodity Intelligence",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
-      "title": "Continental Resources acquires 50% stake in Mercuria's Argentine shale oil firm Phoenix Global Resources in $4 billion-plus deal - Energies Media",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vSW1tZy1rYWw5Z3N1RUlXUWVFeXhFcm43X3R6a1Bveld6NGxDeVk0ZlR1SVZJTjVSNVpVRlQtWDFtNUZHbmJ4ZzdKLVd1T0tOaFVWMWp3UThjVk43SlE5LWVSU2plNlV2Q3ZCU1FRdzNLN04ydVRsUUJZUQ?oc=5",
-      "published": "2026-08-30",
-      "source": "Energies Media",
+      "title": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWFtb2NsWXYxdTNnNXRZdG1wYzJ4dnV4VnJEZWVnX3BMcVN1bGtTNHVUSHNqRC1Wb0djWEp1MHlTaW1JZVJtMGpRNU9iQzM4c2IzZzRHUFlvWTlyTUgwTmttNExLUGtNZEdCS3IyQXNqMWwwdDRGajktSXhnRF9OZUpFNzJLTkc3UGJBR0ZFU2RCdzRzVnFDNzRLVVlpRDZQeGVMQkVrUGhvd9IBrwFBVV95cUxPeHNkUWx4eWdMREluckh4d0JZRnVJNmxNR1lDY3VLYTE2UEd1T1VaNTd6NUJHMW9qVU1kWlR3ZEJ1bkNhUHZDOE9fem9RZ294ZjRtSzhNeDlvVEh2QkZIOFBRS3dIWkpDbUtaOVZsUmctOEhWUUJOOEtFbUM2VDR1S2UzZGk2SS1sblJTanFxbWFzWnhSRmRkVUtlREg2ZDVLNUc4WHBEenJoRlBFSENN?oc=5",
+      "published": "2026-09-16",
+      "source": "Crude Oil Prices Today | OilPrice.com",
       "topic": "big_money",
-      "entities": [
-        "Hamm",
-        "Mercuria"
-      ]
+      "entities": []
     },
     {
       "title": "U.S. Billionaires Are Piling Into Argentina’s Vaca Muerta Shale - Yahoo Finance",
