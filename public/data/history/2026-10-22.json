@@ -1,7 +1,7 @@
 {
   "version": 2,
   "mode": "auto",
-  "generated_at": "2026-10-22T00:00:08.056103Z",
+  "generated_at": "2026-10-22T23:59:36.697834Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -21,23 +21,23 @@
   },
   "today": [
     {
-      "title": "Milei approval / 2027",
-      "detail": "Approval Tracker: Argentina's President Javier Milei - AS/COA",
-      "signal": "neutral"
-    },
-    {
       "title": "BCRA reserves",
       "detail": "Official BCRA international reserves.",
       "signal": "negative"
     },
     {
+      "title": "Primary fiscal balance",
+      "detail": "The Milei experiment and Latin America’s free-market future - GIS Reports",
+      "signal": "positive"
+    },
+    {
       "title": "Vaca Muerta oil",
-      "detail": "TotalEnergies plans to invest US$10 billion in Argentina - Inspenet",
+      "detail": "Colombian E&P GeoPark expands Vaca Muerte position in Argentina - Quantum Commodity Intelligence",
       "signal": "positive"
     },
     {
       "title": "RIGI approved investment",
-      "detail": "Super RIGI: Argentina’s New Investment Incentive - Latinvex",
+      "detail": "Eramet plans to apply under Argentina’s Large Investment Incentive Regime (RIGI) for a first expansion of Centenario-Ratones - Yahoo Finance",
       "signal": "positive"
     },
     {
@@ -102,11 +102,11 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 50.15,
+      "value": 50.2,
       "unit": "USD bn",
-      "period": "2026-10-19",
-      "previous": 50.76,
-      "change": -1.2,
+      "period": "2026-10-20",
+      "previous": 50.74,
+      "change": -1.06,
       "change_unit": "% ~30d",
       "thesis_signal": "negative",
       "status": "fresh",
@@ -116,7 +116,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        50.74,
         50.73,
         50.62,
         50.51,
@@ -145,7 +144,8 @@
         49.72,
         50.04,
         50.24,
-        50.15
+        50.15,
+        50.2
       ]
     },
     {
@@ -165,10 +165,10 @@
         "url": "https://www.argentina.gob.ar/economia/politicafiscal"
       },
       "latest_event": {
-        "title": "Radical economic policies in Argentina offer lessons – but not a blueprint – for South Africa - The Conversation",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGstTVlsSDJqenN4VEJwQ2V1REdKaUp5aXlaVzJMTTE3TXN0TGc0d0pkbE9CM3JUV3gyU2F4V2xaVWFKVTlJcDBLWGdFaTRWeVhjTXE3WVJKMzJwLUhjbW14VjlkUG9BY1UwSTJGN1MwNi1iSjhfSEZtMUhReU8tNjZVTHlkU2ZNWmVQd0EzaF9fMWxhMHNtbHdDZkRVUG5HWkRpMm9QQUd6c3JQT2VWekphM3d5OU5CNy1UekJWNldTdw?oc=5",
-        "published": "2026-10-12",
-        "source": "The Conversation",
+        "title": "The Milei experiment and Latin America’s free-market future - GIS Reports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVUpmdEZKWWNZaW9BMXYtOUhldndkVFNTcE9RaEp0T01QaDd4OU1qQTZhdW1YX2VsQ1FZUVBpYmNzZUVKRFVtZEVoa20zai1Qc2NydTloQWlIZHZWTnJNUFpPVUVHUWRhM1l6MEZDV2xhZmZ2elNtQjNIa3hkSE5lOUVn?oc=5",
+        "published": "2026-09-04",
+        "source": "GIS Reports",
         "topic": "fiscal_balance",
         "entities": []
       }
@@ -191,10 +191,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "TotalEnergies plans to invest US$10 billion in Argentina - Inspenet",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoRC1sdlRaeGlPekltZFRFcVNmYWROTDRzRnZadV9CSEROOFpRRHhBRFF1NXVLSjY0YVBINDNiXzBPTzlvR1VvSzM5QzhueUJFWm8wOHVRenphWi1HQ0FXN1M0bmdjQnRfTnRwd1d1bVZxaDg?oc=5",
-        "published": "2026-10-19",
-        "source": "Inspenet",
+        "title": "Colombian E&P GeoPark expands Vaca Muerte position in Argentina - Quantum Commodity Intelligence",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX3dKcWZ0YWhoMUhoSzhvODV6WFRWQXFDNFpObXRIMXBXUGRvYzZoa2NWY3l6RVZPNDF5YUZFcGpkQkNDUC1UWHdpd2J2TWdQMnJQOFp0WHQ0eGdnbkRCVHVLOGRRSnJSdUNpN3FCR0xCSTBwN2ljRGdtR0FXS1lySE51SzhXeDB1cTIwZmd2c1E2cVU3WG9iVkl1SnA1cGZrQnJ0WC1ZLWh5dw?oc=5",
+        "published": "2026-10-22",
+        "source": "Quantum Commodity Intelligence",
         "topic": "vaca_muerta_oil",
         "entities": []
       }
@@ -217,10 +217,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "Super RIGI: Argentina’s New Investment Incentive - Latinvex",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pc19jNTVYZnZ6bE9VcnpyZDBOdTJweUtJQlkycHRCSzFzSVNQV01lbVcxWGY5SkYyd24wM3RaZDZKbjRzTjg4dW9SNmpxdThhdTdzWE9GM0thMWt0VTJDWVZfdEZUMEdTVk5tcWFscWRMZnZFc0VB?oc=5",
-        "published": "2026-07-01",
-        "source": "Latinvex",
+        "title": "Eramet plans to apply under Argentina’s Large Investment Incentive Regime (RIGI) for a first expansion of Centenario-Ratones - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcVRNVHhfUEI0eU5MQl9BWFFybjFRNFZ5MU5qMTBLNThsekhlVHpxQV9ZWnVmZkpEMVl4aU9fcVVNNDdfMlJmeGdHQlFtQzVBQmJuOXJ2ZUsxZDhqbExQamZ3eUg3NURzZUN3YVRReDhDNTdmVjFpaTNRWTJxM2JacDhTM1pTT29qWm1QdnNsNkVhSHhESEE?oc=5",
+        "published": "2026-10-01",
+        "source": "Yahoo Finance",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -257,14 +257,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWFtb2NsWXYxdTNnNXRZdG1wYzJ4dnV4VnJEZWVnX3BMcVN1bGtTNHVUSHNqRC1Wb0djWEp1MHlTaW1JZVJtMGpRNU9iQzM4c2IzZzRHUFlvWTlyTUgwTmttNExLUGtNZEdCS3IyQXNqMWwwdDRGajktSXhnRF9OZUpFNzJLTkc3UGJBR0ZFU2RCdzRzVnFDNzRLVVlpRDZQeGVMQkVrUGhvd9IBrwFBVV95cUxPeHNkUWx4eWdMREluckh4d0JZRnVJNmxNR1lDY3VLYTE2UEd1T1VaNTd6NUJHMW9qVU1kWlR3ZEJ1bkNhUHZDOE9fem9RZ294ZjRtSzhNeDlvVEh2QkZIOFBRS3dIWkpDbUtaOVZsUmctOEhWUUJOOEtFbUM2VDR1S2UzZGk2SS1sblJTanFxbWFzWnhSRmRkVUtlREg2ZDVLNUc4WHBEenJoRlBFSENN?oc=5",
       "published": "2026-09-16",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "topic": "big_money",
-      "entities": []
-    },
-    {
-      "title": "U.S. Billionaires Are Piling Into Argentina’s Vaca Muerta Shale - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUDZreFF5Nm5GNjNSV1puQ3VwY3pNWFlLNEQ1NFdZQlpTTVB4elVlY3k0ei1LZ1FSVnN6RTRGcEYwb2xKSHNzdFZGVjBFbzltbjlyUWdNeFFRZWt1NmMtT1p6ODZWMHQzVE9VR3RTZnAzMUYyeHYzTU5pYi10UjB1RkUxaTM1YjFFU1cwbjJNb1UwR3JWR0NVYw?oc=5",
-      "published": "2026-08-21",
-      "source": "Yahoo Finance",
       "topic": "big_money",
       "entities": []
     },
@@ -306,6 +298,16 @@
       "topic": "big_money",
       "entities": [
         "Thiel"
+      ]
+    },
+    {
+      "title": "Harold Hamm Bets Bigger on Argentina’s Vaca Muerta Shale Boom - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNnZZN0ZjQWF1OXhPUFlLRUxqcEFPeENLWjk1ZmVTY0lXUXdrZXVsS1ptdFR1WV9HX1J0RC1GRzlvZVdXUXpMRmRhQlZmMERRUjY5eFRKRk5Oa0c4VENxSWFTNWFZeVNVY00tVmFIa2RkeEVhLWtQekdBSkVxN1JwZWIwaEVxSTdoZFJaRHM4a0txc184?oc=5",
+      "published": "2026-08-03",
+      "source": "Yahoo Finance",
+      "topic": "big_money",
+      "entities": [
+        "Hamm"
       ]
     }
   ],
