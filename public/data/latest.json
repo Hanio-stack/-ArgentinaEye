@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-10-23T23:51:37.198402Z",
+  "generated_at": "2026-10-24T23:12:43.920482Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,28 +31,13 @@
   },
   "today": [
     {
-      "title": "BCRA reserves",
-      "detail": "Official BCRA international reserves.",
-      "signal": "neutral"
-    },
-    {
-      "title": "Primary fiscal balance",
-      "detail": "Radical economic policies in Argentina offer lessons – but not a blueprint – for South Africa - The Conversation",
-      "signal": "positive"
-    },
-    {
       "title": "Vaca Muerta oil",
-      "detail": "Exclusive-Chevron uses Permian playbook to breathe life into Argentina’s ‘Dead Cow’ oil region - WKZO",
+      "detail": "Chevron targets Argentina shale growth as Vaca Muerta competes for global investment - Oil & Gas 360",
       "signal": "positive"
-    },
-    {
-      "title": "Power demand / reform",
-      "detail": "How Argentina's power market reform is progressing - BNamericas",
-      "signal": "neutral"
     },
     {
       "title": "Big Money",
-      "detail": "Exclusive-Chevron uses Permian playbook to breathe life into Argentina’s ‘Dead Cow’ oil region - WKZO",
+      "detail": "Chevron targets Argentina shale growth as Vaca Muerta competes for global investment - Oil & Gas 360",
       "signal": "positive"
     }
   ],
@@ -201,10 +186,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "Exclusive-Chevron uses Permian playbook to breathe life into Argentina’s ‘Dead Cow’ oil region - WKZO",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVl0Y3dtTjJpeEZUUlh2ZVpzb3huRWUwbjVRczZVdFFuUHBmbnhPZ1cyY3RDRWkzR1RNd3BvcHBWTlpUbzdzMGNySVhmNkw1NEhDSGd0b0s4dWdmcWR1S2k1UUR4ZXhUVXdPMDFKOTA2UXRhN3V0WmpYX1NtTWlldWxUN1lQNjFYckRTTGFtaVNSU2UyaTVNQjBQRVBwNXI5WEh6RS1WbUhYMy1QT1NTOTRneExRbWhRNXRyZg?oc=5",
+        "title": "Chevron targets Argentina shale growth as Vaca Muerta competes for global investment - Oil & Gas 360",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR05LRnROZThhMVBFcS14RXBOSDVjdmNYYmVCdU85UjNrSXJxMGo4YWNZaURhbkhDQXR5Y2ZscmhxVUluOUdqVXlHM1YyU2libWkzaXR1U2ROWjdSazJneUJFbS1qVEEwMm14RzNCV0NzSGpKSFdOMkhqdHBCYVVWVjQ4bG9nMmZKYU1Bbk1CVE5qY2o4X1pubmZqT1pRTFRNbEI1SWNacU9Cb1pXdERFZnhxZnU?oc=5",
         "published": "2026-10-23",
-        "source": "WKZO",
+        "source": "Oil & Gas 360",
         "topic": "vaca_muerta_oil",
         "entities": [
           "Chevron"
@@ -265,23 +250,23 @@
   ],
   "news": [
     {
-      "title": "Exclusive-Chevron uses Permian playbook to breathe life into Argentina’s ‘Dead Cow’ oil region - WKZO",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVl0Y3dtTjJpeEZUUlh2ZVpzb3huRWUwbjVRczZVdFFuUHBmbnhPZ1cyY3RDRWkzR1RNd3BvcHBWTlpUbzdzMGNySVhmNkw1NEhDSGd0b0s4dWdmcWR1S2k1UUR4ZXhUVXdPMDFKOTA2UXRhN3V0WmpYX1NtTWlldWxUN1lQNjFYckRTTGFtaVNSU2UyaTVNQjBQRVBwNXI5WEh6RS1WbUhYMy1QT1NTOTRneExRbWhRNXRyZg?oc=5",
-      "published": "2026-10-23",
-      "source": "WKZO",
-      "topic": "vaca_muerta_oil",
-      "entities": [
-        "Chevron"
-      ]
-    },
-    {
       "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
-      "published": "2026-10-22",
+      "published": "2026-10-23",
       "source": "EnergyNow.com",
       "topic": "company_news",
       "entities": [
         "VIST"
+      ]
+    },
+    {
+      "title": "Chevron targets Argentina shale growth as Vaca Muerta competes for global investment - Oil & Gas 360",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR05LRnROZThhMVBFcS14RXBOSDVjdmNYYmVCdU85UjNrSXJxMGo4YWNZaURhbkhDQXR5Y2ZscmhxVUluOUdqVXlHM1YyU2libWkzaXR1U2ROWjdSazJneUJFbS1qVEEwMm14RzNCV0NzSGpKSFdOMkhqdHBCYVVWVjQ4bG9nMmZKYU1Bbk1CVE5qY2o4X1pubmZqT1pRTFRNbEI1SWNacU9Cb1pXdERFZnhxZnU?oc=5",
+      "published": "2026-10-23",
+      "source": "Oil & Gas 360",
+      "topic": "vaca_muerta_oil",
+      "entities": [
+        "Chevron"
       ]
     },
     {
@@ -325,16 +310,6 @@
       ]
     },
     {
-      "title": "Central Puerto launches dual‑market share buyback in Argentina and on NYSE - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTmJnakpzaVFJUm5aMC10Tmx0NV8ydTRXN2pCYW1vSmpoU2ZEekpnSlk0bEpVc1lZbmNwamh4QmxGNWQzU1BaMS1WS3VHX2Z4OW5OaGl1a251OXBxSjJ0bjJJbEQ3ODNhM1NjT0lDMWExaktxeldlOGJpQnlIejdyVHRoUDkzN01ZWjhOMjVzLWExVmh0aVRhNGlUTGNaSXEwNEJtclMwd1RLMjhUZ05tYUtuLV9ESDVuWXR6UU9KTVViLWxyQXdtampTSXdnMkM1TTBLcWtSaUF0b2o0Mi16UXAwbkxGRm80cjV1Mkt6VVEtUQ?oc=5",
-      "published": "2026-10-09",
-      "source": "The Globe and Mail",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
       "title": "Central Puerto S.A: 'Powering Up' The NAV/SOTP (NYSE:CEPU) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdllyQlljS2hWTVBhUnM1OHNueVlsTGRNSXZsS3M5cDd0ZkZiY2dzZ0Y0S2V6bmdJYWp0dERPc2wzZlRKUlVxVzZocWFmUExZUEgzWWk0VWl5cWJnYzJPVjBhVUw1R1ZXWWo5VXJ6U2VoTEd1cmFvbktsOHdWVExzRkVRTnp5dkNpclE?oc=5",
       "published": "2026-10-06",
@@ -352,6 +327,16 @@
       "topic": "company_news",
       "entities": [
         "PAM"
+      ]
+    },
+    {
+      "title": "Argentina's RIGI generating 'very concrete' mine power supply opportunities - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzZyNExEVkpBdU9lR0VfMmpVMjlwbUtXZFJtNmI5M05lcExuaEJWOEg3VFBfaU03RW1kYVpHeThVWVZhOVpXVW95UWpMaFM3NDZtLVJVM3ZGemlkMVhyY2Ytb3lPS3YzMmN0V0lqdWhDSHdVRTgyeF82Y0FzU1lqQ2JLbUxzREh3Wm9KWWEyLXNYazRuVVdueG9MejBDdTduWEVncVpzUGtnX1d1QUxLZg?oc=5",
+      "published": "2026-09-30",
+      "source": "BNamericas",
+      "topic": "company_news",
+      "entities": [
+        "CEPU"
       ]
     },
     {
