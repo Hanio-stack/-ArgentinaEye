@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T23:12:45.990809Z",
+  "generated_at": "2026-10-25T23:15:59.991066Z",
   "source": "StockAnalysis / S&P Global Market Intelligence",
   "source_note": "価格・倍率は市場や決算で変わります。取得失敗時は直前の値を残し、stale表示にします。",
   "stocks": {
@@ -23,7 +23,7 @@
       "price": 86.42,
       "market_cap_b": 4.62,
       "enterprise_value_b": 5.94,
-      "pe": 7.81,
+      "pe": 7.76,
       "forward_pe": 7.96,
       "ev_ebitda": 6.34,
       "p_fcf": null,
