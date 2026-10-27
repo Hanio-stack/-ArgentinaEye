@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-10-25T23:15:58.121719Z",
+  "generated_at": "2026-10-27T00:25:36.017886Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,13 +31,23 @@
   },
   "today": [
     {
+      "title": "Milei approval / 2027",
+      "detail": "Milei in dead heat with Peronism, one year out from election, polls show - Buenos Aires Times",
+      "signal": "neutral"
+    },
+    {
+      "title": "BCRA reserves",
+      "detail": "Official BCRA international reserves.",
+      "signal": "neutral"
+    },
+    {
       "title": "Vaca Muerta oil",
-      "detail": "The dark side of Vaca Muerta: how fracking is polluting Argentina - Buenos Aires Herald",
+      "detail": "EXCLUSIVE: Chevron uses Permian playbook to breathe life into Argentina’s ‘Dead Cow’ oil region - Reuters",
       "signal": "positive"
     },
     {
       "title": "RIGI approved investment",
-      "detail": "China Holds 9.2% of Argentina's RIGI Mining Investment, Plusmining Says - News and Statistics - IndexBox",
+      "detail": "China’s Argentina mining footprint smaller than it looks - Mining.com",
       "signal": "positive"
     },
     {
@@ -64,10 +74,10 @@
         "url": "https://news.google.com/"
       },
       "latest_event": {
-        "title": "Approval Tracker: Argentina's President Javier Milei - AS/COA",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHlOVVVsRGtXU3R4YnhOSnFFblBrZkg4MlNYVHpLTkRrZ0ZlWHdRRnFEZ1hpeGlBemN4VnREMDJMMXE4a1lRNmxGN3lpME5vNnBuYnc5SG1pRFB2SHJXMEJJVFFUSDQwbjl3QmRtWmZWOVFJQUlCby1tVG5FRnFEMjBJbEJEQzN5M3c?oc=5",
-        "published": "2026-07-16",
-        "source": "AS/COA",
+        "title": "Milei in dead heat with Peronism, one year out from election, polls show - Buenos Aires Times",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR19uMVJDV2RWdFpxeVdvVXRpRG1YRWNpRWJkcGRWWi1FTy1saGZvSkNTUGdaMzh5ckxuX3lFR0tweHBNaWZCQW43c21nQm5odllPSnJ1UFBsdDlJU3piYmxZMUtMVkFhcWJ4MUhmZjVNck03TS1mdTZuLWNmaGpidll2eWo4MzVCQml0djUwcnR4X09nQ1I1Y2Z5Y3hsU1F2VC1MRXpwb0Y3ZU56R1k3YTZVd3LSAboBQVVfeXFMTktMUVR4TG1qQ0VXM0ZucTBkb08tTlM2bnJocFpnYlMtLVJFOHBDaW80aVEyVHNVS3d0TE4xOFZQdFhYLVl5Rk93UDVGaU1LX3p0NGYwZ0FEb1NSSHoyVl83TUdQbk5NeGZTMk1wd0V6dl9OQ203dXI3Z3BqSTh2aDdsbzF5WndPM1VrQnN5Ymp4TUhVVVZkbGF0VjgyOXc2LWJRaTJJOW5MNEZBZjNBaG9IcC1SY3gyUzFB?oc=5",
+        "published": "2026-10-24",
+        "source": "Buenos Aires Times",
         "topic": "politics",
         "entities": []
       }
@@ -102,11 +112,11 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 50.23,
+      "value": 50.17,
       "unit": "USD bn",
-      "period": "2026-10-21",
-      "previous": 50.73,
-      "change": -0.99,
+      "period": "2026-10-22",
+      "previous": 50.62,
+      "change": -0.89,
       "change_unit": "% ~30d",
       "thesis_signal": "neutral",
       "status": "fresh",
@@ -116,7 +126,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        50.62,
         50.51,
         50.47,
         50.4,
@@ -145,7 +154,8 @@
         50.24,
         50.15,
         50.2,
-        50.23
+        50.23,
+        50.17
       ]
     },
     {
@@ -191,12 +201,14 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "The dark side of Vaca Muerta: how fracking is polluting Argentina - Buenos Aires Herald",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQamd6LWJvVG9CaU02a21TY0RURVhyM1Q0VjRLUnVHblliQXB4amdnOS1tX1dNYXNqNEMzR2hNMVhXcjFCZU4yWVFPcDdWNHYzTG9NMncwTHBlM0l3eDRieFJCQkJlbHAzMXNnek9PejBCaVBZLW5HV3lQeFVKMGRXeHA1YnRUYi1kZHp2Y1NBcDJyQ1ZxV3hFQmM2dDFjNy1tcWxlanFBNS0wQQ?oc=5",
-        "published": "2026-10-25",
-        "source": "Buenos Aires Herald",
+        "title": "EXCLUSIVE: Chevron uses Permian playbook to breathe life into Argentina’s ‘Dead Cow’ oil region - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNExqRXFMam8wTEFHalRwVDJneUltbGcxRnpHdUp5QkhLVzBqTjdlWmRaeG0xY3ZTSlRxanBEOU9JZHRyNi04ZTVlZHE0V1BBU2l0NDJESVRFazNxdXlwV2xwVzY2WklGTDV0NEdfcFVBMzFYMTFqSnJhWDhOR0pWSFptNGEzNTI0aW1mbkpKTzQtUURKck96RXBTV2JEUzVqeUI4QTJDdllDc1ZfUFBpUk54RldTUmd3Y25feF9xUDRKVFo2Z29sTWpn?oc=5",
+        "published": "2026-10-23",
+        "source": "Reuters",
         "topic": "vaca_muerta_oil",
-        "entities": []
+        "entities": [
+          "Chevron"
+        ]
       }
     },
     {
@@ -217,10 +229,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "China Holds 9.2% of Argentina's RIGI Mining Investment, Plusmining Says - News and Statistics - IndexBox",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNTVZOVNZYm9uM2tram5HMzdxNVpma1Q2Wnp5bUhFNkVVS3ZBNWtUOWMydVVHWWtMajJjaUJrY2xRUy1XQTJlYk44aUpKVWg1b3g3STVqeXFuU3F2LW5GSkZqTnBianRWR3pvYjZ3WEhNdmJ3cld0N1daMWNhT3I1YUhrdm9EY2tGSzVzSUpaQ0ZVRTVuVklpMTlDenc5ODVmdFIyeWc5SC1LeTFoZlcyVEhEa1AyLXpZ?oc=5",
+        "title": "China’s Argentina mining footprint smaller than it looks - Mining.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmVZRVh6UFF4dWZ6TnBMNFZ4eUN3ZUpwdnBnNXJUcUZrdWhNLXdOZGtLS3lqMllwME1DU2RJVVItZDB1bnVLOGxQM292My1IMEZEQjZKOVltWURtQ01Xb2xXTmFlWFJTd2ZnZGc5bmJqQVExNXFCZktkMV8xUkpxMGtSN3Fjdw?oc=5",
         "published": "2026-10-25",
-        "source": "IndexBox",
+        "source": "Mining.com",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -253,13 +265,23 @@
   ],
   "news": [
     {
-      "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
-      "published": "2026-10-24",
+      "title": "Hamm’s Continental to Buy 50% of Mercuria Argentina Oil Firm - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHZsTmtUc0RFWmtWN25iX1M5MU5yWjRMa2N3QThQdWFQLVZ5dXBpemZFYVFrcFAySnNNZGJ3Nk0wZm5RbHJiQUN3dmNHOHRMUHBmZ045dzFZaTJLcUdrU3lGQmdFUWVFaHVyeWpqZjQwVlhRQzhMRkJEc21iSGNtSVFMS0JoY3BFakdnUWJpSFRkUlU?oc=5",
+      "published": "2026-10-26",
       "source": "EnergyNow.com",
       "topic": "company_news",
       "entities": [
         "VIST"
+      ]
+    },
+    {
+      "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
+      "published": "2026-10-25",
+      "source": "EnergyNow.com",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
       ]
     },
     {
@@ -425,8 +447,8 @@
   "source_health": [
     {
       "name": "INDEC inflation",
-      "ok": true,
-      "note": ""
+      "ok": false,
+      "note": "The read operation timed out"
     },
     {
       "name": "BCRA reserves",
