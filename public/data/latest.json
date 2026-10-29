@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-10-28T00:31:20.412159Z",
+  "generated_at": "2026-10-29T00:54:57.380179Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,18 +31,18 @@
   },
   "today": [
     {
+      "title": "Milei approval / 2027",
+      "detail": "Approval Tracker: Argentina's President Javier Milei - AS/COA",
+      "signal": "neutral"
+    },
+    {
       "title": "BCRA reserves",
       "detail": "Official BCRA international reserves.",
       "signal": "neutral"
     },
     {
-      "title": "Primary fiscal balance",
-      "detail": "IMF backs Milei’s reforms in third review of Argentina deal - Buenos Aires Times",
-      "signal": "positive"
-    },
-    {
       "title": "RIGI approved investment",
-      "detail": "China’s Argentina mining footprint smaller than it looks - Mining.com",
+      "detail": "Argentina Approves MARA’s Entry into the RIGI with US$6.394 Billion Investment - Panorama Minero",
       "signal": "positive"
     },
     {
@@ -69,10 +69,10 @@
         "url": "https://news.google.com/"
       },
       "latest_event": {
-        "title": "Milei in dead heat with Peronism, one year out from election, polls show - Buenos Aires Times",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR19uMVJDV2RWdFpxeVdvVXRpRG1YRWNpRWJkcGRWWi1FTy1saGZvSkNTUGdaMzh5ckxuX3lFR0tweHBNaWZCQW43c21nQm5odllPSnJ1UFBsdDlJU3piYmxZMUtMVkFhcWJ4MUhmZjVNck03TS1mdTZuLWNmaGpidll2eWo4MzVCQml0djUwcnR4X09nQ1I1Y2Z5Y3hsU1F2VC1MRXpwb0Y3ZU56R1k3YTZVd3LSAboBQVVfeXFMTktMUVR4TG1qQ0VXM0ZucTBkb08tTlM2bnJocFpnYlMtLVJFOHBDaW80aVEyVHNVS3d0TE4xOFZQdFhYLVl5Rk93UDVGaU1LX3p0NGYwZ0FEb1NSSHoyVl83TUdQbk5NeGZTMk1wd0V6dl9OQ203dXI3Z3BqSTh2aDdsbzF5WndPM1VrQnN5Ymp4TUhVVVZkbGF0VjgyOXc2LWJRaTJJOW5MNEZBZjNBaG9IcC1SY3gyUzFB?oc=5",
-        "published": "2026-10-24",
-        "source": "Buenos Aires Times",
+        "title": "Approval Tracker: Argentina's President Javier Milei - AS/COA",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHlOVVVsRGtXU3R4YnhOSnFFblBrZkg4MlNYVHpLTkRrZ0ZlWHdRRnFEZ1hpeGlBemN4VnREMDJMMXE4a1lRNmxGN3lpME5vNnBuYnc5SG1pRFB2SHJXMEJJVFFUSDQwbjl3QmRtWmZWOVFJQUlCby1tVG5FRnFEMjBJbEJEQzN5M3c?oc=5",
+        "published": "2026-07-16",
+        "source": "AS/COA",
         "topic": "politics",
         "entities": []
       }
@@ -107,11 +107,11 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 50.21,
+      "value": 50.48,
       "unit": "USD bn",
-      "period": "2026-10-23",
-      "previous": 50.51,
-      "change": -0.59,
+      "period": "2026-10-26",
+      "previous": 50.47,
+      "change": 0.02,
       "change_unit": "% ~30d",
       "thesis_signal": "neutral",
       "status": "fresh",
@@ -121,7 +121,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        50.47,
         50.4,
         49.95,
         50.0,
@@ -150,7 +149,8 @@
         50.2,
         50.23,
         50.17,
-        50.21
+        50.21,
+        50.48
       ]
     },
     {
@@ -224,10 +224,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "China’s Argentina mining footprint smaller than it looks - Mining.com",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmVZRVh6UFF4dWZ6TnBMNFZ4eUN3ZUpwdnBnNXJUcUZrdWhNLXdOZGtLS3lqMllwME1DU2RJVVItZDB1bnVLOGxQM292My1IMEZEQjZKOVltWURtQ01Xb2xXTmFlWFJTd2ZnZGc5bmJqQVExNXFCZktkMV8xUkpxMGtSN3Fjdw?oc=5",
-        "published": "2026-10-25",
-        "source": "Mining.com",
+        "title": "Argentina Approves MARA’s Entry into the RIGI with US$6.394 Billion Investment - Panorama Minero",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY2FYeDZJR3Z2RnBEWDNYNXE0UUM0ODNJemxXam93bUtnX3lPdjI1djh2SE14TDExV2hEc0oyRXlxZmlvLUVIR3M0M2JvTjgyYnFBQlVJVi1QdnczYWpmS1NzeXNSSUxnWWFELUl5QllFSXhtSDlQTlNmcm9kSDJqcTM1cDR0RS0zMXBiR2ltdlJrdVlHV3hPYkZqU3RmaFVqZkxLdUluYWlSTERHQm9FbnBTMEpTQzNFWEE?oc=5",
+        "published": "2026-10-28",
+        "source": "Panorama Minero",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -262,11 +262,21 @@
     {
       "title": "Hamm’s Continental to Buy 50% of Mercuria Argentina Oil Firm - EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHZsTmtUc0RFWmtWN25iX1M5MU5yWjRMa2N3QThQdWFQLVZ5dXBpemZFYVFrcFAySnNNZGJ3Nk0wZm5RbHJiQUN3dmNHOHRMUHBmZ045dzFZaTJLcUdrU3lGQmdFUWVFaHVyeWpqZjQwVlhRQzhMRkJEc21iSGNtSVFMS0JoY3BFakdnUWJpSFRkUlU?oc=5",
-      "published": "2026-10-27",
+      "published": "2026-10-28",
       "source": "EnergyNow.com",
       "topic": "company_news",
       "entities": [
         "VIST"
+      ]
+    },
+    {
+      "title": "Argentina's power reform: State of play, outlook for 2027 - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVJyLW1yYWM1VmZPRDZKQk9KTEYxYU8wMUNIYlItUUJEVVdjNGxfcnktclNaeV9XZTg4SUc3MVhUZ29UaVlVWUwyNjFqQkFFQXZyM3NNQVE3U0I2OUZIc2xnNVRPbnlqSGYtU2lveERLcmZweE1DREpZbm1OdG9VSnU0Mmt0dzBFaVNpYWVNRVhTVHN2S21hZWw4Yw?oc=5",
+      "published": "2026-10-28",
+      "source": "BNamericas",
+      "topic": "company_news",
+      "entities": [
+        "CEPU"
       ]
     },
     {
@@ -294,16 +304,6 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNExqRXFMam8wTEFHalRwVDJneUltbGcxRnpHdUp5QkhLVzBqTjdlWmRaeG0xY3ZTSlRxanBEOU9JZHRyNi04ZTVlZHE0V1BBU2l0NDJESVRFazNxdXlwV2xwVzY2WklGTDV0NEdfcFVBMzFYMTFqSnJhWDhOR0pWSFptNGEzNTI0aW1mbkpKTzQtUURKck96RXBTV2JEUzVqeUI4QTJDdllDc1ZfUFBpUk54RldTUmd3Y25feF9xUDRKVFo2Z29sTWpn?oc=5",
       "published": "2026-10-23",
       "source": "Reuters",
-      "topic": "vaca_muerta_oil",
-      "entities": [
-        "Chevron"
-      ]
-    },
-    {
-      "title": "Chevron targets Argentina shale growth as Vaca Muerta competes for global investment - Oil & Gas 360",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR05LRnROZThhMVBFcS14RXBOSDVjdmNYYmVCdU85UjNrSXJxMGo4YWNZaURhbkhDQXR5Y2ZscmhxVUluOUdqVXlHM1YyU2libWkzaXR1U2ROWjdSazJneUJFbS1qVEEwMm14RzNCV0NzSGpKSFdOMkhqdHBCYVVWVjQ4bG9nMmZKYU1Bbk1CVE5qY2o4X1pubmZqT1pRTFRNbEI1SWNacU9Cb1pXdERFZnhxZnU?oc=5",
-      "published": "2026-10-23",
-      "source": "Oil & Gas 360",
       "topic": "vaca_muerta_oil",
       "entities": [
         "Chevron"
@@ -367,16 +367,6 @@
       "topic": "company_news",
       "entities": [
         "PAM"
-      ]
-    },
-    {
-      "title": "Argentina's RIGI generating 'very concrete' mine power supply opportunities - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzZyNExEVkpBdU9lR0VfMmpVMjlwbUtXZFJtNmI5M05lcExuaEJWOEg3VFBfaU03RW1kYVpHeThVWVZhOVpXVW95UWpMaFM3NDZtLVJVM3ZGemlkMVhyY2Ytb3lPS3YzMmN0V0lqdWhDSHdVRTgyeF82Y0FzU1lqQ2JLbUxzREh3Wm9KWWEyLXNYazRuVVdueG9MejBDdTduWEVncVpzUGtnX1d1QUxLZg?oc=5",
-      "published": "2026-09-30",
-      "source": "BNamericas",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
       ]
     },
     {
