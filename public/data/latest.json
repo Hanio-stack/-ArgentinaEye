@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-10-29T00:54:57.380179Z",
+  "generated_at": "2026-10-30T00:58:42.704794Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,18 +31,18 @@
   },
   "today": [
     {
-      "title": "Milei approval / 2027",
-      "detail": "Approval Tracker: Argentina's President Javier Milei - AS/COA",
-      "signal": "neutral"
-    },
-    {
       "title": "BCRA reserves",
       "detail": "Official BCRA international reserves.",
       "signal": "neutral"
     },
     {
+      "title": "Primary fiscal balance",
+      "detail": "Radical economic policies in Argentina offer lessons – but not a blueprint – for South Africa - The Conversation",
+      "signal": "positive"
+    },
+    {
       "title": "RIGI approved investment",
-      "detail": "Argentina Approves MARA’s Entry into the RIGI with US$6.394 Billion Investment - Panorama Minero",
+      "detail": "Argentina LNG applies for RIGI approval - LNG Industry",
       "signal": "positive"
     },
     {
@@ -107,11 +107,11 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 50.48,
+      "value": 50.58,
       "unit": "USD bn",
-      "period": "2026-10-26",
-      "previous": 50.47,
-      "change": 0.02,
+      "period": "2026-10-27",
+      "previous": 50.4,
+      "change": 0.35,
       "change_unit": "% ~30d",
       "thesis_signal": "neutral",
       "status": "fresh",
@@ -121,7 +121,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        50.4,
         49.95,
         50.0,
         49.79,
@@ -150,7 +149,8 @@
         50.23,
         50.17,
         50.21,
-        50.48
+        50.48,
+        50.58
       ]
     },
     {
@@ -170,10 +170,10 @@
         "url": "https://www.argentina.gob.ar/economia/politicafiscal"
       },
       "latest_event": {
-        "title": "IMF backs Milei’s reforms in third review of Argentina deal - Buenos Aires Times",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Z4LThNOXJlT0Q4aEVuRUJNUlRzeVpfQ1lTczdHWEhYbzYzWHV5YUFjOWw2bEhGbkIwbUNrYWNDZHlCWEVqanFPbmNQX2dzcm1xeHVRQi1TVkdjVTVVOUIxSHBEQzgzRUh6RGhvNUx0X0tJMzB1RERVMWJLUnN3VXQ4RGwtMVhXbXJ3c0Y4RWd1cEJOUFV0WFBneXp2TVlv0gGgAUFVX3lxTE1LdngtOE05cmVPRDhoRW5FQk1SVHN5Wl9DWVNzN0dYSFhvNjNYdXlhQWM5bDZsSEZuQjBtQ2thY0NkeUJYRWpqcU9uY1BfZ3NybXF4dVFCLVNWR2NVNVU5QjFIcERDODNFSHpEaG81THRfS0kzMHVERFUxYktSc3dVdDhEbC0xWFdtcndzRjhFZ3VwQk5QVXRYUGd5enZNWW8?oc=5",
-        "published": "2026-10-27",
-        "source": "Buenos Aires Times",
+        "title": "Radical economic policies in Argentina offer lessons – but not a blueprint – for South Africa - The Conversation",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGstTVlsSDJqenN4VEJwQ2V1REdKaUp5aXlaVzJMTTE3TXN0TGc0d0pkbE9CM3JUV3gyU2F4V2xaVWFKVTlJcDBLWGdFaTRWeVhjTXE3WVJKMzJwLUhjbW14VjlkUG9BY1UwSTJGN1MwNi1iSjhfSEZtMUhReU8tNjZVTHlkU2ZNWmVQd0EzaF9fMWxhMHNtbHdDZkRVUG5HWkRpMm9QQUd6c3JQT2VWekphM3d5OU5CNy1UekJWNldTdw?oc=5",
+        "published": "2026-10-12",
+        "source": "The Conversation",
         "topic": "fiscal_balance",
         "entities": []
       }
@@ -224,10 +224,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "Argentina Approves MARA’s Entry into the RIGI with US$6.394 Billion Investment - Panorama Minero",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY2FYeDZJR3Z2RnBEWDNYNXE0UUM0ODNJemxXam93bUtnX3lPdjI1djh2SE14TDExV2hEc0oyRXlxZmlvLUVIR3M0M2JvTjgyYnFBQlVJVi1QdnczYWpmS1NzeXNSSUxnWWFELUl5QllFSXhtSDlQTlNmcm9kSDJqcTM1cDR0RS0zMXBiR2ltdlJrdVlHV3hPYkZqU3RmaFVqZkxLdUluYWlSTERHQm9FbnBTMEpTQzNFWEE?oc=5",
-        "published": "2026-10-28",
-        "source": "Panorama Minero",
+        "title": "Argentina LNG applies for RIGI approval - LNG Industry",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRWpiMEk3VGVyVzR3X2ZxRV9fXzhTRG0yWTZNeUJ6TzVzRm94NzJaUG1UWm1lekFhb1Vtb0p3TUE0WGZVdlNIZnEyTF9wd3Z4RUhrUHUzVzVfREQySllRX1N1R2lhblVLOWkxQ3NOX19vSUFmcHFTcEdvaHZGcGM0ZmpDMW9pMUxHc3V6NnhkS1pZR1A1?oc=5",
+        "published": "2026-08-14",
+        "source": "LNG Industry",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -262,11 +262,31 @@
     {
       "title": "Hamm’s Continental to Buy 50% of Mercuria Argentina Oil Firm - EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHZsTmtUc0RFWmtWN25iX1M5MU5yWjRMa2N3QThQdWFQLVZ5dXBpemZFYVFrcFAySnNNZGJ3Nk0wZm5RbHJiQUN3dmNHOHRMUHBmZ045dzFZaTJLcUdrU3lGQmdFUWVFaHVyeWpqZjQwVlhRQzhMRkJEc21iSGNtSVFMS0JoY3BFakdnUWJpSFRkUlU?oc=5",
-      "published": "2026-10-28",
+      "published": "2026-10-29",
       "source": "EnergyNow.com",
       "topic": "company_news",
       "entities": [
         "VIST"
+      ]
+    },
+    {
+      "title": "Vaca Muerta oil: YPF's multibillion-dollar RIGI push - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQlZiM3RYUmwyV1lqekR1OUJqekI1SUJFNTRYay1aM1h3YU1fd3RjS2QxRlNqYk1nVHFYNnFOWkgyY2twOHNwcUN5ODhxLVZoaGlycVN6WFpWUlNIaGFsZEtTbTZ2djhiRXZ3QjNIMENFc1IwY3pzNFJtYVI0dEFMbG9BNlFyR1dmSTFFTGRmWFh5S1E?oc=5",
+      "published": "2026-10-29",
+      "source": "BNamericas",
+      "topic": "company_news",
+      "entities": [
+        "VIST"
+      ]
+    },
+    {
+      "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
+      "published": "2026-10-28",
+      "source": "EnergyNow.com",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
       ]
     },
     {
@@ -277,26 +297,6 @@
       "topic": "company_news",
       "entities": [
         "CEPU"
-      ]
-    },
-    {
-      "title": "Investors brace for Vista Energy earnings after last quarter’s miss By Investing.com - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMXdOU3BrbzExdmx0UWhuMHFIWFg3eUR3Z094WjBkTk1UYTU0eVc2NktXbUVMSjRIenRCSGNRNER2VFItOVN6NEk2eUhWNkZsYXk0ZEFNRVBuZnJhS3EyTGhsWHV2TTYyeUQ3NVV1ME9iYmUwV0NOTEhmRGRuN1RBQ0w5VlFqa29FaE5ITVFBNjNFVHk3RUxhaG5SQnRhQUR1VENOODUtU1BTcjliMjRVdU1qTWxLSlFDZGpz?oc=5",
-      "published": "2026-10-27",
-      "source": "Investing.com",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
-      "published": "2026-10-27",
-      "source": "EnergyNow.com",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
       ]
     },
     {
