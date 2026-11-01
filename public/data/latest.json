@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-10-31T00:46:48.961039Z",
+  "generated_at": "2026-11-01T00:06:58.695263Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,13 +31,8 @@
   },
   "today": [
     {
-      "title": "BCRA reserves",
-      "detail": "Official BCRA international reserves.",
-      "signal": "positive"
-    },
-    {
-      "title": "Vaca Muerta oil",
-      "detail": "Vista Energy says launch of US$5.8bn RIGI Vaca Muerta oil project possible in 2027 - BNamericas",
+      "title": "RIGI approved investment",
+      "detail": "China’s Argentina mining footprint smaller than it looks - Mining.com",
       "signal": "positive"
     },
     {
@@ -217,10 +212,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "Argentina LNG applies for RIGI approval - LNG Industry",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRWpiMEk3VGVyVzR3X2ZxRV9fXzhTRG0yWTZNeUJ6TzVzRm94NzJaUG1UWm1lekFhb1Vtb0p3TUE0WGZVdlNIZnEyTF9wd3Z4RUhrUHUzVzVfREQySllRX1N1R2lhblVLOWkxQ3NOX19vSUFmcHFTcEdvaHZGcGM0ZmpDMW9pMUxHc3V6NnhkS1pZR1A1?oc=5",
-        "published": "2026-08-14",
-        "source": "LNG Industry",
+        "title": "China’s Argentina mining footprint smaller than it looks - Mining.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmVZRVh6UFF4dWZ6TnBMNFZ4eUN3ZUpwdnBnNXJUcUZrdWhNLXdOZGtLS3lqMllwME1DU2RJVVItZDB1bnVLOGxQM292My1IMEZEQjZKOVltWURtQ01Xb2xXTmFlWFJTd2ZnZGc5bmJqQVExNXFCZktkMV8xUkpxMGtSN3Fjdw?oc=5",
+        "published": "2026-10-25",
+        "source": "Mining.com",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -253,6 +248,16 @@
   ],
   "news": [
     {
+      "title": "Hamm’s Continental to Buy 50% of Mercuria Argentina Oil Firm - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHZsTmtUc0RFWmtWN25iX1M5MU5yWjRMa2N3QThQdWFQLVZ5dXBpemZFYVFrcFAySnNNZGJ3Nk0wZm5RbHJiQUN3dmNHOHRMUHBmZ045dzFZaTJLcUdrU3lGQmdFUWVFaHVyeWpqZjQwVlhRQzhMRkJEc21iSGNtSVFMS0JoY3BFakdnUWJpSFRkUlU?oc=5",
+      "published": "2026-10-30",
+      "source": "EnergyNow.com",
+      "topic": "company_news",
+      "entities": [
+        "VIST"
+      ]
+    },
+    {
       "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
       "published": "2026-10-30",
@@ -273,16 +278,6 @@
       ]
     },
     {
-      "title": "Hamm’s Continental to Buy 50% of Mercuria Argentina Oil Firm - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHZsTmtUc0RFWmtWN25iX1M5MU5yWjRMa2N3QThQdWFQLVZ5dXBpemZFYVFrcFAySnNNZGJ3Nk0wZm5RbHJiQUN3dmNHOHRMUHBmZ045dzFZaTJLcUdrU3lGQmdFUWVFaHVyeWpqZjQwVlhRQzhMRkJEc21iSGNtSVFMS0JoY3BFakdnUWJpSFRkUlU?oc=5",
-      "published": "2026-10-29",
-      "source": "EnergyNow.com",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
       "title": "Argentina's power reform: State of play, outlook for 2027 - BNamericas",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVJyLW1yYWM1VmZPRDZKQk9KTEYxYU8wMUNIYlItUUJEVVdjNGxfcnktclNaeV9XZTg4SUc3MVhUZ29UaVlVWUwyNjFqQkFFQXZyM3NNQVE3U0I2OUZIc2xnNVRPbnlqSGYtU2lveERLcmZweE1DREpZbm1OdG9VSnU0Mmt0dzBFaVNpYWVNRVhTVHN2S21hZWw4Yw?oc=5",
       "published": "2026-10-28",
@@ -297,6 +292,16 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNExqRXFMam8wTEFHalRwVDJneUltbGcxRnpHdUp5QkhLVzBqTjdlWmRaeG0xY3ZTSlRxanBEOU9JZHRyNi04ZTVlZHE0V1BBU2l0NDJESVRFazNxdXlwV2xwVzY2WklGTDV0NEdfcFVBMzFYMTFqSnJhWDhOR0pWSFptNGEzNTI0aW1mbkpKTzQtUURKck96RXBTV2JEUzVqeUI4QTJDdllDc1ZfUFBpUk54RldTUmd3Y25feF9xUDRKVFo2Z29sTWpn?oc=5",
       "published": "2026-10-23",
       "source": "Reuters",
+      "topic": "vaca_muerta_oil",
+      "entities": [
+        "Chevron"
+      ]
+    },
+    {
+      "title": "Chevron targets Argentina shale growth as Vaca Muerta competes for global investment - Oil & Gas 360",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR05LRnROZThhMVBFcS14RXBOSDVjdmNYYmVCdU85UjNrSXJxMGo4YWNZaURhbkhDQXR5Y2ZscmhxVUluOUdqVXlHM1YyU2libWkzaXR1U2ROWjdSazJneUJFbS1qVEEwMm14RzNCV0NzSGpKSFdOMkhqdHBCYVVWVjQ4bG9nMmZKYU1Bbk1CVE5qY2o4X1pubmZqT1pRTFRNbEI1SWNacU9Cb1pXdERFZnhxZnU?oc=5",
+      "published": "2026-10-23",
+      "source": "Oil & Gas 360",
       "topic": "vaca_muerta_oil",
       "entities": [
         "Chevron"
