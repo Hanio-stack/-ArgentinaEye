@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-01T00:06:58.695263Z",
+  "generated_at": "2026-11-02T00:44:16.852467Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -32,7 +32,7 @@
   "today": [
     {
       "title": "RIGI approved investment",
-      "detail": "China’s Argentina mining footprint smaller than it looks - Mining.com",
+      "detail": "Argentina LNG applies for RIGI approval - LNG Industry",
       "signal": "positive"
     },
     {
@@ -212,10 +212,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "China’s Argentina mining footprint smaller than it looks - Mining.com",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmVZRVh6UFF4dWZ6TnBMNFZ4eUN3ZUpwdnBnNXJUcUZrdWhNLXdOZGtLS3lqMllwME1DU2RJVVItZDB1bnVLOGxQM292My1IMEZEQjZKOVltWURtQ01Xb2xXTmFlWFJTd2ZnZGc5bmJqQVExNXFCZktkMV8xUkpxMGtSN3Fjdw?oc=5",
-        "published": "2026-10-25",
-        "source": "Mining.com",
+        "title": "Argentina LNG applies for RIGI approval - LNG Industry",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRWpiMEk3VGVyVzR3X2ZxRV9fXzhTRG0yWTZNeUJ6TzVzRm94NzJaUG1UWm1lekFhb1Vtb0p3TUE0WGZVdlNIZnEyTF9wd3Z4RUhrUHUzVzVfREQySllRX1N1R2lhblVLOWkxQ3NOX19vSUFmcHFTcEdvaHZGcGM0ZmpDMW9pMUxHc3V6NnhkS1pZR1A1?oc=5",
+        "published": "2026-08-14",
+        "source": "LNG Industry",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -248,9 +248,19 @@
   ],
   "news": [
     {
+      "title": "YPF Files $8.7 Billion RIGI Application for Bajo del Toro, Targeting 80,000 bbl/d in Northern Vaca Muerta - Shale24",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTVRqWUhzQWNTZnA3dmdkM0UwZkQ2aTZ4WlNfSFNVM3A5dzFBVmFkMkQxR1d1dW5iQ0R0S0thcUxUN2dEQS1oM25zQVVGemxrMm9yd0hWV040TXh0TmxMMFNPQWVaSzJSc2xrVk1DQWwzMXdVbTJ4UHlmUzBEOWl5LTU1eXI1aUZpY29LZzlFaWRIMTVmWFEyTHhReDIxemNIaURPWXVMWWRPcnozX1lNVmlMRUxVc3NzYTMxMmFMYkdvS2MyV25IRmtyY0NMVVlobUHSAdcBQVVfeXFMTi1ZaGZrU19GVzB3NTFSb2dUWTdmQllyMEZqU0RyLWxWbHFCbC1vSXFxYVZrX3NST3BHT09hb2NBd0tZd21xMy13cV9JN1ljOVE0Z2w2YThBbE5DaU0tb1Q0Tmtscm1MaXNKVU9iR0dHSGtjV0xGSTUzQnJZUHc3SVVaSGhDSnoyOFNlWGJDWTk3RVQ2MVRwWWxuNGp1LUJnWVdCXzJmOFZZYWM4STc3UV9DcGFONVN5bXFRN0F2c3ZnNlZUeUVfQ0pPV2dlZVR4RWRlUkpfSGc?oc=5",
+      "published": "2026-11-01",
+      "source": "Shale24",
+      "topic": "company_news",
+      "entities": [
+        "VIST"
+      ]
+    },
+    {
       "title": "Hamm’s Continental to Buy 50% of Mercuria Argentina Oil Firm - EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHZsTmtUc0RFWmtWN25iX1M5MU5yWjRMa2N3QThQdWFQLVZ5dXBpemZFYVFrcFAySnNNZGJ3Nk0wZm5RbHJiQUN3dmNHOHRMUHBmZ045dzFZaTJLcUdrU3lGQmdFUWVFaHVyeWpqZjQwVlhRQzhMRkJEc21iSGNtSVFMS0JoY3BFakdnUWJpSFRkUlU?oc=5",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "source": "EnergyNow.com",
       "topic": "company_news",
       "entities": [
@@ -260,7 +270,7 @@
     {
       "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "source": "EnergyNow.com",
       "topic": "company_news",
       "entities": [
@@ -298,20 +308,10 @@
       ]
     },
     {
-      "title": "Chevron targets Argentina shale growth as Vaca Muerta competes for global investment - Oil & Gas 360",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR05LRnROZThhMVBFcS14RXBOSDVjdmNYYmVCdU85UjNrSXJxMGo4YWNZaURhbkhDQXR5Y2ZscmhxVUluOUdqVXlHM1YyU2libWkzaXR1U2ROWjdSazJneUJFbS1qVEEwMm14RzNCV0NzSGpKSFdOMkhqdHBCYVVWVjQ4bG9nMmZKYU1Bbk1CVE5qY2o4X1pubmZqT1pRTFRNbEI1SWNacU9Cb1pXdERFZnhxZnU?oc=5",
-      "published": "2026-10-23",
-      "source": "Oil & Gas 360",
-      "topic": "vaca_muerta_oil",
-      "entities": [
-        "Chevron"
-      ]
-    },
-    {
-      "title": "10/14/2026 ValuEngine Energy Sector Analysis - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeC0yWF9LNk1iZGR4S0hodmJWQ2EwZVRwQV9ZUGZuQ0ZFNVZqSGpJdFRPRF9Tb0xTRHRERkZuUFI5d1hvMmRfT1VzbXRJV0ZMazlDQUlWSDUzQnNOX0NPNGJXTlV6Qk14bS1QS056SXBoWTU0eUdHQXp0VXA2cHNNWTlxaVpsMnNFdWEyMXYwU2VTLWVTU0VBdVA4eGtBMVdISkk5RU44clNNcWlJeFVuek94TkJyeHpjWVk0eGZJemRQOU55?oc=5",
-      "published": "2026-10-14",
-      "source": "The Globe and Mail",
+      "title": "Neuquén names winners in Vaca Muerta oil and gas licensing round - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdlJSdklUeHFBQ0NTRkZtTWprcmZ5ZWN2VkYwYUJCRFJRUFZFc0s5cUtaRGZFdjJKS1VzQVpZX2dJUm1WalhlSjJhSGFjZGZDSDczTi1Vd0xmeWwyeFpjRm5GMzhvaUF6SjY2Mkt4OHlhbXJCS3lSLTktN1FNSXNIRE5nSEM5R0x2T1V6d3pLYmNpV090dldxY0xKUElOTXRx?oc=5",
+      "published": "2026-10-21",
+      "source": "BNamericas",
       "topic": "company_news",
       "entities": [
         "TGS"
@@ -324,7 +324,7 @@
       "source": "Shale24",
       "topic": "company_news",
       "entities": [
-        "VIST"
+        "TGS"
       ]
     },
     {
@@ -348,6 +348,16 @@
       ]
     },
     {
+      "title": "Neuquen Ratifies $177.6 Million Road Deal With 15 Vaca Muerta Operators - Shale24",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnMtcDBSTXJ3SUowNkpxcTBGUmtOSkhMOEppLWhBMlpqdzVUbWFhZVZqa3htZDMzQ0w2M2ROOGdNZWlMUG8tMjNIRDZTYm9SM1BLOG5KZGJ0dGE3X0gyMHdCUlZYV1VWdDlCUG5oVm5tOWtZbno0MENfYnpOZEMta1Y4TkVQYkhYM2hQSEVKbGhTdmQ5eHF6UmhiaFhGNXpfTmpNc0E5X2dCRFpxWTZ0cDNYdVLSAboBQVVfeXFMUHJDanIzX25JcXdpLUFIMVc4c2RwbmJUT3h1VC1qT0FtRUhoZ2pqZTZKQmpMQl9OdTZqLXJtMElLWWc1dzloMGg1UExJekRYR1VZRVlqeUszSHhRcUpBbkZ6OU9yQmc3OXc1MGVGaVFKWGZ0aVNhUldpN3dGSk5fakZfSFFKWEc2Mk02Q1JtVDlRLXFaeE9hNE1HR1RkOWxqVHNHUm1Hc0pFcVJmWjkzNTJuaEN0WUdtcjhB?oc=5",
+      "published": "2026-10-09",
+      "source": "Shale24",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
+      ]
+    },
+    {
       "title": "Central Puerto S.A: 'Powering Up' The NAV/SOTP (NYSE:CEPU) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdllyQlljS2hWTVBhUnM1OHNueVlsTGRNSXZsS3M5cDd0ZkZiY2dzZ0Y0S2V6bmdJYWp0dERPc2wzZlRKUlVxVzZocWFmUExZUEgzWWk0VWl5cWJnYzJPVjBhVUw1R1ZXWWo5VXJ6U2VoTEd1cmFvbktsOHdWVExzRkVRTnp5dkNpclE?oc=5",
       "published": "2026-10-06",
@@ -355,16 +365,6 @@
       "topic": "company_news",
       "entities": [
         "CEPU"
-      ]
-    },
-    {
-      "title": "Pampa Energía Offers 800 MW to Power a Vaca Muerta Data Center - Shale24",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVTMtRENodEdpUWNxU1RGTDczQkE3aFV1LU5YLU8tdDFQZU5aOEItS1dMWWRGamVPOW5oOFRjcDlsckxaTGV1NmMwVFJMVHFneUpQUl9LbzFLR25EamYtbDltc3AzSXN6NHI3cGZranFjWkc0NTVuWDlRWEZjS0VFTXpHbXVMelgxaHY0QjNwRHhvOWtpQXJRSWpzMWtKQ2lvT2hYdFdYUDXSAa4BQVVfeXFMTXZ2Y0RlSWszdG8ySWNqak5rWWZINUozUkI3NjJYdVFOM2xtQzQtbWhkdkU5Y1V2SmtXdjVEdXBUcEEzZm1MRFBKUlM5LXR6MlBOOVg4LU9CZTROQ2ttdHFnbmgwSXBMZzJzdjZoc3ZRQTJwWkx4YlZaMzFKaWZ2eTVwYzVlVVBtSzI1czItc29sMVhKckMyRk9CLUpYTF93Q1VkZjFxNFVJeFF1bjFn?oc=5",
-      "published": "2026-10-02",
-      "source": "Shale24",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
       ]
     },
     {
