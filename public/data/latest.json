@@ -1,38 +1,43 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-02T00:44:16.852467Z",
+  "generated_at": "2026-11-03T02:54:33.066930Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
-      "score": 72.0,
+      "score": 69.8,
       "confidence": 1.0
     },
     "vist": {
       "label": "VIST",
-      "score": 76.5,
+      "score": 76.0,
       "confidence": 1.0
     },
     "cepu": {
       "label": "CEPU",
-      "score": 63.6,
+      "score": 63.2,
       "confidence": 1.0
     },
     "pam": {
       "label": "PAM",
-      "score": 73.8,
+      "score": 73.2,
       "confidence": 1.0
     },
     "tgs": {
       "label": "TGS",
-      "score": 79.7,
+      "score": 79.2,
       "confidence": 1.0
     }
   },
   "today": [
     {
-      "title": "RIGI approved investment",
-      "detail": "Argentina LNG applies for RIGI approval - LNG Industry",
+      "title": "BCRA reserves",
+      "detail": "Official BCRA international reserves.",
+      "signal": "neutral"
+    },
+    {
+      "title": "Primary fiscal balance",
+      "detail": "Rethinking political risk in Argentina: Why the next election may matter less than investors think - Atlantic Council",
       "signal": "positive"
     },
     {
@@ -97,13 +102,13 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 50.6,
+      "value": 50.16,
       "unit": "USD bn",
-      "period": "2026-10-28",
-      "previous": 49.95,
-      "change": 1.3,
+      "period": "2026-10-29",
+      "previous": 50.0,
+      "change": 0.32,
       "change_unit": "% ~30d",
-      "thesis_signal": "positive",
+      "thesis_signal": "neutral",
       "status": "fresh",
       "detail": "Official BCRA international reserves.",
       "source": {
@@ -111,7 +116,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        50.0,
         49.79,
         49.8,
         49.7,
@@ -140,7 +144,8 @@
         50.21,
         50.48,
         50.58,
-        50.6
+        50.6,
+        50.16
       ]
     },
     {
@@ -160,10 +165,10 @@
         "url": "https://www.argentina.gob.ar/economia/politicafiscal"
       },
       "latest_event": {
-        "title": "Radical economic policies in Argentina offer lessons – but not a blueprint – for South Africa - The Conversation",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGstTVlsSDJqenN4VEJwQ2V1REdKaUp5aXlaVzJMTTE3TXN0TGc0d0pkbE9CM3JUV3gyU2F4V2xaVWFKVTlJcDBLWGdFaTRWeVhjTXE3WVJKMzJwLUhjbW14VjlkUG9BY1UwSTJGN1MwNi1iSjhfSEZtMUhReU8tNjZVTHlkU2ZNWmVQd0EzaF9fMWxhMHNtbHdDZkRVUG5HWkRpMm9QQUd6c3JQT2VWekphM3d5OU5CNy1UekJWNldTdw?oc=5",
-        "published": "2026-10-12",
-        "source": "The Conversation",
+        "title": "Rethinking political risk in Argentina: Why the next election may matter less than investors think - Atlantic Council",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNHpveHVmMGV1dVhEbjdZR0FTeXoxdGRQWC1aelo3aFpTLS1DX0lhVzJuV2lmSVNZRC1INWNWZVUzQVo2QmdUUXZWQUdsQXdRbUt3Q0dWR0Q3b0NCRHk1S2R5SWQzeElBT3A5OXFGLXFsbGp1WF9FQWxOVGkzbzVwOUFsRXFPRVZpYkRqQk9VekRQaWJNc3FtMjFRMmh5aEhZWFJnUTdVNXU1Yi1Zc2NSbV9YeWZGQXpERHNDXzZ6RnRFczRaN3RLckxpZWtCMER5SXp4MjBlb2g?oc=5",
+        "published": "2026-10-29",
+        "source": "Atlantic Council",
         "topic": "fiscal_balance",
         "entities": []
       }
@@ -248,19 +253,9 @@
   ],
   "news": [
     {
-      "title": "YPF Files $8.7 Billion RIGI Application for Bajo del Toro, Targeting 80,000 bbl/d in Northern Vaca Muerta - Shale24",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTVRqWUhzQWNTZnA3dmdkM0UwZkQ2aTZ4WlNfSFNVM3A5dzFBVmFkMkQxR1d1dW5iQ0R0S0thcUxUN2dEQS1oM25zQVVGemxrMm9yd0hWV040TXh0TmxMMFNPQWVaSzJSc2xrVk1DQWwzMXdVbTJ4UHlmUzBEOWl5LTU1eXI1aUZpY29LZzlFaWRIMTVmWFEyTHhReDIxemNIaURPWXVMWWRPcnozX1lNVmlMRUxVc3NzYTMxMmFMYkdvS2MyV25IRmtyY0NMVVlobUHSAdcBQVVfeXFMTi1ZaGZrU19GVzB3NTFSb2dUWTdmQllyMEZqU0RyLWxWbHFCbC1vSXFxYVZrX3NST3BHT09hb2NBd0tZd21xMy13cV9JN1ljOVE0Z2w2YThBbE5DaU0tb1Q0Tmtscm1MaXNKVU9iR0dHSGtjV0xGSTUzQnJZUHc3SVVaSGhDSnoyOFNlWGJDWTk3RVQ2MVRwWWxuNGp1LUJnWVdCXzJmOFZZYWM4STc3UV9DcGFONVN5bXFRN0F2c3ZnNlZUeUVfQ0pPV2dlZVR4RWRlUkpfSGc?oc=5",
-      "published": "2026-11-01",
-      "source": "Shale24",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
       "title": "Hamm’s Continental to Buy 50% of Mercuria Argentina Oil Firm - EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHZsTmtUc0RFWmtWN25iX1M5MU5yWjRMa2N3QThQdWFQLVZ5dXBpemZFYVFrcFAySnNNZGJ3Nk0wZm5RbHJiQUN3dmNHOHRMUHBmZ045dzFZaTJLcUdrU3lGQmdFUWVFaHVyeWpqZjQwVlhRQzhMRkJEc21iSGNtSVFMS0JoY3BFakdnUWJpSFRkUlU?oc=5",
-      "published": "2026-10-31",
+      "published": "2026-11-02",
       "source": "EnergyNow.com",
       "topic": "company_news",
       "entities": [
@@ -270,11 +265,31 @@
     {
       "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
-      "published": "2026-10-31",
+      "published": "2026-11-02",
       "source": "EnergyNow.com",
       "topic": "company_news",
       "entities": [
         "PAM"
+      ]
+    },
+    {
+      "title": "TGS: liquids now generate the same operating income as gas transportation, and the company nearly tripled the funds it allocates to investment - Shale24",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOT3JWSXhEY3RmbHI4WkhKVnFkWE54dkFzNURNT1BPb2JNamxoX3FKOTdjN3ljQmFqcC00UjE2VWpVelNuQVMwY2pkdEQ1YzZKRzBQSmhLazgxd3BaSTI1M1BLQUg4LTJVZFBaZThtZEtQRDBkZmlCbngzOUNLLUZuQ0d4QXlpUkFZRGNPOVJOV2JJQnRtNTlWSEhQbjFEbHRmSDZoUEgxUkFDQkt6RW1rUFpybXBFRjR0X21oeHdfclF3UG5UaFdWM3JsTUllcmRDTEd5cm1PMnpMYlpTME5iVU1DNjQ0YkpWSnI0LXlZUkVDNE1vUW96dHJpSGNnU2xXV004RURzUnZNSmPSAZACQVVfeXFMTzhkVDFKcEk2d013Q18zMi00ckdNTVBGTE9JOHFMZ2pndTMwSVk2SE80ZEU1eTZ5MW5RQjRnQl9ONkRfdnBWdVFJQlY3X3BZbWZPX1IwNVRDRnQxVmxaN0ZaZU1OZlkyOEVJeEVlUk1jMFl2MlpyUWRRQjdHNE1kZ2JET3Fqbk5oQkVlMTk0VXJISmxlSi1FdGJuM2xwVkdmcW40MFFtY2ZOT25aT3loS3V0Zkl5OGdseWJ3dkprcGZJN0Mtb3lZWV9TTGJhbTkzMXJMMGZoVFlVV1RCWEstSi1wX3NVZ05TWWNUcGstSlJhVXNIdEQ2RnFwZ0kzNTlzOGU1TFhNZVJFM0lXanZqWXE?oc=5",
+      "published": "2026-11-02",
+      "source": "Shale24",
+      "topic": "company_news",
+      "entities": [
+        "TGS"
+      ]
+    },
+    {
+      "title": "YPF Files $8.7 Billion RIGI Application for Bajo del Toro, Targeting 80,000 bbl/d in Northern Vaca Muerta - Shale24",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTVRqWUhzQWNTZnA3dmdkM0UwZkQ2aTZ4WlNfSFNVM3A5dzFBVmFkMkQxR1d1dW5iQ0R0S0thcUxUN2dEQS1oM25zQVVGemxrMm9yd0hWV040TXh0TmxMMFNPQWVaSzJSc2xrVk1DQWwzMXdVbTJ4UHlmUzBEOWl5LTU1eXI1aUZpY29LZzlFaWRIMTVmWFEyTHhReDIxemNIaURPWXVMWWRPcnozX1lNVmlMRUxVc3NzYTMxMmFMYkdvS2MyV25IRmtyY0NMVVlobUHSAdcBQVVfeXFMTi1ZaGZrU19GVzB3NTFSb2dUWTdmQllyMEZqU0RyLWxWbHFCbC1vSXFxYVZrX3NST3BHT09hb2NBd0tZd21xMy13cV9JN1ljOVE0Z2w2YThBbE5DaU0tb1Q0Tmtscm1MaXNKVU9iR0dHSGtjV0xGSTUzQnJZUHc3SVVaSGhDSnoyOFNlWGJDWTk3RVQ2MVRwWWxuNGp1LUJnWVdCXzJmOFZZYWM4STc3UV9DcGFONVN5bXFRN0F2c3ZnNlZUeUVfQ0pPV2dlZVR4RWRlUkpfSGc?oc=5",
+      "published": "2026-11-01",
+      "source": "Shale24",
+      "topic": "company_news",
+      "entities": [
+        "VIST"
       ]
     },
     {
@@ -308,20 +323,20 @@
       ]
     },
     {
-      "title": "Neuquén names winners in Vaca Muerta oil and gas licensing round - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdlJSdklUeHFBQ0NTRkZtTWprcmZ5ZWN2VkYwYUJCRFJRUFZFc0s5cUtaRGZFdjJKS1VzQVpZX2dJUm1WalhlSjJhSGFjZGZDSDczTi1Vd0xmeWwyeFpjRm5GMzhvaUF6SjY2Mkt4OHlhbXJCS3lSLTktN1FNSXNIRE5nSEM5R0x2T1V6d3pLYmNpV090dldxY0xKUElOTXRx?oc=5",
-      "published": "2026-10-21",
-      "source": "BNamericas",
-      "topic": "company_news",
+      "title": "Chevron targets Argentina shale growth as Vaca Muerta competes for global investment - Oil & Gas 360",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR05LRnROZThhMVBFcS14RXBOSDVjdmNYYmVCdU85UjNrSXJxMGo4YWNZaURhbkhDQXR5Y2ZscmhxVUluOUdqVXlHM1YyU2libWkzaXR1U2ROWjdSazJneUJFbS1qVEEwMm14RzNCV0NzSGpKSFdOMkhqdHBCYVVWVjQ4bG9nMmZKYU1Bbk1CVE5qY2o4X1pubmZqT1pRTFRNbEI1SWNacU9Cb1pXdERFZnhxZnU?oc=5",
+      "published": "2026-10-23",
+      "source": "Oil & Gas 360",
+      "topic": "vaca_muerta_oil",
       "entities": [
-        "TGS"
+        "Chevron"
       ]
     },
     {
-      "title": "U.S. Signals Argentina Financing Could Exceed EXIM's $7 Billion Ceiling - Shale24",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3FrVTUwTzVPdTVJcUFsNFZkNUFmNFUtR2JCQkh0ZTdlYTJVLUwwaE90QUxDRVpBQ3RuNTZhTUd1OHJFbDRDeEEzMHFjaEx5N2Rsa3BIdW1mUHBqeVVqN2NHaVdNa2N1N2U1ZFZzbUZ2U29jVWUyVnVoemllSi1VajFwSXBrb2tndjVKM0VNa1UyNHEwVHR4Q0F0TF80T0VuRWdCcGZXb2xzTVVwa1B0NE9R0gG3AUFVX3lxTE9iVy01UWtaSVVPOGJZN0ZCYjBuOGtkZ2d1ZE1xdjZ4LUY2OWt5ZE1XaG1Yb0JjYnctZzVjdTgxYldER3BmeXMtNG4xWTl0LVNmZmlCaHItLU9HY3pLci0zRDlMZkFjRDM5WGc4ZUtoaXBnZUNhQk16UjlzdXlwb1ZaWDd2Wk1uVVdJUGQxSTJBY0p3V1AtcHoxYUZyU2JrRXJNcGVTNXZlLWptOWprdGFYa3N0bFh6Zw?oc=5",
-      "published": "2026-10-13",
-      "source": "Shale24",
+      "title": "10/14/2026 ValuEngine Energy Sector Analysis - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeC0yWF9LNk1iZGR4S0hodmJWQ2EwZVRwQV9ZUGZuQ0ZFNVZqSGpJdFRPRF9Tb0xTRHRERkZuUFI5d1hvMmRfT1VzbXRJV0ZMazlDQUlWSDUzQnNOX0NPNGJXTlV6Qk14bS1QS056SXBoWTU0eUdHQXp0VXA2cHNNWTlxaVpsMnNFdWEyMXYwU2VTLWVTU0VBdVA4eGtBMVdISkk5RU44clNNcWlJeFVuek94TkJyeHpjWVk0eGZJemRQOU55?oc=5",
+      "published": "2026-10-14",
+      "source": "The Globe and Mail",
       "topic": "company_news",
       "entities": [
         "TGS"
@@ -387,10 +402,10 @@
       "entities": []
     },
     {
-      "title": "Hamm’s Continental to Buy 50% of Mercuria Argentina Oil Firm - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzdTWHZKWVFiRFNfWjZwb25rTzBjeHAtTTJ6cDQ3cXZvN2NOcXNId2psY0FxVWZKY0YybVlfbjJCbkJlYVhrMlBhV281TG1hZkZtMVduOGVRdGZEdkgzRDNvZDlTVFJTeVVCNm45VThWQWpyeHRMZjRrNVNvb2szLWE4c1VlMklFUlVsMklaWER2X01aMDZKeU90Z2k3ZEVpSG1iZmF3UXJWWXh4V1RSMlpB?oc=5",
+      "title": "Continental to Buy 50 Pct of Mercuria Argentina Oil Firm - Rigzone",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzVsSlhGNEJBZ2ZSanlxbHIwVDR6dEJqdEhJam1zMDBSdWRIQ2xQWGNqcV90VWszTFlSbF9udHVlUWxXWnFvZVdnSlpwYVFRVm1yVnRnTWFRSm1KaTliNk05WndVQVA2WWVuZk1TMTVpb3k0TnpMRDd2UGVqLXJYLXdmQlVmY0xuVEZjMkNjU2JBVnRsQk5EaktDNzRKbGcwR1QyZkQxSGlwUVJqM3k0blRCWEhVWmNlakE?oc=5",
       "published": "2026-08-20",
-      "source": "Bloomberg.com",
+      "source": "Rigzone",
       "topic": "big_money",
       "entities": [
         "Mercuria"
