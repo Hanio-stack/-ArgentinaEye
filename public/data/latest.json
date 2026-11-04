@@ -1,31 +1,31 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-03T02:54:33.066930Z",
+  "generated_at": "2026-11-04T01:20:23.203886Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
-      "score": 69.8,
+      "score": 66.8,
       "confidence": 1.0
     },
     "vist": {
       "label": "VIST",
-      "score": 76.0,
+      "score": 75.2,
       "confidence": 1.0
     },
     "cepu": {
       "label": "CEPU",
-      "score": 63.2,
+      "score": 62.6,
       "confidence": 1.0
     },
     "pam": {
       "label": "PAM",
-      "score": 73.2,
+      "score": 72.5,
       "confidence": 1.0
     },
     "tgs": {
       "label": "TGS",
-      "score": 79.2,
+      "score": 78.6,
       "confidence": 1.0
     }
   },
@@ -33,16 +33,16 @@
     {
       "title": "BCRA reserves",
       "detail": "Official BCRA international reserves.",
-      "signal": "neutral"
+      "signal": "negative"
     },
     {
-      "title": "Primary fiscal balance",
-      "detail": "Rethinking political risk in Argentina: Why the next election may matter less than investors think - Atlantic Council",
+      "title": "Vaca Muerta oil",
+      "detail": "Argentina's Oil Production Soars as Vaca Muerta Breaks New Records - Crude Oil Prices Today | OilPrice.com",
       "signal": "positive"
     },
     {
       "title": "Big Money",
-      "detail": "EXCLUSIVE: Chevron uses Permian playbook to breathe life into Argentina’s ‘Dead Cow’ oil region - Reuters",
+      "detail": "Continental Resources acquires 50% stake in Mercuria's Argentine shale oil firm Phoenix Global Resources in $4 billion-plus deal - Energies Media",
       "signal": "positive"
     }
   ],
@@ -102,13 +102,13 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 50.16,
+      "value": 48.56,
       "unit": "USD bn",
-      "period": "2026-10-29",
-      "previous": 50.0,
-      "change": 0.32,
+      "period": "2026-10-30",
+      "previous": 49.79,
+      "change": -2.45,
       "change_unit": "% ~30d",
-      "thesis_signal": "neutral",
+      "thesis_signal": "negative",
       "status": "fresh",
       "detail": "Official BCRA international reserves.",
       "source": {
@@ -116,7 +116,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        49.79,
         49.8,
         49.7,
         49.41,
@@ -145,7 +144,8 @@
         50.48,
         50.58,
         50.6,
-        50.16
+        50.16,
+        48.56
       ]
     },
     {
@@ -191,10 +191,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "Vista Energy says launch of US$5.8bn RIGI Vaca Muerta oil project possible in 2027 - BNamericas",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYWgwSGtBUkkzYTRQeFJScjVpQXlaamhGZk1jd2swQURacjU4RmhxOVQ1aExpWktpUmR4UjdCQ3ByVkxsWUNTdFNuRHVMa2lhUDdSNUxiNG1vUHNpcTRHQjZ6Q2gtX2hfTmY0cTRMeXRZMUNWNk1MRVo1MXVEXzJEeEpGZllveW9EdklOaVNBYjUtMVhYZUctQndQN2U4Mlh1REhZcVJBQjE3bDJBLUFuYWRIaDdvZw?oc=5",
-        "published": "2026-10-29",
-        "source": "BNamericas",
+        "title": "Argentina's Oil Production Soars as Vaca Muerta Breaks New Records - Crude Oil Prices Today | OilPrice.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0docWpQVUw2ajU2MTJ5eXhKVnJwcU94SGJUOWJHWGQycGxwZVVZOW5Rc1MzWUYycUh3Yk82UkpTdTM3SE80ZzZjUlo1RlUzTGxmWVZNZlBDMnFJU1pRdU5KQmp6Y2V1Wm41eXpoNXF6UWY1V3o1cFB1OGJMNUNtVkNiclYtOXc5UXR5d3VQZl8xSTNtV2RIWU0xRy1Yb2JFN1JEUTJ4NXFYMk1CRkNudmlfRdIBuAFBVV95cUxOV19oeGNJQUVTSEpna1ZfeGp0NGhrTG1ldW9uSlFfZmZwS1pzNVJ2SlFvNnV1dTRpVVlLNldiU1VicVpGSFJUalp3aVg0cFdRVzhzMl9DbTNneVhkX191RGRCbklod0pVMFdZcEpxMHpDNUZlRXk3aEY4US1GdmdQN3plRWlzYjVhNUU3MWJmVkw0M2gtc1NlV3FyRVJ4OFBUQV9ybkx0R0I2VmNONFZtNkRUbW9HQmN4?oc=5",
+        "published": "2026-07-26",
+        "source": "Crude Oil Prices Today | OilPrice.com",
         "topic": "vaca_muerta_oil",
         "entities": []
       }
@@ -253,6 +253,16 @@
   ],
   "news": [
     {
+      "title": "TGS Plans $100M Expansion Project to Boost Argentina’s Perito Moreno Gas Pipeline Capacity - Pipeline Technology Journal",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeGpZejk2dkE5dG1GbGhkMHRnRVJHMDBXTUpKSHNxb0VYeEViNkRKdEI2dVZBUHRSZnhKWDQ5eDd5Mko3OGdBNWFJQXBHcU5VSUhqWS1NWjdWRmN0TWdXVE1TeWkyamxCdTFBdjNlWE5hVDR5NU41dDFBYTRfbXYxWkdtNHBIR2lUMGhDM3VfR19HeGJzTlB5TUhlOVBadUpaQ1NGXzVRTFpIMks5UFFfMTZMYW5jWU1mRHJDR0xDQ3M?oc=5",
+      "published": "2026-11-03",
+      "source": "Pipeline Technology Journal",
+      "topic": "company_news",
+      "entities": [
+        "TGS"
+      ]
+    },
+    {
       "title": "Hamm’s Continental to Buy 50% of Mercuria Argentina Oil Firm - EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHZsTmtUc0RFWmtWN25iX1M5MU5yWjRMa2N3QThQdWFQLVZ5dXBpemZFYVFrcFAySnNNZGJ3Nk0wZm5RbHJiQUN3dmNHOHRMUHBmZ045dzFZaTJLcUdrU3lGQmdFUWVFaHVyeWpqZjQwVlhRQzhMRkJEc21iSGNtSVFMS0JoY3BFakdnUWJpSFRkUlU?oc=5",
       "published": "2026-11-02",
@@ -260,16 +270,6 @@
       "topic": "company_news",
       "entities": [
         "VIST"
-      ]
-    },
-    {
-      "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
-      "published": "2026-11-02",
-      "source": "EnergyNow.com",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
       ]
     },
     {
@@ -313,33 +313,23 @@
       ]
     },
     {
-      "title": "EXCLUSIVE: Chevron uses Permian playbook to breathe life into Argentina’s ‘Dead Cow’ oil region - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNExqRXFMam8wTEFHalRwVDJneUltbGcxRnpHdUp5QkhLVzBqTjdlWmRaeG0xY3ZTSlRxanBEOU9JZHRyNi04ZTVlZHE0V1BBU2l0NDJESVRFazNxdXlwV2xwVzY2WklGTDV0NEdfcFVBMzFYMTFqSnJhWDhOR0pWSFptNGEzNTI0aW1mbkpKTzQtUURKck96RXBTV2JEUzVqeUI4QTJDdllDc1ZfUFBpUk54RldTUmd3Y25feF9xUDRKVFo2Z29sTWpn?oc=5",
-      "published": "2026-10-23",
-      "source": "Reuters",
-      "topic": "vaca_muerta_oil",
-      "entities": [
-        "Chevron"
-      ]
-    },
-    {
-      "title": "Chevron targets Argentina shale growth as Vaca Muerta competes for global investment - Oil & Gas 360",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR05LRnROZThhMVBFcS14RXBOSDVjdmNYYmVCdU85UjNrSXJxMGo4YWNZaURhbkhDQXR5Y2ZscmhxVUluOUdqVXlHM1YyU2libWkzaXR1U2ROWjdSazJneUJFbS1qVEEwMm14RzNCV0NzSGpKSFdOMkhqdHBCYVVWVjQ4bG9nMmZKYU1Bbk1CVE5qY2o4X1pubmZqT1pRTFRNbEI1SWNacU9Cb1pXdERFZnhxZnU?oc=5",
-      "published": "2026-10-23",
-      "source": "Oil & Gas 360",
-      "topic": "vaca_muerta_oil",
-      "entities": [
-        "Chevron"
-      ]
-    },
-    {
-      "title": "10/14/2026 ValuEngine Energy Sector Analysis - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeC0yWF9LNk1iZGR4S0hodmJWQ2EwZVRwQV9ZUGZuQ0ZFNVZqSGpJdFRPRF9Tb0xTRHRERkZuUFI5d1hvMmRfT1VzbXRJV0ZMazlDQUlWSDUzQnNOX0NPNGJXTlV6Qk14bS1QS056SXBoWTU0eUdHQXp0VXA2cHNNWTlxaVpsMnNFdWEyMXYwU2VTLWVTU0VBdVA4eGtBMVdISkk5RU44clNNcWlJeFVuek94TkJyeHpjWVk0eGZJemRQOU55?oc=5",
-      "published": "2026-10-14",
-      "source": "The Globe and Mail",
+      "title": "What Pampa Energía Doubters Overlooked - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGJIVVo2Rmx1THR2T1d0eUFmN00tVkdZRTY0QU1zMnFLMXNrQlhqbHpFNEVCNXROSVRvNmtULThraGp0ZFhfQVNDUUk0a056YmgwRUdia1Z6Q3NUMWF5SlNrOFRmdWduY1EyTDNUTHhOdHZJdlFmN0Z5TEVPZ2lmY0VFWkExemxUOXh2NzlZQnZpQQ?oc=5",
+      "published": "2026-10-19",
+      "source": "Yahoo Finance",
       "topic": "company_news",
       "entities": [
-        "TGS"
+        "PAM"
+      ]
+    },
+    {
+      "title": "U.S. Signals Argentina Financing Could Exceed EXIM's $7 Billion Ceiling - Shale24",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3FrVTUwTzVPdTVJcUFsNFZkNUFmNFUtR2JCQkh0ZTdlYTJVLUwwaE90QUxDRVpBQ3RuNTZhTUd1OHJFbDRDeEEzMHFjaEx5N2Rsa3BIdW1mUHBqeVVqN2NHaVdNa2N1N2U1ZFZzbUZ2U29jVWUyVnVoemllSi1VajFwSXBrb2tndjVKM0VNa1UyNHEwVHR4Q0F0TF80T0VuRWdCcGZXb2xzTVVwa1B0NE9R0gG3AUFVX3lxTE9iVy01UWtaSVVPOGJZN0ZCYjBuOGtkZ2d1ZE1xdjZ4LUY2OWt5ZE1XaG1Yb0JjYnctZzVjdTgxYldER3BmeXMtNG4xWTl0LVNmZmlCaHItLU9HY3pLci0zRDlMZkFjRDM5WGc4ZUtoaXBnZUNhQk16UjlzdXlwb1ZaWDd2Wk1uVVdJUGQxSTJBY0p3V1AtcHoxYUZyU2JrRXJNcGVTNXZlLWptOWprdGFYa3N0bFh6Zw?oc=5",
+      "published": "2026-10-13",
+      "source": "Shale24",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
       ]
     },
     {
@@ -357,16 +347,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcjc1MXQ5Ym9yLVZCWDl1b0tuLW5VbVlob2FPTFBQU25WZjNXTklsYzNYMEFJMGtqR3Q1a19KYnp0anBPbFZBUTl3ektqQ0V4Q1ZsdVRyUmJ5Qm9oVmUtckUwODhjNEVWZ0NILXd0WXBOc3Q5RjFJWkxuaUtVTktELVJtT2JWZF9vdGZUNHR2cHFSQnRSaFVBYw?oc=5",
       "published": "2026-10-10",
       "source": "Seeking Alpha",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
-      "title": "Neuquen Ratifies $177.6 Million Road Deal With 15 Vaca Muerta Operators - Shale24",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnMtcDBSTXJ3SUowNkpxcTBGUmtOSkhMOEppLWhBMlpqdzVUbWFhZVZqa3htZDMzQ0w2M2ROOGdNZWlMUG8tMjNIRDZTYm9SM1BLOG5KZGJ0dGE3X0gyMHdCUlZYV1VWdDlCUG5oVm5tOWtZbno0MENfYnpOZEMta1Y4TkVQYkhYM2hQSEVKbGhTdmQ5eHF6UmhiaFhGNXpfTmpNc0E5X2dCRFpxWTZ0cDNYdVLSAboBQVVfeXFMUHJDanIzX25JcXdpLUFIMVc4c2RwbmJUT3h1VC1qT0FtRUhoZ2pqZTZKQmpMQl9OdTZqLXJtMElLWWc1dzloMGg1UExJekRYR1VZRVlqeUszSHhRcUpBbkZ6OU9yQmc3OXc1MGVGaVFKWGZ0aVNhUldpN3dGSk5fakZfSFFKWEc2Mk02Q1JtVDlRLXFaeE9hNE1HR1RkOWxqVHNHUm1Hc0pFcVJmWjkzNTJuaEN0WUdtcjhB?oc=5",
-      "published": "2026-10-09",
-      "source": "Shale24",
       "topic": "company_news",
       "entities": [
         "PAM"
