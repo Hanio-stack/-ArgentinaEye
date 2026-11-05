@@ -1,43 +1,48 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-04T01:20:23.203886Z",
+  "generated_at": "2026-11-05T01:27:25.490794Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
-      "score": 66.8,
+      "score": 72.0,
       "confidence": 1.0
     },
     "vist": {
       "label": "VIST",
-      "score": 75.2,
+      "score": 76.5,
       "confidence": 1.0
     },
     "cepu": {
       "label": "CEPU",
-      "score": 62.6,
+      "score": 63.6,
       "confidence": 1.0
     },
     "pam": {
       "label": "PAM",
-      "score": 72.5,
+      "score": 73.8,
       "confidence": 1.0
     },
     "tgs": {
       "label": "TGS",
-      "score": 78.6,
+      "score": 79.7,
       "confidence": 1.0
     }
   },
   "today": [
     {
+      "title": "Milei approval / 2027",
+      "detail": "Milei in dead heat with Peronism, one year out from election, polls show - Buenos Aires Times",
+      "signal": "neutral"
+    },
+    {
       "title": "BCRA reserves",
       "detail": "Official BCRA international reserves.",
-      "signal": "negative"
+      "signal": "positive"
     },
     {
       "title": "Vaca Muerta oil",
-      "detail": "Argentina's Oil Production Soars as Vaca Muerta Breaks New Records - Crude Oil Prices Today | OilPrice.com",
+      "detail": "GeoPark readies Venezuela operations as it adds acreage in Argentina’s Vaca Muerta - BNamericas",
       "signal": "positive"
     },
     {
@@ -64,10 +69,10 @@
         "url": "https://news.google.com/"
       },
       "latest_event": {
-        "title": "Approval Tracker: Argentina's President Javier Milei - AS/COA",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHlOVVVsRGtXU3R4YnhOSnFFblBrZkg4MlNYVHpLTkRrZ0ZlWHdRRnFEZ1hpeGlBemN4VnREMDJMMXE4a1lRNmxGN3lpME5vNnBuYnc5SG1pRFB2SHJXMEJJVFFUSDQwbjl3QmRtWmZWOVFJQUlCby1tVG5FRnFEMjBJbEJEQzN5M3c?oc=5",
-        "published": "2026-07-16",
-        "source": "AS/COA",
+        "title": "Milei in dead heat with Peronism, one year out from election, polls show - Buenos Aires Times",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR19uMVJDV2RWdFpxeVdvVXRpRG1YRWNpRWJkcGRWWi1FTy1saGZvSkNTUGdaMzh5ckxuX3lFR0tweHBNaWZCQW43c21nQm5odllPSnJ1UFBsdDlJU3piYmxZMUtMVkFhcWJ4MUhmZjVNck03TS1mdTZuLWNmaGpidll2eWo4MzVCQml0djUwcnR4X09nQ1I1Y2Z5Y3hsU1F2VC1MRXpwb0Y3ZU56R1k3YTZVd3LSAboBQVVfeXFMTktMUVR4TG1qQ0VXM0ZucTBkb08tTlM2bnJocFpnYlMtLVJFOHBDaW80aVEyVHNVS3d0TE4xOFZQdFhYLVl5Rk93UDVGaU1LX3p0NGYwZ0FEb1NSSHoyVl83TUdQbk5NeGZTMk1wd0V6dl9OQ203dXI3Z3BqSTh2aDdsbzF5WndPM1VrQnN5Ymp4TUhVVVZkbGF0VjgyOXc2LWJRaTJJOW5MNEZBZjNBaG9IcC1SY3gyUzFB?oc=5",
+        "published": "2026-10-24",
+        "source": "Buenos Aires Times",
         "topic": "politics",
         "entities": []
       }
@@ -102,13 +107,13 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 48.56,
+      "value": 50.44,
       "unit": "USD bn",
-      "period": "2026-10-30",
-      "previous": 49.79,
-      "change": -2.45,
+      "period": "2026-11-02",
+      "previous": 49.8,
+      "change": 1.28,
       "change_unit": "% ~30d",
-      "thesis_signal": "negative",
+      "thesis_signal": "positive",
       "status": "fresh",
       "detail": "Official BCRA international reserves.",
       "source": {
@@ -116,7 +121,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        49.8,
         49.7,
         49.41,
         48.93,
@@ -145,7 +149,8 @@
         50.58,
         50.6,
         50.16,
-        48.56
+        48.56,
+        50.44
       ]
     },
     {
@@ -191,10 +196,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "Argentina's Oil Production Soars as Vaca Muerta Breaks New Records - Crude Oil Prices Today | OilPrice.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0docWpQVUw2ajU2MTJ5eXhKVnJwcU94SGJUOWJHWGQycGxwZVVZOW5Rc1MzWUYycUh3Yk82UkpTdTM3SE80ZzZjUlo1RlUzTGxmWVZNZlBDMnFJU1pRdU5KQmp6Y2V1Wm41eXpoNXF6UWY1V3o1cFB1OGJMNUNtVkNiclYtOXc5UXR5d3VQZl8xSTNtV2RIWU0xRy1Yb2JFN1JEUTJ4NXFYMk1CRkNudmlfRdIBuAFBVV95cUxOV19oeGNJQUVTSEpna1ZfeGp0NGhrTG1ldW9uSlFfZmZwS1pzNVJ2SlFvNnV1dTRpVVlLNldiU1VicVpGSFJUalp3aVg0cFdRVzhzMl9DbTNneVhkX191RGRCbklod0pVMFdZcEpxMHpDNUZlRXk3aEY4US1GdmdQN3plRWlzYjVhNUU3MWJmVkw0M2gtc1NlV3FyRVJ4OFBUQV9ybkx0R0I2VmNONFZtNkRUbW9HQmN4?oc=5",
-        "published": "2026-07-26",
-        "source": "Crude Oil Prices Today | OilPrice.com",
+        "title": "GeoPark readies Venezuela operations as it adds acreage in Argentina’s Vaca Muerta - BNamericas",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRVZFRkRpSGktSlF5TTlNWnNBaTFDa1oySktrc0Nzb3J3WV8tZ2ttQnp3YkJrTjBQYWVJcDJqZ2hIZFVmcFFhdVVRcEZPcTliMFEzRU93dVhvUXVOWndiekRaelhUcTcza1B6NFYxeDdWZ1VoV0tDZ0hfbEtSM21YQ0FyT0MyR1JGWnZTaGtySWloY05rS00xejhQdk45LVJvZkVFZmFmWWNSd2RUT0lpS1oxWXdXQmc?oc=5",
+        "published": "2026-11-04",
+        "source": "BNamericas",
         "topic": "vaca_muerta_oil",
         "entities": []
       }
@@ -253,6 +258,16 @@
   ],
   "news": [
     {
+      "title": "TGS plans $100M Perito Moreno expansion to move 4.5M more cubic meters a day - MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVktiSW84QnhuWWtvVXhwajhjMkE3bDhyUDkyQTM2bWNnS1l0TG4wczY2MVFyUFF0anRGRUdEUGlHaHZsVU1sV1FrX0dnVjVWai01bFdPM29rTnVMUmVYa3lnWUdwMXhaOHJfbU5QME1sSHBuY0xzbU14a29kcDNyZGI0am5PRVk4M2dPMHFDMVF1clVMbmdvdEJrb0oxbk1TQnFOaWI4NlZnQ19KaFhSOUpJcjVPM3RTa1ZXUA?oc=5",
+      "published": "2026-11-04",
+      "source": "MarketScale",
+      "topic": "company_news",
+      "entities": [
+        "TGS"
+      ]
+    },
+    {
       "title": "TGS Plans $100M Expansion Project to Boost Argentina’s Perito Moreno Gas Pipeline Capacity - Pipeline Technology Journal",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeGpZejk2dkE5dG1GbGhkMHRnRVJHMDBXTUpKSHNxb0VYeEViNkRKdEI2dVZBUHRSZnhKWDQ5eDd5Mko3OGdBNWFJQXBHcU5VSUhqWS1NWjdWRmN0TWdXVE1TeWkyamxCdTFBdjNlWE5hVDR5NU41dDFBYTRfbXYxWkdtNHBIR2lUMGhDM3VfR19HeGJzTlB5TUhlOVBadUpaQ1NGXzVRTFpIMks5UFFfMTZMYW5jWU1mRHJDR0xDQ3M?oc=5",
       "published": "2026-11-03",
@@ -263,30 +278,20 @@
       ]
     },
     {
-      "title": "Hamm’s Continental to Buy 50% of Mercuria Argentina Oil Firm - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHZsTmtUc0RFWmtWN25iX1M5MU5yWjRMa2N3QThQdWFQLVZ5dXBpemZFYVFrcFAySnNNZGJ3Nk0wZm5RbHJiQUN3dmNHOHRMUHBmZ045dzFZaTJLcUdrU3lGQmdFUWVFaHVyeWpqZjQwVlhRQzhMRkJEc21iSGNtSVFMS0JoY3BFakdnUWJpSFRkUlU?oc=5",
-      "published": "2026-11-02",
-      "source": "EnergyNow.com",
+      "title": "YPF Files $8.7 Billion RIGI Application for Bajo del Toro, Targeting 80,000 bbl/d in Northern Vaca Muerta - Shale24",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTVRqWUhzQWNTZnA3dmdkM0UwZkQ2aTZ4WlNfSFNVM3A5dzFBVmFkMkQxR1d1dW5iQ0R0S0thcUxUN2dEQS1oM25zQVVGemxrMm9yd0hWV040TXh0TmxMMFNPQWVaSzJSc2xrVk1DQWwzMXdVbTJ4UHlmUzBEOWl5LTU1eXI1aUZpY29LZzlFaWRIMTVmWFEyTHhReDIxemNIaURPWXVMWWRPcnozX1lNVmlMRUxVc3NzYTMxMmFMYkdvS2MyV25IRmtyY0NMVVlobUHSAdcBQVVfeXFMTi1ZaGZrU19GVzB3NTFSb2dUWTdmQllyMEZqU0RyLWxWbHFCbC1vSXFxYVZrX3NST3BHT09hb2NBd0tZd21xMy13cV9JN1ljOVE0Z2w2YThBbE5DaU0tb1Q0Tmtscm1MaXNKVU9iR0dHSGtjV0xGSTUzQnJZUHc3SVVaSGhDSnoyOFNlWGJDWTk3RVQ2MVRwWWxuNGp1LUJnWVdCXzJmOFZZYWM4STc3UV9DcGFONVN5bXFRN0F2c3ZnNlZUeUVfQ0pPV2dlZVR4RWRlUkpfSGc?oc=5",
+      "published": "2026-11-01",
+      "source": "Shale24",
       "topic": "company_news",
       "entities": [
         "VIST"
       ]
     },
     {
-      "title": "TGS: liquids now generate the same operating income as gas transportation, and the company nearly tripled the funds it allocates to investment - Shale24",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOT3JWSXhEY3RmbHI4WkhKVnFkWE54dkFzNURNT1BPb2JNamxoX3FKOTdjN3ljQmFqcC00UjE2VWpVelNuQVMwY2pkdEQ1YzZKRzBQSmhLazgxd3BaSTI1M1BLQUg4LTJVZFBaZThtZEtQRDBkZmlCbngzOUNLLUZuQ0d4QXlpUkFZRGNPOVJOV2JJQnRtNTlWSEhQbjFEbHRmSDZoUEgxUkFDQkt6RW1rUFpybXBFRjR0X21oeHdfclF3UG5UaFdWM3JsTUllcmRDTEd5cm1PMnpMYlpTME5iVU1DNjQ0YkpWSnI0LXlZUkVDNE1vUW96dHJpSGNnU2xXV004RURzUnZNSmPSAZACQVVfeXFMTzhkVDFKcEk2d013Q18zMi00ckdNTVBGTE9JOHFMZ2pndTMwSVk2SE80ZEU1eTZ5MW5RQjRnQl9ONkRfdnBWdVFJQlY3X3BZbWZPX1IwNVRDRnQxVmxaN0ZaZU1OZlkyOEVJeEVlUk1jMFl2MlpyUWRRQjdHNE1kZ2JET3Fqbk5oQkVlMTk0VXJISmxlSi1FdGJuM2xwVkdmcW40MFFtY2ZOT25aT3loS3V0Zkl5OGdseWJ3dkprcGZJN0Mtb3lZWV9TTGJhbTkzMXJMMGZoVFlVV1RCWEstSi1wX3NVZ05TWWNUcGstSlJhVXNIdEQ2RnFwZ0kzNTlzOGU1TFhNZVJFM0lXanZqWXE?oc=5",
-      "published": "2026-11-02",
-      "source": "Shale24",
-      "topic": "company_news",
-      "entities": [
-        "TGS"
-      ]
-    },
-    {
-      "title": "YPF Files $8.7 Billion RIGI Application for Bajo del Toro, Targeting 80,000 bbl/d in Northern Vaca Muerta - Shale24",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTVRqWUhzQWNTZnA3dmdkM0UwZkQ2aTZ4WlNfSFNVM3A5dzFBVmFkMkQxR1d1dW5iQ0R0S0thcUxUN2dEQS1oM25zQVVGemxrMm9yd0hWV040TXh0TmxMMFNPQWVaSzJSc2xrVk1DQWwzMXdVbTJ4UHlmUzBEOWl5LTU1eXI1aUZpY29LZzlFaWRIMTVmWFEyTHhReDIxemNIaURPWXVMWWRPcnozX1lNVmlMRUxVc3NzYTMxMmFMYkdvS2MyV25IRmtyY0NMVVlobUHSAdcBQVVfeXFMTi1ZaGZrU19GVzB3NTFSb2dUWTdmQllyMEZqU0RyLWxWbHFCbC1vSXFxYVZrX3NST3BHT09hb2NBd0tZd21xMy13cV9JN1ljOVE0Z2w2YThBbE5DaU0tb1Q0Tmtscm1MaXNKVU9iR0dHSGtjV0xGSTUzQnJZUHc3SVVaSGhDSnoyOFNlWGJDWTk3RVQ2MVRwWWxuNGp1LUJnWVdCXzJmOFZZYWM4STc3UV9DcGFONVN5bXFRN0F2c3ZnNlZUeUVfQ0pPV2dlZVR4RWRlUkpfSGc?oc=5",
-      "published": "2026-11-01",
-      "source": "Shale24",
+      "title": "What Vista Energy (VIST) Said on Its Q3 Earnings Call - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjNXMUhJbFdwWTNObTZsTS1QcFFhMXJzMDNrRnNSYTZ3U3ZfM0dlZnRhQ05yM0Z1ZXJKd2tWbnJhTUhSaVhsNzJKUWNCZkdwNmktTXkxcDI2QzJoWmZvN3ZXeXVmU25RSFZZanJOWjBxVHpKN1l0cFJYZ3ZxOUh0VHVIbzZkekwwb1E5UklVWEFzWk9sWVZxV3hPcFE3cm1nVy1CVkN0cmtSRkxoWlhpSTRR?oc=5",
+      "published": "2026-10-30",
+      "source": "TradingView",
       "topic": "company_news",
       "entities": [
         "VIST"
@@ -313,10 +318,10 @@
       ]
     },
     {
-      "title": "What Pampa Energía Doubters Overlooked - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGJIVVo2Rmx1THR2T1d0eUFmN00tVkdZRTY0QU1zMnFLMXNrQlhqbHpFNEVCNXROSVRvNmtULThraGp0ZFhfQVNDUUk0a056YmgwRUdia1Z6Q3NUMWF5SlNrOFRmdWduY1EyTDNUTHhOdHZJdlFmN0Z5TEVPZ2lmY0VFWkExemxUOXh2NzlZQnZpQQ?oc=5",
-      "published": "2026-10-19",
-      "source": "Yahoo Finance",
+      "title": "Neuquén names winners in Vaca Muerta oil and gas licensing round - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdlJSdklUeHFBQ0NTRkZtTWprcmZ5ZWN2VkYwYUJCRFJRUFZFc0s5cUtaRGZFdjJKS1VzQVpZX2dJUm1WalhlSjJhSGFjZGZDSDczTi1Vd0xmeWwyeFpjRm5GMzhvaUF6SjY2Mkt4OHlhbXJCS3lSLTktN1FNSXNIRE5nSEM5R0x2T1V6d3pLYmNpV090dldxY0xKUElOTXRx?oc=5",
+      "published": "2026-10-21",
+      "source": "BNamericas",
       "topic": "company_news",
       "entities": [
         "PAM"
@@ -382,10 +387,10 @@
       "entities": []
     },
     {
-      "title": "Continental to Buy 50 Pct of Mercuria Argentina Oil Firm - Rigzone",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzVsSlhGNEJBZ2ZSanlxbHIwVDR6dEJqdEhJam1zMDBSdWRIQ2xQWGNqcV90VWszTFlSbF9udHVlUWxXWnFvZVdnSlpwYVFRVm1yVnRnTWFRSm1KaTliNk05WndVQVA2WWVuZk1TMTVpb3k0TnpMRDd2UGVqLXJYLXdmQlVmY0xuVEZjMkNjU2JBVnRsQk5EaktDNzRKbGcwR1QyZkQxSGlwUVJqM3k0blRCWEhVWmNlakE?oc=5",
+      "title": "Hamm’s Continental to Buy 50% of Mercuria Argentina Oil Firm - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzdTWHZKWVFiRFNfWjZwb25rTzBjeHAtTTJ6cDQ3cXZvN2NOcXNId2psY0FxVWZKY0YybVlfbjJCbkJlYVhrMlBhV281TG1hZkZtMVduOGVRdGZEdkgzRDNvZDlTVFJTeVVCNm45VThWQWpyeHRMZjRrNVNvb2szLWE4c1VlMklFUlVsMklaWER2X01aMDZKeU90Z2k3ZEVpSG1iZmF3UXJWWXh4V1RSMlpB?oc=5",
       "published": "2026-08-20",
-      "source": "Rigzone",
+      "source": "Bloomberg",
       "topic": "big_money",
       "entities": [
         "Mercuria"
