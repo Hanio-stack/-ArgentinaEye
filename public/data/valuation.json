@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-11-05T01:27:27.252181Z",
+  "generated_at": "2026-11-06T01:31:23.956313Z",
   "source": "StockAnalysis / S&P Global Market Intelligence",
   "source_note": "価格・倍率は市場や決算で変わります。取得失敗時は直前の値を残し、stale表示にします。",
   "stocks": {
     "vist": {
       "label": "VIST",
       "price": 77.03,
-      "market_cap_b": 6.91,
-      "enterprise_value_b": 9.92,
-      "pe": 8.94,
-      "forward_pe": 6.93,
-      "ev_ebitda": 4.16,
-      "p_fcf": 11.2,
+      "market_cap_b": 6.35,
+      "enterprise_value_b": 9.38,
+      "pe": 8.31,
+      "forward_pe": 6.31,
+      "ev_ebitda": 3.9,
+      "p_fcf": 10.2,
       "debt_ebitda": 1.46,
-      "change_52w": 26.51,
+      "change_52w": 17.74,
       "status": "fresh",
-      "as_of": "2026-11-04",
+      "as_of": "2026-11-05",
       "source_url": "https://stockanalysis.com/stocks/vist/statistics/"
     },
     "pam": {
       "label": "PAM",
       "price": 86.42,
-      "market_cap_b": 3.8,
-      "enterprise_value_b": 5.54,
-      "pe": 5.29,
-      "forward_pe": 6.27,
+      "market_cap_b": 3.74,
+      "enterprise_value_b": 5.48,
+      "pe": 5.18,
+      "forward_pe": 6.26,
       "ev_ebitda": 5.7,
       "p_fcf": null,
       "debt_ebitda": 2.83,
-      "change_52w": -26.45,
+      "change_52w": -26.81,
       "status": "fresh",
-      "as_of": "2026-11-04",
+      "as_of": "2026-11-05",
       "source_url": "https://stockanalysis.com/stocks/pam/statistics/"
     },
     "cepu": {
       "label": "CEPU",
       "price": 14.32,
-      "market_cap_b": 1.64,
-      "enterprise_value_b": 2.19,
-      "pe": 4.81,
-      "forward_pe": 5.72,
+      "market_cap_b": 1.58,
+      "enterprise_value_b": 2.14,
+      "pe": 4.64,
+      "forward_pe": 5.51,
       "ev_ebitda": 4.68,
-      "p_fcf": 41.38,
+      "p_fcf": 41.31,
       "debt_ebitda": 1.48,
-      "change_52w": -38.08,
+      "change_52w": -38.35,
       "status": "fresh",
-      "as_of": "2026-11-04",
+      "as_of": "2026-11-05",
       "source_url": "https://stockanalysis.com/stocks/cepu/statistics/"
     },
     "tgs": {
       "label": "TGS",
       "price": 29.67,
-      "market_cap_b": 3.8,
-      "enterprise_value_b": 3.6,
-      "pe": 11.15,
-      "forward_pe": 9.41,
-      "ev_ebitda": 5.2,
-      "p_fcf": 195.06,
+      "market_cap_b": 3.55,
+      "enterprise_value_b": 3.34,
+      "pe": 10.43,
+      "forward_pe": 8.76,
+      "ev_ebitda": 4.83,
+      "p_fcf": 181.72,
       "debt_ebitda": 1.89,
-      "change_52w": -23.77,
+      "change_52w": -26.57,
       "status": "fresh",
-      "as_of": "2026-11-04",
+      "as_of": "2026-11-05",
       "source_url": "https://stockanalysis.com/stocks/tgs/statistics/"
     }
   },
@@ -145,22 +145,22 @@
         "ebitda_b": 2.4,
         "multiple": 4.0,
         "net_debt_b": 2.0,
-        "target_price": 84.72,
-        "upside_pct": 10.0
+        "target_price": 92.19,
+        "upside_pct": 19.7
       },
       "base": {
         "ebitda_b": 2.8,
         "multiple": 5.0,
         "net_debt_b": 1.5,
-        "target_price": 139.35,
-        "upside_pct": 80.9
+        "target_price": 151.63,
+        "upside_pct": 96.9
       },
       "bull": {
         "ebitda_b": 3.2,
         "multiple": 6.0,
         "net_debt_b": 1.0,
-        "target_price": 202.89,
-        "upside_pct": 163.4
+        "target_price": 220.78,
+        "upside_pct": 186.6
       }
     },
     "pam": {
@@ -169,22 +169,22 @@
         "ebitda_b": 1.0,
         "multiple": 5.0,
         "net_debt_b": 1.8,
-        "target_price": 72.77,
-        "upside_pct": -15.8
+        "target_price": 73.94,
+        "upside_pct": -14.4
       },
       "base": {
         "ebitda_b": 1.25,
         "multiple": 6.0,
         "net_debt_b": 1.3,
-        "target_price": 141.0,
-        "upside_pct": 63.2
+        "target_price": 143.26,
+        "upside_pct": 65.8
       },
       "bull": {
         "ebitda_b": 1.5,
         "multiple": 7.0,
         "net_debt_b": 0.8,
-        "target_price": 220.6,
-        "upside_pct": 155.3
+        "target_price": 224.14,
+        "upside_pct": 159.4
       }
     },
     "cepu": {
@@ -193,22 +193,22 @@
         "ebitda_b": 0.45,
         "multiple": 4.5,
         "net_debt_b": 0.7,
-        "target_price": 11.57,
-        "upside_pct": -19.2
+        "target_price": 12.01,
+        "upside_pct": -16.1
       },
       "base": {
         "ebitda_b": 0.6,
         "multiple": 5.5,
         "net_debt_b": 0.5,
-        "target_price": 24.45,
-        "upside_pct": 70.7
+        "target_price": 25.38,
+        "upside_pct": 77.2
       },
       "bull": {
         "ebitda_b": 0.75,
         "multiple": 6.5,
         "net_debt_b": 0.3,
-        "target_price": 39.95,
-        "upside_pct": 179.0
+        "target_price": 41.46,
+        "upside_pct": 189.6
       }
     },
     "tgs": {
@@ -217,22 +217,22 @@
         "ebitda_b": 0.65,
         "multiple": 5.0,
         "net_debt_b": 0.3,
-        "target_price": 23.03,
-        "upside_pct": -22.4
+        "target_price": 24.66,
+        "upside_pct": -16.9
       },
       "base": {
         "ebitda_b": 0.85,
         "multiple": 6.0,
         "net_debt_b": 0.0,
-        "target_price": 39.82,
-        "upside_pct": 34.2
+        "target_price": 42.62,
+        "upside_pct": 43.7
       },
       "bull": {
         "ebitda_b": 1.05,
         "multiple": 7.0,
         "net_debt_b": 0.0,
-        "target_price": 57.39,
-        "upside_pct": 93.4
+        "target_price": 61.43,
+        "upside_pct": 107.0
       }
     }
   },

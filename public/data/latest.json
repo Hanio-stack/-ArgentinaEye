@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-05T01:27:25.490794Z",
+  "generated_at": "2026-11-06T01:31:22.171431Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,24 +31,19 @@
   },
   "today": [
     {
-      "title": "Milei approval / 2027",
-      "detail": "Milei in dead heat with Peronism, one year out from election, polls show - Buenos Aires Times",
-      "signal": "neutral"
-    },
-    {
       "title": "BCRA reserves",
       "detail": "Official BCRA international reserves.",
       "signal": "positive"
     },
     {
       "title": "Vaca Muerta oil",
-      "detail": "GeoPark readies Venezuela operations as it adds acreage in Argentina’s Vaca Muerta - BNamericas",
+      "detail": "Jumbo installs CALM buoys, PLEMs for Vaca Muerta export terminal offshore Argentina - Offshore Magazine",
       "signal": "positive"
     },
     {
       "title": "Big Money",
-      "detail": "Continental Resources acquires 50% stake in Mercuria's Argentine shale oil firm Phoenix Global Resources in $4 billion-plus deal - Energies Media",
-      "signal": "positive"
+      "detail": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows - Crude Oil Prices Today | OilPrice.com",
+      "signal": "neutral"
     }
   ],
   "metrics": [
@@ -107,11 +102,11 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 50.44,
+      "value": 50.3,
       "unit": "USD bn",
-      "period": "2026-11-02",
-      "previous": 49.8,
-      "change": 1.28,
+      "period": "2026-11-03",
+      "previous": 49.7,
+      "change": 1.21,
       "change_unit": "% ~30d",
       "thesis_signal": "positive",
       "status": "fresh",
@@ -121,7 +116,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        49.7,
         49.41,
         48.93,
         48.84,
@@ -150,7 +144,8 @@
         50.6,
         50.16,
         48.56,
-        50.44
+        50.44,
+        50.3
       ]
     },
     {
@@ -196,10 +191,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "GeoPark readies Venezuela operations as it adds acreage in Argentina’s Vaca Muerta - BNamericas",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRVZFRkRpSGktSlF5TTlNWnNBaTFDa1oySktrc0Nzb3J3WV8tZ2ttQnp3YkJrTjBQYWVJcDJqZ2hIZFVmcFFhdVVRcEZPcTliMFEzRU93dVhvUXVOWndiekRaelhUcTcza1B6NFYxeDdWZ1VoV0tDZ0hfbEtSM21YQ0FyT0MyR1JGWnZTaGtySWloY05rS00xejhQdk45LVJvZkVFZmFmWWNSd2RUT0lpS1oxWXdXQmc?oc=5",
-        "published": "2026-11-04",
-        "source": "BNamericas",
+        "title": "Jumbo installs CALM buoys, PLEMs for Vaca Muerta export terminal offshore Argentina - Offshore Magazine",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdm9iRnhrSmc1cmRoVVJSZ0tQcWFmVk00QWVTUzItVWFUWDdXMnNVREo2TjZGcXhSYm11ZzZUS1RDV0lpYl9zaVBNSlVLeDM1SGJEc2lEdFNEWVJuS1ZxWVYyU3JVWXh0R3dzendjWDB5RTBSN3N6OTNySFgtcU56MFVoWV9QQzdLZjlyc1JDNGV3bHJCZFhMczBhN2lfT1JLdngzbGk1ajV1d25xUlduNlNzWGZrLVJyMG12SDZraTRpY0ZtWHQ4bTR4UXpyaFVIZ0w4dUZB?oc=5",
+        "published": "2026-11-05",
+        "source": "Offshore Magazine",
         "topic": "vaca_muerta_oil",
         "entities": []
       }
@@ -258,6 +253,16 @@
   ],
   "news": [
     {
+      "title": "Hamm’s Continental to Buy 50% of Mercuria Argentina Oil Firm - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHZsTmtUc0RFWmtWN25iX1M5MU5yWjRMa2N3QThQdWFQLVZ5dXBpemZFYVFrcFAySnNNZGJ3Nk0wZm5RbHJiQUN3dmNHOHRMUHBmZ045dzFZaTJLcUdrU3lGQmdFUWVFaHVyeWpqZjQwVlhRQzhMRkJEc21iSGNtSVFMS0JoY3BFakdnUWJpSFRkUlU?oc=5",
+      "published": "2026-11-05",
+      "source": "EnergyNow.com",
+      "topic": "company_news",
+      "entities": [
+        "VIST"
+      ]
+    },
+    {
       "title": "TGS plans $100M Perito Moreno expansion to move 4.5M more cubic meters a day - MarketScale",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVktiSW84QnhuWWtvVXhwajhjMkE3bDhyUDkyQTM2bWNnS1l0TG4wczY2MVFyUFF0anRGRUdEUGlHaHZsVU1sV1FrX0dnVjVWai01bFdPM29rTnVMUmVYa3lnWUdwMXhaOHJfbU5QME1sSHBuY0xzbU14a29kcDNyZGI0am5PRVk4M2dPMHFDMVF1clVMbmdvdEJrb0oxbk1TQnFOaWI4NlZnQ19KaFhSOUpJcjVPM3RTa1ZXUA?oc=5",
       "published": "2026-11-04",
@@ -265,6 +270,16 @@
       "topic": "company_news",
       "entities": [
         "TGS"
+      ]
+    },
+    {
+      "title": "CATL opens Argentina office, supplies 1,025 MWh of batteries - ESS News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkcxYzYtUTZLeXhmU2RPel9RWTdleWdGWGFYbnhiRzJ5R1BIVWtIR2dzZ3Q2eno0MTFvQkdDUGdGaUJtUzY3MlpZMlFaR3hzRHI1R0RYVTR5TTJxMl9BUmhhUWRHWGVKQUkzbG55S241U3FIUnZTN1pFaDhuYUZFWGxrYlVZT3lWWWhBNl9jRTI0M1BWRVdneUdERQ?oc=5",
+      "published": "2026-11-03",
+      "source": "ESS News",
+      "topic": "company_news",
+      "entities": [
+        "CEPU"
       ]
     },
     {
@@ -282,16 +297,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTVRqWUhzQWNTZnA3dmdkM0UwZkQ2aTZ4WlNfSFNVM3A5dzFBVmFkMkQxR1d1dW5iQ0R0S0thcUxUN2dEQS1oM25zQVVGemxrMm9yd0hWV040TXh0TmxMMFNPQWVaSzJSc2xrVk1DQWwzMXdVbTJ4UHlmUzBEOWl5LTU1eXI1aUZpY29LZzlFaWRIMTVmWFEyTHhReDIxemNIaURPWXVMWWRPcnozX1lNVmlMRUxVc3NzYTMxMmFMYkdvS2MyV25IRmtyY0NMVVlobUHSAdcBQVVfeXFMTi1ZaGZrU19GVzB3NTFSb2dUWTdmQllyMEZqU0RyLWxWbHFCbC1vSXFxYVZrX3NST3BHT09hb2NBd0tZd21xMy13cV9JN1ljOVE0Z2w2YThBbE5DaU0tb1Q0Tmtscm1MaXNKVU9iR0dHSGtjV0xGSTUzQnJZUHc3SVVaSGhDSnoyOFNlWGJDWTk3RVQ2MVRwWWxuNGp1LUJnWVdCXzJmOFZZYWM4STc3UV9DcGFONVN5bXFRN0F2c3ZnNlZUeUVfQ0pPV2dlZVR4RWRlUkpfSGc?oc=5",
       "published": "2026-11-01",
       "source": "Shale24",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "What Vista Energy (VIST) Said on Its Q3 Earnings Call - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjNXMUhJbFdwWTNObTZsTS1QcFFhMXJzMDNrRnNSYTZ3U3ZfM0dlZnRhQ05yM0Z1ZXJKd2tWbnJhTUhSaVhsNzJKUWNCZkdwNmktTXkxcDI2QzJoWmZvN3ZXeXVmU25RSFZZanJOWjBxVHpKN1l0cFJYZ3ZxOUh0VHVIbzZkekwwb1E5UklVWEFzWk9sWVZxV3hPcFE3cm1nVy1CVkN0cmtSRkxoWlhpSTRR?oc=5",
-      "published": "2026-10-30",
-      "source": "TradingView",
       "topic": "company_news",
       "entities": [
         "VIST"
@@ -358,25 +363,12 @@
       ]
     },
     {
-      "title": "Central Puerto S.A: 'Powering Up' The NAV/SOTP (NYSE:CEPU) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdllyQlljS2hWTVBhUnM1OHNueVlsTGRNSXZsS3M5cDd0ZkZiY2dzZ0Y0S2V6bmdJYWp0dERPc2wzZlRKUlVxVzZocWFmUExZUEgzWWk0VWl5cWJnYzJPVjBhVUw1R1ZXWWo5VXJ6U2VoTEd1cmFvbktsOHdWVExzRkVRTnp5dkNpclE?oc=5",
-      "published": "2026-10-06",
-      "source": "Seeking Alpha",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
-      "title": "Continental Resources acquires 50% stake in Mercuria's Argentine shale oil firm Phoenix Global Resources in $4 billion-plus deal - Energies Media",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vSW1tZy1rYWw5Z3N1RUlXUWVFeXhFcm43X3R6a1Bveld6NGxDeVk0ZlR1SVZJTjVSNVpVRlQtWDFtNUZHbmJ4ZzdKLVd1T0tOaFVWMWp3UThjVk43SlE5LWVSU2plNlV2Q3ZCU1FRdzNLN04ydVRsUUJZUQ?oc=5",
-      "published": "2026-08-30",
-      "source": "Energies Media",
+      "title": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWFtb2NsWXYxdTNnNXRZdG1wYzJ4dnV4VnJEZWVnX3BMcVN1bGtTNHVUSHNqRC1Wb0djWEp1MHlTaW1JZVJtMGpRNU9iQzM4c2IzZzRHUFlvWTlyTUgwTmttNExLUGtNZEdCS3IyQXNqMWwwdDRGajktSXhnRF9OZUpFNzJLTkc3UGJBR0ZFU2RCdzRzVnFDNzRLVVlpRDZQeGVMQkVrUGhvd9IBrwFBVV95cUxPeHNkUWx4eWdMREluckh4d0JZRnVJNmxNR1lDY3VLYTE2UEd1T1VaNTd6NUJHMW9qVU1kWlR3ZEJ1bkNhUHZDOE9fem9RZ294ZjRtSzhNeDlvVEh2QkZIOFBRS3dIWkpDbUtaOVZsUmctOEhWUUJOOEtFbUM2VDR1S2UzZGk2SS1sblJTanFxbWFzWnhSRmRkVUtlREg2ZDVLNUc4WHBEenJoRlBFSENN?oc=5",
+      "published": "2026-09-16",
+      "source": "Crude Oil Prices Today | OilPrice.com",
       "topic": "big_money",
-      "entities": [
-        "Hamm",
-        "Mercuria"
-      ]
+      "entities": []
     },
     {
       "title": "U.S. Billionaires Are Piling Into Argentina’s Vaca Muerta Shale - Yahoo Finance",
