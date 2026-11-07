@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-06T01:31:22.171431Z",
+  "generated_at": "2026-11-07T00:56:02.368762Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -30,16 +30,6 @@
     }
   },
   "today": [
-    {
-      "title": "BCRA reserves",
-      "detail": "Official BCRA international reserves.",
-      "signal": "positive"
-    },
-    {
-      "title": "Vaca Muerta oil",
-      "detail": "Jumbo installs CALM buoys, PLEMs for Vaca Muerta export terminal offshore Argentina - Offshore Magazine",
-      "signal": "positive"
-    },
     {
       "title": "Big Money",
       "detail": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows - Crude Oil Prices Today | OilPrice.com",
@@ -253,13 +243,33 @@
   ],
   "news": [
     {
-      "title": "Hamm’s Continental to Buy 50% of Mercuria Argentina Oil Firm - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHZsTmtUc0RFWmtWN25iX1M5MU5yWjRMa2N3QThQdWFQLVZ5dXBpemZFYVFrcFAySnNNZGJ3Nk0wZm5RbHJiQUN3dmNHOHRMUHBmZ045dzFZaTJLcUdrU3lGQmdFUWVFaHVyeWpqZjQwVlhRQzhMRkJEc21iSGNtSVFMS0JoY3BFakdnUWJpSFRkUlU?oc=5",
-      "published": "2026-11-05",
-      "source": "EnergyNow.com",
+      "title": "Vista lets drilling contract for Vaca Muerta development - Oil & Gas Journal",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMjZ2a2tuamUyWHJhOGpnYVp5WF9LN0ViU003dnZlcXpyazhXaFRTdERYTGVHWUNxN3d1RGp0TzVQQk44dUJSY2dPLUVYbzg3eW9ZV2IxTUtPQmpEa0FDV2xsRTNqdFdDdW9PVzd5NHN1c3o3bm5aQ1ZuSUpHWEw5QnZ6dFBXLUFQNlluT3BGMFRHWnhTVTNhZ2RqNA?oc=5",
+      "published": "2026-11-06",
+      "source": "Oil & Gas Journal",
       "topic": "company_news",
       "entities": [
         "VIST"
+      ]
+    },
+    {
+      "title": "Central Puerto’s Bonnet: Generators Have Already Contracted Their 20% Allowance With Large Users and Now Target 60% From April 2027 - Shale24",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZ3EtVFJObkFMd0FIS0VtV0ZnWE45aDJ6UDA5VndpclFRSnl6UldzbkxnX1BDTF9pcjFFVlJWS2J1WVVxOW9CZFo0ZjcwM2RLLVM3Wk0tXzFiVklmOEc5LXpIMXpmTEx2ZWNTSzFBUldfQUg4eDUzVHFiMWlXREk5RXJGQW1FQ0hmMW5DaUNLQ1A0ZFBzUUtmYzQ1X29sdWRwa2c5MWJsMXJlREFCVzRxNm1oWjk0RS1kLXd1dXhUWXJ4anpFRy02Vmt3b2FpMGJ5aVNtZEYwQ3JSWnRRQ1VqY2JiQTZMeVdfNjFRMVU1Vi1MVW9rYUh3UW9n0gH_AUFVX3lxTE9RWEw5XzIwNzl0YlM1RVhLbEtQa094emxyeE9LREdlek9POVp4cUpQS05nbmt3cWFBT3FXOHVsUjhnaDcwRXVPOUtyQ1lQUGFXX1RhMzdLZE5YVGowSWYzSDktVEw5LXJqX1NGbGhvWF9ZdVVjQS1zbGhtWUo2Q2ZyTGRGMlZHbXN1MlhYYTFfUFg3TkpuWXhKMVBwNU81cUlGMWY2OG9XSER0RDNrR3hmcjlmUnpPZWF4UkhaSXB6MmNlaFBjMEM2UFFyMS1zbmdZMjJNc21TTi1nMm1KeU10QWhjRjFmblpNU0lWcmE1MVEzQXo4S2tNaTZOUE1kTQ?oc=5",
+      "published": "2026-11-06",
+      "source": "Shale24",
+      "topic": "company_news",
+      "entities": [
+        "CEPU"
+      ]
+    },
+    {
+      "title": "Central Puerto (CEPU) Projected to Release Quarterly Earnings on Wednesday - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMVhMRDRNV3RLOHhOZmlHLU4wZUpNMDJnWUo0Z2ljSWdEOXNULW1ZeWNmdVlHVC1TWlh0eXh1dmZqa2tZaUZWbTVhYTJ4b3o3Q1Y0bGJyQVRkS0dpSVQ4SlFENDR1NlVKV244ZE5pbk1wTzFNdHp6TE41SVZDbEd6ZXVOek96eDZ5Vm1NWTM3Ny1paTJ5cW01bF8xODdRV043ejZoR0gzZVFKdDlZUkRhSzVodnBnRnpra3FjNVFOZnF1MzkzdEpJMV9sbDdCM0tZ?oc=5",
+      "published": "2026-11-04",
+      "source": "MarketBeat",
+      "topic": "company_news",
+      "entities": [
+        "CEPU"
       ]
     },
     {
@@ -273,16 +283,6 @@
       ]
     },
     {
-      "title": "CATL opens Argentina office, supplies 1,025 MWh of batteries - ESS News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkcxYzYtUTZLeXhmU2RPel9RWTdleWdGWGFYbnhiRzJ5R1BIVWtIR2dzZ3Q2eno0MTFvQkdDUGdGaUJtUzY3MlpZMlFaR3hzRHI1R0RYVTR5TTJxMl9BUmhhUWRHWGVKQUkzbG55S241U3FIUnZTN1pFaDhuYUZFWGxrYlVZT3lWWWhBNl9jRTI0M1BWRVdneUdERQ?oc=5",
-      "published": "2026-11-03",
-      "source": "ESS News",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
       "title": "TGS Plans $100M Expansion Project to Boost Argentina’s Perito Moreno Gas Pipeline Capacity - Pipeline Technology Journal",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeGpZejk2dkE5dG1GbGhkMHRnRVJHMDBXTUpKSHNxb0VYeEViNkRKdEI2dVZBUHRSZnhKWDQ5eDd5Mko3OGdBNWFJQXBHcU5VSUhqWS1NWjdWRmN0TWdXVE1TeWkyamxCdTFBdjNlWE5hVDR5NU41dDFBYTRfbXYxWkdtNHBIR2lUMGhDM3VfR19HeGJzTlB5TUhlOVBadUpaQ1NGXzVRTFpIMks5UFFfMTZMYW5jWU1mRHJDR0xDQ3M?oc=5",
       "published": "2026-11-03",
@@ -293,13 +293,13 @@
       ]
     },
     {
-      "title": "YPF Files $8.7 Billion RIGI Application for Bajo del Toro, Targeting 80,000 bbl/d in Northern Vaca Muerta - Shale24",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTVRqWUhzQWNTZnA3dmdkM0UwZkQ2aTZ4WlNfSFNVM3A5dzFBVmFkMkQxR1d1dW5iQ0R0S0thcUxUN2dEQS1oM25zQVVGemxrMm9yd0hWV040TXh0TmxMMFNPQWVaSzJSc2xrVk1DQWwzMXdVbTJ4UHlmUzBEOWl5LTU1eXI1aUZpY29LZzlFaWRIMTVmWFEyTHhReDIxemNIaURPWXVMWWRPcnozX1lNVmlMRUxVc3NzYTMxMmFMYkdvS2MyV25IRmtyY0NMVVlobUHSAdcBQVVfeXFMTi1ZaGZrU19GVzB3NTFSb2dUWTdmQllyMEZqU0RyLWxWbHFCbC1vSXFxYVZrX3NST3BHT09hb2NBd0tZd21xMy13cV9JN1ljOVE0Z2w2YThBbE5DaU0tb1Q0Tmtscm1MaXNKVU9iR0dHSGtjV0xGSTUzQnJZUHc3SVVaSGhDSnoyOFNlWGJDWTk3RVQ2MVRwWWxuNGp1LUJnWVdCXzJmOFZZYWM4STc3UV9DcGFONVN5bXFRN0F2c3ZnNlZUeUVfQ0pPV2dlZVR4RWRlUkpfSGc?oc=5",
-      "published": "2026-11-01",
+      "title": "TGS: liquids now generate the same operating income as gas transportation, and the company nearly tripled the funds it allocates to investment - Shale24",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOT3JWSXhEY3RmbHI4WkhKVnFkWE54dkFzNURNT1BPb2JNamxoX3FKOTdjN3ljQmFqcC00UjE2VWpVelNuQVMwY2pkdEQ1YzZKRzBQSmhLazgxd3BaSTI1M1BLQUg4LTJVZFBaZThtZEtQRDBkZmlCbngzOUNLLUZuQ0d4QXlpUkFZRGNPOVJOV2JJQnRtNTlWSEhQbjFEbHRmSDZoUEgxUkFDQkt6RW1rUFpybXBFRjR0X21oeHdfclF3UG5UaFdWM3JsTUllcmRDTEd5cm1PMnpMYlpTME5iVU1DNjQ0YkpWSnI0LXlZUkVDNE1vUW96dHJpSGNnU2xXV004RURzUnZNSmPSAZACQVVfeXFMTzhkVDFKcEk2d013Q18zMi00ckdNTVBGTE9JOHFMZ2pndTMwSVk2SE80ZEU1eTZ5MW5RQjRnQl9ONkRfdnBWdVFJQlY3X3BZbWZPX1IwNVRDRnQxVmxaN0ZaZU1OZlkyOEVJeEVlUk1jMFl2MlpyUWRRQjdHNE1kZ2JET3Fqbk5oQkVlMTk0VXJISmxlSi1FdGJuM2xwVkdmcW40MFFtY2ZOT25aT3loS3V0Zkl5OGdseWJ3dkprcGZJN0Mtb3lZWV9TTGJhbTkzMXJMMGZoVFlVV1RCWEstSi1wX3NVZ05TWWNUcGstSlJhVXNIdEQ2RnFwZ0kzNTlzOGU1TFhNZVJFM0lXanZqWXE?oc=5",
+      "published": "2026-11-02",
       "source": "Shale24",
       "topic": "company_news",
       "entities": [
-        "VIST"
+        "TGS"
       ]
     },
     {
@@ -313,13 +313,13 @@
       ]
     },
     {
-      "title": "Argentina's power reform: State of play, outlook for 2027 - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVJyLW1yYWM1VmZPRDZKQk9KTEYxYU8wMUNIYlItUUJEVVdjNGxfcnktclNaeV9XZTg4SUc3MVhUZ29UaVlVWUwyNjFqQkFFQXZyM3NNQVE3U0I2OUZIc2xnNVRPbnlqSGYtU2lveERLcmZweE1DREpZbm1OdG9VSnU0Mmt0dzBFaVNpYWVNRVhTVHN2S21hZWw4Yw?oc=5",
-      "published": "2026-10-28",
-      "source": "BNamericas",
+      "title": "Vista Energy Posts Surging Q3 2026 Revenues on Vaca Muerta Growth - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQS0ZkNHphZnNmNzZROFVhR0FfY0hwaXZFV21ZbUJ5aFNha2Q2UXgtZlFBdWV1SjlGYjFtWG1HRlBaT2RsTVVKUUhPQWdGZkpoY0Nyd0p4UzljR1pKMks2TGk5VzNnQVY2cnpSWjJBbnhrbHFZSWpoSENDTXlhRDl1d0xhX09FZWtvWEdnVjRsbHBqb1FkWDZaTmI1d0pKSGZYR2tuVXYtWHRLX25qdzNyWGwwMDE0amJxVUFNZ0d5Tng3cnctVjYxX0NRZnJRd1ItdUJKd0FuWGo1WHlmejZrcVVQSWM?oc=5",
+      "published": "2026-10-29",
+      "source": "The Globe and Mail",
       "topic": "company_news",
       "entities": [
-        "CEPU"
+        "VIST"
       ]
     },
     {
