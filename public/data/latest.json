@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-07T00:56:02.368762Z",
+  "generated_at": "2026-11-08T00:34:35.229926Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -30,6 +30,11 @@
     }
   },
   "today": [
+    {
+      "title": "Vaca Muerta oil",
+      "detail": "Argentina's Oil Production Soars as Vaca Muerta Breaks New Records - Crude Oil Prices Today | OilPrice.com",
+      "signal": "positive"
+    },
     {
       "title": "Big Money",
       "detail": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows - Crude Oil Prices Today | OilPrice.com",
@@ -181,10 +186,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "Jumbo installs CALM buoys, PLEMs for Vaca Muerta export terminal offshore Argentina - Offshore Magazine",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdm9iRnhrSmc1cmRoVVJSZ0tQcWFmVk00QWVTUzItVWFUWDdXMnNVREo2TjZGcXhSYm11ZzZUS1RDV0lpYl9zaVBNSlVLeDM1SGJEc2lEdFNEWVJuS1ZxWVYyU3JVWXh0R3dzendjWDB5RTBSN3N6OTNySFgtcU56MFVoWV9QQzdLZjlyc1JDNGV3bHJCZFhMczBhN2lfT1JLdngzbGk1ajV1d25xUlduNlNzWGZrLVJyMG12SDZraTRpY0ZtWHQ4bTR4UXpyaFVIZ0w4dUZB?oc=5",
-        "published": "2026-11-05",
-        "source": "Offshore Magazine",
+        "title": "Argentina's Oil Production Soars as Vaca Muerta Breaks New Records - Crude Oil Prices Today | OilPrice.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0docWpQVUw2ajU2MTJ5eXhKVnJwcU94SGJUOWJHWGQycGxwZVVZOW5Rc1MzWUYycUh3Yk82UkpTdTM3SE80ZzZjUlo1RlUzTGxmWVZNZlBDMnFJU1pRdU5KQmp6Y2V1Wm41eXpoNXF6UWY1V3o1cFB1OGJMNUNtVkNiclYtOXc5UXR5d3VQZl8xSTNtV2RIWU0xRy1Yb2JFN1JEUTJ4NXFYMk1CRkNudmlfRdIBuAFBVV95cUxOV19oeGNJQUVTSEpna1ZfeGp0NGhrTG1ldW9uSlFfZmZwS1pzNVJ2SlFvNnV1dTRpVVlLNldiU1VicVpGSFJUalp3aVg0cFdRVzhzMl9DbTNneVhkX191RGRCbklod0pVMFdZcEpxMHpDNUZlRXk3aEY4US1GdmdQN3plRWlzYjVhNUU3MWJmVkw0M2gtc1NlV3FyRVJ4OFBUQV9ybkx0R0I2VmNONFZtNkRUbW9HQmN4?oc=5",
+        "published": "2026-07-26",
+        "source": "Crude Oil Prices Today | OilPrice.com",
         "topic": "vaca_muerta_oil",
         "entities": []
       }
@@ -263,16 +268,6 @@
       ]
     },
     {
-      "title": "Central Puerto (CEPU) Projected to Release Quarterly Earnings on Wednesday - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMVhMRDRNV3RLOHhOZmlHLU4wZUpNMDJnWUo0Z2ljSWdEOXNULW1ZeWNmdVlHVC1TWlh0eXh1dmZqa2tZaUZWbTVhYTJ4b3o3Q1Y0bGJyQVRkS0dpSVQ4SlFENDR1NlVKV244ZE5pbk1wTzFNdHp6TE41SVZDbEd6ZXVOek96eDZ5Vm1NWTM3Ny1paTJ5cW01bF8xODdRV043ejZoR0gzZVFKdDlZUkRhSzVodnBnRnpra3FjNVFOZnF1MzkzdEpJMV9sbDdCM0tZ?oc=5",
-      "published": "2026-11-04",
-      "source": "MarketBeat",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
       "title": "TGS plans $100M Perito Moreno expansion to move 4.5M more cubic meters a day - MarketScale",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVktiSW84QnhuWWtvVXhwajhjMkE3bDhyUDkyQTM2bWNnS1l0TG4wczY2MVFyUFF0anRGRUdEUGlHaHZsVU1sV1FrX0dnVjVWai01bFdPM29rTnVMUmVYa3lnWUdwMXhaOHJfbU5QME1sSHBuY0xzbU14a29kcDNyZGI0am5PRVk4M2dPMHFDMVF1clVMbmdvdEJrb0oxbk1TQnFOaWI4NlZnQ19KaFhSOUpJcjVPM3RTa1ZXUA?oc=5",
       "published": "2026-11-04",
@@ -320,6 +315,16 @@
       "topic": "company_news",
       "entities": [
         "VIST"
+      ]
+    },
+    {
+      "title": "Central Puerto Launches Regulated Treasury Share Buyback on BYMA - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUkR0ckdwRkkyZGtUOHZFNDdodUJ4Y0lmWFQxNC1tWDdvODgzcXB6YUhqZmNvNVhWbEN3dHVzLXJqaVRQU2VIWGU0Rk1hYTVQd29GVmc5UXlqcnVXWVM0WG9PR1o3WmpjZ3BDRG5GVF9POHd3aTZCbWI0Y1ZHT0tuT0otNkVrN0tlck1lWnJDR2lOZXlqQlJPUkRDOVp1eDZld2hYUGItLXM0SnZSTHBqbnM1aFhSOHhERDBQUEZXRUc4MXNPeVhXWGRuNnlvRGVwYW1OeWhsSGl6TUhaeWdlYkZuZw?oc=5",
+      "published": "2026-10-22",
+      "source": "The Globe and Mail",
+      "topic": "company_news",
+      "entities": [
+        "CEPU"
       ]
     },
     {
@@ -379,10 +384,10 @@
       "entities": []
     },
     {
-      "title": "Hamm’s Continental to Buy 50% of Mercuria Argentina Oil Firm - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzdTWHZKWVFiRFNfWjZwb25rTzBjeHAtTTJ6cDQ3cXZvN2NOcXNId2psY0FxVWZKY0YybVlfbjJCbkJlYVhrMlBhV281TG1hZkZtMVduOGVRdGZEdkgzRDNvZDlTVFJTeVVCNm45VThWQWpyeHRMZjRrNVNvb2szLWE4c1VlMklFUlVsMklaWER2X01aMDZKeU90Z2k3ZEVpSG1iZmF3UXJWWXh4V1RSMlpB?oc=5",
+      "title": "Continental to Buy 50 Pct of Mercuria Argentina Oil Firm - Rigzone",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzVsSlhGNEJBZ2ZSanlxbHIwVDR6dEJqdEhJam1zMDBSdWRIQ2xQWGNqcV90VWszTFlSbF9udHVlUWxXWnFvZVdnSlpwYVFRVm1yVnRnTWFRSm1KaTliNk05WndVQVA2WWVuZk1TMTVpb3k0TnpMRDd2UGVqLXJYLXdmQlVmY0xuVEZjMkNjU2JBVnRsQk5EaktDNzRKbGcwR1QyZkQxSGlwUVJqM3k0blRCWEhVWmNlakE?oc=5",
       "published": "2026-08-20",
-      "source": "Bloomberg",
+      "source": "Rigzone",
       "topic": "big_money",
       "entities": [
         "Mercuria"
