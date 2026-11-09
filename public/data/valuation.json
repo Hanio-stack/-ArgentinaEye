@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T00:34:38.038634Z",
+  "generated_at": "2026-11-09T00:53:29.720232Z",
   "source": "StockAnalysis / S&P Global Market Intelligence",
   "source_note": "価格・倍率は市場や決算で変わります。取得失敗時は直前の値を残し、stale表示にします。",
   "stocks": {
@@ -41,7 +41,7 @@
       "pe": 4.72,
       "forward_pe": 5.6,
       "ev_ebitda": 4.63,
-      "p_fcf": 40.75,
+      "p_fcf": 40.74,
       "debt_ebitda": 1.48,
       "change_52w": -35.62,
       "status": "fresh",
@@ -56,7 +56,7 @@
       "pe": 10.32,
       "forward_pe": 8.69,
       "ev_ebitda": 4.79,
-      "p_fcf": 180.24,
+      "p_fcf": 180.33,
       "debt_ebitda": 1.89,
       "change_52w": -27.67,
       "status": "fresh",

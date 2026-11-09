@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-08T00:34:35.229926Z",
+  "generated_at": "2026-11-09T00:53:27.961694Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,8 +31,13 @@
   },
   "today": [
     {
-      "title": "Vaca Muerta oil",
-      "detail": "Argentina's Oil Production Soars as Vaca Muerta Breaks New Records - Crude Oil Prices Today | OilPrice.com",
+      "title": "Milei approval / 2027",
+      "detail": "Approval Tracker: Argentina's President Javier Milei - AS/COA",
+      "signal": "neutral"
+    },
+    {
+      "title": "Primary fiscal balance",
+      "detail": "Milei and Argentina’s Two-Speed Economy - Americas Quarterly",
       "signal": "positive"
     },
     {
@@ -59,10 +64,10 @@
         "url": "https://news.google.com/"
       },
       "latest_event": {
-        "title": "Milei in dead heat with Peronism, one year out from election, polls show - Buenos Aires Times",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR19uMVJDV2RWdFpxeVdvVXRpRG1YRWNpRWJkcGRWWi1FTy1saGZvSkNTUGdaMzh5ckxuX3lFR0tweHBNaWZCQW43c21nQm5odllPSnJ1UFBsdDlJU3piYmxZMUtMVkFhcWJ4MUhmZjVNck03TS1mdTZuLWNmaGpidll2eWo4MzVCQml0djUwcnR4X09nQ1I1Y2Z5Y3hsU1F2VC1MRXpwb0Y3ZU56R1k3YTZVd3LSAboBQVVfeXFMTktMUVR4TG1qQ0VXM0ZucTBkb08tTlM2bnJocFpnYlMtLVJFOHBDaW80aVEyVHNVS3d0TE4xOFZQdFhYLVl5Rk93UDVGaU1LX3p0NGYwZ0FEb1NSSHoyVl83TUdQbk5NeGZTMk1wd0V6dl9OQ203dXI3Z3BqSTh2aDdsbzF5WndPM1VrQnN5Ymp4TUhVVVZkbGF0VjgyOXc2LWJRaTJJOW5MNEZBZjNBaG9IcC1SY3gyUzFB?oc=5",
-        "published": "2026-10-24",
-        "source": "Buenos Aires Times",
+        "title": "Approval Tracker: Argentina's President Javier Milei - AS/COA",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHlOVVVsRGtXU3R4YnhOSnFFblBrZkg4MlNYVHpLTkRrZ0ZlWHdRRnFEZ1hpeGlBemN4VnREMDJMMXE4a1lRNmxGN3lpME5vNnBuYnc5SG1pRFB2SHJXMEJJVFFUSDQwbjl3QmRtWmZWOVFJQUlCby1tVG5FRnFEMjBJbEJEQzN5M3c?oc=5",
+        "published": "2026-07-16",
+        "source": "AS/COA",
         "topic": "politics",
         "entities": []
       }
@@ -160,10 +165,10 @@
         "url": "https://www.argentina.gob.ar/economia/politicafiscal"
       },
       "latest_event": {
-        "title": "Rethinking political risk in Argentina: Why the next election may matter less than investors think - Atlantic Council",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNHpveHVmMGV1dVhEbjdZR0FTeXoxdGRQWC1aelo3aFpTLS1DX0lhVzJuV2lmSVNZRC1INWNWZVUzQVo2QmdUUXZWQUdsQXdRbUt3Q0dWR0Q3b0NCRHk1S2R5SWQzeElBT3A5OXFGLXFsbGp1WF9FQWxOVGkzbzVwOUFsRXFPRVZpYkRqQk9VekRQaWJNc3FtMjFRMmh5aEhZWFJnUTdVNXU1Yi1Zc2NSbV9YeWZGQXpERHNDXzZ6RnRFczRaN3RLckxpZWtCMER5SXp4MjBlb2g?oc=5",
-        "published": "2026-10-29",
-        "source": "Atlantic Council",
+        "title": "Milei and Argentina’s Two-Speed Economy - Americas Quarterly",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUtubEpaYlFpSGVsVmEtSlZ6UmdMSWpwblVmVEtrSGtLc1JEOC1fQlNJdEhoVHZBR1B6YVBGS3NxSFRvRmFSb25fZmJJS052LXY0d3NKZVdheXB0TFNodzVsOVU5N2VhUGVRamFGaXEwS21zc1g4UWR0RkxBXzJ2TjdKM21GQ1hW?oc=5",
+        "published": "2026-07-13",
+        "source": "Americas Quarterly",
         "topic": "fiscal_balance",
         "entities": []
       }
