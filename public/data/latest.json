@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-09T00:53:27.961694Z",
+  "generated_at": "2026-11-10T03:33:22.566501Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -30,16 +30,6 @@
     }
   },
   "today": [
-    {
-      "title": "Milei approval / 2027",
-      "detail": "Approval Tracker: Argentina's President Javier Milei - AS/COA",
-      "signal": "neutral"
-    },
-    {
-      "title": "Primary fiscal balance",
-      "detail": "Milei and Argentina’s Two-Speed Economy - Americas Quarterly",
-      "signal": "positive"
-    },
     {
       "title": "Big Money",
       "detail": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows - Crude Oil Prices Today | OilPrice.com",
@@ -273,10 +263,10 @@
       ]
     },
     {
-      "title": "TGS plans $100M Perito Moreno expansion to move 4.5M more cubic meters a day - MarketScale",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVktiSW84QnhuWWtvVXhwajhjMkE3bDhyUDkyQTM2bWNnS1l0TG4wczY2MVFyUFF0anRGRUdEUGlHaHZsVU1sV1FrX0dnVjVWai01bFdPM29rTnVMUmVYa3lnWUdwMXhaOHJfbU5QME1sSHBuY0xzbU14a29kcDNyZGI0am5PRVk4M2dPMHFDMVF1clVMbmdvdEJrb0oxbk1TQnFOaWI4NlZnQ19KaFhSOUpJcjVPM3RTa1ZXUA?oc=5",
-      "published": "2026-11-04",
-      "source": "MarketScale",
+      "title": "TGS Reports Higher Nine-Month Revenue Despite Transport Decline - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPR1J3T0NsT1hUT2gtSkUxNUdiUThHR0ZnczFjRXhJbHpmSjEzY2lhYmdnbWZSMTAwazAxRkxRLTlzbVJLdGlwRHpMN2tGTndjSndBUW1sM2xVaGQ2ejNZQ1hCSlRoeDA0NE84RDcyOTk3UTZqSmlPXzB6b2tqZGN5eUE1LVhfdjVNRGs2cGt6LWs2bFJrOWMwZ2lPWWQzQ214LXZpWFJ1Si1FVHJyQXVKZElvNUJ4MnFpZGYtV1lQQm0wNEJyVm1jaElzM1c3WHAtV1pFWWdkZTJaeC1uM2RKMDdMNA?oc=5",
+      "published": "2026-11-06",
+      "source": "The Globe and Mail",
       "topic": "company_news",
       "entities": [
         "TGS"
@@ -303,10 +293,10 @@
       ]
     },
     {
-      "title": "Vista Energy says launch of US$5.8bn RIGI Vaca Muerta oil project possible in 2027 - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYWgwSGtBUkkzYTRQeFJScjVpQXlaamhGZk1jd2swQURacjU4RmhxOVQ1aExpWktpUmR4UjdCQ3ByVkxsWUNTdFNuRHVMa2lhUDdSNUxiNG1vUHNpcTRHQjZ6Q2gtX2hfTmY0cTRMeXRZMUNWNk1MRVo1MXVEXzJEeEpGZllveW9EdklOaVNBYjUtMVhYZUctQndQN2U4Mlh1REhZcVJBQjE3bDJBLUFuYWRIaDdvZw?oc=5",
-      "published": "2026-10-29",
-      "source": "BNamericas",
+      "title": "YPF Files $8.7 Billion RIGI Application for Bajo del Toro, Targeting 80,000 bbl/d in Northern Vaca Muerta - Shale24",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTVRqWUhzQWNTZnA3dmdkM0UwZkQ2aTZ4WlNfSFNVM3A5dzFBVmFkMkQxR1d1dW5iQ0R0S0thcUxUN2dEQS1oM25zQVVGemxrMm9yd0hWV040TXh0TmxMMFNPQWVaSzJSc2xrVk1DQWwzMXdVbTJ4UHlmUzBEOWl5LTU1eXI1aUZpY29LZzlFaWRIMTVmWFEyTHhReDIxemNIaURPWXVMWWRPcnozX1lNVmlMRUxVc3NzYTMxMmFMYkdvS2MyV25IRmtyY0NMVVlobUHSAdcBQVVfeXFMTi1ZaGZrU19GVzB3NTFSb2dUWTdmQllyMEZqU0RyLWxWbHFCbC1vSXFxYVZrX3NST3BHT09hb2NBd0tZd21xMy13cV9JN1ljOVE0Z2w2YThBbE5DaU0tb1Q0Tmtscm1MaXNKVU9iR0dHSGtjV0xGSTUzQnJZUHc3SVVaSGhDSnoyOFNlWGJDWTk3RVQ2MVRwWWxuNGp1LUJnWVdCXzJmOFZZYWM4STc3UV9DcGFONVN5bXFRN0F2c3ZnNlZUeUVfQ0pPV2dlZVR4RWRlUkpfSGc?oc=5",
+      "published": "2026-11-01",
+      "source": "Shale24",
       "topic": "company_news",
       "entities": [
         "VIST"
@@ -323,10 +313,10 @@
       ]
     },
     {
-      "title": "Central Puerto Launches Regulated Treasury Share Buyback on BYMA - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUkR0ckdwRkkyZGtUOHZFNDdodUJ4Y0lmWFQxNC1tWDdvODgzcXB6YUhqZmNvNVhWbEN3dHVzLXJqaVRQU2VIWGU0Rk1hYTVQd29GVmc5UXlqcnVXWVM0WG9PR1o3WmpjZ3BDRG5GVF9POHd3aTZCbWI0Y1ZHT0tuT0otNkVrN0tlck1lWnJDR2lOZXlqQlJPUkRDOVp1eDZld2hYUGItLXM0SnZSTHBqbnM1aFhSOHhERDBQUEZXRUc4MXNPeVhXWGRuNnlvRGVwYW1OeWhsSGl6TUhaeWdlYkZuZw?oc=5",
-      "published": "2026-10-22",
-      "source": "The Globe and Mail",
+      "title": "Argentina's power reform: State of play, outlook for 2027 - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVJyLW1yYWM1VmZPRDZKQk9KTEYxYU8wMUNIYlItUUJEVVdjNGxfcnktclNaeV9XZTg4SUc3MVhUZ29UaVlVWUwyNjFqQkFFQXZyM3NNQVE3U0I2OUZIc2xnNVRPbnlqSGYtU2lveERLcmZweE1DREpZbm1OdG9VSnU0Mmt0dzBFaVNpYWVNRVhTVHN2S21hZWw4Yw?oc=5",
+      "published": "2026-10-28",
+      "source": "BNamericas",
       "topic": "company_news",
       "entities": [
         "CEPU"
@@ -337,6 +327,16 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdlJSdklUeHFBQ0NTRkZtTWprcmZ5ZWN2VkYwYUJCRFJRUFZFc0s5cUtaRGZFdjJKS1VzQVpZX2dJUm1WalhlSjJhSGFjZGZDSDczTi1Vd0xmeWwyeFpjRm5GMzhvaUF6SjY2Mkt4OHlhbXJCS3lSLTktN1FNSXNIRE5nSEM5R0x2T1V6d3pLYmNpV090dldxY0xKUElOTXRx?oc=5",
       "published": "2026-10-21",
       "source": "BNamericas",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
+      ]
+    },
+    {
+      "title": "Vaca Muerta Outperforms US Shale But Faces Cost Hurdles - Hart Energy",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbmdkMUEwYXVEaTZtS01BZGJfV1hTbVNrNlpzaThGNlc3dHR4d29KVEhLMFE4WEtaUVUxNm5CemFZd0xHRUdYb0ZtdUhyMXZWdGk3MW0wM3JKU1lkR3RFcWVwVHJ0SzNoZmZtVElnZXF3Snpiem5fUnVMOEh6bWF6THJva0g4dVJEbVA4UjZYNlhtdzJ1dUxPajN3NGd4UUFYWG9pd1dXTFFmVTN1?oc=5",
+      "published": "2026-10-15",
+      "source": "Hart Energy",
       "topic": "company_news",
       "entities": [
         "PAM"
@@ -360,16 +360,6 @@
       "topic": "company_news",
       "entities": [
         "CEPU"
-      ]
-    },
-    {
-      "title": "Pampa Energia: One Of The Greatest Argentine Bargains (NYSE:PAM) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcjc1MXQ5Ym9yLVZCWDl1b0tuLW5VbVlob2FPTFBQU25WZjNXTklsYzNYMEFJMGtqR3Q1a19KYnp0anBPbFZBUTl3ektqQ0V4Q1ZsdVRyUmJ5Qm9oVmUtckUwODhjNEVWZ0NILXd0WXBOc3Q5RjFJWkxuaUtVTktELVJtT2JWZF9vdGZUNHR2cHFSQnRSaFVBYw?oc=5",
-      "published": "2026-10-10",
-      "source": "Seeking Alpha",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
       ]
     },
     {
