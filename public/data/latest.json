@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-11T01:13:59.736422Z",
+  "generated_at": "2026-11-12T02:16:11.800695Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,18 +31,28 @@
   },
   "today": [
     {
+      "title": "BCRA reserves",
+      "detail": "Official BCRA international reserves.",
+      "signal": "positive"
+    },
+    {
       "title": "Vaca Muerta oil",
-      "detail": "Can Chevron's $13.8B Vaca Muerta Bet Fuel Long-Term Growth? - TradingView",
+      "detail": "Can Chevron's $13.8B Vaca Muerta Bet Fuel Long-Term Growth? - Yahoo Finance",
       "signal": "positive"
     },
     {
       "title": "RIGI approved investment",
-      "detail": "Argentina's next govt to enjoy RIGI 'honeymoon' - BNamericas",
+      "detail": "Argentina LNG applies for RIGI approval - LNG Industry",
       "signal": "positive"
     },
     {
+      "title": "Power demand / reform",
+      "detail": "FES Argentina 2026: executives debate the country\"s new power market for renewables - Energía Estratégica",
+      "signal": "neutral"
+    },
+    {
       "title": "Big Money",
-      "detail": "Can Chevron's $13.8B Vaca Muerta Bet Fuel Long-Term Growth? - TradingView",
+      "detail": "Can Chevron's $13.8B Vaca Muerta Bet Fuel Long-Term Growth? - Yahoo Finance",
       "signal": "positive"
     }
   ],
@@ -102,11 +112,11 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 50.3,
+      "value": 50.44,
       "unit": "USD bn",
-      "period": "2026-11-03",
-      "previous": 49.7,
-      "change": 1.21,
+      "period": "2026-11-04",
+      "previous": 49.41,
+      "change": 2.07,
       "change_unit": "% ~30d",
       "thesis_signal": "positive",
       "status": "fresh",
@@ -116,7 +126,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        49.41,
         48.93,
         48.84,
         48.26,
@@ -145,7 +154,8 @@
         50.16,
         48.56,
         50.44,
-        50.3
+        50.3,
+        50.44
       ]
     },
     {
@@ -191,10 +201,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "Can Chevron's $13.8B Vaca Muerta Bet Fuel Long-Term Growth? - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekNQS3BsdURtVlRjZnZKbTQweDBBUDBFQ0xtdzhaTXBOQlpPX2pFaWZuZnkyY2JTaDgwamZTenI0NW0tYTBldU9aNW5NTTB6ZDZPWjlicEZsdkQ4WGlyNjBjdGNlVFZWRXYwTVVXLUR4REh4VjBhT1RLNDg3MXo0UFZfX1BkRFZSeGMwNTk4OVowMExKUW9ieVhUdnliRnZhMm5nTjdGelBuTE01SUEzaFAtOA?oc=5",
+        "title": "Can Chevron's $13.8B Vaca Muerta Bet Fuel Long-Term Growth? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWI2V3F0TFViSW9UcDV2ZzFQamVJLXpJQ0VLNml2WlJGajZRVzZjQmd0U1JNWTFBQmVSeHQ5MGtnZWwxNmlSOGxzaHc5ZGJOUTFmLWJaVGhCZjNWTG9OQ0RPR1RjcFVtT0hTRjU5anVQQUdTYVA5QTFROXhjN1dyTzc4aGNqNHVmR0xF?oc=5",
         "published": "2026-11-10",
-        "source": "TradingView",
+        "source": "Yahoo Finance",
         "topic": "vaca_muerta_oil",
         "entities": [
           "Chevron"
@@ -219,10 +229,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "Argentina's next govt to enjoy RIGI 'honeymoon' - BNamericas",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTXVuZWNlLTFpR1IyVVFBeWltSDRDS2daN1M2bmxfM0Y2TThWRVdIcHNCQXlsM3BjU0FfWlFjODlLTHpWeDdDbFM5X1daZFlkT1VYSmU3N0hMV0NLM0RpWWRfX2U4bmZQeHVjQ1FRVXFkVGtnTGlEWmREX2ZSb1B5UlpxdVBlYzFYLWdF?oc=5",
-        "published": "2026-11-10",
-        "source": "BNamericas",
+        "title": "Argentina LNG applies for RIGI approval - LNG Industry",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRWpiMEk3VGVyVzR3X2ZxRV9fXzhTRG0yWTZNeUJ6TzVzRm94NzJaUG1UWm1lekFhb1Vtb0p3TUE0WGZVdlNIZnEyTF9wd3Z4RUhrUHUzVzVfREQySllRX1N1R2lhblVLOWkxQ3NOX19vSUFmcHFTcEdvaHZGcGM0ZmpDMW9pMUxHc3V6NnhkS1pZR1A1?oc=5",
+        "published": "2026-08-14",
+        "source": "LNG Industry",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -244,10 +254,10 @@
         "url": "https://cammesaweb.cammesa.com/informe-sintesis-mensual/"
       },
       "latest_event": {
-        "title": "How Argentina's power market reform is progressing - BNamericas",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWVFfQzNpYUktTXNmQTFweTRtbDlFSVE2d0hreFRhWl9jT1k1TjNXY3FTWm8zRVhWWWREQ0RHTFlwLTdZRmwydE15SVRETjJHeVVlc3puZDQxSHhLV3hLLWN0Ynh2TlZwQ2FYSHpNRUxMZ3lqWXhTamhJbHc0eWtTY3M2LUEyQm1pRVpzRHh5RUlscnJG?oc=5",
-        "published": "2026-05-11",
-        "source": "BNamericas",
+        "title": "FES Argentina 2026: executives debate the country\"s new power market for renewables - Energía Estratégica",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd2hTNE5mMDkzUmxmY1hRajlsWmxIT3Zkbkk0YUlvOVhtcjFOdVQ3M0E5VjB6cXJBQUFmNHNISWpVRzV5S3hFQzBfbVAxVTYwMHVJQUlVYkdrZzlPUFNlZnNQbG5fVmJiLWZGZWJqMmxkWFBFRTFCTG4xWV8xRUdxT05IbnNtZGN6Um5UVGZXWURxcUZiYlhWRzFwbS1uOF9WeFczQnpEcW1DTV9mVDNKek9SbUhhSURJTWZ5ZTlrLWxubkNjSjRNSV9TeW1iOTgxWnlr?oc=5",
+        "published": "2026-02-06",
+        "source": "Energía Estratégica",
         "topic": "electricity",
         "entities": []
       }
@@ -255,10 +265,30 @@
   ],
   "news": [
     {
-      "title": "Can Chevron's $13.8B Vaca Muerta Bet Fuel Long-Term Growth? - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekNQS3BsdURtVlRjZnZKbTQweDBBUDBFQ0xtdzhaTXBOQlpPX2pFaWZuZnkyY2JTaDgwamZTenI0NW0tYTBldU9aNW5NTTB6ZDZPWjlicEZsdkQ4WGlyNjBjdGNlVFZWRXYwTVVXLUR4REh4VjBhT1RLNDg3MXo0UFZfX1BkRFZSeGMwNTk4OVowMExKUW9ieVhUdnliRnZhMm5nTjdGelBuTE01SUEzaFAtOA?oc=5",
+      "title": "Argentina Locks in $900 Million for Pipeline to Feed First Large-Scale LNG Exports - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdzZwZ005R1BlM09sdHY0cHhDRkgxTUtKd2M1ZkNfRXZ6cFBDeGc2amxxX0RRLUZ1MEVQbzJ5c0VvQmxCbG96RHdrWnMzeThmTVo3N1dTMEFZNlNWcDRUSkxQRkx3WEJnREVzNXpHQXkxQW93eXlmaEhWZmZ1MVduMFotVmdNWFN0WG9GdHhTWVU5T3NhcXhjMFZ4akNiam5IUE9QMWFJUTlxLU8yclZDajRn?oc=5",
+      "published": "2026-11-11",
+      "source": "EnergyNow.com",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
+      ]
+    },
+    {
+      "title": "Central Puerto S A : Results release (3Q26 Earnings ENG CEPU) - www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb1ZmNlk0Uk5ObUZvb2RGN2VLY2Jya0VKcmJUMnphTHpPY3dzcUs0dk55OWJOV1J6MVNVZkIwQ0hFaG5yUThaUkJ2cGt0dHY0S3ZwVHI1ZUlWYkxZSzhHNVJ1YTdmcGhRLXhuaG5NUXdUOU4wb080Y3B6dThhQ3BFc09rbThCQmktdHA2SXRDME1kcjhSMjRiOUJ3V1NSdnNoUUxybHUyLUZIcjF4MTVr?oc=5",
+      "published": "2026-11-11",
+      "source": "www.marketscreener.com",
+      "topic": "company_news",
+      "entities": [
+        "CEPU"
+      ]
+    },
+    {
+      "title": "Can Chevron's $13.8B Vaca Muerta Bet Fuel Long-Term Growth? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWI2V3F0TFViSW9UcDV2ZzFQamVJLXpJQ0VLNml2WlJGajZRVzZjQmd0U1JNWTFBQmVSeHQ5MGtnZWwxNmlSOGxzaHc5ZGJOUTFmLWJaVGhCZjNWTG9OQ0RPR1RjcFVtT0hTRjU5anVQQUdTYVA5QTFROXhjN1dyTzc4aGNqNHVmR0xF?oc=5",
       "published": "2026-11-10",
-      "source": "TradingView",
+      "source": "Yahoo Finance",
       "topic": "company_news",
       "entities": [
         "VIST"
@@ -295,20 +325,10 @@
       ]
     },
     {
-      "title": "TGS: liquids now generate the same operating income as gas transportation, and the company nearly tripled the funds it allocates to investment - Shale24",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOT3JWSXhEY3RmbHI4WkhKVnFkWE54dkFzNURNT1BPb2JNamxoX3FKOTdjN3ljQmFqcC00UjE2VWpVelNuQVMwY2pkdEQ1YzZKRzBQSmhLazgxd3BaSTI1M1BLQUg4LTJVZFBaZThtZEtQRDBkZmlCbngzOUNLLUZuQ0d4QXlpUkFZRGNPOVJOV2JJQnRtNTlWSEhQbjFEbHRmSDZoUEgxUkFDQkt6RW1rUFpybXBFRjR0X21oeHdfclF3UG5UaFdWM3JsTUllcmRDTEd5cm1PMnpMYlpTME5iVU1DNjQ0YkpWSnI0LXlZUkVDNE1vUW96dHJpSGNnU2xXV004RURzUnZNSmPSAZACQVVfeXFMTzhkVDFKcEk2d013Q18zMi00ckdNTVBGTE9JOHFMZ2pndTMwSVk2SE80ZEU1eTZ5MW5RQjRnQl9ONkRfdnBWdVFJQlY3X3BZbWZPX1IwNVRDRnQxVmxaN0ZaZU1OZlkyOEVJeEVlUk1jMFl2MlpyUWRRQjdHNE1kZ2JET3Fqbk5oQkVlMTk0VXJISmxlSi1FdGJuM2xwVkdmcW40MFFtY2ZOT25aT3loS3V0Zkl5OGdseWJ3dkprcGZJN0Mtb3lZWV9TTGJhbTkzMXJMMGZoVFlVV1RCWEstSi1wX3NVZ05TWWNUcGstSlJhVXNIdEQ2RnFwZ0kzNTlzOGU1TFhNZVJFM0lXanZqWXE?oc=5",
-      "published": "2026-11-02",
-      "source": "Shale24",
-      "topic": "company_news",
-      "entities": [
-        "TGS"
-      ]
-    },
-    {
-      "title": "Vista Energy Posts Surging Q3 2026 Revenues on Vaca Muerta Growth - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQS0ZkNHphZnNmNzZROFVhR0FfY0hwaXZFV21ZbUJ5aFNha2Q2UXgtZlFBdWV1SjlGYjFtWG1HRlBaT2RsTVVKUUhPQWdGZkpoY0Nyd0p4UzljR1pKMks2TGk5VzNnQVY2cnpSWjJBbnhrbHFZSWpoSENDTXlhRDl1d0xhX09FZWtvWEdnVjRsbHBqb1FkWDZaTmI1d0pKSGZYR2tuVXYtWHRLX25qdzNyWGwwMDE0amJxVUFNZ0d5Tng3cnctVjYxX0NRZnJRd1ItdUJKd0FuWGo1WHlmejZrcVVQSWM?oc=5",
+      "title": "Vista Energy says launch of US$5.8bn RIGI Vaca Muerta oil project possible in 2027 - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYWgwSGtBUkkzYTRQeFJScjVpQXlaamhGZk1jd2swQURacjU4RmhxOVQ1aExpWktpUmR4UjdCQ3ByVkxsWUNTdFNuRHVMa2lhUDdSNUxiNG1vUHNpcTRHQjZ6Q2gtX2hfTmY0cTRMeXRZMUNWNk1MRVo1MXVEXzJEeEpGZllveW9EdklOaVNBYjUtMVhYZUctQndQN2U4Mlh1REhZcVJBQjE3bDJBLUFuYWRIaDdvZw?oc=5",
       "published": "2026-10-29",
-      "source": "The Globe and Mail",
+      "source": "BNamericas",
       "topic": "company_news",
       "entities": [
         "VIST"
@@ -325,26 +345,6 @@
       ]
     },
     {
-      "title": "Central Puerto Launches Regulated Treasury Share Buyback on BYMA - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUkR0ckdwRkkyZGtUOHZFNDdodUJ4Y0lmWFQxNC1tWDdvODgzcXB6YUhqZmNvNVhWbEN3dHVzLXJqaVRQU2VIWGU0Rk1hYTVQd29GVmc5UXlqcnVXWVM0WG9PR1o3WmpjZ3BDRG5GVF9POHd3aTZCbWI0Y1ZHT0tuT0otNkVrN0tlck1lWnJDR2lOZXlqQlJPUkRDOVp1eDZld2hYUGItLXM0SnZSTHBqbnM1aFhSOHhERDBQUEZXRUc4MXNPeVhXWGRuNnlvRGVwYW1OeWhsSGl6TUhaeWdlYkZuZw?oc=5",
-      "published": "2026-10-22",
-      "source": "The Globe and Mail",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
-      "title": "Neuquén names winners in Vaca Muerta oil and gas licensing round - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdlJSdklUeHFBQ0NTRkZtTWprcmZ5ZWN2VkYwYUJCRFJRUFZFc0s5cUtaRGZFdjJKS1VzQVpZX2dJUm1WalhlSjJhSGFjZGZDSDczTi1Vd0xmeWwyeFpjRm5GMzhvaUF6SjY2Mkt4OHlhbXJCS3lSLTktN1FNSXNIRE5nSEM5R0x2T1V6d3pLYmNpV090dldxY0xKUElOTXRx?oc=5",
-      "published": "2026-10-21",
-      "source": "BNamericas",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
       "title": "Vaca Muerta Outperforms US Shale But Faces Cost Hurdles - Hart Energy",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbmdkMUEwYXVEaTZtS01BZGJfV1hTbVNrNlpzaThGNlc3dHR4d29KVEhLMFE4WEtaUVUxNm5CemFZd0xHRUdYb0ZtdUhyMXZWdGk3MW0wM3JKU1lkR3RFcWVwVHJ0SzNoZmZtVElnZXF3Snpiem5fUnVMOEh6bWF6THJva0g4dVJEbVA4UjZYNlhtdzJ1dUxPajN3NGd4UUFYWG9pd1dXTFFmVTN1?oc=5",
       "published": "2026-10-15",
@@ -352,6 +352,16 @@
       "topic": "company_news",
       "entities": [
         "PAM"
+      ]
+    },
+    {
+      "title": "ValuEngine Energy Sector Analysis - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55S2hhekg4U1YxQi1lM3JscVhzT2x2S1VTUmJiM19KZFAycjFoWll3Q3Ruam4wSlBVM3lfci16eEtadHYxWVFSbldBMnBtZWZLUzFVTDVBWm0zdjFjV0d5SHp3M2NWVlh3azFPSkZCUGQxRzduNjdPU2ZHMGR3WHM?oc=5",
+      "published": "2026-10-15",
+      "source": "Seeking Alpha",
+      "topic": "company_news",
+      "entities": [
+        "TGS"
       ]
     },
     {
@@ -379,6 +389,17 @@
       "source": "Yahoo Finance",
       "topic": "big_money",
       "entities": []
+    },
+    {
+      "title": "Continental Resources, Mercuria envision equal partnership JV to boost Vaca Muerta oil production - Oil & Gas Journal",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZklST29qRmx1ekpyYUV3UFRtSHFKbWlZS2ZqbUljY1JpUkNzLURRS25MS0tTNV9rbDJmOVFPN0c4N1dmUWNOV0hUTU5qSVl5dmE0U2dhR2NDRTg4YW5yYVRWekZlLWxtbF9pXzB0RzFqdl8tMWdQYW52WFpNTjZwX2lDOGtyd1kxY2c0STZWc2NGbWxydndycjlFaDdSd1pzbzdkTnI3RjNneTF1ejI4R2lnTE9YUVB4eUJUYm1zYzM0M0dQSkp0QnBJNzJPUlJ6OExVNmE0ZUlTS052ZS1tMg?oc=5",
+      "published": "2026-08-20",
+      "source": "Oil & Gas Journal",
+      "topic": "vaca_muerta_oil",
+      "entities": [
+        "Hamm",
+        "Mercuria"
+      ]
     },
     {
       "title": "Continental to Buy 50 Pct of Mercuria Argentina Oil Firm - Rigzone",
