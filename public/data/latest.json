@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-14T01:26:34.695707Z",
+  "generated_at": "2026-11-15T01:01:22.667048Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,29 +31,14 @@
   },
   "today": [
     {
-      "title": "Milei approval / 2027",
-      "detail": "Popularity of Argentine’s Milei slips as unemployment becomes top concern: Poll - Anadolu Ajansı",
+      "title": "Power demand / reform",
+      "detail": "YPF Luz, Power Generation Company in Argentina, Files for NYSE IPO - TradingView",
       "signal": "neutral"
     },
     {
-      "title": "Inflation",
-      "detail": "Official national monthly CPI variation.",
+      "title": "Big Money",
+      "detail": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows - Crude Oil Prices Today | OilPrice.com",
       "signal": "neutral"
-    },
-    {
-      "title": "BCRA reserves",
-      "detail": "Official BCRA international reserves.",
-      "signal": "positive"
-    },
-    {
-      "title": "Vaca Muerta oil",
-      "detail": "Argentina's Oil Production Soars as Vaca Muerta Breaks New Records - Crude Oil Prices Today | OilPrice.com",
-      "signal": "positive"
-    },
-    {
-      "title": "RIGI approved investment",
-      "detail": "TGS US$3.2bn liquids project expands Argentina's midstream RIGI portfolio - BNamericas",
-      "signal": "positive"
     }
   ],
   "metrics": [
@@ -252,10 +237,10 @@
         "url": "https://cammesaweb.cammesa.com/informe-sintesis-mensual/"
       },
       "latest_event": {
-        "title": "FES Argentina 2026: executives debate the country\"s new power market for renewables - Energía Estratégica",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd2hTNE5mMDkzUmxmY1hRajlsWmxIT3Zkbkk0YUlvOVhtcjFOdVQ3M0E5VjB6cXJBQUFmNHNISWpVRzV5S3hFQzBfbVAxVTYwMHVJQUlVYkdrZzlPUFNlZnNQbG5fVmJiLWZGZWJqMmxkWFBFRTFCTG4xWV8xRUdxT05IbnNtZGN6Um5UVGZXWURxcUZiYlhWRzFwbS1uOF9WeFczQnpEcW1DTV9mVDNKek9SbUhhSURJTWZ5ZTlrLWxubkNjSjRNSV9TeW1iOTgxWnlr?oc=5",
-        "published": "2026-02-06",
-        "source": "Energía Estratégica",
+        "title": "YPF Luz, Power Generation Company in Argentina, Files for NYSE IPO - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON25EcDhYOHM4ZkFzenpmSkVLXzF6aTRJQW1Xd2FvNWxBXzlPTFVVMDhoMkhUWmxRM0ZZR0M3SEhmd3JnRXBkc0lsLUNaLVdmaU9URzZoeFpiRVoyeVl0RzFVcUJpS0wtY01jM2hjOEU3MkRNZllMekh0SUVYSDdtODN6VXRuR0dTNlJURTlaU3BfdVZocUxuTXhWWmJ2UjhjMF96UjVQVkE4aV9JYU1xNURBMmlfMjhxS3dDbktLOFhNM1k4?oc=5",
+        "published": "2026-07-13",
+        "source": "TradingView",
         "topic": "electricity",
         "entities": []
       }
@@ -263,13 +248,23 @@
   ],
   "news": [
     {
-      "title": "What Central Puerto (CEPU) Said on Its Q3 Earnings Call - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGVTTzlDdHVGUGhVRWpDMmRsZnJ5Mzk4bXRrN0FEYjNFNXl3ejhjd1ZsbHZTUTZDb2ExdUp4dUFiZU9YRzZSbUhwT1p3R2ROMXZHSGhfVmh0aGxJU0hhV0ZWTW1sUHdTQ1NEOGMyaUpBMUlGczNkZllReEhZNWN1M3VtMXJBX0lyelpEU0JadGZoQzg3SUZuOUs0ZTd4YmkwbkwwdnRKZENoRnRqbFA5ZEprdVI?oc=5",
+      "title": "What Central Puerto (CEPU) Said on Its Q3 Earnings Call - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXEyeXA0QkljRGVXY1p1dFFISGlheGpTVXpHcDhIaURONnBVdDZKRGxyUTdWeFk0VUg3TXctUmpod29iWmU3ZlRiY2ZfeDJfRjJyV3VWY0hjTXFHdnYzeU9XUWY3U1poYUo4ekhDUlNjOXZLZFZSak5EWnB3aHRjRWFLQjJrRTR0VVNiMGpmUlRMMnhobmJWaWwxSGdrNDR0N3loWUl4aFRFZFJLTk4zd1p5cFRPZ1ZVZXc?oc=5",
       "published": "2026-11-13",
-      "source": "TradingView",
+      "source": "MarketBeat",
       "topic": "company_news",
       "entities": [
         "CEPU"
+      ]
+    },
+    {
+      "title": "TGS US$3.2bn liquids project expands Argentina's midstream RIGI portfolio - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQTY2M1pQa0sxVlloTmhoOGVWMnY4N2NzSGhNUXlUQXhUdjJaNmlHOF9OelRGaGI5VXhtTHBSeHpxU3VpdFUtdHVhUnlKUVVyQUUtV3BLRzhhZHB2VFMtV2tYdFFteVJxRDZQa2N1ajNXbm9ub2VHa2U4M0Z3dUpzU3huUFl6SmpHcmFfelBJTTJFWXFvRkVZLUkweXN1d0hpcDUzbkJmLUpGMFF6V2c?oc=5",
+      "published": "2026-11-13",
+      "source": "BNamericas",
+      "topic": "company_news",
+      "entities": [
+        "TGS"
       ]
     },
     {
@@ -277,16 +272,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
       "published": "2026-11-12",
       "source": "EnergyNow.com",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
-      "title": "Vaca Muerta debutante Central Puerto confirms RIGI push, outlines strategy - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNkx5MFZpNV9SazRYaXhURW15Nl8zcXFDd2FsVDZ6Ynd0SEVzMXJ4MWE3OExZZm45eWdvdm1jTnR2X3hRRzl0NEZjemZERm5JZnRpTTE0eV9UaVZQNVJTWkMyeU1RN1RwUVdRNXVVYWdudG82R3lGU3ZKangxVnR5QmluUmtZbWRTR0VEZ3g3VkRXMlFJLTdVU3JRY3ZsOXZxZDFxaFJUaEQ0ZDVaMGdKUXZn?oc=5",
-      "published": "2026-11-12",
-      "source": "BNamericas",
       "topic": "company_news",
       "entities": [
         "PAM"
@@ -313,13 +298,13 @@
       ]
     },
     {
-      "title": "TGS Reports Higher Nine-Month Revenue Despite Transport Decline - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPR1J3T0NsT1hUT2gtSkUxNUdiUThHR0ZnczFjRXhJbHpmSjEzY2lhYmdnbWZSMTAwazAxRkxRLTlzbVJLdGlwRHpMN2tGTndjSndBUW1sM2xVaGQ2ejNZQ1hCSlRoeDA0NE84RDcyOTk3UTZqSmlPXzB6b2tqZGN5eUE1LVhfdjVNRGs2cGt6LWs2bFJrOWMwZ2lPWWQzQ214LXZpWFJ1Si1FVHJyQXVKZElvNUJ4MnFpZGYtV1lQQm0wNEJyVm1jaElzM1c3WHAtV1pFWWdkZTJaeC1uM2RKMDdMNA?oc=5",
-      "published": "2026-11-06",
-      "source": "The Globe and Mail",
+      "title": "CATL opens Argentina office, supplies 1,025 MWh of batteries - ESS News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkcxYzYtUTZLeXhmU2RPel9RWTdleWdGWGFYbnhiRzJ5R1BIVWtIR2dzZ3Q2eno0MTFvQkdDUGdGaUJtUzY3MlpZMlFaR3hzRHI1R0RYVTR5TTJxMl9BUmhhUWRHWGVKQUkzbG55S241U3FIUnZTN1pFaDhuYUZFWGxrYlVZT3lWWWhBNl9jRTI0M1BWRVdneUdERQ?oc=5",
+      "published": "2026-11-03",
+      "source": "ESS News",
       "topic": "company_news",
       "entities": [
-        "TGS"
+        "CEPU"
       ]
     },
     {
@@ -343,16 +328,6 @@
       ]
     },
     {
-      "title": "Central Puerto (NYSE:CEPU) Reaches New 12-Month Low - Here's What Happened - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkZCU2daU2JLRjNIN0R3YWw0azBnR2R2c19oRVJJSUo4YWN1REpHNl9DMEl2RW5mdXFsbF9DNmtpUnQtaGU5Z0YydmdUTTBZOGdjakFOY00zbUxDcXZfLWdlRVZSTUZaRVl2ZnZVYmlkaENuUE1JSTg0VF9ydWpRdWVxZHpvSWJQOF93dnJmZzk2cVJnWTE4SnQ0TXdSU2w5alFBejJFWnQ4VXRtVC1fMmVXbXBkemF2U1JGVnpqSHdHOGJ1ZkZaSA?oc=5",
-      "published": "2026-11-02",
-      "source": "MarketBeat",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
       "title": "Vista Energy says launch of US$5.8bn RIGI Vaca Muerta oil project possible in 2027 - BNamericas",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYWgwSGtBUkkzYTRQeFJScjVpQXlaamhGZk1jd2swQURacjU4RmhxOVQ1aExpWktpUmR4UjdCQ3ByVkxsWUNTdFNuRHVMa2lhUDdSNUxiNG1vUHNpcTRHQjZ6Q2gtX2hfTmY0cTRMeXRZMUNWNk1MRVo1MXVEXzJEeEpGZllveW9EdklOaVNBYjUtMVhYZUctQndQN2U4Mlh1REhZcVJBQjE3bDJBLUFuYWRIaDdvZw?oc=5",
       "published": "2026-10-29",
@@ -373,10 +348,20 @@
       ]
     },
     {
-      "title": "Vaca Muerta Outperforms US Shale But Faces Cost Hurdles - Hart Energy",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbmdkMUEwYXVEaTZtS01BZGJfV1hTbVNrNlpzaThGNlc3dHR4d29KVEhLMFE4WEtaUVUxNm5CemFZd0xHRUdYb0ZtdUhyMXZWdGk3MW0wM3JKU1lkR3RFcWVwVHJ0SzNoZmZtVElnZXF3Snpiem5fUnVMOEh6bWF6THJva0g4dVJEbVA4UjZYNlhtdzJ1dUxPajN3NGd4UUFYWG9pd1dXTFFmVTN1?oc=5",
-      "published": "2026-10-15",
-      "source": "Hart Energy",
+      "title": "Vaca Muerta pipeline raises US$234 million - Latin Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KOENMZE9JZXdvU2h6Qk0wSEsxM01MSS1LUHY0VklNZ1h0SjJBYVBaMHVBNy1WNlZOTENSUUlzN1hJYXN3YTYtOWFlbnBoRFNuSkZPbldZbnZYc2NaS2NPUkw1ZWlnOWxzbHVtOGtUTmtFQW1IUmhqQVo5eW9jdw?oc=5",
+      "published": "2026-10-23",
+      "source": "Latin Lawyer",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
+      ]
+    },
+    {
+      "title": "Saipem Returns to Profertil to Design Urea Expansion Built on Vaca Muerta Gas - Shale24",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2pZdUpoSUpBM01lb3ZfZFM0N1VldEdZRGgwTzdOVTNBN2VKNzQ1WW5KN3NQTzRBOW9nWGhZMERycmk5eHZKX0Z6VGt4SEUyem1WWE1mVFM4ZXZSSG1EalNhbUNrYXlacEVONUN2WWlURVN1ZG1QWGZJRFRnQzNkc0VpM1kzb1lNTENKbF9vMThXeGNoWjYtV2VlUy0tSm55OUJ0RDk5QnlYY0QzZzQzUk12by1FUndtaUZIMm9XSdIBxAFBVV95cUxNcnZRZXQ0NjdBQ0ZfVXFLcy16bVlWQm9MM0FSOXBJVmV0Z2VzUi1QWjc5eURnYjFWWnhFeXNSd2p0amZsVzgwenlzQUZocDI4bXdYc2FqNURUQ0hxd2xTT2xwSjROSDhVN3FYUzBGckZka3FZTGRXX2xkS0pNZEZBQVozU3l6Q201NW9uUjQ3Q2RFeVBYR1lhS0JCazBXRGhxSDVpOVkwWnZIVnRPRWhLZUJKSFdhemctS3FpcmsxcXBWb1JG?oc=5",
+      "published": "2026-10-16",
+      "source": "Shale24",
       "topic": "company_news",
       "entities": [
         "PAM"
