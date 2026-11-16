@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-15T01:01:22.667048Z",
+  "generated_at": "2026-11-16T01:00:39.947499Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,9 +31,14 @@
   },
   "today": [
     {
-      "title": "Power demand / reform",
-      "detail": "YPF Luz, Power Generation Company in Argentina, Files for NYSE IPO - TradingView",
-      "signal": "neutral"
+      "title": "Primary fiscal balance",
+      "detail": "How Milei Defused Argentina's Hyperinflation Bomb - Reason Magazine",
+      "signal": "positive"
+    },
+    {
+      "title": "RIGI approved investment",
+      "detail": "Argentina LNG applies for RIGI approval - LNG Industry",
+      "signal": "positive"
     },
     {
       "title": "Big Money",
@@ -160,10 +165,10 @@
         "url": "https://www.argentina.gob.ar/economia/politicafiscal"
       },
       "latest_event": {
-        "title": "Milei and Argentina’s Two-Speed Economy - Americas Quarterly",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUtubEpaYlFpSGVsVmEtSlZ6UmdMSWpwblVmVEtrSGtLc1JEOC1fQlNJdEhoVHZBR1B6YVBGS3NxSFRvRmFSb25fZmJJS052LXY0d3NKZVdheXB0TFNodzVsOVU5N2VhUGVRamFGaXEwS21zc1g4UWR0RkxBXzJ2TjdKM21GQ1hW?oc=5",
-        "published": "2026-07-13",
-        "source": "Americas Quarterly",
+        "title": "How Milei Defused Argentina's Hyperinflation Bomb - Reason Magazine",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVmpwZ3R0SjItUEdEMXF2LW5ZdXRQR0ZzUEdpbkZ0aGFZMmRYTWV5LXlHekxVMEtwWG5EMzItQ0ZXeFdyTEZ3dnM5dmR5dzliSl93cm5JU2lRaXFmY1ZVWi1MSWRNSTAwYms5WndhWHNrclpQcnhHMEdVX1J0RFFwTHhXQU9aUQ?oc=5",
+        "published": "2026-11-08",
+        "source": "Reason Magazine",
         "topic": "fiscal_balance",
         "entities": []
       }
@@ -212,10 +217,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "TGS US$3.2bn liquids project expands Argentina's midstream RIGI portfolio - BNamericas",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQTY2M1pQa0sxVlloTmhoOGVWMnY4N2NzSGhNUXlUQXhUdjJaNmlHOF9OelRGaGI5VXhtTHBSeHpxU3VpdFUtdHVhUnlKUVVyQUUtV3BLRzhhZHB2VFMtV2tYdFFteVJxRDZQa2N1ajNXbm9ub2VHa2U4M0Z3dUpzU3huUFl6SmpHcmFfelBJTTJFWXFvRkVZLUkweXN1d0hpcDUzbkJmLUpGMFF6V2c?oc=5",
-        "published": "2026-11-13",
-        "source": "BNamericas",
+        "title": "Argentina LNG applies for RIGI approval - LNG Industry",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRWpiMEk3VGVyVzR3X2ZxRV9fXzhTRG0yWTZNeUJ6TzVzRm94NzJaUG1UWm1lekFhb1Vtb0p3TUE0WGZVdlNIZnEyTF9wd3Z4RUhrUHUzVzVfREQySllRX1N1R2lhblVLOWkxQ3NOX19vSUFmcHFTcEdvaHZGcGM0ZmpDMW9pMUxHc3V6NnhkS1pZR1A1?oc=5",
+        "published": "2026-08-14",
+        "source": "LNG Industry",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -248,6 +253,16 @@
   ],
   "news": [
     {
+      "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
+      "published": "2026-11-14",
+      "source": "EnergyNow.com",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
+      ]
+    },
+    {
       "title": "What Central Puerto (CEPU) Said on Its Q3 Earnings Call - MarketBeat",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXEyeXA0QkljRGVXY1p1dFFISGlheGpTVXpHcDhIaURONnBVdDZKRGxyUTdWeFk0VUg3TXctUmpod29iWmU3ZlRiY2ZfeDJfRjJyV3VWY0hjTXFHdnYzeU9XUWY3U1poYUo4ekhDUlNjOXZLZFZSak5EWnB3aHRjRWFLQjJrRTR0VVNiMGpmUlRMMnhobmJWaWwxSGdrNDR0N3loWUl4aFRFZFJLTk4zd1p5cFRPZ1ZVZXc?oc=5",
       "published": "2026-11-13",
@@ -258,23 +273,13 @@
       ]
     },
     {
-      "title": "TGS US$3.2bn liquids project expands Argentina's midstream RIGI portfolio - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQTY2M1pQa0sxVlloTmhoOGVWMnY4N2NzSGhNUXlUQXhUdjJaNmlHOF9OelRGaGI5VXhtTHBSeHpxU3VpdFUtdHVhUnlKUVVyQUUtV3BLRzhhZHB2VFMtV2tYdFFteVJxRDZQa2N1ajNXbm9ub2VHa2U4M0Z3dUpzU3huUFl6SmpHcmFfelBJTTJFWXFvRkVZLUkweXN1d0hpcDUzbkJmLUpGMFF6V2c?oc=5",
-      "published": "2026-11-13",
-      "source": "BNamericas",
+      "title": "Can Chevron's $13.8B Vaca Muerta Bet Fuel Long-Term Growth? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWI2V3F0TFViSW9UcDV2ZzFQamVJLXpJQ0VLNml2WlJGajZRVzZjQmd0U1JNWTFBQmVSeHQ5MGtnZWwxNmlSOGxzaHc5ZGJOUTFmLWJaVGhCZjNWTG9OQ0RPR1RjcFVtT0hTRjU5anVQQUdTYVA5QTFROXhjN1dyTzc4aGNqNHVmR0xF?oc=5",
+      "published": "2026-11-10",
+      "source": "Yahoo Finance",
       "topic": "company_news",
       "entities": [
-        "TGS"
-      ]
-    },
-    {
-      "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
-      "published": "2026-11-12",
-      "source": "EnergyNow.com",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
+        "VIST"
       ]
     },
     {
@@ -298,6 +303,16 @@
       ]
     },
     {
+      "title": "TGS Plans $100M Expansion Project to Boost Argentina’s Perito Moreno Gas Pipeline Capacity - Pipeline Technology Journal",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeGpZejk2dkE5dG1GbGhkMHRnRVJHMDBXTUpKSHNxb0VYeEViNkRKdEI2dVZBUHRSZnhKWDQ5eDd5Mko3OGdBNWFJQXBHcU5VSUhqWS1NWjdWRmN0TWdXVE1TeWkyamxCdTFBdjNlWE5hVDR5NU41dDFBYTRfbXYxWkdtNHBIR2lUMGhDM3VfR19HeGJzTlB5TUhlOVBadUpaQ1NGXzVRTFpIMks5UFFfMTZMYW5jWU1mRHJDR0xDQ3M?oc=5",
+      "published": "2026-11-03",
+      "source": "Pipeline Technology Journal",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
+      ]
+    },
+    {
       "title": "CATL opens Argentina office, supplies 1,025 MWh of batteries - ESS News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkcxYzYtUTZLeXhmU2RPel9RWTdleWdGWGFYbnhiRzJ5R1BIVWtIR2dzZ3Q2eno0MTFvQkdDUGdGaUJtUzY3MlpZMlFaR3hzRHI1R0RYVTR5TTJxMl9BUmhhUWRHWGVKQUkzbG55S241U3FIUnZTN1pFaDhuYUZFWGxrYlVZT3lWWWhBNl9jRTI0M1BWRVdneUdERQ?oc=5",
       "published": "2026-11-03",
@@ -308,20 +323,20 @@
       ]
     },
     {
-      "title": "TGS Plans $100M Expansion Project to Boost Argentina’s Perito Moreno Gas Pipeline Capacity - Pipeline Technology Journal",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeGpZejk2dkE5dG1GbGhkMHRnRVJHMDBXTUpKSHNxb0VYeEViNkRKdEI2dVZBUHRSZnhKWDQ5eDd5Mko3OGdBNWFJQXBHcU5VSUhqWS1NWjdWRmN0TWdXVE1TeWkyamxCdTFBdjNlWE5hVDR5NU41dDFBYTRfbXYxWkdtNHBIR2lUMGhDM3VfR19HeGJzTlB5TUhlOVBadUpaQ1NGXzVRTFpIMks5UFFfMTZMYW5jWU1mRHJDR0xDQ3M?oc=5",
+      "title": "TGS plans $100M Perito Moreno expansion to move 4.5M more cubic meters a day - MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVktiSW84QnhuWWtvVXhwajhjMkE3bDhyUDkyQTM2bWNnS1l0TG4wczY2MVFyUFF0anRGRUdEUGlHaHZsVU1sV1FrX0dnVjVWai01bFdPM29rTnVMUmVYa3lnWUdwMXhaOHJfbU5QME1sSHBuY0xzbU14a29kcDNyZGI0am5PRVk4M2dPMHFDMVF1clVMbmdvdEJrb0oxbk1TQnFOaWI4NlZnQ19KaFhSOUpJcjVPM3RTa1ZXUA?oc=5",
       "published": "2026-11-03",
-      "source": "Pipeline Technology Journal",
+      "source": "MarketScale",
       "topic": "company_news",
       "entities": [
         "TGS"
       ]
     },
     {
-      "title": "TGS plans $100M Perito Moreno expansion to move 4.5M more cubic meters a day - MarketScale",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVktiSW84QnhuWWtvVXhwajhjMkE3bDhyUDkyQTM2bWNnS1l0TG4wczY2MVFyUFF0anRGRUdEUGlHaHZsVU1sV1FrX0dnVjVWai01bFdPM29rTnVMUmVYa3lnWUdwMXhaOHJfbU5QME1sSHBuY0xzbU14a29kcDNyZGI0am5PRVk4M2dPMHFDMVF1clVMbmdvdEJrb0oxbk1TQnFOaWI4NlZnQ19KaFhSOUpJcjVPM3RTa1ZXUA?oc=5",
-      "published": "2026-11-03",
-      "source": "MarketScale",
+      "title": "TGS: liquids now generate the same operating income as gas transportation, and the company nearly tripled the funds it allocates to investment - Shale24",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOT3JWSXhEY3RmbHI4WkhKVnFkWE54dkFzNURNT1BPb2JNamxoX3FKOTdjN3ljQmFqcC00UjE2VWpVelNuQVMwY2pkdEQ1YzZKRzBQSmhLazgxd3BaSTI1M1BLQUg4LTJVZFBaZThtZEtQRDBkZmlCbngzOUNLLUZuQ0d4QXlpUkFZRGNPOVJOV2JJQnRtNTlWSEhQbjFEbHRmSDZoUEgxUkFDQkt6RW1rUFpybXBFRjR0X21oeHdfclF3UG5UaFdWM3JsTUllcmRDTEd5cm1PMnpMYlpTME5iVU1DNjQ0YkpWSnI0LXlZUkVDNE1vUW96dHJpSGNnU2xXV004RURzUnZNSmPSAZACQVVfeXFMTzhkVDFKcEk2d013Q18zMi00ckdNTVBGTE9JOHFMZ2pndTMwSVk2SE80ZEU1eTZ5MW5RQjRnQl9ONkRfdnBWdVFJQlY3X3BZbWZPX1IwNVRDRnQxVmxaN0ZaZU1OZlkyOEVJeEVlUk1jMFl2MlpyUWRRQjdHNE1kZ2JET3Fqbk5oQkVlMTk0VXJISmxlSi1FdGJuM2xwVkdmcW40MFFtY2ZOT25aT3loS3V0Zkl5OGdseWJ3dkprcGZJN0Mtb3lZWV9TTGJhbTkzMXJMMGZoVFlVV1RCWEstSi1wX3NVZ05TWWNUcGstSlJhVXNIdEQ2RnFwZ0kzNTlzOGU1TFhNZVJFM0lXanZqWXE?oc=5",
+      "published": "2026-11-02",
+      "source": "Shale24",
       "topic": "company_news",
       "entities": [
         "TGS"
@@ -338,30 +353,10 @@
       ]
     },
     {
-      "title": "Vista Energy Posts Surging Q3 2026 Revenues on Vaca Muerta Growth - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQS0ZkNHphZnNmNzZROFVhR0FfY0hwaXZFV21ZbUJ5aFNha2Q2UXgtZlFBdWV1SjlGYjFtWG1HRlBaT2RsTVVKUUhPQWdGZkpoY0Nyd0p4UzljR1pKMks2TGk5VzNnQVY2cnpSWjJBbnhrbHFZSWpoSENDTXlhRDl1d0xhX09FZWtvWEdnVjRsbHBqb1FkWDZaTmI1d0pKSGZYR2tuVXYtWHRLX25qdzNyWGwwMDE0amJxVUFNZ0d5Tng3cnctVjYxX0NRZnJRd1ItdUJKd0FuWGo1WHlmejZrcVVQSWM?oc=5",
-      "published": "2026-10-29",
-      "source": "The Globe and Mail",
-      "topic": "company_news",
-      "entities": [
-        "VIST"
-      ]
-    },
-    {
-      "title": "Vaca Muerta pipeline raises US$234 million - Latin Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KOENMZE9JZXdvU2h6Qk0wSEsxM01MSS1LUHY0VklNZ1h0SjJBYVBaMHVBNy1WNlZOTENSUUlzN1hJYXN3YTYtOWFlbnBoRFNuSkZPbldZbnZYc2NaS2NPUkw1ZWlnOWxzbHVtOGtUTmtFQW1IUmhqQVo5eW9jdw?oc=5",
-      "published": "2026-10-23",
-      "source": "Latin Lawyer",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
-      "title": "Saipem Returns to Profertil to Design Urea Expansion Built on Vaca Muerta Gas - Shale24",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2pZdUpoSUpBM01lb3ZfZFM0N1VldEdZRGgwTzdOVTNBN2VKNzQ1WW5KN3NQTzRBOW9nWGhZMERycmk5eHZKX0Z6VGt4SEUyem1WWE1mVFM4ZXZSSG1EalNhbUNrYXlacEVONUN2WWlURVN1ZG1QWGZJRFRnQzNkc0VpM1kzb1lNTENKbF9vMThXeGNoWjYtV2VlUy0tSm55OUJ0RDk5QnlYY0QzZzQzUk12by1FUndtaUZIMm9XSdIBxAFBVV95cUxNcnZRZXQ0NjdBQ0ZfVXFLcy16bVlWQm9MM0FSOXBJVmV0Z2VzUi1QWjc5eURnYjFWWnhFeXNSd2p0amZsVzgwenlzQUZocDI4bXdYc2FqNURUQ0hxd2xTT2xwSjROSDhVN3FYUzBGckZka3FZTGRXX2xkS0pNZEZBQVozU3l6Q201NW9uUjQ3Q2RFeVBYR1lhS0JCazBXRGhxSDVpOVkwWnZIVnRPRWhLZUJKSFdhemctS3FpcmsxcXBWb1JG?oc=5",
-      "published": "2026-10-16",
-      "source": "Shale24",
+      "title": "What Pampa Energía Doubters Overlooked - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGJIVVo2Rmx1THR2T1d0eUFmN00tVkdZRTY0QU1zMnFLMXNrQlhqbHpFNEVCNXROSVRvNmtULThraGp0ZFhfQVNDUUk0a056YmgwRUdia1Z6Q3NUMWF5SlNrOFRmdWduY1EyTDNUTHhOdHZJdlFmN0Z5TEVPZ2lmY0VFWkExemxUOXh2NzlZQnZpQQ?oc=5",
+      "published": "2026-10-19",
+      "source": "Yahoo Finance",
       "topic": "company_news",
       "entities": [
         "PAM"
