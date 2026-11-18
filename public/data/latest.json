@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-17T03:51:56.879411Z",
+  "generated_at": "2026-11-18T02:53:21.860457Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,29 +31,29 @@
   },
   "today": [
     {
+      "title": "Milei approval / 2027",
+      "detail": "Argentina’s Javier Milei clashes with his government’s most popular leader - Financial Times",
+      "signal": "neutral"
+    },
+    {
       "title": "BCRA reserves",
       "detail": "Official BCRA international reserves.",
       "signal": "positive"
     },
     {
-      "title": "Primary fiscal balance",
-      "detail": "Milei and Argentina’s Two-Speed Economy - Americas Quarterly",
-      "signal": "positive"
-    },
-    {
       "title": "RIGI approved investment",
-      "detail": "16 approved RIGI projects; official committed investment total.",
+      "detail": "Super RIGI: Argentina’s New Investment Incentive - Latinvex",
       "signal": "positive"
     },
     {
       "title": "Power demand / reform",
-      "detail": "CAMMESA monthly system report published for 2026-09; live MW endpoint unavailable this run.",
+      "detail": "Argentina's energy storage growth engines - BNamericas",
       "signal": "neutral"
     },
     {
       "title": "Big Money",
-      "detail": "Continental Resources, Mercuria envision equal partnership JV to boost Vaca Muerta oil production - Oil & Gas Journal",
-      "signal": "positive"
+      "detail": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows - Crude Oil Prices Today | OilPrice.com",
+      "signal": "neutral"
     }
   ],
   "metrics": [
@@ -74,10 +74,10 @@
         "url": "https://news.google.com/"
       },
       "latest_event": {
-        "title": "Popularity of Argentine’s Milei slips as unemployment becomes top concern: Poll - Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQVhhZzdTTHNiNF91SDUwRFBsU09SSVJ1VDEyUkhTR2Q4cENteFBQYVhkZ1hYWkp2ZEd3b3owd2ZzcUQ0dGJidXJ3Q2p2QUpIQ0hZS3JQNGVuMDN2ZkwzY0E4SzUwTGE3OEdvRzREYnIybWVBX0Q4TVFxdXMtOUV5Q203OTAteFJzVXdqNDBrYWZXMkJmNV9kS0xTS0hPQ2g0bk52LWRYcGVXZm9aVU5MMncxVkljQ2ow?oc=5",
-        "published": "2026-11-13",
-        "source": "Anadolu Ajansı",
+        "title": "Argentina’s Javier Milei clashes with his government’s most popular leader - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMjktcmFEUmRJS3NKdm5XZ2hjbko0UmtSN2p6bXBLYlIyaXhJVGNWQ244cl9jWFp4LVZSNHdCSWM0MThza3RQWUdLSS1RcGE5alBmdmtCNDdmdWI5OUNibnZzbUhxeDhtLU00Zm9UdERJMV9NeXdEbkwyTGNKLXpDajlCQWI?oc=5",
+        "published": "2026-11-14",
+        "source": "Financial Times",
         "topic": "politics",
         "entities": []
       }
@@ -112,11 +112,11 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 49.07,
+      "value": 49.6,
       "unit": "USD bn",
-      "period": "2026-11-12",
-      "previous": 48.26,
-      "change": 1.7,
+      "period": "2026-11-13",
+      "previous": 47.96,
+      "change": 3.42,
       "change_unit": "% ~30d",
       "thesis_signal": "positive",
       "status": "fresh",
@@ -126,7 +126,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        47.96,
         47.48,
         46.09,
         48.29,
@@ -155,7 +154,8 @@
         50.44,
         49.59,
         49.34,
-        49.07
+        49.07,
+        49.6
       ]
     },
     {
@@ -225,7 +225,15 @@
         "name": "Ministerio de Economía · RIGI",
         "url": "https://www.argentina.gob.ar/noticias/el-ministerio-de-economia-lanzo-una-web-oficial-con-la-informacion-de-los-proyectos-del"
       },
-      "project_count": 16
+      "project_count": 16,
+      "latest_event": {
+        "title": "Super RIGI: Argentina’s New Investment Incentive - Latinvex",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pc19jNTVYZnZ6bE9VcnpyZDBOdTJweUtJQlkycHRCSzFzSVNQV01lbVcxWGY5SkYyd24wM3RaZDZKbjRzTjg4dW9SNmpxdThhdTdzWE9GM0thMWt0VTJDWVZfdEZUMEdTVk5tcWFscWRMZnZFc0VB?oc=5",
+        "published": "2026-07-01",
+        "source": "Latinvex",
+        "topic": "rigi_investment",
+        "entities": []
+      }
     },
     {
       "id": "electricity",
@@ -242,10 +250,38 @@
       "source": {
         "name": "CAMMESA monthly report",
         "url": "https://cammesaweb.cammesa.com/informe-sintesis-mensual/"
+      },
+      "latest_event": {
+        "title": "Argentina's energy storage growth engines - BNamericas",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNTRUT0ZNcnZ6cEQtd3M0S1NKb0Rubi0ybkhFSVRweVJLZ0xKX2dWTTNUYnowZ3B6VklydTM5RXRLdFhWcjZVLTdpbjZoN1J1ck5PWUYzcmNnZFB2SF8wa2hUWGhzbUQxb1VCQjNrcWpJaW9hNDI1MG1ndTVIcXgxUkRWbm9TQQ?oc=5",
+        "published": "2026-05-25",
+        "source": "BNamericas",
+        "topic": "electricity",
+        "entities": []
       }
     }
   ],
   "news": [
+    {
+      "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
+      "published": "2026-11-17",
+      "source": "EnergyNow.com",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
+      ]
+    },
+    {
+      "title": "Argentina’s Energy Boom to Extend Surge of Bond Sales Into 2027 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbVBxU2E1el83THE3eDd0bzQzVnd1cFJIZTAtbWFTdThQZDVuYzNDNGx1ZlhkX2xMTVBWVlU1T3FDNGF0eFdCQ0VqNFBnbTAtUTRoRWdpNHA2azA5STk3MDJjWFEzVDhnd0lCYWJ1ZDliWnRJbTdnXy1HaTlSZ3BoeDRKQlVVZ1dYTWxoNnZUSVBjdWhRTGx5bHZjTnZQNHVsVkR0Uk5GMHBZR3VkcWRVc0x3V3E?oc=5",
+      "published": "2026-11-17",
+      "source": "Bloomberg.com",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
+      ]
+    },
     {
       "title": "Can Chevron's $13.8B Vaca Muerta Bet Fuel Long-Term Growth? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWI2V3F0TFViSW9UcDV2ZzFQamVJLXpJQ0VLNml2WlJGajZRVzZjQmd0U1JNWTFBQmVSeHQ5MGtnZWwxNmlSOGxzaHc5ZGJOUTFmLWJaVGhCZjNWTG9OQ0RPR1RjcFVtT0hTRjU5anVQQUdTYVA5QTFROXhjN1dyTzc4aGNqNHVmR0xF?oc=5",
@@ -277,6 +313,16 @@
       ]
     },
     {
+      "title": "TGS Plans $100M Expansion Project to Boost Argentina’s Perito Moreno Gas Pipeline Capacity - Pipeline Technology Journal",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeGpZejk2dkE5dG1GbGhkMHRnRVJHMDBXTUpKSHNxb0VYeEViNkRKdEI2dVZBUHRSZnhKWDQ5eDd5Mko3OGdBNWFJQXBHcU5VSUhqWS1NWjdWRmN0TWdXVE1TeWkyamxCdTFBdjNlWE5hVDR5NU41dDFBYTRfbXYxWkdtNHBIR2lUMGhDM3VfR19HeGJzTlB5TUhlOVBadUpaQ1NGXzVRTFpIMks5UFFfMTZMYW5jWU1mRHJDR0xDQ3M?oc=5",
+      "published": "2026-11-03",
+      "source": "Pipeline Technology Journal",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
+      ]
+    },
+    {
       "title": "CATL opens Argentina office, supplies 1,025 MWh of batteries - ESS News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkcxYzYtUTZLeXhmU2RPel9RWTdleWdGWGFYbnhiRzJ5R1BIVWtIR2dzZ3Q2eno0MTFvQkdDUGdGaUJtUzY3MlpZMlFaR3hzRHI1R0RYVTR5TTJxMl9BUmhhUWRHWGVKQUkzbG55S241U3FIUnZTN1pFaDhuYUZFWGxrYlVZT3lWWWhBNl9jRTI0M1BWRVdneUdERQ?oc=5",
       "published": "2026-11-03",
@@ -284,6 +330,16 @@
       "topic": "company_news",
       "entities": [
         "CEPU"
+      ]
+    },
+    {
+      "title": "TGS plans $100M Perito Moreno expansion to move 4.5M more cubic meters a day - MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVktiSW84QnhuWWtvVXhwajhjMkE3bDhyUDkyQTM2bWNnS1l0TG4wczY2MVFyUFF0anRGRUdEUGlHaHZsVU1sV1FrX0dnVjVWai01bFdPM29rTnVMUmVYa3lnWUdwMXhaOHJfbU5QME1sSHBuY0xzbU14a29kcDNyZGI0am5PRVk4M2dPMHFDMVF1clVMbmdvdEJrb0oxbk1TQnFOaWI4NlZnQ19KaFhSOUpJcjVPM3RTa1ZXUA?oc=5",
+      "published": "2026-11-03",
+      "source": "MarketScale",
+      "topic": "company_news",
+      "entities": [
+        "TGS"
       ]
     },
     {
@@ -297,6 +353,16 @@
       ]
     },
     {
+      "title": "TGS: liquids now generate the same operating income as gas transportation, and the company nearly tripled the funds it allocates to investment - Shale24",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOT3JWSXhEY3RmbHI4WkhKVnFkWE54dkFzNURNT1BPb2JNamxoX3FKOTdjN3ljQmFqcC00UjE2VWpVelNuQVMwY2pkdEQ1YzZKRzBQSmhLazgxd3BaSTI1M1BLQUg4LTJVZFBaZThtZEtQRDBkZmlCbngzOUNLLUZuQ0d4QXlpUkFZRGNPOVJOV2JJQnRtNTlWSEhQbjFEbHRmSDZoUEgxUkFDQkt6RW1rUFpybXBFRjR0X21oeHdfclF3UG5UaFdWM3JsTUllcmRDTEd5cm1PMnpMYlpTME5iVU1DNjQ0YkpWSnI0LXlZUkVDNE1vUW96dHJpSGNnU2xXV004RURzUnZNSmPSAZACQVVfeXFMTzhkVDFKcEk2d013Q18zMi00ckdNTVBGTE9JOHFMZ2pndTMwSVk2SE80ZEU1eTZ5MW5RQjRnQl9ONkRfdnBWdVFJQlY3X3BZbWZPX1IwNVRDRnQxVmxaN0ZaZU1OZlkyOEVJeEVlUk1jMFl2MlpyUWRRQjdHNE1kZ2JET3Fqbk5oQkVlMTk0VXJISmxlSi1FdGJuM2xwVkdmcW40MFFtY2ZOT25aT3loS3V0Zkl5OGdseWJ3dkprcGZJN0Mtb3lZWV9TTGJhbTkzMXJMMGZoVFlVV1RCWEstSi1wX3NVZ05TWWNUcGstSlJhVXNIdEQ2RnFwZ0kzNTlzOGU1TFhNZVJFM0lXanZqWXE?oc=5",
+      "published": "2026-11-02",
+      "source": "Shale24",
+      "topic": "company_news",
+      "entities": [
+        "TGS"
+      ]
+    },
+    {
       "title": "Vista Energy says launch of US$5.8bn RIGI Vaca Muerta oil project possible in 2027 - BNamericas",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYWgwSGtBUkkzYTRQeFJScjVpQXlaamhGZk1jd2swQURacjU4RmhxOVQ1aExpWktpUmR4UjdCQ3ByVkxsWUNTdFNuRHVMa2lhUDdSNUxiNG1vUHNpcTRHQjZ6Q2gtX2hfTmY0cTRMeXRZMUNWNk1MRVo1MXVEXzJEeEpGZllveW9EdklOaVNBYjUtMVhYZUctQndQN2U4Mlh1REhZcVJBQjE3bDJBLUFuYWRIaDdvZw?oc=5",
       "published": "2026-10-29",
@@ -307,6 +373,22 @@
       ]
     },
     {
+      "title": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWFtb2NsWXYxdTNnNXRZdG1wYzJ4dnV4VnJEZWVnX3BMcVN1bGtTNHVUSHNqRC1Wb0djWEp1MHlTaW1JZVJtMGpRNU9iQzM4c2IzZzRHUFlvWTlyTUgwTmttNExLUGtNZEdCS3IyQXNqMWwwdDRGajktSXhnRF9OZUpFNzJLTkc3UGJBR0ZFU2RCdzRzVnFDNzRLVVlpRDZQeGVMQkVrUGhvd9IBrwFBVV95cUxPeHNkUWx4eWdMREluckh4d0JZRnVJNmxNR1lDY3VLYTE2UEd1T1VaNTd6NUJHMW9qVU1kWlR3ZEJ1bkNhUHZDOE9fem9RZ294ZjRtSzhNeDlvVEh2QkZIOFBRS3dIWkpDbUtaOVZsUmctOEhWUUJOOEtFbUM2VDR1S2UzZGk2SS1sblJTanFxbWFzWnhSRmRkVUtlREg2ZDVLNUc4WHBEenJoRlBFSENN?oc=5",
+      "published": "2026-09-16",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "topic": "big_money",
+      "entities": []
+    },
+    {
+      "title": "U.S. Billionaires Are Piling Into Argentina’s Vaca Muerta Shale - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUDZreFF5Nm5GNjNSV1puQ3VwY3pNWFlLNEQ1NFdZQlpTTVB4elVlY3k0ei1LZ1FSVnN6RTRGcEYwb2xKSHNzdFZGVjBFbzltbjlyUWdNeFFRZWt1NmMtT1p6ODZWMHQzVE9VR3RTZnAzMUYyeHYzTU5pYi10UjB1RkUxaTM1YjFFU1cwbjJNb1UwR3JWR0NVYw?oc=5",
+      "published": "2026-08-21",
+      "source": "Yahoo Finance",
+      "topic": "big_money",
+      "entities": []
+    },
+    {
       "title": "Continental Resources, Mercuria envision equal partnership JV to boost Vaca Muerta oil production - Oil & Gas Journal",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZklST29qRmx1ekpyYUV3UFRtSHFKbWlZS2ZqbUljY1JpUkNzLURRS25MS0tTNV9rbDJmOVFPN0c4N1dmUWNOV0hUTU5qSVl5dmE0U2dhR2NDRTg4YW5yYVRWekZlLWxtbF9pXzB0RzFqdl8tMWdQYW52WFpNTjZwX2lDOGtyd1kxY2c0STZWc2NGbWxydndycjlFaDdSd1pzbzdkTnI3RjNneTF1ejI4R2lnTE9YUVB4eUJUYm1zYzM0M0dQSkp0QnBJNzJPUlJ6OExVNmE0ZUlTS052ZS1tMg?oc=5",
       "published": "2026-08-20",
@@ -315,6 +397,46 @@
       "entities": [
         "Hamm",
         "Mercuria"
+      ]
+    },
+    {
+      "title": "Continental to Buy 50 Pct of Mercuria Argentina Oil Firm - Rigzone",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzVsSlhGNEJBZ2ZSanlxbHIwVDR6dEJqdEhJam1zMDBSdWRIQ2xQWGNqcV90VWszTFlSbF9udHVlUWxXWnFvZVdnSlpwYVFRVm1yVnRnTWFRSm1KaTliNk05WndVQVA2WWVuZk1TMTVpb3k0TnpMRDd2UGVqLXJYLXdmQlVmY0xuVEZjMkNjU2JBVnRsQk5EaktDNzRKbGcwR1QyZkQxSGlwUVJqM3k0blRCWEhVWmNlakE?oc=5",
+      "published": "2026-08-20",
+      "source": "Rigzone",
+      "topic": "big_money",
+      "entities": [
+        "Mercuria"
+      ]
+    },
+    {
+      "title": "Harold Hamm launches multibillion-dollar plan to drill Argentine shale - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3M3blVUenNmcURyRHhiaC1rN3M0a0c2TER1NzN0MkhqTENXX3F6Nmx3ZG1LeDd5dEFDX3hXeGhEcnRydlZpbDhkMU5ndzhwbVl1eWJKUHdEd3daUmhHVlRkb0tLeHViTXlqbjNfTWlqWG50MlYySVZURmwzVDBYcF9aSU0?oc=5",
+      "published": "2026-08-20",
+      "source": "Financial Times",
+      "topic": "big_money",
+      "entities": [
+        "Hamm"
+      ]
+    },
+    {
+      "title": "Tech Titan Peter Thiel Bets on Argentina’s Vaca Muerta Shale - Natural Gas Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0NmZGxwc2twN2UxcE1pdUpJMTZqYTV2WEJ1TDAxMjg0NXpna01HbzlTbU5xeFgxaFBEUHcybjBsTkxxS2YyR3pTLWFoR2hKWXYyY2NpRExaN294Z0Q1RW5NTDhZSDB5MVFvaUhlZVQ2Q0J5QzV6UWVPYUZRanl2UXNDWE5lSjA0Z0FOS28xZkEtNFJjcGZLdw?oc=5",
+      "published": "2026-08-18",
+      "source": "Natural Gas Intelligence",
+      "topic": "big_money",
+      "entities": [
+        "Thiel"
+      ]
+    },
+    {
+      "title": "Billionaire Peter Thiel wanders into Vaca Muerta after buying stake in Argentina operator - Upstream Online",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQT2E1czI4NlhWZVVmWEhXelVBYURTajdUbURuOGt1anhlUE5oLVo1eTQ3OXhlV3ZGYVJsc2tqcFgxUWdDbEFsdEFlM3NTOEVUbEZXcnVMalREMVJrMWRtNVY4enR2enZfTnV3a1VQa21tdGNpWVppcEpQTEJpelo4bG5FclJaLTJadU1qOUUwMzJxdF91QXk4eDMwT0FmZWdkWGhFVm11eUo1V25TcDFVVjVSc0RtNnppV1dFOVB1MFJCZ1R0TnNEMEJ2X2FJNThOTHAxbA?oc=5",
+      "published": "2026-08-17",
+      "source": "Upstream Online",
+      "topic": "big_money",
+      "entities": [
+        "Thiel"
       ]
     }
   ],
@@ -351,8 +473,8 @@
     },
     {
       "name": "News: politics",
-      "ok": false,
-      "note": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "note": "6 items"
     },
     {
       "name": "News: fiscal_balance",
@@ -366,18 +488,18 @@
     },
     {
       "name": "News: rigi_investment",
-      "ok": false,
-      "note": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "note": "6 items"
     },
     {
       "name": "News: electricity",
-      "ok": false,
-      "note": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "note": "6 items"
     },
     {
       "name": "News: big_money",
-      "ok": false,
-      "note": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "note": "6 items"
     },
     {
       "name": "Stock news: VIST",
@@ -386,8 +508,8 @@
     },
     {
       "name": "Stock news: PAM",
-      "ok": false,
-      "note": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "note": "3 items"
     },
     {
       "name": "Stock news: CEPU",
@@ -396,8 +518,8 @@
     },
     {
       "name": "Stock news: TGS",
-      "ok": false,
-      "note": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "note": "3 items"
     }
   ],
   "stock_watch": [
