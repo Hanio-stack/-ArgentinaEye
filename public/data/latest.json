@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-18T02:53:21.860457Z",
+  "generated_at": "2026-11-19T02:32:36.082460Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,18 +31,8 @@
   },
   "today": [
     {
-      "title": "Milei approval / 2027",
-      "detail": "Argentina’s Javier Milei clashes with his government’s most popular leader - Financial Times",
-      "signal": "neutral"
-    },
-    {
       "title": "BCRA reserves",
       "detail": "Official BCRA international reserves.",
-      "signal": "positive"
-    },
-    {
-      "title": "RIGI approved investment",
-      "detail": "Super RIGI: Argentina’s New Investment Incentive - Latinvex",
       "signal": "positive"
     },
     {
@@ -112,11 +102,11 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 49.6,
+      "value": 49.47,
       "unit": "USD bn",
-      "period": "2026-11-13",
-      "previous": 47.96,
-      "change": 3.42,
+      "period": "2026-11-16",
+      "previous": 47.48,
+      "change": 4.2,
       "change_unit": "% ~30d",
       "thesis_signal": "positive",
       "status": "fresh",
@@ -126,7 +116,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        47.48,
         46.09,
         48.29,
         48.66,
@@ -155,7 +144,8 @@
         49.59,
         49.34,
         49.07,
-        49.6
+        49.6,
+        49.47
       ]
     },
     {
@@ -241,12 +231,12 @@
       "label": "Power demand / reform",
       "value": null,
       "unit": null,
-      "period": "2026-09",
+      "period": "2026-10",
       "previous": null,
       "change": null,
       "thesis_signal": "neutral",
       "status": "fresh",
-      "detail": "CAMMESA monthly system report published for 2026-09; live MW endpoint unavailable this run.",
+      "detail": "CAMMESA monthly system report published for 2026-10; live MW endpoint unavailable this run.",
       "source": {
         "name": "CAMMESA monthly report",
         "url": "https://cammesaweb.cammesa.com/informe-sintesis-mensual/"
@@ -263,6 +253,26 @@
   ],
   "news": [
     {
+      "title": "Thiel Doubles Down on Vaca Muerta as Trump Calls Venezuela an \"Acquisition\" - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWGJCaVVNR3RXUWVWaUw1NmplYWR2ZmwzRlg3a1VZNFpONnFTRzc4aHJtdjZTZEdJU2xBam5aVDFHQUVQWk1PY2Q4SUVXY1JMS1BKczhtelg5cW5nVXdWMXhYSjZnb1QyM05ybFpOZkxEdTFESzlTN0V4YjhyM0syZlpjbFZJaUd3VVJ2LWEzN2tNWjBEVFpKdUZRNURqLVBVM0lyc3E5MDR0TWpuUWZzc0VMS3piRXRzTjZtZW16WXYxaDRQdXVsd9IBzgFBVV95cUxOdi1KLUg0YTdVUEhKM2VyazhRU2dJd0VqY2FfNTJzbS1aVzJjbksySHJTVzR4Z2Y0eElFWl9taUNITHdHN2UzNEJUZXdwZVpmeDNvTmxjNVYzVTdwbllVUlNoNF9kc1BHZ0twY1hCcFM1YnVNUHdUUHV6a0FzSWJ3S3VFMFpfd29HUHRnLUpjRHpURjloTVpMR2NrNFpPdlNyTkxueUtGaFZyY0xGRFVxLVdiZGpCQnpzN3RyM1ZHZ1N6OVZoTmtWQ1NucXd0Zw?oc=5",
+      "published": "2026-11-18",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "topic": "company_news",
+      "entities": [
+        "VIST"
+      ]
+    },
+    {
+      "title": "Argentine generator Pampa Energía sets up AI data center unit - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQU4wMS1FOXh3N2ZMdWpCenZnXzI0eW9YbWRKWkhPa0ZTdnhlclNYZXRHR3o3THdxQXdwQy1Ta2t6VnVoeUMyM2ZtN00zN3ZxVDFxbmNVOE0yaXNoaGNnZTU1OThGaG1ZOFBtQ3c2Zlp5YnhkS0ZBcVZVWHhaMmNteUt2dklTTldLbDY5eUtUcl9qWERGQkVrRm1xci0?oc=5",
+      "published": "2026-11-18",
+      "source": "BNamericas",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
+      ]
+    },
+    {
       "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
       "published": "2026-11-17",
@@ -273,23 +283,23 @@
       ]
     },
     {
-      "title": "Argentina’s Energy Boom to Extend Surge of Bond Sales Into 2027 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbVBxU2E1el83THE3eDd0bzQzVnd1cFJIZTAtbWFTdThQZDVuYzNDNGx1ZlhkX2xMTVBWVlU1T3FDNGF0eFdCQ0VqNFBnbTAtUTRoRWdpNHA2azA5STk3MDJjWFEzVDhnd0lCYWJ1ZDliWnRJbTdnXy1HaTlSZ3BoeDRKQlVVZ1dYTWxoNnZUSVBjdWhRTGx5bHZjTnZQNHVsVkR0Uk5GMHBZR3VkcWRVc0x3V3E?oc=5",
-      "published": "2026-11-17",
-      "source": "Bloomberg.com",
+      "title": "What Central Puerto (CEPU) Said on Its Q3 Earnings Call - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXEyeXA0QkljRGVXY1p1dFFISGlheGpTVXpHcDhIaURONnBVdDZKRGxyUTdWeFk0VUg3TXctUmpod29iWmU3ZlRiY2ZfeDJfRjJyV3VWY0hjTXFHdnYzeU9XUWY3U1poYUo4ekhDUlNjOXZLZFZSak5EWnB3aHRjRWFLQjJrRTR0VVNiMGpmUlRMMnhobmJWaWwxSGdrNDR0N3loWUl4aFRFZFJLTk4zd1p5cFRPZ1ZVZXc?oc=5",
+      "published": "2026-11-13",
+      "source": "MarketBeat",
       "topic": "company_news",
       "entities": [
-        "PAM"
+        "CEPU"
       ]
     },
     {
-      "title": "Can Chevron's $13.8B Vaca Muerta Bet Fuel Long-Term Growth? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWI2V3F0TFViSW9UcDV2ZzFQamVJLXpJQ0VLNml2WlJGajZRVzZjQmd0U1JNWTFBQmVSeHQ5MGtnZWwxNmlSOGxzaHc5ZGJOUTFmLWJaVGhCZjNWTG9OQ0RPR1RjcFVtT0hTRjU5anVQQUdTYVA5QTFROXhjN1dyTzc4aGNqNHVmR0xF?oc=5",
-      "published": "2026-11-10",
-      "source": "Yahoo Finance",
+      "title": "TGS US$3.2bn liquids project expands Argentina's midstream RIGI portfolio - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQTY2M1pQa0sxVlloTmhoOGVWMnY4N2NzSGhNUXlUQXhUdjJaNmlHOF9OelRGaGI5VXhtTHBSeHpxU3VpdFUtdHVhUnlKUVVyQUUtV3BLRzhhZHB2VFMtV2tYdFFteVJxRDZQa2N1ajNXbm9ub2VHa2U4M0Z3dUpzU3huUFl6SmpHcmFfelBJTTJFWXFvRkVZLUkweXN1d0hpcDUzbkJmLUpGMFF6V2c?oc=5",
+      "published": "2026-11-13",
+      "source": "BNamericas",
       "topic": "company_news",
       "entities": [
-        "VIST"
+        "TGS"
       ]
     },
     {
@@ -337,26 +347,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVktiSW84QnhuWWtvVXhwajhjMkE3bDhyUDkyQTM2bWNnS1l0TG4wczY2MVFyUFF0anRGRUdEUGlHaHZsVU1sV1FrX0dnVjVWai01bFdPM29rTnVMUmVYa3lnWUdwMXhaOHJfbU5QME1sSHBuY0xzbU14a29kcDNyZGI0am5PRVk4M2dPMHFDMVF1clVMbmdvdEJrb0oxbk1TQnFOaWI4NlZnQ19KaFhSOUpJcjVPM3RTa1ZXUA?oc=5",
       "published": "2026-11-03",
       "source": "MarketScale",
-      "topic": "company_news",
-      "entities": [
-        "TGS"
-      ]
-    },
-    {
-      "title": "Central Puerto (NYSE:CEPU) Reaches New 12-Month Low - Here's What Happened - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkZCU2daU2JLRjNIN0R3YWw0azBnR2R2c19oRVJJSUo4YWN1REpHNl9DMEl2RW5mdXFsbF9DNmtpUnQtaGU5Z0YydmdUTTBZOGdjakFOY00zbUxDcXZfLWdlRVZSTUZaRVl2ZnZVYmlkaENuUE1JSTg0VF9ydWpRdWVxZHpvSWJQOF93dnJmZzk2cVJnWTE4SnQ0TXdSU2w5alFBejJFWnQ4VXRtVC1fMmVXbXBkemF2U1JGVnpqSHdHOGJ1ZkZaSA?oc=5",
-      "published": "2026-11-02",
-      "source": "MarketBeat",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
-      "title": "TGS: liquids now generate the same operating income as gas transportation, and the company nearly tripled the funds it allocates to investment - Shale24",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOT3JWSXhEY3RmbHI4WkhKVnFkWE54dkFzNURNT1BPb2JNamxoX3FKOTdjN3ljQmFqcC00UjE2VWpVelNuQVMwY2pkdEQ1YzZKRzBQSmhLazgxd3BaSTI1M1BLQUg4LTJVZFBaZThtZEtQRDBkZmlCbngzOUNLLUZuQ0d4QXlpUkFZRGNPOVJOV2JJQnRtNTlWSEhQbjFEbHRmSDZoUEgxUkFDQkt6RW1rUFpybXBFRjR0X21oeHdfclF3UG5UaFdWM3JsTUllcmRDTEd5cm1PMnpMYlpTME5iVU1DNjQ0YkpWSnI0LXlZUkVDNE1vUW96dHJpSGNnU2xXV004RURzUnZNSmPSAZACQVVfeXFMTzhkVDFKcEk2d013Q18zMi00ckdNTVBGTE9JOHFMZ2pndTMwSVk2SE80ZEU1eTZ5MW5RQjRnQl9ONkRfdnBWdVFJQlY3X3BZbWZPX1IwNVRDRnQxVmxaN0ZaZU1OZlkyOEVJeEVlUk1jMFl2MlpyUWRRQjdHNE1kZ2JET3Fqbk5oQkVlMTk0VXJISmxlSi1FdGJuM2xwVkdmcW40MFFtY2ZOT25aT3loS3V0Zkl5OGdseWJ3dkprcGZJN0Mtb3lZWV9TTGJhbTkzMXJMMGZoVFlVV1RCWEstSi1wX3NVZ05TWWNUcGstSlJhVXNIdEQ2RnFwZ0kzNTlzOGU1TFhNZVJFM0lXanZqWXE?oc=5",
-      "published": "2026-11-02",
-      "source": "Shale24",
       "topic": "company_news",
       "entities": [
         "TGS"
