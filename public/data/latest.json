@@ -1,31 +1,31 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-20T02:18:02.951231Z",
+  "generated_at": "2026-11-21T02:12:03.116780Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
-      "score": 73.5,
+      "score": 71.2,
       "confidence": 1.0
     },
     "vist": {
       "label": "VIST",
-      "score": 76.9,
+      "score": 76.3,
       "confidence": 1.0
     },
     "cepu": {
       "label": "CEPU",
-      "score": 64.0,
+      "score": 63.5,
       "confidence": 1.0
     },
     "pam": {
       "label": "PAM",
-      "score": 74.1,
+      "score": 73.5,
       "confidence": 1.0
     },
     "tgs": {
       "label": "TGS",
-      "score": 80.0,
+      "score": 79.5,
       "confidence": 1.0
     }
   },
@@ -36,24 +36,19 @@
       "signal": "positive"
     },
     {
-      "title": "Primary fiscal balance",
-      "detail": "How Milei Defused Argentina's Hyperinflation Bomb - Reason Magazine",
-      "signal": "positive"
-    },
-    {
       "title": "Vaca Muerta oil",
-      "detail": "Can Chevron's $13.8B Vaca Muerta Bet Fuel Long-Term Growth? - Yahoo Finance",
+      "detail": "Argentina's Oil Production Soars as Vaca Muerta Breaks New Records - Crude Oil Prices Today | OilPrice.com",
       "signal": "positive"
     },
     {
       "title": "RIGI approved investment",
-      "detail": "Argentina Approves MARA’s Entry into the RIGI with US$6.394 Billion Investment - Panorama Minero",
+      "detail": "Super RIGI: Argentina’s New Investment Incentive - Latinvex",
       "signal": "positive"
     },
     {
       "title": "Big Money",
-      "detail": "Can Chevron's $13.8B Vaca Muerta Bet Fuel Long-Term Growth? - Yahoo Finance",
-      "signal": "positive"
+      "detail": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows - Crude Oil Prices Today | OilPrice.com",
+      "signal": "neutral"
     }
   ],
   "metrics": [
@@ -112,11 +107,11 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 49.74,
+      "value": 49.55,
       "unit": "USD bn",
-      "period": "2026-11-17",
-      "previous": 46.09,
-      "change": 7.92,
+      "period": "2026-11-18",
+      "previous": 48.29,
+      "change": 2.62,
       "change_unit": "% ~30d",
       "thesis_signal": "positive",
       "status": "fresh",
@@ -126,7 +121,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        48.29,
         48.66,
         48.8,
         49.12,
@@ -155,7 +149,8 @@
         49.07,
         49.6,
         49.47,
-        49.74
+        49.74,
+        49.55
       ]
     },
     {
@@ -201,14 +196,12 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "Can Chevron's $13.8B Vaca Muerta Bet Fuel Long-Term Growth? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWI2V3F0TFViSW9UcDV2ZzFQamVJLXpJQ0VLNml2WlJGajZRVzZjQmd0U1JNWTFBQmVSeHQ5MGtnZWwxNmlSOGxzaHc5ZGJOUTFmLWJaVGhCZjNWTG9OQ0RPR1RjcFVtT0hTRjU5anVQQUdTYVA5QTFROXhjN1dyTzc4aGNqNHVmR0xF?oc=5",
-        "published": "2026-11-10",
-        "source": "Yahoo Finance",
+        "title": "Argentina's Oil Production Soars as Vaca Muerta Breaks New Records - Crude Oil Prices Today | OilPrice.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0docWpQVUw2ajU2MTJ5eXhKVnJwcU94SGJUOWJHWGQycGxwZVVZOW5Rc1MzWUYycUh3Yk82UkpTdTM3SE80ZzZjUlo1RlUzTGxmWVZNZlBDMnFJU1pRdU5KQmp6Y2V1Wm41eXpoNXF6UWY1V3o1cFB1OGJMNUNtVkNiclYtOXc5UXR5d3VQZl8xSTNtV2RIWU0xRy1Yb2JFN1JEUTJ4NXFYMk1CRkNudmlfRdIBuAFBVV95cUxOV19oeGNJQUVTSEpna1ZfeGp0NGhrTG1ldW9uSlFfZmZwS1pzNVJ2SlFvNnV1dTRpVVlLNldiU1VicVpGSFJUalp3aVg0cFdRVzhzMl9DbTNneVhkX191RGRCbklod0pVMFdZcEpxMHpDNUZlRXk3aEY4US1GdmdQN3plRWlzYjVhNUU3MWJmVkw0M2gtc1NlV3FyRVJ4OFBUQV9ybkx0R0I2VmNONFZtNkRUbW9HQmN4?oc=5",
+        "published": "2026-07-26",
+        "source": "Crude Oil Prices Today | OilPrice.com",
         "topic": "vaca_muerta_oil",
-        "entities": [
-          "Chevron"
-        ]
+        "entities": []
       }
     },
     {
@@ -229,10 +222,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "Argentina Approves MARA’s Entry into the RIGI with US$6.394 Billion Investment - Panorama Minero",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY2FYeDZJR3Z2RnBEWDNYNXE0UUM0ODNJemxXam93bUtnX3lPdjI1djh2SE14TDExV2hEc0oyRXlxZmlvLUVIR3M0M2JvTjgyYnFBQlVJVi1QdnczYWpmS1NzeXNSSUxnWWFELUl5QllFSXhtSDlQTlNmcm9kSDJqcTM1cDR0RS0zMXBiR2ltdlJrdVlHV3hPYkZqU3RmaFVqZkxLdUluYWlSTERHQm9FbnBTMEpTQzNFWEE?oc=5",
-        "published": "2026-10-28",
-        "source": "Panorama Minero",
+        "title": "Super RIGI: Argentina’s New Investment Incentive - Latinvex",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pc19jNTVYZnZ6bE9VcnpyZDBOdTJweUtJQlkycHRCSzFzSVNQV01lbVcxWGY5SkYyd24wM3RaZDZKbjRzTjg4dW9SNmpxdThhdTdzWE9GM0thMWt0VTJDWVZfdEZUMEdTVk5tcWFscWRMZnZFc0VB?oc=5",
+        "published": "2026-07-01",
+        "source": "Latinvex",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -275,20 +268,20 @@
       ]
     },
     {
-      "title": "Argentine generator Pampa Energía sets up AI data center unit - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQU4wMS1FOXh3N2ZMdWpCenZnXzI0eW9YbWRKWkhPa0ZTdnhlclNYZXRHR3o3THdxQXdwQy1Ta2t6VnVoeUMyM2ZtN00zN3ZxVDFxbmNVOE0yaXNoaGNnZTU1OThGaG1ZOFBtQ3c2Zlp5YnhkS0ZBcVZVWHhaMmNteUt2dklTTldLbDY5eUtUcl9qWERGQkVrRm1xci0?oc=5",
-      "published": "2026-11-18",
-      "source": "BNamericas",
+      "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
+      "published": "2026-11-19",
+      "source": "EnergyNow.com",
       "topic": "company_news",
       "entities": [
         "PAM"
       ]
     },
     {
-      "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
-      "published": "2026-11-17",
-      "source": "EnergyNow.com",
+      "title": "Argentine generator Pampa Energía sets up AI data center unit - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQU4wMS1FOXh3N2ZMdWpCenZnXzI0eW9YbWRKWkhPa0ZTdnhlclNYZXRHR3o3THdxQXdwQy1Ta2t6VnVoeUMyM2ZtN00zN3ZxVDFxbmNVOE0yaXNoaGNnZTU1OThGaG1ZOFBtQ3c2Zlp5YnhkS0ZBcVZVWHhaMmNteUt2dklTTldLbDY5eUtUcl9qWERGQkVrRm1xci0?oc=5",
+      "published": "2026-11-18",
+      "source": "BNamericas",
       "topic": "company_news",
       "entities": [
         "PAM"
@@ -302,16 +295,6 @@
       "topic": "company_news",
       "entities": [
         "CEPU"
-      ]
-    },
-    {
-      "title": "Can Chevron's $13.8B Vaca Muerta Bet Fuel Long-Term Growth? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWI2V3F0TFViSW9UcDV2ZzFQamVJLXpJQ0VLNml2WlJGajZRVzZjQmd0U1JNWTFBQmVSeHQ5MGtnZWwxNmlSOGxzaHc5ZGJOUTFmLWJaVGhCZjNWTG9OQ0RPR1RjcFVtT0hTRjU5anVQQUdTYVA5QTFROXhjN1dyTzc4aGNqNHVmR0xF?oc=5",
-      "published": "2026-11-10",
-      "source": "Yahoo Finance",
-      "topic": "vaca_muerta_oil",
-      "entities": [
-        "Chevron"
       ]
     },
     {
@@ -385,16 +368,6 @@
       ]
     },
     {
-      "title": "EXCLUSIVE: Chevron uses Permian playbook to breathe life into Argentina’s ‘Dead Cow’ oil region - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNExqRXFMam8wTEFHalRwVDJneUltbGcxRnpHdUp5QkhLVzBqTjdlWmRaeG0xY3ZTSlRxanBEOU9JZHRyNi04ZTVlZHE0V1BBU2l0NDJESVRFazNxdXlwV2xwVzY2WklGTDV0NEdfcFVBMzFYMTFqSnJhWDhOR0pWSFptNGEzNTI0aW1mbkpKTzQtUURKck96RXBTV2JEUzVqeUI4QTJDdllDc1ZfUFBpUk54RldTUmd3Y25feF9xUDRKVFo2Z29sTWpn?oc=5",
-      "published": "2026-10-23",
-      "source": "Reuters",
-      "topic": "vaca_muerta_oil",
-      "entities": [
-        "Chevron"
-      ]
-    },
-    {
       "title": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows - Crude Oil Prices Today | OilPrice.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWFtb2NsWXYxdTNnNXRZdG1wYzJ4dnV4VnJEZWVnX3BMcVN1bGtTNHVUSHNqRC1Wb0djWEp1MHlTaW1JZVJtMGpRNU9iQzM4c2IzZzRHUFlvWTlyTUgwTmttNExLUGtNZEdCS3IyQXNqMWwwdDRGajktSXhnRF9OZUpFNzJLTkc3UGJBR0ZFU2RCdzRzVnFDNzRLVVlpRDZQeGVMQkVrUGhvd9IBrwFBVV95cUxPeHNkUWx4eWdMREluckh4d0JZRnVJNmxNR1lDY3VLYTE2UEd1T1VaNTd6NUJHMW9qVU1kWlR3ZEJ1bkNhUHZDOE9fem9RZ294ZjRtSzhNeDlvVEh2QkZIOFBRS3dIWkpDbUtaOVZsUmctOEhWUUJOOEtFbUM2VDR1S2UzZGk2SS1sblJTanFxbWFzWnhSRmRkVUtlREg2ZDVLNUc4WHBEenJoRlBFSENN?oc=5",
       "published": "2026-09-16",
@@ -409,6 +382,17 @@
       "source": "Yahoo Finance",
       "topic": "big_money",
       "entities": []
+    },
+    {
+      "title": "Continental Resources, Mercuria envision equal partnership JV to boost Vaca Muerta oil production - Oil & Gas Journal",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZklST29qRmx1ekpyYUV3UFRtSHFKbWlZS2ZqbUljY1JpUkNzLURRS25MS0tTNV9rbDJmOVFPN0c4N1dmUWNOV0hUTU5qSVl5dmE0U2dhR2NDRTg4YW5yYVRWekZlLWxtbF9pXzB0RzFqdl8tMWdQYW52WFpNTjZwX2lDOGtyd1kxY2c0STZWc2NGbWxydndycjlFaDdSd1pzbzdkTnI3RjNneTF1ejI4R2lnTE9YUVB4eUJUYm1zYzM0M0dQSkp0QnBJNzJPUlJ6OExVNmE0ZUlTS052ZS1tMg?oc=5",
+      "published": "2026-08-20",
+      "source": "Oil & Gas Journal",
+      "topic": "vaca_muerta_oil",
+      "entities": [
+        "Hamm",
+        "Mercuria"
+      ]
     },
     {
       "title": "Continental to Buy 50 Pct of Mercuria Argentina Oil Firm - Rigzone",
