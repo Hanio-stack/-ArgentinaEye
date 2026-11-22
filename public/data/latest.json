@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-21T02:12:03.116780Z",
+  "generated_at": "2026-11-22T01:17:11.848223Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,19 +31,24 @@
   },
   "today": [
     {
-      "title": "BCRA reserves",
-      "detail": "Official BCRA international reserves.",
-      "signal": "positive"
+      "title": "Milei approval / 2027",
+      "detail": "Approval Tracker: Argentina's President Javier Milei - AS/COA",
+      "signal": "neutral"
     },
     {
-      "title": "Vaca Muerta oil",
-      "detail": "Argentina's Oil Production Soars as Vaca Muerta Breaks New Records - Crude Oil Prices Today | OilPrice.com",
+      "title": "Primary fiscal balance",
+      "detail": "Milei and Argentina’s Two-Speed Economy - Americas Quarterly",
       "signal": "positive"
     },
     {
       "title": "RIGI approved investment",
-      "detail": "Super RIGI: Argentina’s New Investment Incentive - Latinvex",
+      "detail": "Argentina Approves MARA’s Entry into the RIGI with US$6.394 Billion Investment - Panorama Minero",
       "signal": "positive"
+    },
+    {
+      "title": "Power demand / reform",
+      "detail": "YPF Luz, Power Generation Company in Argentina, Files for NYSE IPO - TradingView",
+      "signal": "neutral"
     },
     {
       "title": "Big Money",
@@ -69,10 +74,10 @@
         "url": "https://news.google.com/"
       },
       "latest_event": {
-        "title": "Argentina’s Javier Milei clashes with his government’s most popular leader - Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMjktcmFEUmRJS3NKdm5XZ2hjbko0UmtSN2p6bXBLYlIyaXhJVGNWQ244cl9jWFp4LVZSNHdCSWM0MThza3RQWUdLSS1RcGE5alBmdmtCNDdmdWI5OUNibnZzbUhxeDhtLU00Zm9UdERJMV9NeXdEbkwyTGNKLXpDajlCQWI?oc=5",
-        "published": "2026-11-14",
-        "source": "Financial Times",
+        "title": "Approval Tracker: Argentina's President Javier Milei - AS/COA",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHlOVVVsRGtXU3R4YnhOSnFFblBrZkg4MlNYVHpLTkRrZ0ZlWHdRRnFEZ1hpeGlBemN4VnREMDJMMXE4a1lRNmxGN3lpME5vNnBuYnc5SG1pRFB2SHJXMEJJVFFUSDQwbjl3QmRtWmZWOVFJQUlCby1tVG5FRnFEMjBJbEJEQzN5M3c?oc=5",
+        "published": "2026-07-16",
+        "source": "AS/COA",
         "topic": "politics",
         "entities": []
       }
@@ -170,10 +175,10 @@
         "url": "https://www.argentina.gob.ar/economia/politicafiscal"
       },
       "latest_event": {
-        "title": "How Milei Defused Argentina's Hyperinflation Bomb - Reason Magazine",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVmpwZ3R0SjItUEdEMXF2LW5ZdXRQR0ZzUEdpbkZ0aGFZMmRYTWV5LXlHekxVMEtwWG5EMzItQ0ZXeFdyTEZ3dnM5dmR5dzliSl93cm5JU2lRaXFmY1ZVWi1MSWRNSTAwYms5WndhWHNrclpQcnhHMEdVX1J0RFFwTHhXQU9aUQ?oc=5",
-        "published": "2026-11-08",
-        "source": "Reason Magazine",
+        "title": "Milei and Argentina’s Two-Speed Economy - Americas Quarterly",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUtubEpaYlFpSGVsVmEtSlZ6UmdMSWpwblVmVEtrSGtLc1JEOC1fQlNJdEhoVHZBR1B6YVBGS3NxSFRvRmFSb25fZmJJS052LXY0d3NKZVdheXB0TFNodzVsOVU5N2VhUGVRamFGaXEwS21zc1g4UWR0RkxBXzJ2TjdKM21GQ1hW?oc=5",
+        "published": "2026-07-13",
+        "source": "Americas Quarterly",
         "topic": "fiscal_balance",
         "entities": []
       }
@@ -222,10 +227,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "Super RIGI: Argentina’s New Investment Incentive - Latinvex",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pc19jNTVYZnZ6bE9VcnpyZDBOdTJweUtJQlkycHRCSzFzSVNQV01lbVcxWGY5SkYyd24wM3RaZDZKbjRzTjg4dW9SNmpxdThhdTdzWE9GM0thMWt0VTJDWVZfdEZUMEdTVk5tcWFscWRMZnZFc0VB?oc=5",
-        "published": "2026-07-01",
-        "source": "Latinvex",
+        "title": "Argentina Approves MARA’s Entry into the RIGI with US$6.394 Billion Investment - Panorama Minero",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY2FYeDZJR3Z2RnBEWDNYNXE0UUM0ODNJemxXam93bUtnX3lPdjI1djh2SE14TDExV2hEc0oyRXlxZmlvLUVIR3M0M2JvTjgyYnFBQlVJVi1QdnczYWpmS1NzeXNSSUxnWWFELUl5QllFSXhtSDlQTlNmcm9kSDJqcTM1cDR0RS0zMXBiR2ltdlJrdVlHV3hPYkZqU3RmaFVqZkxLdUluYWlSTERHQm9FbnBTMEpTQzNFWEE?oc=5",
+        "published": "2026-10-28",
+        "source": "Panorama Minero",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -247,16 +252,26 @@
         "url": "https://cammesaweb.cammesa.com/informe-sintesis-mensual/"
       },
       "latest_event": {
-        "title": "Argentina's energy storage growth engines - BNamericas",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNTRUT0ZNcnZ6cEQtd3M0S1NKb0Rubi0ybkhFSVRweVJLZ0xKX2dWTTNUYnowZ3B6VklydTM5RXRLdFhWcjZVLTdpbjZoN1J1ck5PWUYzcmNnZFB2SF8wa2hUWGhzbUQxb1VCQjNrcWpJaW9hNDI1MG1ndTVIcXgxUkRWbm9TQQ?oc=5",
-        "published": "2026-05-25",
-        "source": "BNamericas",
+        "title": "YPF Luz, Power Generation Company in Argentina, Files for NYSE IPO - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON25EcDhYOHM4ZkFzenpmSkVLXzF6aTRJQW1Xd2FvNWxBXzlPTFVVMDhoMkhUWmxRM0ZZR0M3SEhmd3JnRXBkc0lsLUNaLVdmaU9URzZoeFpiRVoyeVl0RzFVcUJpS0wtY01jM2hjOEU3MkRNZllMekh0SUVYSDdtODN6VXRuR0dTNlJURTlaU3BfdVZocUxuTXhWWmJ2UjhjMF96UjVQVkE4aV9JYU1xNURBMmlfMjhxS3dDbktLOFhNM1k4?oc=5",
+        "published": "2026-07-13",
+        "source": "TradingView",
         "topic": "electricity",
         "entities": []
       }
     }
   ],
   "news": [
+    {
+      "title": "3 Argentine Energy Stocks Investors Are Finding As Vaca Muerta Export Plans Gain Pace - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ3NpVTNRU0xjaGk2X1hJNnZxYW82UktmV1pfUk5iZktQZExCU0xTTDhsb2lCSlIyOHpHYzV6aXlDOUplQXdpZmpTcFJoVjMzcGNXTjR4NnZGelZzVTRDR3d5NHVBMllDaURyajRkVUkxSFZxSEozTzU3R2RuaTlNSUtlbDZTWDBwUmZXa0pMa2l2c3h6VXJz?oc=5",
+      "published": "2026-11-21",
+      "source": "Yahoo Finance",
+      "topic": "company_news",
+      "entities": [
+        "TGS"
+      ]
+    },
     {
       "title": "Peter Thiel expands investments in Vaca Muertas largest oil exporter - EL PAÍS English",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObUxIbi1CaWFFcTh2Z2wtb2c4aWdVMVhSeVRIX3pqVDZrOHJ2azBWcE9abVNNRlVOUG1zd3hhMkFLX1I1ZWZMZ2RDWjZyT2gxOE43MkQ1bHljREtFQWxjMDJ4SmtfdFlwM25TT3lpSV83ejZocEhoOUVEMHVXRVU1R0JlXzZJcVBwajlFdkZKX1JUQUlmNDZPNDJtLUpxanJzelZ2aXNqdFQyTFNzbzZWQUVPQ1cyLTIxR01vdkktVEdqLTdIeDJ3ZDRPYjHSAeABQVVfeXFMTXFpSExyWUFRS3Z1Nm5HbUZ6UkZoTG1qZy1HZ2tPTGViU1lTdjVFeFlpQ19hZWs2M3d3UWdWQjAwaWJuTnpqd1M5UC1zTGQyUWRkUkM4a2RNVFpodnZiWnN1Y0NyMkl6R3g4S1duZkx2bDVSVzZMUTl2WjBfS0VNZmlyc0lMMUlyR0VzQVhpWjBJV0ppenh0bmdIQjBHUGhreDU3OExyZXQxbHczNFRjZk56Z21kWVdxaGpuVldYZGJReVE0VTBmUThlUEhIT2hRTS1UcXFnMEJudk5wYmVXbUM?oc=5",
@@ -288,10 +303,10 @@
       ]
     },
     {
-      "title": "What Central Puerto (CEPU) Said on Its Q3 Earnings Call - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXEyeXA0QkljRGVXY1p1dFFISGlheGpTVXpHcDhIaURONnBVdDZKRGxyUTdWeFk0VUg3TXctUmpod29iWmU3ZlRiY2ZfeDJfRjJyV3VWY0hjTXFHdnYzeU9XUWY3U1poYUo4ekhDUlNjOXZLZFZSak5EWnB3aHRjRWFLQjJrRTR0VVNiMGpmUlRMMnhobmJWaWwxSGdrNDR0N3loWUl4aFRFZFJLTk4zd1p5cFRPZ1ZVZXc?oc=5",
-      "published": "2026-11-13",
-      "source": "MarketBeat",
+      "title": "What Central Puerto (CEPU) Said on Its Q3 Earnings Call - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTnpEOWJmdHBIbGhtUXI4VEtlRVV6Y2tqSnJXTWktbU9reldqQ0ZVNEVtb3lyVEVSQzBPTjZJUFdmZERoVlNwZ3VuaFRpU0NFNHpoTjQydkFKM3NKZWI1WUNEclpXaThXQWJjMVV4VmFyUjNDWVFabUQyc1gtdGo1NEc2OWdUYjNObkhhdA?oc=5",
+      "published": "2026-11-12",
+      "source": "Yahoo Finance",
       "topic": "company_news",
       "entities": [
         "CEPU"
@@ -312,26 +327,6 @@
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZ3EtVFJObkFMd0FIS0VtV0ZnWE45aDJ6UDA5VndpclFRSnl6UldzbkxnX1BDTF9pcjFFVlJWS2J1WVVxOW9CZFo0ZjcwM2RLLVM3Wk0tXzFiVklmOEc5LXpIMXpmTEx2ZWNTSzFBUldfQUg4eDUzVHFiMWlXREk5RXJGQW1FQ0hmMW5DaUNLQ1A0ZFBzUUtmYzQ1X29sdWRwa2c5MWJsMXJlREFCVzRxNm1oWjk0RS1kLXd1dXhUWXJ4anpFRy02Vmt3b2FpMGJ5aVNtZEYwQ3JSWnRRQ1VqY2JiQTZMeVdfNjFRMVU1Vi1MVW9rYUh3UW9n0gH_AUFVX3lxTE9RWEw5XzIwNzl0YlM1RVhLbEtQa094emxyeE9LREdlek9POVp4cUpQS05nbmt3cWFBT3FXOHVsUjhnaDcwRXVPOUtyQ1lQUGFXX1RhMzdLZE5YVGowSWYzSDktVEw5LXJqX1NGbGhvWF9ZdVVjQS1zbGhtWUo2Q2ZyTGRGMlZHbXN1MlhYYTFfUFg3TkpuWXhKMVBwNU81cUlGMWY2OG9XSER0RDNrR3hmcjlmUnpPZWF4UkhaSXB6MmNlaFBjMEM2UFFyMS1zbmdZMjJNc21TTi1nMm1KeU10QWhjRjFmblpNU0lWcmE1MVEzQXo4S2tNaTZOUE1kTQ?oc=5",
       "published": "2026-11-06",
       "source": "Shale24",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
-      ]
-    },
-    {
-      "title": "TGS Awards Key Contracts for Its NGL Project, Projects More Than 2 Million Tonnes a Year of LPG by 2030 - Shale24",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONnV2aWl4UzU2eHJHT1lkRFNnTHdmcEFUcGhfaDRYOEVDWTcwdlk0SGRpSExvbC1OaXVYSWN4UGhIWGpUQ3hDWDdiNU0yQ3Z4ZEg2M1JSdkxMREJScDg5c0dIUG01b2UxQXBiWGpXV2J2b3VfajBZVDlZSHRPdG01OFpjTlpSOUZ3Y3dCb19nQkZKU2FpM1RLWFBsOFRqUldNVGpEZzFTSVowbnh0MmJhUzR4UUJRUTF5ZW14QklTUGZYXzh4ZV9mYXhETXV4SEtFY2lxZGZiaGxlMlBkNXfSAeMBQVVfeXFMUHlyODhGRm5RcjZ3WXZ2VFhsLW5zRDFYdmdKVEJTWm1kQ0ZkZklkaUR0NzZBaWIyOVBEYmlvN1VXTDYtY2NKWUtxWTYwRHlNdWFCUVlLVmJobjg4LVg4Q0FSZ3p4Nm9GV0RZbllIVXhqdFhpTEc4akpaazdUaVJYR1pPcmgzalZORTJCcUxjN0JDTkZyNi1sb00zRXByVnBQLXE0RE9wNzdIaXlvSkdFNjZ2VE1zY0RwNldGWFRJUEJNaWpKcnd1MV9SYjcyV1NQVGFXeGgyUm40eWJtUjZOaWcxSVE?oc=5",
-      "published": "2026-11-06",
-      "source": "Shale24",
-      "topic": "company_news",
-      "entities": [
-        "TGS"
-      ]
-    },
-    {
-      "title": "CATL opens Argentina office, supplies 1,025 MWh of batteries - ESS News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkcxYzYtUTZLeXhmU2RPel9RWTdleWdGWGFYbnhiRzJ5R1BIVWtIR2dzZ3Q2eno0MTFvQkdDUGdGaUJtUzY3MlpZMlFaR3hzRHI1R0RYVTR5TTJxMl9BUmhhUWRHWGVKQUkzbG55S241U3FIUnZTN1pFaDhuYUZFWGxrYlVZT3lWWWhBNl9jRTI0M1BWRVdneUdERQ?oc=5",
-      "published": "2026-11-03",
-      "source": "ESS News",
       "topic": "company_news",
       "entities": [
         "CEPU"
@@ -365,6 +360,16 @@
       "topic": "company_news",
       "entities": [
         "VIST"
+      ]
+    },
+    {
+      "title": "Argentina's power reform: State of play, outlook for 2027 - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVJyLW1yYWM1VmZPRDZKQk9KTEYxYU8wMUNIYlItUUJEVVdjNGxfcnktclNaeV9XZTg4SUc3MVhUZ29UaVlVWUwyNjFqQkFFQXZyM3NNQVE3U0I2OUZIc2xnNVRPbnlqSGYtU2lveERLcmZweE1DREpZbm1OdG9VSnU0Mmt0dzBFaVNpYWVNRVhTVHN2S21hZWw4Yw?oc=5",
+      "published": "2026-10-28",
+      "source": "BNamericas",
+      "topic": "company_news",
+      "entities": [
+        "CEPU"
       ]
     },
     {
