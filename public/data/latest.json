@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-22T01:17:11.848223Z",
+  "generated_at": "2026-11-23T01:41:10.343740Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,23 +31,18 @@
   },
   "today": [
     {
-      "title": "Milei approval / 2027",
-      "detail": "Approval Tracker: Argentina's President Javier Milei - AS/COA",
-      "signal": "neutral"
-    },
-    {
-      "title": "Primary fiscal balance",
-      "detail": "Milei and Argentina’s Two-Speed Economy - Americas Quarterly",
+      "title": "Vaca Muerta oil",
+      "detail": "Official Vaca Muerta oil production rate.",
       "signal": "positive"
     },
     {
       "title": "RIGI approved investment",
-      "detail": "Argentina Approves MARA’s Entry into the RIGI with US$6.394 Billion Investment - Panorama Minero",
+      "detail": "Argentina LNG Secures RIGI Approval for US$50.75 Billion Investment Through 2050 - Data Portuaria",
       "signal": "positive"
     },
     {
       "title": "Power demand / reform",
-      "detail": "YPF Luz, Power Generation Company in Argentina, Files for NYSE IPO - TradingView",
+      "detail": "Argentina's power reform: State of play, outlook for 2027 - BNamericas",
       "signal": "neutral"
     },
     {
@@ -199,14 +194,6 @@
       "source": {
         "name": "Secretaría de Energía",
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
-      },
-      "latest_event": {
-        "title": "Argentina's Oil Production Soars as Vaca Muerta Breaks New Records - Crude Oil Prices Today | OilPrice.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0docWpQVUw2ajU2MTJ5eXhKVnJwcU94SGJUOWJHWGQycGxwZVVZOW5Rc1MzWUYycUh3Yk82UkpTdTM3SE80ZzZjUlo1RlUzTGxmWVZNZlBDMnFJU1pRdU5KQmp6Y2V1Wm41eXpoNXF6UWY1V3o1cFB1OGJMNUNtVkNiclYtOXc5UXR5d3VQZl8xSTNtV2RIWU0xRy1Yb2JFN1JEUTJ4NXFYMk1CRkNudmlfRdIBuAFBVV95cUxOV19oeGNJQUVTSEpna1ZfeGp0NGhrTG1ldW9uSlFfZmZwS1pzNVJ2SlFvNnV1dTRpVVlLNldiU1VicVpGSFJUalp3aVg0cFdRVzhzMl9DbTNneVhkX191RGRCbklod0pVMFdZcEpxMHpDNUZlRXk3aEY4US1GdmdQN3plRWlzYjVhNUU3MWJmVkw0M2gtc1NlV3FyRVJ4OFBUQV9ybkx0R0I2VmNONFZtNkRUbW9HQmN4?oc=5",
-        "published": "2026-07-26",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "topic": "vaca_muerta_oil",
-        "entities": []
       }
     },
     {
@@ -227,10 +214,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "Argentina Approves MARA’s Entry into the RIGI with US$6.394 Billion Investment - Panorama Minero",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY2FYeDZJR3Z2RnBEWDNYNXE0UUM0ODNJemxXam93bUtnX3lPdjI1djh2SE14TDExV2hEc0oyRXlxZmlvLUVIR3M0M2JvTjgyYnFBQlVJVi1QdnczYWpmS1NzeXNSSUxnWWFELUl5QllFSXhtSDlQTlNmcm9kSDJqcTM1cDR0RS0zMXBiR2ltdlJrdVlHV3hPYkZqU3RmaFVqZkxLdUluYWlSTERHQm9FbnBTMEpTQzNFWEE?oc=5",
-        "published": "2026-10-28",
-        "source": "Panorama Minero",
+        "title": "Argentina LNG Secures RIGI Approval for US$50.75 Billion Investment Through 2050 - Data Portuaria",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTcwdmI3TXQ0LUszVXJSMkdwS2t6VGRaWFpjSDRzQnkzMEZHRHJUUXNiejRBYkdsbGZiNE9Xb0hrSi1XVDI0VGZ6S0pBb0txWTlPSU0xNWpONEtvXy1DUXEwcVE4VUU2Q2dIcmJ4NUQ1ZGg0QkdJNV9FUkdLMTVmbkVFQU9JUV9pM2paMm1RdktfMnVha0sxTnpYNl9fTElKRjNqRjNIZlVVREpLTFoxR1NNdFNmdnBoQ1B6RVQtOUF4T1lkMnc?oc=5",
+        "published": "2026-11-22",
+        "source": "Data Portuaria",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -252,10 +239,10 @@
         "url": "https://cammesaweb.cammesa.com/informe-sintesis-mensual/"
       },
       "latest_event": {
-        "title": "YPF Luz, Power Generation Company in Argentina, Files for NYSE IPO - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON25EcDhYOHM4ZkFzenpmSkVLXzF6aTRJQW1Xd2FvNWxBXzlPTFVVMDhoMkhUWmxRM0ZZR0M3SEhmd3JnRXBkc0lsLUNaLVdmaU9URzZoeFpiRVoyeVl0RzFVcUJpS0wtY01jM2hjOEU3MkRNZllMekh0SUVYSDdtODN6VXRuR0dTNlJURTlaU3BfdVZocUxuTXhWWmJ2UjhjMF96UjVQVkE4aV9JYU1xNURBMmlfMjhxS3dDbktLOFhNM1k4?oc=5",
-        "published": "2026-07-13",
-        "source": "TradingView",
+        "title": "Argentina's power reform: State of play, outlook for 2027 - BNamericas",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVJyLW1yYWM1VmZPRDZKQk9KTEYxYU8wMUNIYlItUUJEVVdjNGxfcnktclNaeV9XZTg4SUc3MVhUZ29UaVlVWUwyNjFqQkFFQXZyM3NNQVE3U0I2OUZIc2xnNVRPbnlqSGYtU2lveERLcmZweE1DREpZbm1OdG9VSnU0Mmt0dzBFaVNpYWVNRVhTVHN2S21hZWw4Yw?oc=5",
+        "published": "2026-10-28",
+        "source": "BNamericas",
         "topic": "electricity",
         "entities": []
       }
@@ -280,26 +267,6 @@
       "topic": "company_news",
       "entities": [
         "VIST"
-      ]
-    },
-    {
-      "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
-      "published": "2026-11-19",
-      "source": "EnergyNow.com",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
-      ]
-    },
-    {
-      "title": "Argentine generator Pampa Energía sets up AI data center unit - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQU4wMS1FOXh3N2ZMdWpCenZnXzI0eW9YbWRKWkhPa0ZTdnhlclNYZXRHR3o3THdxQXdwQy1Ta2t6VnVoeUMyM2ZtN00zN3ZxVDFxbmNVOE0yaXNoaGNnZTU1OThGaG1ZOFBtQ3c2Zlp5YnhkS0ZBcVZVWHhaMmNteUt2dklTTldLbDY5eUtUcl9qWERGQkVrRm1xci0?oc=5",
-      "published": "2026-11-18",
-      "source": "BNamericas",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
       ]
     },
     {
@@ -389,17 +356,6 @@
       "entities": []
     },
     {
-      "title": "Continental Resources, Mercuria envision equal partnership JV to boost Vaca Muerta oil production - Oil & Gas Journal",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZklST29qRmx1ekpyYUV3UFRtSHFKbWlZS2ZqbUljY1JpUkNzLURRS25MS0tTNV9rbDJmOVFPN0c4N1dmUWNOV0hUTU5qSVl5dmE0U2dhR2NDRTg4YW5yYVRWekZlLWxtbF9pXzB0RzFqdl8tMWdQYW52WFpNTjZwX2lDOGtyd1kxY2c0STZWc2NGbWxydndycjlFaDdSd1pzbzdkTnI3RjNneTF1ejI4R2lnTE9YUVB4eUJUYm1zYzM0M0dQSkp0QnBJNzJPUlJ6OExVNmE0ZUlTS052ZS1tMg?oc=5",
-      "published": "2026-08-20",
-      "source": "Oil & Gas Journal",
-      "topic": "vaca_muerta_oil",
-      "entities": [
-        "Hamm",
-        "Mercuria"
-      ]
-    },
-    {
       "title": "Continental to Buy 50 Pct of Mercuria Argentina Oil Firm - Rigzone",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzVsSlhGNEJBZ2ZSanlxbHIwVDR6dEJqdEhJam1zMDBSdWRIQ2xQWGNqcV90VWszTFlSbF9udHVlUWxXWnFvZVdnSlpwYVFRVm1yVnRnTWFRSm1KaTliNk05WndVQVA2WWVuZk1TMTVpb3k0TnpMRDd2UGVqLXJYLXdmQlVmY0xuVEZjMkNjU2JBVnRsQk5EaktDNzRKbGcwR1QyZkQxSGlwUVJqM3k0blRCWEhVWmNlakE?oc=5",
       "published": "2026-08-20",
@@ -483,8 +439,8 @@
     },
     {
       "name": "News: vaca_muerta_oil",
-      "ok": true,
-      "note": "6 items"
+      "ok": false,
+      "note": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "News: rigi_investment",
@@ -508,8 +464,8 @@
     },
     {
       "name": "Stock news: PAM",
-      "ok": true,
-      "note": "3 items"
+      "ok": false,
+      "note": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "Stock news: CEPU",
