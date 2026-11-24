@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-23T01:41:10.343740Z",
+  "generated_at": "2026-11-24T05:19:34.114071Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,18 +31,23 @@
   },
   "today": [
     {
+      "title": "Primary fiscal balance",
+      "detail": "How Milei Defused Argentina's Hyperinflation Bomb - Reason Magazine",
+      "signal": "positive"
+    },
+    {
       "title": "Vaca Muerta oil",
-      "detail": "Official Vaca Muerta oil production rate.",
+      "detail": "PAE and CSN sign agreement to supply natural gas from Vaca Muerta to Rio de Janeiro - BNamericas",
       "signal": "positive"
     },
     {
       "title": "RIGI approved investment",
-      "detail": "Argentina LNG Secures RIGI Approval for US$50.75 Billion Investment Through 2050 - Data Portuaria",
+      "detail": "Argentina approves $51bn LNG project under RIGI investment scheme - Yahoo Finance",
       "signal": "positive"
     },
     {
       "title": "Power demand / reform",
-      "detail": "Argentina's power reform: State of play, outlook for 2027 - BNamericas",
+      "detail": "Argentina's energy storage growth engines - BNamericas",
       "signal": "neutral"
     },
     {
@@ -170,10 +175,10 @@
         "url": "https://www.argentina.gob.ar/economia/politicafiscal"
       },
       "latest_event": {
-        "title": "Milei and Argentina’s Two-Speed Economy - Americas Quarterly",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUtubEpaYlFpSGVsVmEtSlZ6UmdMSWpwblVmVEtrSGtLc1JEOC1fQlNJdEhoVHZBR1B6YVBGS3NxSFRvRmFSb25fZmJJS052LXY0d3NKZVdheXB0TFNodzVsOVU5N2VhUGVRamFGaXEwS21zc1g4UWR0RkxBXzJ2TjdKM21GQ1hW?oc=5",
-        "published": "2026-07-13",
-        "source": "Americas Quarterly",
+        "title": "How Milei Defused Argentina's Hyperinflation Bomb - Reason Magazine",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVmpwZ3R0SjItUEdEMXF2LW5ZdXRQR0ZzUEdpbkZ0aGFZMmRYTWV5LXlHekxVMEtwWG5EMzItQ0ZXeFdyTEZ3dnM5dmR5dzliSl93cm5JU2lRaXFmY1ZVWi1MSWRNSTAwYms5WndhWHNrclpQcnhHMEdVX1J0RFFwTHhXQU9aUQ?oc=5",
+        "published": "2026-11-08",
+        "source": "Reason Magazine",
         "topic": "fiscal_balance",
         "entities": []
       }
@@ -194,6 +199,14 @@
       "source": {
         "name": "Secretaría de Energía",
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
+      },
+      "latest_event": {
+        "title": "PAE and CSN sign agreement to supply natural gas from Vaca Muerta to Rio de Janeiro - BNamericas",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSzZ6VlMtd1NseTBscDBRcFNDdVIweG1CazJKOE5raTJOQTV6OU9tLTFxTC1KZ1RLakxNWXRJbDdld1ZJRkVoUjliaUtQUmF0ZGQ3dkRFdFVKRnlUNUpNRW9XNThFSUJCSWt6UnZxNmVKcVN3eDRLS0lycHBZaXN3emFvWTFtX011T002bUZrNzl4djFCU2xvZUo3Yl9scVY2aHlKY05ENWVnNWxWQi1SUDVRVVNwcFFGbEE?oc=5",
+        "published": "2026-11-23",
+        "source": "BNamericas",
+        "topic": "vaca_muerta_oil",
+        "entities": []
       }
     },
     {
@@ -214,10 +227,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "Argentina LNG Secures RIGI Approval for US$50.75 Billion Investment Through 2050 - Data Portuaria",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTcwdmI3TXQ0LUszVXJSMkdwS2t6VGRaWFpjSDRzQnkzMEZHRHJUUXNiejRBYkdsbGZiNE9Xb0hrSi1XVDI0VGZ6S0pBb0txWTlPSU0xNWpONEtvXy1DUXEwcVE4VUU2Q2dIcmJ4NUQ1ZGg0QkdJNV9FUkdLMTVmbkVFQU9JUV9pM2paMm1RdktfMnVha0sxTnpYNl9fTElKRjNqRjNIZlVVREpLTFoxR1NNdFNmdnBoQ1B6RVQtOUF4T1lkMnc?oc=5",
-        "published": "2026-11-22",
-        "source": "Data Portuaria",
+        "title": "Argentina approves $51bn LNG project under RIGI investment scheme - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMG9malYzTVhkSG1nbERLUVBRU3JTd0QxcGlNcWtzcFBvTkxaQnIwXzk4a05VeURSRXo4TVhoU2l0Tk9abzRESjVEbzJKLS1JVl9wN0g0NXlIRy1ab3JlZG1jak9LODNyVjU3ckZVOHdaNEw3Z2JLRUEyYnkyLUtnSFl0TEdCM1Zq?oc=5",
+        "published": "2026-11-23",
+        "source": "Yahoo Finance",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -239,9 +252,9 @@
         "url": "https://cammesaweb.cammesa.com/informe-sintesis-mensual/"
       },
       "latest_event": {
-        "title": "Argentina's power reform: State of play, outlook for 2027 - BNamericas",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVJyLW1yYWM1VmZPRDZKQk9KTEYxYU8wMUNIYlItUUJEVVdjNGxfcnktclNaeV9XZTg4SUc3MVhUZ29UaVlVWUwyNjFqQkFFQXZyM3NNQVE3U0I2OUZIc2xnNVRPbnlqSGYtU2lveERLcmZweE1DREpZbm1OdG9VSnU0Mmt0dzBFaVNpYWVNRVhTVHN2S21hZWw4Yw?oc=5",
-        "published": "2026-10-28",
+        "title": "Argentina's energy storage growth engines - BNamericas",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNTRUT0ZNcnZ6cEQtd3M0S1NKb0Rubi0ybkhFSVRweVJLZ0xKX2dWTTNUYnowZ3B6VklydTM5RXRLdFhWcjZVLTdpbjZoN1J1ck5PWUYzcmNnZFB2SF8wa2hUWGhzbUQxb1VCQjNrcWpJaW9hNDI1MG1ndTVIcXgxUkRWbm9TQQ?oc=5",
+        "published": "2026-05-25",
         "source": "BNamericas",
         "topic": "electricity",
         "entities": []
@@ -260,6 +273,16 @@
       ]
     },
     {
+      "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
+      "published": "2026-11-20",
+      "source": "EnergyNow.com",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
+      ]
+    },
+    {
       "title": "Peter Thiel expands investments in Vaca Muertas largest oil exporter - EL PAÍS English",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObUxIbi1CaWFFcTh2Z2wtb2c4aWdVMVhSeVRIX3pqVDZrOHJ2azBWcE9abVNNRlVOUG1zd3hhMkFLX1I1ZWZMZ2RDWjZyT2gxOE43MkQ1bHljREtFQWxjMDJ4SmtfdFlwM25TT3lpSV83ejZocEhoOUVEMHVXRVU1R0JlXzZJcVBwajlFdkZKX1JUQUlmNDZPNDJtLUpxanJzelZ2aXNqdFQyTFNzbzZWQUVPQ1cyLTIxR01vdkktVEdqLTdIeDJ3ZDRPYjHSAeABQVVfeXFMTXFpSExyWUFRS3Z1Nm5HbUZ6UkZoTG1qZy1HZ2tPTGViU1lTdjVFeFlpQ19hZWs2M3d3UWdWQjAwaWJuTnpqd1M5UC1zTGQyUWRkUkM4a2RNVFpodnZiWnN1Y0NyMkl6R3g4S1duZkx2bDVSVzZMUTl2WjBfS0VNZmlyc0lMMUlyR0VzQVhpWjBJV0ppenh0bmdIQjBHUGhreDU3OExyZXQxbHczNFRjZk56Z21kWVdxaGpuVldYZGJReVE0VTBmUThlUEhIT2hRTS1UcXFnMEJudk5wYmVXbUM?oc=5",
       "published": "2026-11-19",
@@ -267,6 +290,16 @@
       "topic": "company_news",
       "entities": [
         "VIST"
+      ]
+    },
+    {
+      "title": "Argentine generator Pampa Energía sets up AI data center unit - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQU4wMS1FOXh3N2ZMdWpCenZnXzI0eW9YbWRKWkhPa0ZTdnhlclNYZXRHR3o3THdxQXdwQy1Ta2t6VnVoeUMyM2ZtN00zN3ZxVDFxbmNVOE0yaXNoaGNnZTU1OThGaG1ZOFBtQ3c2Zlp5YnhkS0ZBcVZVWHhaMmNteUt2dklTTldLbDY5eUtUcl9qWERGQkVrRm1xci0?oc=5",
+      "published": "2026-11-18",
+      "source": "BNamericas",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
       ]
     },
     {
@@ -356,6 +389,17 @@
       "entities": []
     },
     {
+      "title": "Continental Resources, Mercuria envision equal partnership JV to boost Vaca Muerta oil production - Oil & Gas Journal",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZklST29qRmx1ekpyYUV3UFRtSHFKbWlZS2ZqbUljY1JpUkNzLURRS25MS0tTNV9rbDJmOVFPN0c4N1dmUWNOV0hUTU5qSVl5dmE0U2dhR2NDRTg4YW5yYVRWekZlLWxtbF9pXzB0RzFqdl8tMWdQYW52WFpNTjZwX2lDOGtyd1kxY2c0STZWc2NGbWxydndycjlFaDdSd1pzbzdkTnI3RjNneTF1ejI4R2lnTE9YUVB4eUJUYm1zYzM0M0dQSkp0QnBJNzJPUlJ6OExVNmE0ZUlTS052ZS1tMg?oc=5",
+      "published": "2026-08-20",
+      "source": "Oil & Gas Journal",
+      "topic": "vaca_muerta_oil",
+      "entities": [
+        "Hamm",
+        "Mercuria"
+      ]
+    },
+    {
       "title": "Continental to Buy 50 Pct of Mercuria Argentina Oil Firm - Rigzone",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzVsSlhGNEJBZ2ZSanlxbHIwVDR6dEJqdEhJam1zMDBSdWRIQ2xQWGNqcV90VWszTFlSbF9udHVlUWxXWnFvZVdnSlpwYVFRVm1yVnRnTWFRSm1KaTliNk05WndVQVA2WWVuZk1TMTVpb3k0TnpMRDd2UGVqLXJYLXdmQlVmY0xuVEZjMkNjU2JBVnRsQk5EaktDNzRKbGcwR1QyZkQxSGlwUVJqM3k0blRCWEhVWmNlakE?oc=5",
       "published": "2026-08-20",
@@ -439,8 +483,8 @@
     },
     {
       "name": "News: vaca_muerta_oil",
-      "ok": false,
-      "note": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "note": "6 items"
     },
     {
       "name": "News: rigi_investment",
@@ -464,8 +508,8 @@
     },
     {
       "name": "Stock news: PAM",
-      "ok": false,
-      "note": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "note": "3 items"
     },
     {
       "name": "Stock news: CEPU",
