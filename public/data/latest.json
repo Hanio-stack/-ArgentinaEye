@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-24T05:19:34.114071Z",
+  "generated_at": "2026-11-25T04:10:38.360696Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -31,24 +31,24 @@
   },
   "today": [
     {
+      "title": "BCRA reserves",
+      "detail": "Official BCRA international reserves.",
+      "signal": "positive"
+    },
+    {
       "title": "Primary fiscal balance",
-      "detail": "How Milei Defused Argentina's Hyperinflation Bomb - Reason Magazine",
+      "detail": "Milei and Argentina’s Two-Speed Economy - Americas Quarterly",
       "signal": "positive"
     },
     {
       "title": "Vaca Muerta oil",
-      "detail": "PAE and CSN sign agreement to supply natural gas from Vaca Muerta to Rio de Janeiro - BNamericas",
+      "detail": "Argentina looks to export its shale expertise beyond Vaca Muerta - Oil & Gas 360",
       "signal": "positive"
     },
     {
       "title": "RIGI approved investment",
-      "detail": "Argentina approves $51bn LNG project under RIGI investment scheme - Yahoo Finance",
+      "detail": "Argentina approves RIGI investment scheme for YPF’s LNG project - LNG Prime",
       "signal": "positive"
-    },
-    {
-      "title": "Power demand / reform",
-      "detail": "Argentina's energy storage growth engines - BNamericas",
-      "signal": "neutral"
     },
     {
       "title": "Big Money",
@@ -112,11 +112,11 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 49.55,
+      "value": 49.44,
       "unit": "USD bn",
-      "period": "2026-11-18",
-      "previous": 48.29,
-      "change": 2.62,
+      "period": "2026-11-19",
+      "previous": 48.66,
+      "change": 1.61,
       "change_unit": "% ~30d",
       "thesis_signal": "positive",
       "status": "fresh",
@@ -126,7 +126,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        48.66,
         48.8,
         49.12,
         49.13,
@@ -155,7 +154,8 @@
         49.6,
         49.47,
         49.74,
-        49.55
+        49.55,
+        49.44
       ]
     },
     {
@@ -175,10 +175,10 @@
         "url": "https://www.argentina.gob.ar/economia/politicafiscal"
       },
       "latest_event": {
-        "title": "How Milei Defused Argentina's Hyperinflation Bomb - Reason Magazine",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVmpwZ3R0SjItUEdEMXF2LW5ZdXRQR0ZzUEdpbkZ0aGFZMmRYTWV5LXlHekxVMEtwWG5EMzItQ0ZXeFdyTEZ3dnM5dmR5dzliSl93cm5JU2lRaXFmY1ZVWi1MSWRNSTAwYms5WndhWHNrclpQcnhHMEdVX1J0RFFwTHhXQU9aUQ?oc=5",
-        "published": "2026-11-08",
-        "source": "Reason Magazine",
+        "title": "Milei and Argentina’s Two-Speed Economy - Americas Quarterly",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUtubEpaYlFpSGVsVmEtSlZ6UmdMSWpwblVmVEtrSGtLc1JEOC1fQlNJdEhoVHZBR1B6YVBGS3NxSFRvRmFSb25fZmJJS052LXY0d3NKZVdheXB0TFNodzVsOVU5N2VhUGVRamFGaXEwS21zc1g4UWR0RkxBXzJ2TjdKM21GQ1hW?oc=5",
+        "published": "2026-07-13",
+        "source": "Americas Quarterly",
         "topic": "fiscal_balance",
         "entities": []
       }
@@ -201,10 +201,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "PAE and CSN sign agreement to supply natural gas from Vaca Muerta to Rio de Janeiro - BNamericas",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSzZ6VlMtd1NseTBscDBRcFNDdVIweG1CazJKOE5raTJOQTV6OU9tLTFxTC1KZ1RLakxNWXRJbDdld1ZJRkVoUjliaUtQUmF0ZGQ3dkRFdFVKRnlUNUpNRW9XNThFSUJCSWt6UnZxNmVKcVN3eDRLS0lycHBZaXN3emFvWTFtX011T002bUZrNzl4djFCU2xvZUo3Yl9scVY2aHlKY05ENWVnNWxWQi1SUDVRVVNwcFFGbEE?oc=5",
-        "published": "2026-11-23",
-        "source": "BNamericas",
+        "title": "Argentina looks to export its shale expertise beyond Vaca Muerta - Oil & Gas 360",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWmdkTFVUZUpmOHRMLXgzMHExUFI4eXVMRlV6M1VYb21yZkQ5MGxBQ1NuU1BmNlBwaU5HNlBOTkduR2JZQlVLS21zbXRvdXp2X2psTHBKTXRvX1lXQ2kyT3ZsQ0w0YzR3dlkyZzgxS29IOWZkUC15WFM3cWw2cTJ2cmlKY0NGWXJWUEhtS1pzX1lfcDZOb2M3dW9n?oc=5",
+        "published": "2026-11-25",
+        "source": "Oil & Gas 360",
         "topic": "vaca_muerta_oil",
         "entities": []
       }
@@ -227,10 +227,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "Argentina approves $51bn LNG project under RIGI investment scheme - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMG9malYzTVhkSG1nbERLUVBRU3JTd0QxcGlNcWtzcFBvTkxaQnIwXzk4a05VeURSRXo4TVhoU2l0Tk9abzRESjVEbzJKLS1JVl9wN0g0NXlIRy1ab3JlZG1jak9LODNyVjU3ckZVOHdaNEw3Z2JLRUEyYnkyLUtnSFl0TEdCM1Zq?oc=5",
+        "title": "Argentina approves RIGI investment scheme for YPF’s LNG project - LNG Prime",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUdMRGVJOWIyQ1ZQMVVJeXdyRmZNblFGMVRJVXJaeU90bnVJS1BKRDduM0FnR1owbjdRUnRKS3BVckM1MDRySmFONzJKU25tdVZmakNWQnluQkRwZDdsRUdSUkl3Q1hoZ2UyZmFhRE5WT3lyWWxPS3BNT0RXc1lFWlhYYVFZZm9UZU01eGlpUXhWeWVZdzNJckoxdVNqa0p3U1FyaTY5YnE?oc=5",
         "published": "2026-11-23",
-        "source": "Yahoo Finance",
+        "source": "LNG Prime",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -263,6 +263,16 @@
   ],
   "news": [
     {
+      "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
+      "published": "2026-11-24",
+      "source": "EnergyNow.com",
+      "topic": "company_news",
+      "entities": [
+        "PAM"
+      ]
+    },
+    {
       "title": "3 Argentine Energy Stocks Investors Are Finding As Vaca Muerta Export Plans Gain Pace - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ3NpVTNRU0xjaGk2X1hJNnZxYW82UktmV1pfUk5iZktQZExCU0xTTDhsb2lCSlIyOHpHYzV6aXlDOUplQXdpZmpTcFJoVjMzcGNXTjR4NnZGelZzVTRDR3d5NHVBMllDaURyajRkVUkxSFZxSEozTzU3R2RuaTlNSUtlbDZTWDBwUmZXa0pMa2l2c3h6VXJz?oc=5",
       "published": "2026-11-21",
@@ -270,16 +280,6 @@
       "topic": "company_news",
       "entities": [
         "TGS"
-      ]
-    },
-    {
-      "title": "Tech Companies Look to Argentina’s Windswept Patagonia to Build Massive Data Centers - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR01EeGRueUx0VWdidmo2NFNNRGs5WkQ1LVdxcGo2VGxwdE1CTFBnU3gzR3lhMExfaEJZMUFNN1NFeU1Tc2pwSE9rMndCRkh4em92dDl2aUtiMlZtNmJvbTFjUUdGZzZXM1N2M051aHZHV0xHcHdEYy1hRHduVi13WGVuWWsxMm9OZEptR2dmbTNZMVVBcUlOd2FidjRnUHNscExnYXA0RENwSmxzTElqTHJQRjI?oc=5",
-      "published": "2026-11-20",
-      "source": "EnergyNow.com",
-      "topic": "company_news",
-      "entities": [
-        "PAM"
       ]
     },
     {
@@ -300,6 +300,16 @@
       "topic": "company_news",
       "entities": [
         "PAM"
+      ]
+    },
+    {
+      "title": "What Central Puerto (CEPU) Said on Its Q3 Earnings Call - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGVTTzlDdHVGUGhVRWpDMmRsZnJ5Mzk4bXRrN0FEYjNFNXl3ejhjd1ZsbHZTUTZDb2ExdUp4dUFiZU9YRzZSbUhwT1p3R2ROMXZHSGhfVmh0aGxJU0hhV0ZWTW1sUHdTQ1NEOGMyaUpBMUlGczNkZllReEhZNWN1M3VtMXJBX0lyelpEU0JadGZoQzg3SUZuOUs0ZTd4YmkwbkwwdnRKZENoRnRqbFA5ZEprdVI?oc=5",
+      "published": "2026-11-12",
+      "source": "TradingView",
+      "topic": "company_news",
+      "entities": [
+        "CEPU"
       ]
     },
     {
@@ -360,16 +370,6 @@
       "topic": "company_news",
       "entities": [
         "VIST"
-      ]
-    },
-    {
-      "title": "Argentina's power reform: State of play, outlook for 2027 - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVJyLW1yYWM1VmZPRDZKQk9KTEYxYU8wMUNIYlItUUJEVVdjNGxfcnktclNaeV9XZTg4SUc3MVhUZ29UaVlVWUwyNjFqQkFFQXZyM3NNQVE3U0I2OUZIc2xnNVRPbnlqSGYtU2lveERLcmZweE1DREpZbm1OdG9VSnU0Mmt0dzBFaVNpYWVNRVhTVHN2S21hZWw4Yw?oc=5",
-      "published": "2026-10-28",
-      "source": "BNamericas",
-      "topic": "company_news",
-      "entities": [
-        "CEPU"
       ]
     },
     {
