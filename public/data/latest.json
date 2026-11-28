@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mode": "auto",
-  "generated_at": "2026-11-27T03:38:24.103117Z",
+  "generated_at": "2026-11-28T03:18:25.856868Z",
   "scores": {
     "argentina": {
       "label": "Argentina",
@@ -32,7 +32,7 @@
   "today": [
     {
       "title": "Milei approval / 2027",
-      "detail": "Popularity of Argentine’s Milei slips as unemployment becomes top concern: Poll - Anadolu Ajansı",
+      "detail": "Approval Tracker: Argentina's President Javier Milei - AS/COA",
       "signal": "neutral"
     },
     {
@@ -42,18 +42,18 @@
     },
     {
       "title": "Primary fiscal balance",
-      "detail": "Argentina bans its central bank from printing money for the government - AP News",
+      "detail": "Milei’s economic policy dealt fresh blow as Argentina enters recession - Argentina Reports",
+      "signal": "positive"
+    },
+    {
+      "title": "Vaca Muerta oil",
+      "detail": "Argentina approves $50.75 billion LNG export project to tap Vaca Muerta reserves - DatamarNews",
       "signal": "positive"
     },
     {
       "title": "RIGI approved investment",
-      "detail": "Argentina LNG gets formal RIGI green light for US$50.8bn investment - BNamericas",
+      "detail": "Argentina approves $51bn LNG project under RIGI investment scheme - Offshore Technology",
       "signal": "positive"
-    },
-    {
-      "title": "Big Money",
-      "detail": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows - Crude Oil Prices Today | OilPrice.com",
-      "signal": "neutral"
     }
   ],
   "metrics": [
@@ -74,10 +74,10 @@
         "url": "https://news.google.com/"
       },
       "latest_event": {
-        "title": "Popularity of Argentine’s Milei slips as unemployment becomes top concern: Poll - Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQVhhZzdTTHNiNF91SDUwRFBsU09SSVJ1VDEyUkhTR2Q4cENteFBQYVhkZ1hYWkp2ZEd3b3owd2ZzcUQ0dGJidXJ3Q2p2QUpIQ0hZS3JQNGVuMDN2ZkwzY0E4SzUwTGE3OEdvRzREYnIybWVBX0Q4TVFxdXMtOUV5Q203OTAteFJzVXdqNDBrYWZXMkJmNV9kS0xTS0hPQ2g0bk52LWRYcGVXZm9aVU5MMncxVkljQ2ow?oc=5",
-        "published": "2026-11-13",
-        "source": "Anadolu Ajansı",
+        "title": "Approval Tracker: Argentina's President Javier Milei - AS/COA",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHlOVVVsRGtXU3R4YnhOSnFFblBrZkg4MlNYVHpLTkRrZ0ZlWHdRRnFEZ1hpeGlBemN4VnREMDJMMXE4a1lRNmxGN3lpME5vNnBuYnc5SG1pRFB2SHJXMEJJVFFUSDQwbjl3QmRtWmZWOVFJQUlCby1tVG5FRnFEMjBJbEJEQzN5M3c?oc=5",
+        "published": "2026-11-25",
+        "source": "AS/COA",
         "topic": "politics",
         "entities": []
       }
@@ -112,11 +112,11 @@
       "id": "international_reserves",
       "theme": "MACRO · 15%",
       "label": "BCRA reserves",
-      "value": 48.82,
+      "value": 48.75,
       "unit": "USD bn",
-      "period": "2026-11-24",
-      "previous": 49.12,
-      "change": -0.62,
+      "period": "2026-11-25",
+      "previous": 49.13,
+      "change": -0.78,
       "change_unit": "% ~30d",
       "thesis_signal": "neutral",
       "status": "fresh",
@@ -126,7 +126,6 @@
         "url": "https://api.bcra.gob.ar/estadisticas/v4.0/Monetarias/1"
       },
       "series": [
-        49.13,
         49.32,
         49.71,
         49.84,
@@ -155,7 +154,8 @@
         49.55,
         49.44,
         49.37,
-        48.82
+        48.82,
+        48.75
       ]
     },
     {
@@ -175,10 +175,10 @@
         "url": "https://www.argentina.gob.ar/economia/politicafiscal"
       },
       "latest_event": {
-        "title": "Argentina bans its central bank from printing money for the government - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTkVQY1JFc2tERmJpZi1UX1ByaEtYMGp2MGlJeDJocHpPLVd2SkhhakxJLXEtek0tSFk3ZHp0N2tBLW9JYng1TW1vN1ZCazkwYVFxMjVuLTVlbm9hQm1PbEMybFZLVC1yNmI1X3V5dTcxbGdWX0tRWmdicjE1elFZdjB3eDBaLXlGdUN2YTRDcXA2a1ROaFB5X2FJeld3SmFObnZibzcwYVZPS3dPeEdiLTVjckZjR1NOVVNLMV9Gbzk?oc=5",
+        "title": "Milei’s economic policy dealt fresh blow as Argentina enters recession - Argentina Reports",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnpVbGhGV2hCeVhHQm11TDR0bHZncnUzZ256TG9CMnZQOGhscWVxVTlDYTViRHhCS3VGQTUzZUNTbUJPTGFuTjUtSEg4M0JVU2FQVDAyamVQSjQ5M01yc0ZLRUFOaU52X012NTN6TnZRRDhFQlhtTEdhZHlHZzV2SUw4WlZQS3FJRlRYcGRPQ2VieXcyd1IxM0JieUpaa1Q3ZDlLTmpVNA?oc=5",
         "published": "2026-11-27",
-        "source": "AP News",
+        "source": "Argentina Reports",
         "topic": "fiscal_balance",
         "entities": []
       }
@@ -201,10 +201,10 @@
         "url": "https://www.argentina.gob.ar/noticias/la-produccion-de-petroleo-registro-otro-mes-de-crecimiento-en-julio"
       },
       "latest_event": {
-        "title": "Argentina looks to export its shale expertise beyond Vaca Muerta - Oil & Gas 360",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWmdkTFVUZUpmOHRMLXgzMHExUFI4eXVMRlV6M1VYb21yZkQ5MGxBQ1NuU1BmNlBwaU5HNlBOTkduR2JZQlVLS21zbXRvdXp2X2psTHBKTXRvX1lXQ2kyT3ZsQ0w0YzR3dlkyZzgxS29IOWZkUC15WFM3cWw2cTJ2cmlKY0NGWXJWUEhtS1pzX1lfcDZOb2M3dW9n?oc=5",
-        "published": "2026-11-25",
-        "source": "Oil & Gas 360",
+        "title": "Argentina approves $50.75 billion LNG export project to tap Vaca Muerta reserves - DatamarNews",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSnZzb3RjZGxFaEZyR0p4TVQ0MGRtM29sZm96MTZuRmZLM1JnSlc0Y2dRUGtMR1ZEZC04dFc2VlI0S1B0OFN3czkzMERrN1QtRDNCc0FaQi1lSWZXOXN3ZnFUbzAtY2RzMl9fV0hOWU40WTZLTjdQNFpfaVRPUzl4czQ3cC1xLTlpcVFpckdUV0lEd09uS3B3ZmFxMUtmMF9hRG1QWEk5MWF2VW9PaGRBc3V2QQ?oc=5",
+        "published": "2026-11-27",
+        "source": "DatamarNews",
         "topic": "vaca_muerta_oil",
         "entities": []
       }
@@ -227,10 +227,10 @@
       },
       "project_count": 16,
       "latest_event": {
-        "title": "Argentina LNG gets formal RIGI green light for US$50.8bn investment - BNamericas",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT1ltcEV6eW1zVDNPT2xWVnZDaVI4ZDNvemprSGV2cmR1MEZEYzRlOHQxd0xja0NzaVpsUUV1VHBxcFZnOTZrTU16dUx0NHd3TFpRc2lDWkNSUzRiOWNoWHBNRTJPTmhfYzdDRlRRcG5ZNlNpM0R4Uk05Wkl1eVQ4WGNtLVBybjJWaTZlM0ZvU1d1dXR2bVN1SzVxeGxlWlczY2c?oc=5",
-        "published": "2026-11-26",
-        "source": "BNamericas",
+        "title": "Argentina approves $51bn LNG project under RIGI investment scheme - Offshore Technology",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXVVX0xHOWdKSW9KMHNsNWN3S2otaXBaTXdJb1d6Z1lUZjFHQVFOVk43VTNOYUtHbjI4WkVzdE9LbHpHMnJwaU81SDNBWTFCenl4b2FnWWNxTld0SGpKd0FsWmtnejRYMGlfcm1BZWNJVURkT3hWal9nS1VmRy1FWFZId1V4M1dTNUE?oc=5",
+        "published": "2026-11-23",
+        "source": "Offshore Technology",
         "topic": "rigi_investment",
         "entities": []
       }
@@ -252,10 +252,10 @@
         "url": "https://cammesaweb.cammesa.com/informe-sintesis-mensual/"
       },
       "latest_event": {
-        "title": "Argentina's energy storage growth engines - BNamericas",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNTRUT0ZNcnZ6cEQtd3M0S1NKb0Rubi0ybkhFSVRweVJLZ0xKX2dWTTNUYnowZ3B6VklydTM5RXRLdFhWcjZVLTdpbjZoN1J1ck5PWUYzcmNnZFB2SF8wa2hUWGhzbUQxb1VCQjNrcWpJaW9hNDI1MG1ndTVIcXgxUkRWbm9TQQ?oc=5",
-        "published": "2026-05-25",
-        "source": "BNamericas",
+        "title": "YPF Luz, Power Generation Company in Argentina, Files for NYSE IPO - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON25EcDhYOHM4ZkFzenpmSkVLXzF6aTRJQW1Xd2FvNWxBXzlPTFVVMDhoMkhUWmxRM0ZZR0M3SEhmd3JnRXBkc0lsLUNaLVdmaU9URzZoeFpiRVoyeVl0RzFVcUJpS0wtY01jM2hjOEU3MkRNZllMekh0SUVYSDdtODN6VXRuR0dTNlJURTlaU3BfdVZocUxuTXhWWmJ2UjhjMF96UjVQVkE4aV9JYU1xNURBMmlfMjhxS3dDbktLOFhNM1k4?oc=5",
+        "published": "2026-07-13",
+        "source": "TradingView",
         "topic": "electricity",
         "entities": []
       }
@@ -310,6 +310,16 @@
       "topic": "company_news",
       "entities": [
         "CEPU"
+      ]
+    },
+    {
+      "title": "Can Chevron's $13.8B Vaca Muerta Bet Fuel Long-Term Growth? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWI2V3F0TFViSW9UcDV2ZzFQamVJLXpJQ0VLNml2WlJGajZRVzZjQmd0U1JNWTFBQmVSeHQ5MGtnZWwxNmlSOGxzaHc5ZGJOUTFmLWJaVGhCZjNWTG9OQ0RPR1RjcFVtT0hTRjU5anVQQUdTYVA5QTFROXhjN1dyTzc4aGNqNHVmR0xF?oc=5",
+      "published": "2026-11-10",
+      "source": "Yahoo Finance",
+      "topic": "vaca_muerta_oil",
+      "entities": [
+        "Chevron"
       ]
     },
     {
@@ -399,17 +409,6 @@
       "entities": []
     },
     {
-      "title": "Continental Resources, Mercuria envision equal partnership JV to boost Vaca Muerta oil production - Oil & Gas Journal",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZklST29qRmx1ekpyYUV3UFRtSHFKbWlZS2ZqbUljY1JpUkNzLURRS25MS0tTNV9rbDJmOVFPN0c4N1dmUWNOV0hUTU5qSVl5dmE0U2dhR2NDRTg4YW5yYVRWekZlLWxtbF9pXzB0RzFqdl8tMWdQYW52WFpNTjZwX2lDOGtyd1kxY2c0STZWc2NGbWxydndycjlFaDdSd1pzbzdkTnI3RjNneTF1ejI4R2lnTE9YUVB4eUJUYm1zYzM0M0dQSkp0QnBJNzJPUlJ6OExVNmE0ZUlTS052ZS1tMg?oc=5",
-      "published": "2026-08-20",
-      "source": "Oil & Gas Journal",
-      "topic": "vaca_muerta_oil",
-      "entities": [
-        "Hamm",
-        "Mercuria"
-      ]
-    },
-    {
       "title": "Continental to Buy 50 Pct of Mercuria Argentina Oil Firm - Rigzone",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzVsSlhGNEJBZ2ZSanlxbHIwVDR6dEJqdEhJam1zMDBSdWRIQ2xQWGNqcV90VWszTFlSbF9udHVlUWxXWnFvZVdnSlpwYVFRVm1yVnRnTWFRSm1KaTliNk05WndVQVA2WWVuZk1TMTVpb3k0TnpMRDd2UGVqLXJYLXdmQlVmY0xuVEZjMkNjU2JBVnRsQk5EaktDNzRKbGcwR1QyZkQxSGlwUVJqM3k0blRCWEhVWmNlakE?oc=5",
       "published": "2026-08-20",
@@ -468,8 +467,8 @@
     },
     {
       "name": "Vaca Muerta oil",
-      "ok": true,
-      "note": ""
+      "ok": false,
+      "note": "No parsable official Vaca Muerta article: Vaca Muerta oil rate not found"
     },
     {
       "name": "RIGI",
